@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>9</fr:month>
+      <fr:day>22</fr:day>
+    </fr:date>
+    <fr:uri>https://juan-mad.github.io/AF-0007/</fr:uri>
+    <fr:display-uri>AF-0007</fr:display-uri>
+    <fr:route>/AF-0007/</fr:route>
+    <fr:title text="Espacio dual topológico">Espacio dual topológico</fr:title>
+    <fr:taxon>Definición</fr:taxon>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Se denomina por espacio <html:em>dual topológico</html:em> de E al espacio <fr:tex display="inline"><![CDATA[\mathscr  L(E,\mathbb  K)]]></fr:tex> y se denota por <fr:tex display="inline"><![CDATA[E']]></fr:tex>. Sus elementos se denominan <html:em>funcionales lineales continuos</html:em>.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>22</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/AF-0006/</fr:uri>
+            <fr:display-uri>AF-0006</fr:display-uri>
+            <fr:route>/AF-0006/</fr:route>
+            <fr:title text="Espacio de operadores lineales y continuos">Espacio de operadores lineales y continuos</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>El conjunto <fr:tex display="inline"><![CDATA[\mathscr  L(E,F)]]></fr:tex> de los operadores lineales y continutos de un espacio normado <fr:tex display="inline"><![CDATA[E]]></fr:tex> en otro <fr:tex display="inline"><![CDATA[F]]></fr:tex> es un espacio vectorial con las operaciones habituales. Se considera la norma de los operadores sobre él. Cuando <fr:tex display="inline"><![CDATA[F=E]]></fr:tex> el espacio <fr:tex display="inline"><![CDATA[\mathscr  L(E,E)]]></fr:tex> se representa por <fr:tex display="inline"><![CDATA[\mathscr  L(E)]]></fr:tex>.</html:p>
+            <html:p>Si <fr:tex display="inline"><![CDATA[E]]></fr:tex>, <fr:tex display="inline"><![CDATA[F]]></fr:tex>, <fr:tex display="inline"><![CDATA[G]]></fr:tex> son espacios normados, <fr:tex display="inline"><![CDATA[T\in \mathscr  L(E,F)]]></fr:tex> y <fr:tex display="inline"><![CDATA[S\in \mathscr  L(F,G)]]></fr:tex>, entonces la composición <fr:tex display="inline"><![CDATA[S\circ  T]]></fr:tex> es un operador lineal y continuo de <fr:tex display="inline"><![CDATA[E]]></fr:tex> en <fr:tex display="inline"><![CDATA[G]]></fr:tex> que se escribe como <fr:tex display="inline"><![CDATA[ST]]></fr:tex>. Además, <fr:tex display="inline"><![CDATA[\|ST\|\leq  \|S\|\|T\|.]]></fr:tex></html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>22</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AF-0007/</fr:uri>
+                <fr:display-uri>AF-0007</fr:display-uri>
+                <fr:route>/AF-0007/</fr:route>
+                <fr:title text="Espacio dual topológico">Espacio dual topológico</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Se denomina por espacio <html:em>dual topológico</html:em> de E al espacio <fr:tex display="inline"><![CDATA[\mathscr  L(E,\mathbb  K)]]></fr:tex> y se denota por <fr:tex display="inline"><![CDATA[E']]></fr:tex>. Sus elementos se denominan <html:em>funcionales lineales continuos</html:em>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
