@@ -160,6 +160,50 @@
         <html:p>El nilradical de <fr:tex display="inline"><![CDATA[A]]></fr:tex> cumple la propiedad de ser la intersección de todos los ideales primos de A (<fr:link href="/AC-000B/" title="Espectro de un anillo" uri="https://juan-mad.github.io/AC-000B/" display-uri="AC-000B" type="local">espectro de A</fr:link>): <fr:tex display="block"><![CDATA[N(A) = \bigcap _{\mathfrak  p\in  \text {Spec}(A)}\mathfrak  p.]]></fr:tex></html:p>
       </fr:mainmatter>
     </fr:tree>
+    <fr:tree show-metadata="false">
+      <fr:frontmatter>
+        <fr:authors>
+          <fr:author>
+            <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+          </fr:author>
+        </fr:authors>
+        <fr:date>
+          <fr:year>2025</fr:year>
+          <fr:month>9</fr:month>
+          <fr:day>23</fr:day>
+        </fr:date>
+        <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
+        <fr:display-uri>AC-000B</fr:display-uri>
+        <fr:route>/AC-000B/</fr:route>
+        <fr:title text="Espectro de un anillo">Espectro de un anillo</fr:title>
+        <fr:taxon>Definición</fr:taxon>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <html:p>Se denota por <fr:tex display="inline"><![CDATA[\text {Spec}]]></fr:tex>(A), el espectro de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false">
+      <fr:frontmatter>
+        <fr:authors>
+          <fr:author>
+            <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+          </fr:author>
+        </fr:authors>
+        <fr:date>
+          <fr:year>2025</fr:year>
+          <fr:month>9</fr:month>
+          <fr:day>23</fr:day>
+        </fr:date>
+        <fr:uri>https://juan-mad.github.io/AC-000C/</fr:uri>
+        <fr:display-uri>AC-000C</fr:display-uri>
+        <fr:route>/AC-000C/</fr:route>
+        <fr:title text="Radical de Jacobson">Radical de Jacobson</fr:title>
+        <fr:taxon>Definición</fr:taxon>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <html:p>El radical de Jacobson <fr:tex display="inline"><![CDATA[R(A)]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> se define como la intersección de todos los ideales maximales de <fr:tex display="inline"><![CDATA[A]]></fr:tex>. Se caracteriza por la siguiente propiedad: <fr:tex display="inline"><![CDATA[x\in  R(A) \Longleftrightarrow  1 - xy]]></fr:tex> es una unidad en <fr:tex display="inline"><![CDATA[A]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  A]]></fr:tex>.</html:p>
+      </fr:mainmatter>
+    </fr:tree>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -224,7 +268,9 @@
                 <html:p>Un <html:em>homomorfismo de anillos</html:em> es una aplicación <fr:tex display="inline"><![CDATA[f\colon A\rightarrow B]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> en un anillo <fr:tex display="inline"><![CDATA[B]]></fr:tex> tal que
 <html:ol><html:li><fr:tex display="inline"><![CDATA[f(x+y) = f(x) = f(y)]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[f(xy) = f(x)f(y)]]></fr:tex>,</html:li>
-    <html:li><fr:tex display="inline"><![CDATA[f(1) = 1]]></fr:tex>.</html:li></html:ol></html:p>
+    <html:li><fr:tex display="inline"><![CDATA[f(1) = 1]]></fr:tex>.</html:li></html:ol>
+El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA[A]]></fr:tex> y <fr:tex display="inline"><![CDATA[B]]></fr:tex> se denota por <fr:tex display="inline"><![CDATA[\text {Hom}(A,B)]]></fr:tex>. En el caso de que <fr:tex display="inline"><![CDATA[A=B]]></fr:tex>, los homomorfismos son endomorfismos, y lo denotamos por <fr:tex display="inline"><![CDATA[\text {End}(A)]]></fr:tex>.
+</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -387,6 +433,50 @@
                     <html:p>El nilradical de <fr:tex display="inline"><![CDATA[A]]></fr:tex> cumple la propiedad de ser la intersección de todos los ideales primos de A (<fr:link href="/AC-000B/" title="Espectro de un anillo" uri="https://juan-mad.github.io/AC-000B/" display-uri="AC-000B" type="local">espectro de A</fr:link>): <fr:tex display="block"><![CDATA[N(A) = \bigcap _{\mathfrak  p\in  \text {Spec}(A)}\mathfrak  p.]]></fr:tex></html:p>
                   </fr:mainmatter>
                 </fr:tree>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>9</fr:month>
+                      <fr:day>23</fr:day>
+                    </fr:date>
+                    <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
+                    <fr:display-uri>AC-000B</fr:display-uri>
+                    <fr:route>/AC-000B/</fr:route>
+                    <fr:title text="Espectro de un anillo">Espectro de un anillo</fr:title>
+                    <fr:taxon>Definición</fr:taxon>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Se denota por <fr:tex display="inline"><![CDATA[\text {Spec}]]></fr:tex>(A), el espectro de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>9</fr:month>
+                      <fr:day>23</fr:day>
+                    </fr:date>
+                    <fr:uri>https://juan-mad.github.io/AC-000C/</fr:uri>
+                    <fr:display-uri>AC-000C</fr:display-uri>
+                    <fr:route>/AC-000C/</fr:route>
+                    <fr:title text="Radical de Jacobson">Radical de Jacobson</fr:title>
+                    <fr:taxon>Definición</fr:taxon>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>El radical de Jacobson <fr:tex display="inline"><![CDATA[R(A)]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> se define como la intersección de todos los ideales maximales de <fr:tex display="inline"><![CDATA[A]]></fr:tex>. Se caracteriza por la siguiente propiedad: <fr:tex display="inline"><![CDATA[x\in  R(A) \Longleftrightarrow  1 - xy]]></fr:tex> es una unidad en <fr:tex display="inline"><![CDATA[A]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  A]]></fr:tex>.</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -409,73 +499,6 @@
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>Un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <html:em>local</html:em> cuando tiene exactamente un ideal maximal, <fr:tex display="inline"><![CDATA[\mathfrak  m]]></fr:tex>. El cuerpo <fr:tex display="inline"><![CDATA[A/\mathfrak  m]]></fr:tex> se denomina <html:em>cuerpo residual</html:em> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
-              </fr:mainmatter>
-            </fr:tree>
-            <fr:tree show-metadata="false">
-              <fr:frontmatter>
-                <fr:authors>
-                  <fr:author>
-                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-                  </fr:author>
-                </fr:authors>
-                <fr:date>
-                  <fr:year>2025</fr:year>
-                  <fr:month>9</fr:month>
-                  <fr:day>22</fr:day>
-                </fr:date>
-                <fr:uri>https://juan-mad.github.io/AC-000A/</fr:uri>
-                <fr:display-uri>AC-000A</fr:display-uri>
-                <fr:route>/AC-000A/</fr:route>
-                <fr:title text="Nilradical de un ideal">Nilradical de un ideal</fr:title>
-                <fr:taxon>Proposición</fr:taxon>
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <html:p>El nilradical de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex>, <fr:tex display="inline"><![CDATA[N(A)=\sqrt {0} = \{a\in  A : \exists  n\in  N, a^n=0\}]]></fr:tex>, el conjunto de los elementos nilpotentes de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, es un ideal, y <fr:tex display="inline"><![CDATA[A/N(A)]]></fr:tex> no tiene ningún elemento nilpotente no nulo.</html:p>
-                <html:p>El nilradical de <fr:tex display="inline"><![CDATA[A]]></fr:tex> cumple la propiedad de ser la intersección de todos los ideales primos de A (<fr:link href="/AC-000B/" title="Espectro de un anillo" uri="https://juan-mad.github.io/AC-000B/" display-uri="AC-000B" type="local">espectro de A</fr:link>): <fr:tex display="block"><![CDATA[N(A) = \bigcap _{\mathfrak  p\in  \text {Spec}(A)}\mathfrak  p.]]></fr:tex></html:p>
-              </fr:mainmatter>
-            </fr:tree>
-            <fr:tree show-metadata="false">
-              <fr:frontmatter>
-                <fr:authors>
-                  <fr:author>
-                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-                  </fr:author>
-                </fr:authors>
-                <fr:date>
-                  <fr:year>2025</fr:year>
-                  <fr:month>9</fr:month>
-                  <fr:day>23</fr:day>
-                </fr:date>
-                <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
-                <fr:display-uri>AC-000B</fr:display-uri>
-                <fr:route>/AC-000B/</fr:route>
-                <fr:title text="Espectro de un anillo">Espectro de un anillo</fr:title>
-                <fr:taxon>Definición</fr:taxon>
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <html:p>Se denota por <fr:tex display="inline"><![CDATA[\text {Spec}]]></fr:tex>(A), el espectro de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
-              </fr:mainmatter>
-            </fr:tree>
-            <fr:tree show-metadata="false">
-              <fr:frontmatter>
-                <fr:authors>
-                  <fr:author>
-                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-                  </fr:author>
-                </fr:authors>
-                <fr:date>
-                  <fr:year>2025</fr:year>
-                  <fr:month>9</fr:month>
-                  <fr:day>23</fr:day>
-                </fr:date>
-                <fr:uri>https://juan-mad.github.io/AC-000C/</fr:uri>
-                <fr:display-uri>AC-000C</fr:display-uri>
-                <fr:route>/AC-000C/</fr:route>
-                <fr:title text="Radical de Jacobson">Radical de Jacobson</fr:title>
-                <fr:taxon>Definición</fr:taxon>
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <html:p>El radical de Jacobson <fr:tex display="inline"><![CDATA[R(A)]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> se define como la intersección de todos los ideales maximales de <fr:tex display="inline"><![CDATA[A]]></fr:tex>. Se caracteriza por la siguiente propiedad: <fr:tex display="inline"><![CDATA[x\in  R(A) \Longleftrightarrow  1 - xy]]></fr:tex> es una unidad en <fr:tex display="inline"><![CDATA[A]]></fr:tex> paa todo <fr:tex display="inline"><![CDATA[y\in  A]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>
@@ -517,7 +540,9 @@
             <html:p>Un <html:em>homomorfismo de anillos</html:em> es una aplicación <fr:tex display="inline"><![CDATA[f\colon A\rightarrow B]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> en un anillo <fr:tex display="inline"><![CDATA[B]]></fr:tex> tal que
 <html:ol><html:li><fr:tex display="inline"><![CDATA[f(x+y) = f(x) = f(y)]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[f(xy) = f(x)f(y)]]></fr:tex>,</html:li>
-    <html:li><fr:tex display="inline"><![CDATA[f(1) = 1]]></fr:tex>.</html:li></html:ol></html:p>
+    <html:li><fr:tex display="inline"><![CDATA[f(1) = 1]]></fr:tex>.</html:li></html:ol>
+El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA[A]]></fr:tex> y <fr:tex display="inline"><![CDATA[B]]></fr:tex> se denota por <fr:tex display="inline"><![CDATA[\text {Hom}(A,B)]]></fr:tex>. En el caso de que <fr:tex display="inline"><![CDATA[A=B]]></fr:tex>, los homomorfismos son endomorfismos, y lo denotamos por <fr:tex display="inline"><![CDATA[\text {End}(A)]]></fr:tex>.
+</html:p>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>

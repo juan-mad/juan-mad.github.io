@@ -10,18 +10,22 @@
     <fr:date>
       <fr:year>2025</fr:year>
       <fr:month>9</fr:month>
-      <fr:day>23</fr:day>
+      <fr:day>24</fr:day>
     </fr:date>
-    <fr:uri>https://juan-mad.github.io/AC-000F/</fr:uri>
-    <fr:display-uri>AC-000F</fr:display-uri>
-    <fr:route>/AC-000F/</fr:route>
-    <fr:title text="Homomofirmo de m'odulos">Homomofirmo de m'odulos</fr:title>
-    <fr:taxon>Definición</fr:taxon>
+    <fr:uri>https://juan-mad.github.io/AC-000N/</fr:uri>
+    <fr:display-uri>AC-000N</fr:display-uri>
+    <fr:route>/AC-000N/</fr:route>
+    <fr:title text="Sistema de generadores de un m'odulo">Sistema de generadores de un m'odulo</fr:title>
+    <fr:taxon>Definici'on</fr:taxon>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Sean <fr:tex display="inline"><![CDATA[M, N]]></fr:tex> dos <fr:tex display="inline"><![CDATA[A]]></fr:tex>-m'odulos. Una aplicaci'on <fr:tex display="inline"><![CDATA[f\colon M\rightarrow N]]></fr:tex> es un <html:em>homomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-m'odulos</html:em> si <fr:tex display="block"><![CDATA[\begin {align*}f(x+y) &= f(x) + f(y) \\ f(ax) & = af(x)\end {align*}]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[a\in  A, x,y\in  M]]></fr:tex>.</html:p>
-    <html:p>El conjunto de los homomorfismos entre <fr:tex display="inline"><![CDATA[M]]></fr:tex> y <fr:tex display="inline"><![CDATA[N]]></fr:tex>, denotado por <fr:tex display="inline"><![CDATA[\text {Hom}(M,N)]]></fr:tex> es a su vez un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo.</html:p>
-    <html:p>Para cada m'odulo <fr:tex display="inline"><![CDATA[M]]></fr:tex> existe un isomorfismo natural <fr:tex display="inline"><![CDATA[\text {Hom}(A,M)\cong  M]]></fr:tex>.</html:p>
+    <html:p>Decimos que <fr:tex display="inline"><![CDATA[m_1,\dots ,m_t]]></fr:tex> generan un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[M]]></fr:tex> si todo elemento de <fr:tex display="inline"><![CDATA[M]]></fr:tex> puede escribirse como combinaci'on lineal de estos elementos, no necesariamente de foma 'unica.</html:p>
+    <html:p>Dado un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[M]]></fr:tex> y un conjunto de elementos <fr:tex display="inline"><![CDATA[\{m_i\}_{i\in  \Lambda }]]></fr:tex> de <fr:tex display="inline"><![CDATA[M]]></fr:tex>, definimos el homomorfismo <fr:tex display="block"><![CDATA[
+    \begin {align*}\varphi \colon  A^{|\Lambda |}&\longrightarrow  M \\ e_i&\longmapsto  m_i \\ \sum _{i=1}^rb_ie_i & \longmapsto  \sum _{i=1}^r b_im_i.\end {align*}]]></fr:tex>
+
+Entonces, <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex> es sobreyectivo si y s'olo si <fr:tex display="inline"><![CDATA[\{m_i\}_{i\in \Lambda }]]></fr:tex> es un sistema de generadores. Si adem'as <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex> es un isomorfismo, entonces <fr:tex display="inline"><![CDATA[M]]></fr:tex> es un <fr:link href="/AC-000M/" title="M'odulos libre" uri="https://juan-mad.github.io/AC-000M/" display-uri="AC-000M" type="local">m'odulo libre</fr:link>.</html:p>
+    <html:p>N'otese que en la definici'on de <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex>, los elementos <fr:tex display="inline"><![CDATA[e_i]]></fr:tex> est'an definidos de la misma forma que los elementos de la base can'onica de un espacio vectorial.
+</html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -502,14 +506,61 @@ Dado un conjunto de generadores <fr:tex display="inline"><![CDATA[m_1,\dots , m_
         <fr:authors />
         <fr:title text="Backlinks">Backlinks</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>24</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/AC-000P/</fr:uri>
+            <fr:display-uri>AC-000P</fr:display-uri>
+            <fr:route>/AC-000P/</fr:route>
+            <fr:title text="M'odulos libres y bases">M'odulos libres y bases</fr:title>
+            <fr:taxon>Proposici'on</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-m'odulo. Entonces <fr:tex display="inline"><![CDATA[M]]></fr:tex> es un <fr:link href="/AC-000M/" title="M'odulos libre" uri="https://juan-mad.github.io/AC-000M/" display-uri="AC-000M" type="local">m'odulo libre</fr:link> si y s'olo si existe una <fr:link href="/AC-000O/" title="Base de un m'odulo" uri="https://juan-mad.github.io/AC-000O/" display-uri="AC-000O" type="local">base</fr:link> <fr:tex display="inline"><![CDATA[B]]></fr:tex> de <fr:tex display="inline"><![CDATA[M]]></fr:tex>. Esto puede probase f'acilmente utilizando el homomorfismo <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex> definido <fr:link href="/AC-000N/" title="Sistema de generadores de un m'odulo" uri="https://juan-mad.github.io/AC-000N/" display-uri="AC-000N" type="local">aqu'i</fr:link>, que en este caso resulta siempre ser un isomorfismo.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>
         <fr:authors />
         <fr:title text="Related">Related</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>24</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/AC-000M/</fr:uri>
+            <fr:display-uri>AC-000M</fr:display-uri>
+            <fr:route>/AC-000M/</fr:route>
+            <fr:title text="M'odulos libre">M'odulos libre</fr:title>
+            <fr:taxon>Definici'on</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <html:em>libre</html:em> es un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo isomorfo a uno de la forma <fr:tex display="inline"><![CDATA[\bigoplus _{i\in  \Lambda }M_i]]></fr:tex> donde <fr:tex display="inline"><![CDATA[M_i\cong  A]]></fr:tex> como <fr:tex display="inline"><![CDATA[A]]></fr:tex>-m'odulo. El conjunto <fr:tex display="inline"><![CDATA[\Lambda ]]></fr:tex> puede ser tanto finito como finito. Podemos escribir tambi'en <fr:tex display="inline"><![CDATA[A^{|\Lambda |}\cong \bigoplus _{i\in  \Lambda }M_i]]></fr:tex>, donde <fr:tex display="inline"><![CDATA[|\Lambda |]]></fr:tex> representa el cardinal de <fr:tex display="inline"><![CDATA[\Lambda ]]></fr:tex>; de forma que si <fr:tex display="inline"><![CDATA[\Lambda ]]></fr:tex> es finito puede escribirse <fr:tex display="inline"><![CDATA[M\cong  A^n]]></fr:tex> para alg'un <fr:tex display="inline"><![CDATA[n\in \mathbb  N]]></fr:tex>.
+</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

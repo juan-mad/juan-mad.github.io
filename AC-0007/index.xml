@@ -196,6 +196,50 @@
                 <html:p>El nilradical de <fr:tex display="inline"><![CDATA[A]]></fr:tex> cumple la propiedad de ser la intersección de todos los ideales primos de A (<fr:link href="/AC-000B/" title="Espectro de un anillo" uri="https://juan-mad.github.io/AC-000B/" display-uri="AC-000B" type="local">espectro de A</fr:link>): <fr:tex display="block"><![CDATA[N(A) = \bigcap _{\mathfrak  p\in  \text {Spec}(A)}\mathfrak  p.]]></fr:tex></html:p>
               </fr:mainmatter>
             </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>23</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
+                <fr:display-uri>AC-000B</fr:display-uri>
+                <fr:route>/AC-000B/</fr:route>
+                <fr:title text="Espectro de un anillo">Espectro de un anillo</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Se denota por <fr:tex display="inline"><![CDATA[\text {Spec}]]></fr:tex>(A), el espectro de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>23</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000C/</fr:uri>
+                <fr:display-uri>AC-000C</fr:display-uri>
+                <fr:route>/AC-000C/</fr:route>
+                <fr:title text="Radical de Jacobson">Radical de Jacobson</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>El radical de Jacobson <fr:tex display="inline"><![CDATA[R(A)]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> se define como la intersección de todos los ideales maximales de <fr:tex display="inline"><![CDATA[A]]></fr:tex>. Se caracteriza por la siguiente propiedad: <fr:tex display="inline"><![CDATA[x\in  R(A) \Longleftrightarrow  1 - xy]]></fr:tex> es una unidad en <fr:tex display="inline"><![CDATA[A]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  A]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>
@@ -205,7 +249,30 @@
         <fr:authors />
         <fr:title text="Backlinks">Backlinks</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>24</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/AC-000W/</fr:uri>
+            <fr:display-uri>AC-000W</fr:display-uri>
+            <fr:route>/AC-000W/</fr:route>
+            <fr:title text="" />
+            <fr:taxon>Proposici'on</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un anillo y sea <fr:tex display="inline"><![CDATA[\mathfrak  m]]></fr:tex> un <fr:link href="/AC-0007/" title="Ideales maximales" uri="https://juan-mad.github.io/AC-0007/" display-uri="AC-0007" type="local">ideal maximal</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

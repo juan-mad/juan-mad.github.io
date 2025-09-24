@@ -49,7 +49,9 @@
         <html:p>Un <html:em>homomorfismo de anillos</html:em> es una aplicación <fr:tex display="inline"><![CDATA[f\colon A\rightarrow B]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> en un anillo <fr:tex display="inline"><![CDATA[B]]></fr:tex> tal que
 <html:ol><html:li><fr:tex display="inline"><![CDATA[f(x+y) = f(x) = f(y)]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[f(xy) = f(x)f(y)]]></fr:tex>,</html:li>
-    <html:li><fr:tex display="inline"><![CDATA[f(1) = 1]]></fr:tex>.</html:li></html:ol></html:p>
+    <html:li><fr:tex display="inline"><![CDATA[f(1) = 1]]></fr:tex>.</html:li></html:ol>
+El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA[A]]></fr:tex> y <fr:tex display="inline"><![CDATA[B]]></fr:tex> se denota por <fr:tex display="inline"><![CDATA[\text {Hom}(A,B)]]></fr:tex>. En el caso de que <fr:tex display="inline"><![CDATA[A=B]]></fr:tex>, los homomorfismos son endomorfismos, y lo denotamos por <fr:tex display="inline"><![CDATA[\text {End}(A)]]></fr:tex>.
+</html:p>
       </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false">
@@ -212,6 +214,50 @@
             <html:p>El nilradical de <fr:tex display="inline"><![CDATA[A]]></fr:tex> cumple la propiedad de ser la intersección de todos los ideales primos de A (<fr:link href="/AC-000B/" title="Espectro de un anillo" uri="https://juan-mad.github.io/AC-000B/" display-uri="AC-000B" type="local">espectro de A</fr:link>): <fr:tex display="block"><![CDATA[N(A) = \bigcap _{\mathfrak  p\in  \text {Spec}(A)}\mathfrak  p.]]></fr:tex></html:p>
           </fr:mainmatter>
         </fr:tree>
+        <fr:tree show-metadata="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>23</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
+            <fr:display-uri>AC-000B</fr:display-uri>
+            <fr:route>/AC-000B/</fr:route>
+            <fr:title text="Espectro de un anillo">Espectro de un anillo</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Se denota por <fr:tex display="inline"><![CDATA[\text {Spec}]]></fr:tex>(A), el espectro de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>23</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/AC-000C/</fr:uri>
+            <fr:display-uri>AC-000C</fr:display-uri>
+            <fr:route>/AC-000C/</fr:route>
+            <fr:title text="Radical de Jacobson">Radical de Jacobson</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>El radical de Jacobson <fr:tex display="inline"><![CDATA[R(A)]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> se define como la intersección de todos los ideales maximales de <fr:tex display="inline"><![CDATA[A]]></fr:tex>. Se caracteriza por la siguiente propiedad: <fr:tex display="inline"><![CDATA[x\in  R(A) \Longleftrightarrow  1 - xy]]></fr:tex> es una unidad en <fr:tex display="inline"><![CDATA[A]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  A]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
       </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false">
@@ -234,73 +280,6 @@
       </fr:frontmatter>
       <fr:mainmatter>
         <html:p>Un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <html:em>local</html:em> cuando tiene exactamente un ideal maximal, <fr:tex display="inline"><![CDATA[\mathfrak  m]]></fr:tex>. El cuerpo <fr:tex display="inline"><![CDATA[A/\mathfrak  m]]></fr:tex> se denomina <html:em>cuerpo residual</html:em> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
-      </fr:mainmatter>
-    </fr:tree>
-    <fr:tree show-metadata="false">
-      <fr:frontmatter>
-        <fr:authors>
-          <fr:author>
-            <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-          </fr:author>
-        </fr:authors>
-        <fr:date>
-          <fr:year>2025</fr:year>
-          <fr:month>9</fr:month>
-          <fr:day>22</fr:day>
-        </fr:date>
-        <fr:uri>https://juan-mad.github.io/AC-000A/</fr:uri>
-        <fr:display-uri>AC-000A</fr:display-uri>
-        <fr:route>/AC-000A/</fr:route>
-        <fr:title text="Nilradical de un ideal">Nilradical de un ideal</fr:title>
-        <fr:taxon>Proposición</fr:taxon>
-      </fr:frontmatter>
-      <fr:mainmatter>
-        <html:p>El nilradical de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex>, <fr:tex display="inline"><![CDATA[N(A)=\sqrt {0} = \{a\in  A : \exists  n\in  N, a^n=0\}]]></fr:tex>, el conjunto de los elementos nilpotentes de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, es un ideal, y <fr:tex display="inline"><![CDATA[A/N(A)]]></fr:tex> no tiene ningún elemento nilpotente no nulo.</html:p>
-        <html:p>El nilradical de <fr:tex display="inline"><![CDATA[A]]></fr:tex> cumple la propiedad de ser la intersección de todos los ideales primos de A (<fr:link href="/AC-000B/" title="Espectro de un anillo" uri="https://juan-mad.github.io/AC-000B/" display-uri="AC-000B" type="local">espectro de A</fr:link>): <fr:tex display="block"><![CDATA[N(A) = \bigcap _{\mathfrak  p\in  \text {Spec}(A)}\mathfrak  p.]]></fr:tex></html:p>
-      </fr:mainmatter>
-    </fr:tree>
-    <fr:tree show-metadata="false">
-      <fr:frontmatter>
-        <fr:authors>
-          <fr:author>
-            <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-          </fr:author>
-        </fr:authors>
-        <fr:date>
-          <fr:year>2025</fr:year>
-          <fr:month>9</fr:month>
-          <fr:day>23</fr:day>
-        </fr:date>
-        <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
-        <fr:display-uri>AC-000B</fr:display-uri>
-        <fr:route>/AC-000B/</fr:route>
-        <fr:title text="Espectro de un anillo">Espectro de un anillo</fr:title>
-        <fr:taxon>Definición</fr:taxon>
-      </fr:frontmatter>
-      <fr:mainmatter>
-        <html:p>Se denota por <fr:tex display="inline"><![CDATA[\text {Spec}]]></fr:tex>(A), el espectro de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
-      </fr:mainmatter>
-    </fr:tree>
-    <fr:tree show-metadata="false">
-      <fr:frontmatter>
-        <fr:authors>
-          <fr:author>
-            <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-          </fr:author>
-        </fr:authors>
-        <fr:date>
-          <fr:year>2025</fr:year>
-          <fr:month>9</fr:month>
-          <fr:day>23</fr:day>
-        </fr:date>
-        <fr:uri>https://juan-mad.github.io/AC-000C/</fr:uri>
-        <fr:display-uri>AC-000C</fr:display-uri>
-        <fr:route>/AC-000C/</fr:route>
-        <fr:title text="Radical de Jacobson">Radical de Jacobson</fr:title>
-        <fr:taxon>Definición</fr:taxon>
-      </fr:frontmatter>
-      <fr:mainmatter>
-        <html:p>El radical de Jacobson <fr:tex display="inline"><![CDATA[R(A)]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> se define como la intersección de todos los ideales maximales de <fr:tex display="inline"><![CDATA[A]]></fr:tex>. Se caracteriza por la siguiente propiedad: <fr:tex display="inline"><![CDATA[x\in  R(A) \Longleftrightarrow  1 - xy]]></fr:tex> es una unidad en <fr:tex display="inline"><![CDATA[A]]></fr:tex> paa todo <fr:tex display="inline"><![CDATA[y\in  A]]></fr:tex>.</html:p>
       </fr:mainmatter>
     </fr:tree>
   </fr:mainmatter>
@@ -385,7 +364,9 @@
                     <html:p>Un <html:em>homomorfismo de anillos</html:em> es una aplicación <fr:tex display="inline"><![CDATA[f\colon A\rightarrow B]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> en un anillo <fr:tex display="inline"><![CDATA[B]]></fr:tex> tal que
 <html:ol><html:li><fr:tex display="inline"><![CDATA[f(x+y) = f(x) = f(y)]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[f(xy) = f(x)f(y)]]></fr:tex>,</html:li>
-    <html:li><fr:tex display="inline"><![CDATA[f(1) = 1]]></fr:tex>.</html:li></html:ol></html:p>
+    <html:li><fr:tex display="inline"><![CDATA[f(1) = 1]]></fr:tex>.</html:li></html:ol>
+El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA[A]]></fr:tex> y <fr:tex display="inline"><![CDATA[B]]></fr:tex> se denota por <fr:tex display="inline"><![CDATA[\text {Hom}(A,B)]]></fr:tex>. En el caso de que <fr:tex display="inline"><![CDATA[A=B]]></fr:tex>, los homomorfismos son endomorfismos, y lo denotamos por <fr:tex display="inline"><![CDATA[\text {End}(A)]]></fr:tex>.
+</html:p>
                   </fr:mainmatter>
                 </fr:tree>
                 <fr:tree show-metadata="false">
@@ -548,6 +529,50 @@
                         <html:p>El nilradical de <fr:tex display="inline"><![CDATA[A]]></fr:tex> cumple la propiedad de ser la intersección de todos los ideales primos de A (<fr:link href="/AC-000B/" title="Espectro de un anillo" uri="https://juan-mad.github.io/AC-000B/" display-uri="AC-000B" type="local">espectro de A</fr:link>): <fr:tex display="block"><![CDATA[N(A) = \bigcap _{\mathfrak  p\in  \text {Spec}(A)}\mathfrak  p.]]></fr:tex></html:p>
                       </fr:mainmatter>
                     </fr:tree>
+                    <fr:tree show-metadata="false">
+                      <fr:frontmatter>
+                        <fr:authors>
+                          <fr:author>
+                            <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                          </fr:author>
+                        </fr:authors>
+                        <fr:date>
+                          <fr:year>2025</fr:year>
+                          <fr:month>9</fr:month>
+                          <fr:day>23</fr:day>
+                        </fr:date>
+                        <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
+                        <fr:display-uri>AC-000B</fr:display-uri>
+                        <fr:route>/AC-000B/</fr:route>
+                        <fr:title text="Espectro de un anillo">Espectro de un anillo</fr:title>
+                        <fr:taxon>Definición</fr:taxon>
+                      </fr:frontmatter>
+                      <fr:mainmatter>
+                        <html:p>Se denota por <fr:tex display="inline"><![CDATA[\text {Spec}]]></fr:tex>(A), el espectro de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
+                      </fr:mainmatter>
+                    </fr:tree>
+                    <fr:tree show-metadata="false">
+                      <fr:frontmatter>
+                        <fr:authors>
+                          <fr:author>
+                            <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                          </fr:author>
+                        </fr:authors>
+                        <fr:date>
+                          <fr:year>2025</fr:year>
+                          <fr:month>9</fr:month>
+                          <fr:day>23</fr:day>
+                        </fr:date>
+                        <fr:uri>https://juan-mad.github.io/AC-000C/</fr:uri>
+                        <fr:display-uri>AC-000C</fr:display-uri>
+                        <fr:route>/AC-000C/</fr:route>
+                        <fr:title text="Radical de Jacobson">Radical de Jacobson</fr:title>
+                        <fr:taxon>Definición</fr:taxon>
+                      </fr:frontmatter>
+                      <fr:mainmatter>
+                        <html:p>El radical de Jacobson <fr:tex display="inline"><![CDATA[R(A)]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> se define como la intersección de todos los ideales maximales de <fr:tex display="inline"><![CDATA[A]]></fr:tex>. Se caracteriza por la siguiente propiedad: <fr:tex display="inline"><![CDATA[x\in  R(A) \Longleftrightarrow  1 - xy]]></fr:tex> es una unidad en <fr:tex display="inline"><![CDATA[A]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  A]]></fr:tex>.</html:p>
+                      </fr:mainmatter>
+                    </fr:tree>
                   </fr:mainmatter>
                 </fr:tree>
                 <fr:tree show-metadata="false">
@@ -570,73 +595,6 @@
                   </fr:frontmatter>
                   <fr:mainmatter>
                     <html:p>Un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <html:em>local</html:em> cuando tiene exactamente un ideal maximal, <fr:tex display="inline"><![CDATA[\mathfrak  m]]></fr:tex>. El cuerpo <fr:tex display="inline"><![CDATA[A/\mathfrak  m]]></fr:tex> se denomina <html:em>cuerpo residual</html:em> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
-                  </fr:mainmatter>
-                </fr:tree>
-                <fr:tree show-metadata="false">
-                  <fr:frontmatter>
-                    <fr:authors>
-                      <fr:author>
-                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-                      </fr:author>
-                    </fr:authors>
-                    <fr:date>
-                      <fr:year>2025</fr:year>
-                      <fr:month>9</fr:month>
-                      <fr:day>22</fr:day>
-                    </fr:date>
-                    <fr:uri>https://juan-mad.github.io/AC-000A/</fr:uri>
-                    <fr:display-uri>AC-000A</fr:display-uri>
-                    <fr:route>/AC-000A/</fr:route>
-                    <fr:title text="Nilradical de un ideal">Nilradical de un ideal</fr:title>
-                    <fr:taxon>Proposición</fr:taxon>
-                  </fr:frontmatter>
-                  <fr:mainmatter>
-                    <html:p>El nilradical de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex>, <fr:tex display="inline"><![CDATA[N(A)=\sqrt {0} = \{a\in  A : \exists  n\in  N, a^n=0\}]]></fr:tex>, el conjunto de los elementos nilpotentes de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, es un ideal, y <fr:tex display="inline"><![CDATA[A/N(A)]]></fr:tex> no tiene ningún elemento nilpotente no nulo.</html:p>
-                    <html:p>El nilradical de <fr:tex display="inline"><![CDATA[A]]></fr:tex> cumple la propiedad de ser la intersección de todos los ideales primos de A (<fr:link href="/AC-000B/" title="Espectro de un anillo" uri="https://juan-mad.github.io/AC-000B/" display-uri="AC-000B" type="local">espectro de A</fr:link>): <fr:tex display="block"><![CDATA[N(A) = \bigcap _{\mathfrak  p\in  \text {Spec}(A)}\mathfrak  p.]]></fr:tex></html:p>
-                  </fr:mainmatter>
-                </fr:tree>
-                <fr:tree show-metadata="false">
-                  <fr:frontmatter>
-                    <fr:authors>
-                      <fr:author>
-                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-                      </fr:author>
-                    </fr:authors>
-                    <fr:date>
-                      <fr:year>2025</fr:year>
-                      <fr:month>9</fr:month>
-                      <fr:day>23</fr:day>
-                    </fr:date>
-                    <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
-                    <fr:display-uri>AC-000B</fr:display-uri>
-                    <fr:route>/AC-000B/</fr:route>
-                    <fr:title text="Espectro de un anillo">Espectro de un anillo</fr:title>
-                    <fr:taxon>Definición</fr:taxon>
-                  </fr:frontmatter>
-                  <fr:mainmatter>
-                    <html:p>Se denota por <fr:tex display="inline"><![CDATA[\text {Spec}]]></fr:tex>(A), el espectro de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
-                  </fr:mainmatter>
-                </fr:tree>
-                <fr:tree show-metadata="false">
-                  <fr:frontmatter>
-                    <fr:authors>
-                      <fr:author>
-                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-                      </fr:author>
-                    </fr:authors>
-                    <fr:date>
-                      <fr:year>2025</fr:year>
-                      <fr:month>9</fr:month>
-                      <fr:day>23</fr:day>
-                    </fr:date>
-                    <fr:uri>https://juan-mad.github.io/AC-000C/</fr:uri>
-                    <fr:display-uri>AC-000C</fr:display-uri>
-                    <fr:route>/AC-000C/</fr:route>
-                    <fr:title text="Radical de Jacobson">Radical de Jacobson</fr:title>
-                    <fr:taxon>Definición</fr:taxon>
-                  </fr:frontmatter>
-                  <fr:mainmatter>
-                    <html:p>El radical de Jacobson <fr:tex display="inline"><![CDATA[R(A)]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> se define como la intersección de todos los ideales maximales de <fr:tex display="inline"><![CDATA[A]]></fr:tex>. Se caracteriza por la siguiente propiedad: <fr:tex display="inline"><![CDATA[x\in  R(A) \Longleftrightarrow  1 - xy]]></fr:tex> es una unidad en <fr:tex display="inline"><![CDATA[A]]></fr:tex> paa todo <fr:tex display="inline"><![CDATA[y\in  A]]></fr:tex>.</html:p>
                   </fr:mainmatter>
                 </fr:tree>
               </fr:mainmatter>
@@ -730,7 +688,42 @@
                   </fr:frontmatter>
                   <fr:mainmatter>
                     <html:p>Un <html:em>subm'odulo</html:em> <fr:tex display="inline"><![CDATA[M']]></fr:tex> de <fr:tex display="inline"><![CDATA[M]]></fr:tex> es un subgropo de <fr:tex display="inline"><![CDATA[M]]></fr:tex> que es cerrado a la multiplicaci'on por elementos de <fr:tex display="inline"><![CDATA[A]]></fr:tex>. El grupo abeliano <fr:tex display="inline"><![CDATA[M/M']]></fr:tex> hereda una estructura de de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>, llamado el <html:em>m'odulo cociente</html:em> de <fr:tex display="inline"><![CDATA[M]]></fr:tex> por <fr:tex display="inline"><![CDATA[M']]></fr:tex>.</html:p>
-                    <html:p>Si <fr:tex display="inline"><![CDATA[f\colon M\rightarrow N]]></fr:tex> es un homomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos, el <html:em>n'ucleo de <fr:tex display="inline"><![CDATA[f]]></fr:tex></html:em> es el conjunto <fr:tex display="inline"><![CDATA[\text {ker}f=\{x\in  M:f(x)=0\}]]></fr:tex>, y es un subm'odulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>, al igual que la <html:em>imagen</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, <fr:tex display="inline"><![CDATA[\text {Im}f]]></fr:tex>. Se induce naturalmente un homomorfismo <fr:tex display="inline"><![CDATA[\bar  f\colon M/M'\rightarrow N]]></fr:tex> para todo subm'odulo <fr:tex display="inline"><![CDATA[M'\subset  \text {ker}f]]></fr:tex>. En particular, tomando <fr:tex display="inline"><![CDATA[M'=\text {ker}f]]></fr:tex>, se tiene un isomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos <fr:tex display="inline"><![CDATA[M/\text {ker}f\cong \text {Im}f]]></fr:tex>.</html:p>
+                    <html:p>Si <fr:tex display="inline"><![CDATA[f\colon M\rightarrow N]]></fr:tex> es un homomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos, se definen:
+
+<html:ul><html:li>El <html:em>n'ucleo de <fr:tex display="inline"><![CDATA[f]]></fr:tex></html:em> es el conjunto <fr:tex display="inline"><![CDATA[\text {ker}f=\{x\in  M:f(x)=0\}]]></fr:tex>, y es un subm'odulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>.</html:li>
+    <html:li>Igualmente, la <html:em>imagen</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, <fr:tex display="inline"><![CDATA[\text {Im}f]]></fr:tex>, es un subm'odulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>.</html:li>
+    <html:li>El <html:em>con'ucleo</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex> es <fr:tex display="inline"><![CDATA[\text {coker}f = N/\text {Im}f]]></fr:tex>, qe es un m'odulo cociente en <fr:tex display="inline"><![CDATA[N]]></fr:tex>.</html:li></html:ul>
+Se induce naturalmente un homomorfismo <fr:tex display="inline"><![CDATA[\bar  f\colon M/M'\rightarrow N]]></fr:tex> para todo subm'odulo <fr:tex display="inline"><![CDATA[M'\subset  \text {ker}f]]></fr:tex>.
+</html:p>
+                    <fr:tree show-metadata="false">
+                      <fr:frontmatter>
+                        <fr:authors>
+                          <fr:author>
+                            <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                          </fr:author>
+                        </fr:authors>
+                        <fr:date>
+                          <fr:year>2025</fr:year>
+                          <fr:month>9</fr:month>
+                          <fr:day>24</fr:day>
+                        </fr:date>
+                        <fr:uri>https://juan-mad.github.io/AC-000J/</fr:uri>
+                        <fr:display-uri>AC-000J</fr:display-uri>
+                        <fr:route>/AC-000J/</fr:route>
+                        <fr:title text="Teoremas de isomorf'ia">Teoremas de isomorf'ia</fr:title>
+                        <fr:taxon>Teorema</fr:taxon>
+                      </fr:frontmatter>
+                      <fr:mainmatter>
+                        <html:p>Sean <fr:tex display="inline"><![CDATA[M]]></fr:tex>, <fr:tex display="inline"><![CDATA[N]]></fr:tex>, <fr:tex display="inline"><![CDATA[L]]></fr:tex> <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos y sea <fr:tex display="inline"><![CDATA[\varphi \colon M\rightarrow N]]></fr:tex> un homomorifsmo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos. Se tienen los cl'asicos teoremas de isomorf'ia:
+
+<html:ol><html:li><html:em>Primer teorema de isomorf'ia</html:em>: <fr:tex display="inline"><![CDATA[M/\text {ker}\varphi \cong \text {Im}f.]]></fr:tex></html:li>
+    <html:li><html:em>Segundo teorema de isomorf'ia</html:em>: Si <fr:tex display="inline"><![CDATA[L\subset  N\subset  M]]></fr:tex> subm'odulos, entonces <fr:tex display="block"><![CDATA[N/M\cong  (N/L)/(M/L).]]></fr:tex></html:li>
+    <html:li><html:em>Tercer teorema de isomorf'ia</html:em>: Si <fr:tex display="inline"><![CDATA[N]]></fr:tex>, <fr:tex display="inline"><![CDATA[L]]></fr:tex> son subm'odulos de <fr:tex display="inline"><![CDATA[M]]></fr:tex>, entonces <fr:tex display="block"><![CDATA[(N+L)/N\cong  N/(N\cap  L).]]></fr:tex></html:li></html:ol>
+
+En particular, tomando <fr:tex display="inline"><![CDATA[M'=\text {ker}f]]></fr:tex>, se tiene un isomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos <fr:tex display="inline"><![CDATA[M/\text {ker}f\cong \text {Im}f]]></fr:tex>.
+</html:p>
+                      </fr:mainmatter>
+                    </fr:tree>
                   </fr:mainmatter>
                 </fr:tree>
                 <fr:tree show-metadata="false">
@@ -754,8 +747,312 @@
                   <fr:mainmatter>
                     <html:p>
                       <html:ol><html:li>La <html:em>intersecci'on de subm'odulos</html:em> de <fr:tex display="inline"><![CDATA[M]]></fr:tex> es un subm'odulo.</html:li>
-    <html:li>Dada una familia de subm'odulos, se define la <html:em>suma de subm'odulos</html:em> como la intersecci'on de todos los subm'odulos que contienen a la uni'on de los elementos de la familia. Esto resulta ser igual a la suma de un elemento de cada familia, donde solo un n'umero finito es no nulo.</html:li></html:ol>
+    <html:li>Dada una familia de subm'odulos, se define la <html:em>suma de subm'odulos</html:em> como la intersecci'on de todos los subm'odulos que contienen a la uni'on de los elementos de la familia. Esto resulta ser igual a la suma de un elemento de cada familia, donde solo un n'umero finito es no nulo. Si <fr:tex display="inline"><![CDATA[\{N_\lambda \}_\lambda ]]></fr:tex> es una familia de subm'odulos, entonces la suma directa es igual a <fr:tex display="block"><![CDATA[\bigoplus _\lambda  N_\lambda  = \left \{ \sum _{i=1}^{r}a_in_{\lambda _i} : n_{\lambda _i} \in  N_{\lambda _i}, i=1,\dots ,r \right \}.]]></fr:tex></html:li></html:ol>
                     </html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>9</fr:month>
+                      <fr:day>24</fr:day>
+                    </fr:date>
+                    <fr:uri>https://juan-mad.github.io/AC-000I/</fr:uri>
+                    <fr:display-uri>AC-000I</fr:display-uri>
+                    <fr:route>/AC-000I/</fr:route>
+                    <fr:title text="Endomorfismos &quot;multiplicaci'on&quot;">Endomorfismos "multiplicaci'on"</fr:title>
+                    <fr:taxon>Definición</fr:taxon>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Para un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> y un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[M]]></fr:tex>, introducimos una noci'on de endomorfismo "multiplicaci'on" <fr:tex display="inline"><![CDATA[\mu \colon  A \rightarrow  \text {End}(M)]]></fr:tex>, de forma que a cada elemento <fr:tex display="inline"><![CDATA[a]]></fr:tex> de <fr:tex display="inline"><![CDATA[A]]></fr:tex> se le asigna la aplicaci'on <fr:tex display="inline"><![CDATA[\mu _a\colon M\rightarrow M]]></fr:tex> que env'ia <fr:tex display="inline"><![CDATA[m\mapsto  am]]></fr:tex>. Gracias a la conmutatividad de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mu ]]></fr:tex> es un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo de anillos</fr:link>.
+</html:p>
+                    <html:p>Si <fr:tex display="inline"><![CDATA[\varphi \in \text {End}(M)]]></fr:tex>, denotaremos <fr:tex display="inline"><![CDATA[\mu (A)[\varphi ]\subset \text {End}(M)]]></fr:tex> al subanillo generado por <fr:tex display="inline"><![CDATA[A]]></fr:tex> y la acci'on de <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex>, que es conmutativo. Esta construcci'on formal hace a <fr:tex display="inline"><![CDATA[M]]></fr:tex> un m'odulo sobre <fr:tex display="inline"><![CDATA[\mu (A)[\varphi ]\subset \text {End}(M)]]></fr:tex>.
+</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>9</fr:month>
+                      <fr:day>24</fr:day>
+                    </fr:date>
+                    <fr:uri>https://juan-mad.github.io/AC-000K/</fr:uri>
+                    <fr:display-uri>AC-000K</fr:display-uri>
+                    <fr:route>/AC-000K/</fr:route>
+                    <fr:title text="Suma y producto directos de m'odulos">Suma y producto directos de m'odulos</fr:title>
+                    <fr:taxon>Definici'on</fr:taxon>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Si <fr:tex display="inline"><![CDATA[M]]></fr:tex>, <fr:tex display="inline"><![CDATA[N]]></fr:tex> son <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos, su <html:em>suma directa</html:em> <fr:tex display="inline"><![CDATA[M\oplus  N]]></fr:tex> es el conjunto de todos los pares <fr:tex display="inline"><![CDATA[(x,y), x\in  M, y\in  N]]></fr:tex>. Con las operaciones componente a componente esta suma directa es un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-m'odulo.
+
+En general, si tenemos una familia <fr:tex display="inline"><![CDATA[\{M_i\}_i]]></fr:tex> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos se define su suma directa <fr:tex display="inline"><![CDATA[\bigoplus _iM_i]]></fr:tex> como las familias <fr:tex display="inline"><![CDATA[(x_i)_i]]></fr:tex> tales que <fr:tex display="inline"><![CDATA[x_i\in  M_i]]></fr:tex> y casi todas las <fr:tex display="inline"><![CDATA[x_i]]></fr:tex> son nulas (es decir, lo son todas salvo un n'umero finito).</html:p>
+                    <html:p>Eliminando la restricci'on sobre el n'umero de componentes no nulas, se tiene entonces el <html:em>producto directo</html:em> <fr:tex display="inline"><![CDATA[\Pi _iM_i]]></fr:tex>.</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>9</fr:month>
+                      <fr:day>24</fr:day>
+                    </fr:date>
+                    <fr:uri>https://juan-mad.github.io/AC-000M/</fr:uri>
+                    <fr:display-uri>AC-000M</fr:display-uri>
+                    <fr:route>/AC-000M/</fr:route>
+                    <fr:title text="M'odulos libre">M'odulos libre</fr:title>
+                    <fr:taxon>Definici'on</fr:taxon>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <html:em>libre</html:em> es un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo isomorfo a uno de la forma <fr:tex display="inline"><![CDATA[\bigoplus _{i\in  \Lambda }M_i]]></fr:tex> donde <fr:tex display="inline"><![CDATA[M_i\cong  A]]></fr:tex> como <fr:tex display="inline"><![CDATA[A]]></fr:tex>-m'odulo. El conjunto <fr:tex display="inline"><![CDATA[\Lambda ]]></fr:tex> puede ser tanto finito como finito. Podemos escribir tambi'en <fr:tex display="inline"><![CDATA[A^{|\Lambda |}\cong \bigoplus _{i\in  \Lambda }M_i]]></fr:tex>, donde <fr:tex display="inline"><![CDATA[|\Lambda |]]></fr:tex> representa el cardinal de <fr:tex display="inline"><![CDATA[\Lambda ]]></fr:tex>; de forma que si <fr:tex display="inline"><![CDATA[\Lambda ]]></fr:tex> es finito puede escribirse <fr:tex display="inline"><![CDATA[M\cong  A^n]]></fr:tex> para alg'un <fr:tex display="inline"><![CDATA[n\in \mathbb  N]]></fr:tex>.
+</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>9</fr:month>
+                      <fr:day>24</fr:day>
+                    </fr:date>
+                    <fr:uri>https://juan-mad.github.io/AC-000L/</fr:uri>
+                    <fr:display-uri>AC-000L</fr:display-uri>
+                    <fr:route>/AC-000L/</fr:route>
+                    <fr:title text="M'odulos generados">M'odulos generados</fr:title>
+                    <fr:taxon>Definici'on</fr:taxon>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Dado <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo y <fr:tex display="inline"><![CDATA[X\subset  M]]></fr:tex>, se define el <html:em>subm'odulo generado por X</html:em> como <fr:tex display="block"><![CDATA[\langle  X \rangle  = \bigcap _{P\supset  X,\,P \text { subm'odulo}} P.]]></fr:tex> Este conjunto se caracteriza como las combinaciones <fr:tex display="inline"><![CDATA[A]]></fr:tex>-lineales finitas de elementos de <fr:tex display="inline"><![CDATA[X]]></fr:tex>.
+</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>9</fr:month>
+                      <fr:day>24</fr:day>
+                    </fr:date>
+                    <fr:uri>https://juan-mad.github.io/AC-000N/</fr:uri>
+                    <fr:display-uri>AC-000N</fr:display-uri>
+                    <fr:route>/AC-000N/</fr:route>
+                    <fr:title text="Sistema de generadores de un m'odulo">Sistema de generadores de un m'odulo</fr:title>
+                    <fr:taxon>Definici'on</fr:taxon>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Decimos que <fr:tex display="inline"><![CDATA[m_1,\dots ,m_t]]></fr:tex> generan un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[M]]></fr:tex> si todo elemento de <fr:tex display="inline"><![CDATA[M]]></fr:tex> puede escribirse como combinaci'on lineal de estos elementos, no necesariamente de foma 'unica.</html:p>
+                    <html:p>Dado un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[M]]></fr:tex> y un conjunto de elementos <fr:tex display="inline"><![CDATA[\{m_i\}_{i\in  \Lambda }]]></fr:tex> de <fr:tex display="inline"><![CDATA[M]]></fr:tex>, definimos el homomorfismo <fr:tex display="block"><![CDATA[
+    \begin {align*}\varphi \colon  A^{|\Lambda |}&\longrightarrow  M \\ e_i&\longmapsto  m_i \\ \sum _{i=1}^rb_ie_i & \longmapsto  \sum _{i=1}^r b_im_i.\end {align*}]]></fr:tex>
+
+Entonces, <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex> es sobreyectivo si y s'olo si <fr:tex display="inline"><![CDATA[\{m_i\}_{i\in \Lambda }]]></fr:tex> es un sistema de generadores. Si adem'as <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex> es un isomorfismo, entonces <fr:tex display="inline"><![CDATA[M]]></fr:tex> es un <fr:link href="/AC-000M/" title="M'odulos libre" uri="https://juan-mad.github.io/AC-000M/" display-uri="AC-000M" type="local">m'odulo libre</fr:link>.</html:p>
+                    <html:p>N'otese que en la definici'on de <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex>, los elementos <fr:tex display="inline"><![CDATA[e_i]]></fr:tex> est'an definidos de la misma forma que los elementos de la base can'onica de un espacio vectorial.
+</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>9</fr:month>
+                      <fr:day>24</fr:day>
+                    </fr:date>
+                    <fr:uri>https://juan-mad.github.io/AC-000O/</fr:uri>
+                    <fr:display-uri>AC-000O</fr:display-uri>
+                    <fr:route>/AC-000O/</fr:route>
+                    <fr:title text="Base de un m'odulo">Base de un m'odulo</fr:title>
+                    <fr:taxon>Definici'on</fr:taxon>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Sea <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-m'odulo. Una <html:em>base</html:em> de <fr:tex display="inline"><![CDATA[M]]></fr:tex> es un subconjunto <fr:tex display="inline"><![CDATA[B\in  M]]></fr:tex> tal que es <fr:tex display="inline"><![CDATA[B]]></fr:tex> es un sistema de generados de <fr:tex display="inline"><![CDATA[M]]></fr:tex> y es <fr:tex display="inline"><![CDATA[A]]></fr:tex>-linealmente independiente.</html:p>
+                    <html:p>Al contrario que en los espacios vectoriales, en general no pueden eliminarse elementos de un sistema de generadores hasta obtener una base.</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>9</fr:month>
+                      <fr:day>24</fr:day>
+                    </fr:date>
+                    <fr:uri>https://juan-mad.github.io/AC-000P/</fr:uri>
+                    <fr:display-uri>AC-000P</fr:display-uri>
+                    <fr:route>/AC-000P/</fr:route>
+                    <fr:title text="M'odulos libres y bases">M'odulos libres y bases</fr:title>
+                    <fr:taxon>Proposici'on</fr:taxon>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Sea <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-m'odulo. Entonces <fr:tex display="inline"><![CDATA[M]]></fr:tex> es un <fr:link href="/AC-000M/" title="M'odulos libre" uri="https://juan-mad.github.io/AC-000M/" display-uri="AC-000M" type="local">m'odulo libre</fr:link> si y s'olo si existe una <fr:link href="/AC-000O/" title="Base de un m'odulo" uri="https://juan-mad.github.io/AC-000O/" display-uri="AC-000O" type="local">base</fr:link> <fr:tex display="inline"><![CDATA[B]]></fr:tex> de <fr:tex display="inline"><![CDATA[M]]></fr:tex>. Esto puede probase f'acilmente utilizando el homomorfismo <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex> definido <fr:link href="/AC-000N/" title="Sistema de generadores de un m'odulo" uri="https://juan-mad.github.io/AC-000N/" display-uri="AC-000N" type="local">aqu'i</fr:link>, que en este caso resulta siempre ser un isomorfismo.</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>9</fr:month>
+                      <fr:day>24</fr:day>
+                    </fr:date>
+                    <fr:uri>https://juan-mad.github.io/AC-000Q/</fr:uri>
+                    <fr:display-uri>AC-000Q</fr:display-uri>
+                    <fr:route>/AC-000Q/</fr:route>
+                    <fr:title text="M'odulos finitamente generados">M'odulos finitamente generados</fr:title>
+                    <fr:taxon>Definici'on</fr:taxon>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[M]]></fr:tex> se dice que es <html:em>finitamente <fr:link href="/AC-000L/" title="M'odulos generados" uri="https://juan-mad.github.io/AC-000L/" display-uri="AC-000L" type="local">generado</fr:link></html:em> si existe un n'umero finito de elementos <fr:tex display="inline"><![CDATA[m_1,\dots ,m_n\in  M]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\langle  m_1,\dots ,m_n\rangle  = M]]></fr:tex>.</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>9</fr:month>
+                      <fr:day>24</fr:day>
+                    </fr:date>
+                    <fr:uri>https://juan-mad.github.io/AC-000R/</fr:uri>
+                    <fr:display-uri>AC-000R</fr:display-uri>
+                    <fr:route>/AC-000R/</fr:route>
+                    <fr:title text="Truco del determinante">Truco del determinante</fr:title>
+                    <fr:taxon>Proposici'on</fr:taxon>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Sea <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo de <fr:link href="/AC-000Q/" title="M'odulos finitamente generados" uri="https://juan-mad.github.io/AC-000Q/" display-uri="AC-000Q" type="local">generaci'on finita</fr:link>, sea <fr:tex display="inline"><![CDATA[I]]></fr:tex> un ideal de <fr:tex display="inline"><![CDATA[A]]></fr:tex> y sea <fr:tex display="inline"><![CDATA[\varphi \in \text {End}(M)]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\varphi (M) \subset  IM]]></fr:tex>. Entonces existen unos <fr:tex display="inline"><![CDATA[a_1,\dots ,a_n]]></fr:tex> con <fr:tex display="inline"><![CDATA[a_i\in  I^i, i=1,\dots ,n]]></fr:tex> tales que <fr:tex display="block"><![CDATA[\varphi ^n + a_1\varphi ^{n-1} + \cdots  + a_{n-1}\varphi  + a_n = 0.]]></fr:tex>
+
+Dado un conjunto de generadores <fr:tex display="inline"><![CDATA[m_1,\dots , m_n]]></fr:tex>, sabemos que <fr:tex display="inline"><![CDATA[\varphi (m_i)=\sum _{j=1}^na_{ij}x_j]]></fr:tex>, que es equivalente a escribir <fr:tex display="block"><![CDATA[\sum _{j=1}^n(\delta _{ij}\varphi  - a_ij)m_j = 0, \, \, j=1,\dots ,n]]></fr:tex> donde <fr:tex display="inline"><![CDATA[\delta _{ij}]]></fr:tex> es la delta de Kronecker. Escribiendo este conjunto de igualdades como una matriz, multiplicando por la izquierda por la matriz adjunta de <fr:tex display="inline"><![CDATA[\delta _{ij}\varphi  - a_{ij}]]></fr:tex> se sigue que <fr:tex display="inline"><![CDATA[\det (\delta _{ij}\varphi  - a_{ij})]]></fr:tex> anula a cada <fr:tex display="inline"><![CDATA[m_i]]></fr:tex>, por lo que es el endomorfismo nulo ede <fr:tex display="inline"><![CDATA[M]]></fr:tex>. Desarrollando el determinante se obtiene una ecuaci'on de la forma de la proposici'on.
+</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>9</fr:month>
+                      <fr:day>24</fr:day>
+                    </fr:date>
+                    <fr:uri>https://juan-mad.github.io/AC-000S/</fr:uri>
+                    <fr:display-uri>AC-000S</fr:display-uri>
+                    <fr:route>/AC-000S/</fr:route>
+                    <fr:title text="Corolario del truco del determinante">Corolario del <fr:link href="/AC-000R/" title="Truco del determinante" uri="https://juan-mad.github.io/AC-000R/" display-uri="AC-000R" type="local">truco del determinante</fr:link></fr:title>
+                    <fr:taxon>Corolario</fr:taxon>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Sea <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:link href="/AC-000Q/" title="M'odulos finitamente generados" uri="https://juan-mad.github.io/AC-000Q/" display-uri="AC-000Q" type="local">finitamente generado</fr:link> y sea <fr:tex display="inline"><![CDATA[I\subset  A]]></fr:tex> un ideal con <fr:tex display="inline"><![CDATA[IM=M]]></fr:tex>. Entonces existe un <fr:tex display="inline"><![CDATA[x\in  A]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[x\equiv  1\text { mod } I]]></fr:tex> y <fr:tex display="inline"><![CDATA[xM = 0]]></fr:tex>.</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>9</fr:month>
+                      <fr:day>24</fr:day>
+                    </fr:date>
+                    <fr:uri>https://juan-mad.github.io/AC-000T/</fr:uri>
+                    <fr:display-uri>AC-000T</fr:display-uri>
+                    <fr:route>/AC-000T/</fr:route>
+                    <fr:title text="Teorema de Cayley Hamilton">Teorema de Cayley Hamilton</fr:title>
+                    <fr:taxon>Teorema</fr:taxon>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un anillo y <fr:tex display="inline"><![CDATA[N=(a_{ij})\in \mathcal  M_{n\times  n}(A)]]></fr:tex>. Sea <fr:tex display="inline"><![CDATA[p(x) = det(xI_n - N)]]></fr:tex> el polinomio caracter'istico de N. Entonces <fr:tex display="inline"><![CDATA[p(N) = N^n + a_1N^{n-1} + \cdots  + a_n = 0\in \mathcal  M_{n\times  n}(A)]]></fr:tex>.</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>9</fr:month>
+                      <fr:day>24</fr:day>
+                    </fr:date>
+                    <fr:uri>https://juan-mad.github.io/AC-000U/</fr:uri>
+                    <fr:display-uri>AC-000U</fr:display-uri>
+                    <fr:route>/AC-000U/</fr:route>
+                    <fr:title text="Lema de Nakayama, versi'on 1">Lema de Nakayama, versi'on 1</fr:title>
+                    <fr:taxon>Lema</fr:taxon>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Sea <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:link href="/AC-000Q/" title="M'odulos finitamente generados" uri="https://juan-mad.github.io/AC-000Q/" display-uri="AC-000Q" type="local">finitamente generado</fr:link> y sea <fr:tex display="inline"><![CDATA[I\subset  A]]></fr:tex> un ideal contenido en el <fr:link href="/AC-000C/" title="Radical de Jacobson" uri="https://juan-mad.github.io/AC-000C/" display-uri="AC-000C" type="local">radical de Jacobson</fr:link>. Entonces <fr:tex display="inline"><![CDATA[IM=M]]></fr:tex> implica que <fr:tex display="inline"><![CDATA[M=0]]></fr:tex>.</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>9</fr:month>
+                      <fr:day>24</fr:day>
+                    </fr:date>
+                    <fr:uri>https://juan-mad.github.io/AC-000V/</fr:uri>
+                    <fr:display-uri>AC-000V</fr:display-uri>
+                    <fr:route>/AC-000V/</fr:route>
+                    <fr:title text="Lema de Nakayama, versi'on 2">Lema de Nakayama, versi'on 2</fr:title>
+                    <fr:taxon>Lema</fr:taxon>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Sea <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo, <fr:tex display="inline"><![CDATA[I\subset  A]]></fr:tex> es un ideal contenido en el <fr:link href="/AC-000C/" title="Radical de Jacobson" uri="https://juan-mad.github.io/AC-000C/" display-uri="AC-000C" type="local">radical de Jacobson</fr:link> y <fr:tex display="inline"><![CDATA[N\subset  M]]></fr:tex> subm'odulo tal que <fr:tex display="inline"><![CDATA[M/N]]></fr:tex> est'a <fr:link href="/AC-000Q/" title="M'odulos finitamente generados" uri="https://juan-mad.github.io/AC-000Q/" display-uri="AC-000Q" type="local">finitamente generado</fr:link> como <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo (en particular, lo est'a siempre que <fr:tex display="inline"><![CDATA[M]]></fr:tex> lo sea). Si , entonces <fr:tex display="inline"><![CDATA[N + IM = M]]></fr:tex> implica que <fr:tex display="inline"><![CDATA[N = M]]></fr:tex>.</html:p>
                   </fr:mainmatter>
                 </fr:tree>
               </fr:mainmatter>
@@ -859,7 +1156,42 @@
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>Un <html:em>subm'odulo</html:em> <fr:tex display="inline"><![CDATA[M']]></fr:tex> de <fr:tex display="inline"><![CDATA[M]]></fr:tex> es un subgropo de <fr:tex display="inline"><![CDATA[M]]></fr:tex> que es cerrado a la multiplicaci'on por elementos de <fr:tex display="inline"><![CDATA[A]]></fr:tex>. El grupo abeliano <fr:tex display="inline"><![CDATA[M/M']]></fr:tex> hereda una estructura de de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>, llamado el <html:em>m'odulo cociente</html:em> de <fr:tex display="inline"><![CDATA[M]]></fr:tex> por <fr:tex display="inline"><![CDATA[M']]></fr:tex>.</html:p>
-                <html:p>Si <fr:tex display="inline"><![CDATA[f\colon M\rightarrow N]]></fr:tex> es un homomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos, el <html:em>n'ucleo de <fr:tex display="inline"><![CDATA[f]]></fr:tex></html:em> es el conjunto <fr:tex display="inline"><![CDATA[\text {ker}f=\{x\in  M:f(x)=0\}]]></fr:tex>, y es un subm'odulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>, al igual que la <html:em>imagen</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, <fr:tex display="inline"><![CDATA[\text {Im}f]]></fr:tex>. Se induce naturalmente un homomorfismo <fr:tex display="inline"><![CDATA[\bar  f\colon M/M'\rightarrow N]]></fr:tex> para todo subm'odulo <fr:tex display="inline"><![CDATA[M'\subset  \text {ker}f]]></fr:tex>. En particular, tomando <fr:tex display="inline"><![CDATA[M'=\text {ker}f]]></fr:tex>, se tiene un isomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos <fr:tex display="inline"><![CDATA[M/\text {ker}f\cong \text {Im}f]]></fr:tex>.</html:p>
+                <html:p>Si <fr:tex display="inline"><![CDATA[f\colon M\rightarrow N]]></fr:tex> es un homomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos, se definen:
+
+<html:ul><html:li>El <html:em>n'ucleo de <fr:tex display="inline"><![CDATA[f]]></fr:tex></html:em> es el conjunto <fr:tex display="inline"><![CDATA[\text {ker}f=\{x\in  M:f(x)=0\}]]></fr:tex>, y es un subm'odulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>.</html:li>
+    <html:li>Igualmente, la <html:em>imagen</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, <fr:tex display="inline"><![CDATA[\text {Im}f]]></fr:tex>, es un subm'odulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>.</html:li>
+    <html:li>El <html:em>con'ucleo</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex> es <fr:tex display="inline"><![CDATA[\text {coker}f = N/\text {Im}f]]></fr:tex>, qe es un m'odulo cociente en <fr:tex display="inline"><![CDATA[N]]></fr:tex>.</html:li></html:ul>
+Se induce naturalmente un homomorfismo <fr:tex display="inline"><![CDATA[\bar  f\colon M/M'\rightarrow N]]></fr:tex> para todo subm'odulo <fr:tex display="inline"><![CDATA[M'\subset  \text {ker}f]]></fr:tex>.
+</html:p>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>9</fr:month>
+                      <fr:day>24</fr:day>
+                    </fr:date>
+                    <fr:uri>https://juan-mad.github.io/AC-000J/</fr:uri>
+                    <fr:display-uri>AC-000J</fr:display-uri>
+                    <fr:route>/AC-000J/</fr:route>
+                    <fr:title text="Teoremas de isomorf'ia">Teoremas de isomorf'ia</fr:title>
+                    <fr:taxon>Teorema</fr:taxon>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Sean <fr:tex display="inline"><![CDATA[M]]></fr:tex>, <fr:tex display="inline"><![CDATA[N]]></fr:tex>, <fr:tex display="inline"><![CDATA[L]]></fr:tex> <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos y sea <fr:tex display="inline"><![CDATA[\varphi \colon M\rightarrow N]]></fr:tex> un homomorifsmo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos. Se tienen los cl'asicos teoremas de isomorf'ia:
+
+<html:ol><html:li><html:em>Primer teorema de isomorf'ia</html:em>: <fr:tex display="inline"><![CDATA[M/\text {ker}\varphi \cong \text {Im}f.]]></fr:tex></html:li>
+    <html:li><html:em>Segundo teorema de isomorf'ia</html:em>: Si <fr:tex display="inline"><![CDATA[L\subset  N\subset  M]]></fr:tex> subm'odulos, entonces <fr:tex display="block"><![CDATA[N/M\cong  (N/L)/(M/L).]]></fr:tex></html:li>
+    <html:li><html:em>Tercer teorema de isomorf'ia</html:em>: Si <fr:tex display="inline"><![CDATA[N]]></fr:tex>, <fr:tex display="inline"><![CDATA[L]]></fr:tex> son subm'odulos de <fr:tex display="inline"><![CDATA[M]]></fr:tex>, entonces <fr:tex display="block"><![CDATA[(N+L)/N\cong  N/(N\cap  L).]]></fr:tex></html:li></html:ol>
+
+En particular, tomando <fr:tex display="inline"><![CDATA[M'=\text {ker}f]]></fr:tex>, se tiene un isomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos <fr:tex display="inline"><![CDATA[M/\text {ker}f\cong \text {Im}f]]></fr:tex>.
+</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -883,8 +1215,312 @@
               <fr:mainmatter>
                 <html:p>
                   <html:ol><html:li>La <html:em>intersecci'on de subm'odulos</html:em> de <fr:tex display="inline"><![CDATA[M]]></fr:tex> es un subm'odulo.</html:li>
-    <html:li>Dada una familia de subm'odulos, se define la <html:em>suma de subm'odulos</html:em> como la intersecci'on de todos los subm'odulos que contienen a la uni'on de los elementos de la familia. Esto resulta ser igual a la suma de un elemento de cada familia, donde solo un n'umero finito es no nulo.</html:li></html:ol>
+    <html:li>Dada una familia de subm'odulos, se define la <html:em>suma de subm'odulos</html:em> como la intersecci'on de todos los subm'odulos que contienen a la uni'on de los elementos de la familia. Esto resulta ser igual a la suma de un elemento de cada familia, donde solo un n'umero finito es no nulo. Si <fr:tex display="inline"><![CDATA[\{N_\lambda \}_\lambda ]]></fr:tex> es una familia de subm'odulos, entonces la suma directa es igual a <fr:tex display="block"><![CDATA[\bigoplus _\lambda  N_\lambda  = \left \{ \sum _{i=1}^{r}a_in_{\lambda _i} : n_{\lambda _i} \in  N_{\lambda _i}, i=1,\dots ,r \right \}.]]></fr:tex></html:li></html:ol>
                 </html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000I/</fr:uri>
+                <fr:display-uri>AC-000I</fr:display-uri>
+                <fr:route>/AC-000I/</fr:route>
+                <fr:title text="Endomorfismos &quot;multiplicaci'on&quot;">Endomorfismos "multiplicaci'on"</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Para un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> y un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[M]]></fr:tex>, introducimos una noci'on de endomorfismo "multiplicaci'on" <fr:tex display="inline"><![CDATA[\mu \colon  A \rightarrow  \text {End}(M)]]></fr:tex>, de forma que a cada elemento <fr:tex display="inline"><![CDATA[a]]></fr:tex> de <fr:tex display="inline"><![CDATA[A]]></fr:tex> se le asigna la aplicaci'on <fr:tex display="inline"><![CDATA[\mu _a\colon M\rightarrow M]]></fr:tex> que env'ia <fr:tex display="inline"><![CDATA[m\mapsto  am]]></fr:tex>. Gracias a la conmutatividad de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mu ]]></fr:tex> es un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo de anillos</fr:link>.
+</html:p>
+                <html:p>Si <fr:tex display="inline"><![CDATA[\varphi \in \text {End}(M)]]></fr:tex>, denotaremos <fr:tex display="inline"><![CDATA[\mu (A)[\varphi ]\subset \text {End}(M)]]></fr:tex> al subanillo generado por <fr:tex display="inline"><![CDATA[A]]></fr:tex> y la acci'on de <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex>, que es conmutativo. Esta construcci'on formal hace a <fr:tex display="inline"><![CDATA[M]]></fr:tex> un m'odulo sobre <fr:tex display="inline"><![CDATA[\mu (A)[\varphi ]\subset \text {End}(M)]]></fr:tex>.
+</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000K/</fr:uri>
+                <fr:display-uri>AC-000K</fr:display-uri>
+                <fr:route>/AC-000K/</fr:route>
+                <fr:title text="Suma y producto directos de m'odulos">Suma y producto directos de m'odulos</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Si <fr:tex display="inline"><![CDATA[M]]></fr:tex>, <fr:tex display="inline"><![CDATA[N]]></fr:tex> son <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos, su <html:em>suma directa</html:em> <fr:tex display="inline"><![CDATA[M\oplus  N]]></fr:tex> es el conjunto de todos los pares <fr:tex display="inline"><![CDATA[(x,y), x\in  M, y\in  N]]></fr:tex>. Con las operaciones componente a componente esta suma directa es un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-m'odulo.
+
+En general, si tenemos una familia <fr:tex display="inline"><![CDATA[\{M_i\}_i]]></fr:tex> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos se define su suma directa <fr:tex display="inline"><![CDATA[\bigoplus _iM_i]]></fr:tex> como las familias <fr:tex display="inline"><![CDATA[(x_i)_i]]></fr:tex> tales que <fr:tex display="inline"><![CDATA[x_i\in  M_i]]></fr:tex> y casi todas las <fr:tex display="inline"><![CDATA[x_i]]></fr:tex> son nulas (es decir, lo son todas salvo un n'umero finito).</html:p>
+                <html:p>Eliminando la restricci'on sobre el n'umero de componentes no nulas, se tiene entonces el <html:em>producto directo</html:em> <fr:tex display="inline"><![CDATA[\Pi _iM_i]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000M/</fr:uri>
+                <fr:display-uri>AC-000M</fr:display-uri>
+                <fr:route>/AC-000M/</fr:route>
+                <fr:title text="M'odulos libre">M'odulos libre</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <html:em>libre</html:em> es un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo isomorfo a uno de la forma <fr:tex display="inline"><![CDATA[\bigoplus _{i\in  \Lambda }M_i]]></fr:tex> donde <fr:tex display="inline"><![CDATA[M_i\cong  A]]></fr:tex> como <fr:tex display="inline"><![CDATA[A]]></fr:tex>-m'odulo. El conjunto <fr:tex display="inline"><![CDATA[\Lambda ]]></fr:tex> puede ser tanto finito como finito. Podemos escribir tambi'en <fr:tex display="inline"><![CDATA[A^{|\Lambda |}\cong \bigoplus _{i\in  \Lambda }M_i]]></fr:tex>, donde <fr:tex display="inline"><![CDATA[|\Lambda |]]></fr:tex> representa el cardinal de <fr:tex display="inline"><![CDATA[\Lambda ]]></fr:tex>; de forma que si <fr:tex display="inline"><![CDATA[\Lambda ]]></fr:tex> es finito puede escribirse <fr:tex display="inline"><![CDATA[M\cong  A^n]]></fr:tex> para alg'un <fr:tex display="inline"><![CDATA[n\in \mathbb  N]]></fr:tex>.
+</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000L/</fr:uri>
+                <fr:display-uri>AC-000L</fr:display-uri>
+                <fr:route>/AC-000L/</fr:route>
+                <fr:title text="M'odulos generados">M'odulos generados</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Dado <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo y <fr:tex display="inline"><![CDATA[X\subset  M]]></fr:tex>, se define el <html:em>subm'odulo generado por X</html:em> como <fr:tex display="block"><![CDATA[\langle  X \rangle  = \bigcap _{P\supset  X,\,P \text { subm'odulo}} P.]]></fr:tex> Este conjunto se caracteriza como las combinaciones <fr:tex display="inline"><![CDATA[A]]></fr:tex>-lineales finitas de elementos de <fr:tex display="inline"><![CDATA[X]]></fr:tex>.
+</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000N/</fr:uri>
+                <fr:display-uri>AC-000N</fr:display-uri>
+                <fr:route>/AC-000N/</fr:route>
+                <fr:title text="Sistema de generadores de un m'odulo">Sistema de generadores de un m'odulo</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Decimos que <fr:tex display="inline"><![CDATA[m_1,\dots ,m_t]]></fr:tex> generan un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[M]]></fr:tex> si todo elemento de <fr:tex display="inline"><![CDATA[M]]></fr:tex> puede escribirse como combinaci'on lineal de estos elementos, no necesariamente de foma 'unica.</html:p>
+                <html:p>Dado un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[M]]></fr:tex> y un conjunto de elementos <fr:tex display="inline"><![CDATA[\{m_i\}_{i\in  \Lambda }]]></fr:tex> de <fr:tex display="inline"><![CDATA[M]]></fr:tex>, definimos el homomorfismo <fr:tex display="block"><![CDATA[
+    \begin {align*}\varphi \colon  A^{|\Lambda |}&\longrightarrow  M \\ e_i&\longmapsto  m_i \\ \sum _{i=1}^rb_ie_i & \longmapsto  \sum _{i=1}^r b_im_i.\end {align*}]]></fr:tex>
+
+Entonces, <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex> es sobreyectivo si y s'olo si <fr:tex display="inline"><![CDATA[\{m_i\}_{i\in \Lambda }]]></fr:tex> es un sistema de generadores. Si adem'as <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex> es un isomorfismo, entonces <fr:tex display="inline"><![CDATA[M]]></fr:tex> es un <fr:link href="/AC-000M/" title="M'odulos libre" uri="https://juan-mad.github.io/AC-000M/" display-uri="AC-000M" type="local">m'odulo libre</fr:link>.</html:p>
+                <html:p>N'otese que en la definici'on de <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex>, los elementos <fr:tex display="inline"><![CDATA[e_i]]></fr:tex> est'an definidos de la misma forma que los elementos de la base can'onica de un espacio vectorial.
+</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000O/</fr:uri>
+                <fr:display-uri>AC-000O</fr:display-uri>
+                <fr:route>/AC-000O/</fr:route>
+                <fr:title text="Base de un m'odulo">Base de un m'odulo</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-m'odulo. Una <html:em>base</html:em> de <fr:tex display="inline"><![CDATA[M]]></fr:tex> es un subconjunto <fr:tex display="inline"><![CDATA[B\in  M]]></fr:tex> tal que es <fr:tex display="inline"><![CDATA[B]]></fr:tex> es un sistema de generados de <fr:tex display="inline"><![CDATA[M]]></fr:tex> y es <fr:tex display="inline"><![CDATA[A]]></fr:tex>-linealmente independiente.</html:p>
+                <html:p>Al contrario que en los espacios vectoriales, en general no pueden eliminarse elementos de un sistema de generadores hasta obtener una base.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000P/</fr:uri>
+                <fr:display-uri>AC-000P</fr:display-uri>
+                <fr:route>/AC-000P/</fr:route>
+                <fr:title text="M'odulos libres y bases">M'odulos libres y bases</fr:title>
+                <fr:taxon>Proposici'on</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-m'odulo. Entonces <fr:tex display="inline"><![CDATA[M]]></fr:tex> es un <fr:link href="/AC-000M/" title="M'odulos libre" uri="https://juan-mad.github.io/AC-000M/" display-uri="AC-000M" type="local">m'odulo libre</fr:link> si y s'olo si existe una <fr:link href="/AC-000O/" title="Base de un m'odulo" uri="https://juan-mad.github.io/AC-000O/" display-uri="AC-000O" type="local">base</fr:link> <fr:tex display="inline"><![CDATA[B]]></fr:tex> de <fr:tex display="inline"><![CDATA[M]]></fr:tex>. Esto puede probase f'acilmente utilizando el homomorfismo <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex> definido <fr:link href="/AC-000N/" title="Sistema de generadores de un m'odulo" uri="https://juan-mad.github.io/AC-000N/" display-uri="AC-000N" type="local">aqu'i</fr:link>, que en este caso resulta siempre ser un isomorfismo.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000Q/</fr:uri>
+                <fr:display-uri>AC-000Q</fr:display-uri>
+                <fr:route>/AC-000Q/</fr:route>
+                <fr:title text="M'odulos finitamente generados">M'odulos finitamente generados</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[M]]></fr:tex> se dice que es <html:em>finitamente <fr:link href="/AC-000L/" title="M'odulos generados" uri="https://juan-mad.github.io/AC-000L/" display-uri="AC-000L" type="local">generado</fr:link></html:em> si existe un n'umero finito de elementos <fr:tex display="inline"><![CDATA[m_1,\dots ,m_n\in  M]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\langle  m_1,\dots ,m_n\rangle  = M]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000R/</fr:uri>
+                <fr:display-uri>AC-000R</fr:display-uri>
+                <fr:route>/AC-000R/</fr:route>
+                <fr:title text="Truco del determinante">Truco del determinante</fr:title>
+                <fr:taxon>Proposici'on</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo de <fr:link href="/AC-000Q/" title="M'odulos finitamente generados" uri="https://juan-mad.github.io/AC-000Q/" display-uri="AC-000Q" type="local">generaci'on finita</fr:link>, sea <fr:tex display="inline"><![CDATA[I]]></fr:tex> un ideal de <fr:tex display="inline"><![CDATA[A]]></fr:tex> y sea <fr:tex display="inline"><![CDATA[\varphi \in \text {End}(M)]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\varphi (M) \subset  IM]]></fr:tex>. Entonces existen unos <fr:tex display="inline"><![CDATA[a_1,\dots ,a_n]]></fr:tex> con <fr:tex display="inline"><![CDATA[a_i\in  I^i, i=1,\dots ,n]]></fr:tex> tales que <fr:tex display="block"><![CDATA[\varphi ^n + a_1\varphi ^{n-1} + \cdots  + a_{n-1}\varphi  + a_n = 0.]]></fr:tex>
+
+Dado un conjunto de generadores <fr:tex display="inline"><![CDATA[m_1,\dots , m_n]]></fr:tex>, sabemos que <fr:tex display="inline"><![CDATA[\varphi (m_i)=\sum _{j=1}^na_{ij}x_j]]></fr:tex>, que es equivalente a escribir <fr:tex display="block"><![CDATA[\sum _{j=1}^n(\delta _{ij}\varphi  - a_ij)m_j = 0, \, \, j=1,\dots ,n]]></fr:tex> donde <fr:tex display="inline"><![CDATA[\delta _{ij}]]></fr:tex> es la delta de Kronecker. Escribiendo este conjunto de igualdades como una matriz, multiplicando por la izquierda por la matriz adjunta de <fr:tex display="inline"><![CDATA[\delta _{ij}\varphi  - a_{ij}]]></fr:tex> se sigue que <fr:tex display="inline"><![CDATA[\det (\delta _{ij}\varphi  - a_{ij})]]></fr:tex> anula a cada <fr:tex display="inline"><![CDATA[m_i]]></fr:tex>, por lo que es el endomorfismo nulo ede <fr:tex display="inline"><![CDATA[M]]></fr:tex>. Desarrollando el determinante se obtiene una ecuaci'on de la forma de la proposici'on.
+</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000S/</fr:uri>
+                <fr:display-uri>AC-000S</fr:display-uri>
+                <fr:route>/AC-000S/</fr:route>
+                <fr:title text="Corolario del truco del determinante">Corolario del <fr:link href="/AC-000R/" title="Truco del determinante" uri="https://juan-mad.github.io/AC-000R/" display-uri="AC-000R" type="local">truco del determinante</fr:link></fr:title>
+                <fr:taxon>Corolario</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:link href="/AC-000Q/" title="M'odulos finitamente generados" uri="https://juan-mad.github.io/AC-000Q/" display-uri="AC-000Q" type="local">finitamente generado</fr:link> y sea <fr:tex display="inline"><![CDATA[I\subset  A]]></fr:tex> un ideal con <fr:tex display="inline"><![CDATA[IM=M]]></fr:tex>. Entonces existe un <fr:tex display="inline"><![CDATA[x\in  A]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[x\equiv  1\text { mod } I]]></fr:tex> y <fr:tex display="inline"><![CDATA[xM = 0]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000T/</fr:uri>
+                <fr:display-uri>AC-000T</fr:display-uri>
+                <fr:route>/AC-000T/</fr:route>
+                <fr:title text="Teorema de Cayley Hamilton">Teorema de Cayley Hamilton</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un anillo y <fr:tex display="inline"><![CDATA[N=(a_{ij})\in \mathcal  M_{n\times  n}(A)]]></fr:tex>. Sea <fr:tex display="inline"><![CDATA[p(x) = det(xI_n - N)]]></fr:tex> el polinomio caracter'istico de N. Entonces <fr:tex display="inline"><![CDATA[p(N) = N^n + a_1N^{n-1} + \cdots  + a_n = 0\in \mathcal  M_{n\times  n}(A)]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000U/</fr:uri>
+                <fr:display-uri>AC-000U</fr:display-uri>
+                <fr:route>/AC-000U/</fr:route>
+                <fr:title text="Lema de Nakayama, versi'on 1">Lema de Nakayama, versi'on 1</fr:title>
+                <fr:taxon>Lema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:link href="/AC-000Q/" title="M'odulos finitamente generados" uri="https://juan-mad.github.io/AC-000Q/" display-uri="AC-000Q" type="local">finitamente generado</fr:link> y sea <fr:tex display="inline"><![CDATA[I\subset  A]]></fr:tex> un ideal contenido en el <fr:link href="/AC-000C/" title="Radical de Jacobson" uri="https://juan-mad.github.io/AC-000C/" display-uri="AC-000C" type="local">radical de Jacobson</fr:link>. Entonces <fr:tex display="inline"><![CDATA[IM=M]]></fr:tex> implica que <fr:tex display="inline"><![CDATA[M=0]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000V/</fr:uri>
+                <fr:display-uri>AC-000V</fr:display-uri>
+                <fr:route>/AC-000V/</fr:route>
+                <fr:title text="Lema de Nakayama, versi'on 2">Lema de Nakayama, versi'on 2</fr:title>
+                <fr:taxon>Lema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo, <fr:tex display="inline"><![CDATA[I\subset  A]]></fr:tex> es un ideal contenido en el <fr:link href="/AC-000C/" title="Radical de Jacobson" uri="https://juan-mad.github.io/AC-000C/" display-uri="AC-000C" type="local">radical de Jacobson</fr:link> y <fr:tex display="inline"><![CDATA[N\subset  M]]></fr:tex> subm'odulo tal que <fr:tex display="inline"><![CDATA[M/N]]></fr:tex> est'a <fr:link href="/AC-000Q/" title="M'odulos finitamente generados" uri="https://juan-mad.github.io/AC-000Q/" display-uri="AC-000Q" type="local">finitamente generado</fr:link> como <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo (en particular, lo est'a siempre que <fr:tex display="inline"><![CDATA[M]]></fr:tex> lo sea). Si , entonces <fr:tex display="inline"><![CDATA[N + IM = M]]></fr:tex> implica que <fr:tex display="inline"><![CDATA[N = M]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>
