@@ -495,7 +495,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                 <fr:display-uri>AC-0009</fr:display-uri>
                 <fr:route>/AC-0009/</fr:route>
                 <fr:title text="Anillo local">Anillo local</fr:title>
-                <fr:taxon>Teorema</fr:taxon>
+                <fr:taxon>Definición</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>Un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <html:em>local</html:em> cuando tiene exactamente un ideal maximal, <fr:tex display="inline"><![CDATA[\mathfrak  m]]></fr:tex>. El cuerpo <fr:tex display="inline"><![CDATA[A/\mathfrak  m]]></fr:tex> se denomina <html:em>cuerpo residual</html:em> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>

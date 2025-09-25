@@ -269,7 +269,7 @@
             <fr:taxon>Proposici'on</fr:taxon>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un anillo y sea <fr:tex display="inline"><![CDATA[\mathfrak  m]]></fr:tex> un <fr:link href="/AC-0007/" title="Ideales maximales" uri="https://juan-mad.github.io/AC-0007/" display-uri="AC-0007" type="local">ideal maximal</fr:link>.</html:p>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un anillo y sea <fr:tex display="inline"><![CDATA[\mathfrak  m]]></fr:tex> un <fr:link href="/AC-0007/" title="Ideales maximales" uri="https://juan-mad.github.io/AC-0007/" display-uri="AC-0007" type="local">ideal maximal</fr:link> (luego <fr:tex display="inline"><![CDATA[A/\mathfrak  m]]></fr:tex> es un cuerpo). Entonces el <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[M/\mathfrak  mM]]></fr:tex> puede considerarse es tambi'en un <fr:tex display="inline"><![CDATA[A/\mathfrak  m]]></fr:tex>-m'odulo, es decir, un <fr:tex display="inline"><![CDATA[A/\mathfrak  m]]></fr:tex>-espacio vectorial.</html:p>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>

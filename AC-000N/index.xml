@@ -497,6 +497,73 @@ Dado un conjunto de generadores <fr:tex display="inline"><![CDATA[m_1,\dots , m_
                 <html:p>Sea <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo, <fr:tex display="inline"><![CDATA[I\subset  A]]></fr:tex> es un ideal contenido en el <fr:link href="/AC-000C/" title="Radical de Jacobson" uri="https://juan-mad.github.io/AC-000C/" display-uri="AC-000C" type="local">radical de Jacobson</fr:link> y <fr:tex display="inline"><![CDATA[N\subset  M]]></fr:tex> subm'odulo tal que <fr:tex display="inline"><![CDATA[M/N]]></fr:tex> est'a <fr:link href="/AC-000Q/" title="M'odulos finitamente generados" uri="https://juan-mad.github.io/AC-000Q/" display-uri="AC-000Q" type="local">finitamente generado</fr:link> como <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo (en particular, lo est'a siempre que <fr:tex display="inline"><![CDATA[M]]></fr:tex> lo sea). Si , entonces <fr:tex display="inline"><![CDATA[N + IM = M]]></fr:tex> implica que <fr:tex display="inline"><![CDATA[N = M]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000W/</fr:uri>
+                <fr:display-uri>AC-000W</fr:display-uri>
+                <fr:route>/AC-000W/</fr:route>
+                <fr:title text="" />
+                <fr:taxon>Proposici'on</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un anillo y sea <fr:tex display="inline"><![CDATA[\mathfrak  m]]></fr:tex> un <fr:link href="/AC-0007/" title="Ideales maximales" uri="https://juan-mad.github.io/AC-0007/" display-uri="AC-0007" type="local">ideal maximal</fr:link> (luego <fr:tex display="inline"><![CDATA[A/\mathfrak  m]]></fr:tex> es un cuerpo). Entonces el <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[M/\mathfrak  mM]]></fr:tex> puede considerarse es tambi'en un <fr:tex display="inline"><![CDATA[A/\mathfrak  m]]></fr:tex>-m'odulo, es decir, un <fr:tex display="inline"><![CDATA[A/\mathfrak  m]]></fr:tex>-espacio vectorial.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000X/</fr:uri>
+                <fr:display-uri>AC-000X</fr:display-uri>
+                <fr:route>/AC-000X/</fr:route>
+                <fr:title text="" />
+                <fr:taxon>Proposici'on</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[A, \mathfrak  m]]></fr:tex> un <fr:link href="/AC-0009/" title="Anillo local" uri="https://juan-mad.github.io/AC-0009/" display-uri="AC-0009" type="local">anillo local</fr:link>, <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:link href="/AC-000Q/" title="M'odulos finitamente generados" uri="https://juan-mad.github.io/AC-000Q/" display-uri="AC-000Q" type="local">finitamente generado</fr:link>, y <fr:tex display="inline"><![CDATA[N\subset  M]]></fr:tex> un subm'odulo. Si <fr:tex display="inline"><![CDATA[m_1,\dots ,m_n \in  M]]></fr:tex> verifican que sus clases <fr:tex display="inline"><![CDATA[\bar {m_1},\dots ,\bar {m_n} \in  M/\mathfrak  mM]]></fr:tex> son generadores de <fr:tex display="inline"><![CDATA[M/\mathfrak  mM]]></fr:tex>, entonces los <fr:tex display="inline"><![CDATA[m_1,\dots ,m_n]]></fr:tex> son generadores de <fr:tex display="inline"><![CDATA[M]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AC-000Y/</fr:uri>
+                <fr:display-uri>AC-000Y</fr:display-uri>
+                <fr:route>/AC-000Y/</fr:route>
+                <fr:title text="Sucesiones exactas de m'odulos">Sucesiones exactas de m'odulos</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Una sucesi'on de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos y <fr:tex display="inline"><![CDATA[A]]></fr:tex>-homomorfismos</html:p>
+                <html:p>baaaar fooo asdas</html:p>
+              </fr:mainmatter>
+            </fr:tree>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>

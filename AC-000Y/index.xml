@@ -12,14 +12,15 @@
       <fr:month>9</fr:month>
       <fr:day>24</fr:day>
     </fr:date>
-    <fr:uri>https://juan-mad.github.io/AC-000U/</fr:uri>
-    <fr:display-uri>AC-000U</fr:display-uri>
-    <fr:route>/AC-000U/</fr:route>
-    <fr:title text="Lema de Nakayama, versi'on 1">Lema de Nakayama, versi'on 1</fr:title>
-    <fr:taxon>Lema</fr:taxon>
+    <fr:uri>https://juan-mad.github.io/AC-000Y/</fr:uri>
+    <fr:display-uri>AC-000Y</fr:display-uri>
+    <fr:route>/AC-000Y/</fr:route>
+    <fr:title text="Sucesiones exactas de m'odulos">Sucesiones exactas de m'odulos</fr:title>
+    <fr:taxon>Definici'on</fr:taxon>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Sea <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:link href="/AC-000Q/" title="M'odulos finitamente generados" uri="https://juan-mad.github.io/AC-000Q/" display-uri="AC-000Q" type="local">finitamente generado</fr:link> y sea <fr:tex display="inline"><![CDATA[I\subset  A]]></fr:tex> un ideal contenido en el <fr:link href="/AC-000C/" title="Radical de Jacobson" uri="https://juan-mad.github.io/AC-000C/" display-uri="AC-000C" type="local">radical de Jacobson</fr:link>. Entonces <fr:tex display="inline"><![CDATA[IM=M]]></fr:tex> implica que <fr:tex display="inline"><![CDATA[M=0]]></fr:tex>.</html:p>
+    <html:p>Una sucesi'on de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos y <fr:tex display="inline"><![CDATA[A]]></fr:tex>-homomorfismos</html:p>
+    <html:p>baaaar fooo asdas</html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -574,52 +575,7 @@ Dado un conjunto de generadores <fr:tex display="inline"><![CDATA[m_1,\dots , m_
         <fr:authors />
         <fr:title text="Related">Related</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter>
-        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-          <fr:frontmatter>
-            <fr:authors>
-              <fr:author>
-                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-              </fr:author>
-            </fr:authors>
-            <fr:date>
-              <fr:year>2025</fr:year>
-              <fr:month>9</fr:month>
-              <fr:day>24</fr:day>
-            </fr:date>
-            <fr:uri>https://juan-mad.github.io/AC-000Q/</fr:uri>
-            <fr:display-uri>AC-000Q</fr:display-uri>
-            <fr:route>/AC-000Q/</fr:route>
-            <fr:title text="M'odulos finitamente generados">M'odulos finitamente generados</fr:title>
-            <fr:taxon>Definici'on</fr:taxon>
-          </fr:frontmatter>
-          <fr:mainmatter>
-            <html:p>Un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[M]]></fr:tex> se dice que es <html:em>finitamente <fr:link href="/AC-000L/" title="M'odulos generados" uri="https://juan-mad.github.io/AC-000L/" display-uri="AC-000L" type="local">generado</fr:link></html:em> si existe un n'umero finito de elementos <fr:tex display="inline"><![CDATA[m_1,\dots ,m_n\in  M]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\langle  m_1,\dots ,m_n\rangle  = M]]></fr:tex>.</html:p>
-          </fr:mainmatter>
-        </fr:tree>
-        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-          <fr:frontmatter>
-            <fr:authors>
-              <fr:author>
-                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-              </fr:author>
-            </fr:authors>
-            <fr:date>
-              <fr:year>2025</fr:year>
-              <fr:month>9</fr:month>
-              <fr:day>23</fr:day>
-            </fr:date>
-            <fr:uri>https://juan-mad.github.io/AC-000C/</fr:uri>
-            <fr:display-uri>AC-000C</fr:display-uri>
-            <fr:route>/AC-000C/</fr:route>
-            <fr:title text="Radical de Jacobson">Radical de Jacobson</fr:title>
-            <fr:taxon>Definición</fr:taxon>
-          </fr:frontmatter>
-          <fr:mainmatter>
-            <html:p>El radical de Jacobson <fr:tex display="inline"><![CDATA[R(A)]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> se define como la intersección de todos los ideales maximales de <fr:tex display="inline"><![CDATA[A]]></fr:tex>. Se caracteriza por la siguiente propiedad: <fr:tex display="inline"><![CDATA[x\in  R(A) \Longleftrightarrow  1 - xy]]></fr:tex> es una unidad en <fr:tex display="inline"><![CDATA[A]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  A]]></fr:tex>.</html:p>
-          </fr:mainmatter>
-        </fr:tree>
-      </fr:mainmatter>
+      <fr:mainmatter />
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>
