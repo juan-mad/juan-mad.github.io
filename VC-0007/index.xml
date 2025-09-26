@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>9</fr:month>
+      <fr:day>26</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0007.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/VC-0007/</fr:uri>
+    <fr:display-uri>VC-0007</fr:display-uri>
+    <fr:route>/VC-0007/</fr:route>
+    <fr:title text="Argumento continuo de una función compleja">Argumento continuo de una función compleja</fr:title>
+    <fr:taxon>Definición</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[S]]></fr:tex> un subconjunto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex> y sea <fr:tex display="inline"><![CDATA[f\colon S\rightarrow \mathbb  C\setminus  \{0\}]]></fr:tex> una función continua. Una función <fr:tex display="inline"><![CDATA[\theta \colon S\rightarrow \mathbb  R]]></fr:tex> es un <html:em>argumento continuo</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex> si <fr:tex display="inline"><![CDATA[\theta ]]></fr:tex> es continua en <fr:tex display="inline"><![CDATA[S]]></fr:tex> y <fr:tex display="inline"><![CDATA[f(s) = |f(s)|e^{i\theta (s)}]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[s\in  S]]></fr:tex>.</html:p>
+    <html:p>Se verifica que si <fr:tex display="inline"><![CDATA[\theta ]]></fr:tex> es un argumento continuo de <fr:tex display="inline"><![CDATA[f\colon S\rightarrow \mathbb  C]]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[\ln |f| + i\theta ]]></fr:tex> es un <fr:link href="/VC-0006/" title="Logaritmo continuo de una función compleja" uri="https://juan-mad.github.io/VC-0006/" display-uri="VC-0006" type="local">logaritmo continuo</fr:link> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>; de hecho <fr:tex display="inline"><![CDATA[f]]></fr:tex> tiene un logaritmo continuo si y sólo si tiene un argumento continuo.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/R.%20B.%20Ash" type="external">R. B. Ash</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/W.%20P.%20Novinger" type="external">W. P. Novinger</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/ash-nov-cvs.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ash-nov-cvs/</fr:uri>
+            <fr:display-uri>ash-nov-cvs</fr:display-uri>
+            <fr:route>/ash-nov-cvs/</fr:route>
+            <fr:title text="Complex Variables">Complex Variables</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0009.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-0009/</fr:uri>
+            <fr:display-uri>VC-0009</fr:display-uri>
+            <fr:route>/VC-0009/</fr:route>
+            <fr:title text="'Indice de una curva respecto a un punto">'Indice de una <fr:link href="/VC-0002/" title="Curva en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-0002/" display-uri="VC-0002" type="local">curva</fr:link> respecto a un punto</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[\gamma \colon [a,b]\rightarrow \mathbb  C]]></fr:tex> una <fr:link href="/VC-0002/" title="Curva en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-0002/" display-uri="VC-0002" type="local">curva</fr:link> cerrada. Si <fr:tex display="inline"><![CDATA[z_0\notin \gamma ^*]]></fr:tex>, sea <fr:tex display="inline"><![CDATA[\theta _{z_0}]]></fr:tex> un <fr:link href="/VC-0007/" title="Argumento continuo de una función compleja" uri="https://juan-mad.github.io/VC-0007/" display-uri="VC-0007" type="local">argumento continuo</fr:link> de <fr:tex display="inline"><![CDATA[\gamma  - z_0]]></fr:tex>. El <html:em>índice de la curva <fr:tex display="inline"><![CDATA[\gamma ]]></fr:tex> con respecto a <fr:tex display="inline"><![CDATA[z_0]]></fr:tex></html:em> se define como <fr:tex display="block"><![CDATA[n(\gamma , z_0) = \frac {\theta _{z_0}(b) - \theta _{z_0}(a)}{2\pi }.]]></fr:tex></html:p>
+            <html:p>Este valor está bien definido, es decir, no depende de la elección de <fr:link href="/VC-0007/" title="Argumento continuo de una función compleja" uri="https://juan-mad.github.io/VC-0007/" display-uri="VC-0007" type="local">argumento continuo</fr:link>. Intuitivamente, <fr:tex display="inline"><![CDATA[n(\gamma ,z_0)]]></fr:tex> es el número neto de vueltas de <fr:tex display="inline"><![CDATA[\gamma ]]></fr:tex> alrededor de <fr:tex display="inline"><![CDATA[z_0]]></fr:tex>, por lo que también recibe el nombre de "winding number" en inglés.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0008.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-0008/</fr:uri>
+            <fr:display-uri>VC-0008</fr:display-uri>
+            <fr:route>/VC-0008/</fr:route>
+            <fr:title text="Existencia de logaritmo continuo para una curva">Existencia de logaritmo continuo para una curva</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[\gamma \colon [a,b]\rightarrow \mathbb  C\setminus  \{0\}]]></fr:tex> una <fr:link href="/VC-0002/" title="Curva en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-0002/" display-uri="VC-0002" type="local">curva</fr:link> con <fr:tex display="inline"><![CDATA[0\notin  \gamma ^*]]></fr:tex>. Entonces <fr:tex display="inline"><![CDATA[\gamma ]]></fr:tex> tiene un <fr:link href="/VC-0007/" title="Argumento continuo de una función compleja" uri="https://juan-mad.github.io/VC-0007/" display-uri="VC-0007" type="local">argumento continuo</fr:link> y por lo tanto también tiene un <fr:link href="/VC-0006/" title="Logaritmo continuo de una función compleja" uri="https://juan-mad.github.io/VC-0006/" display-uri="VC-0006" type="local">logaritmo continuo</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0006.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-0006/</fr:uri>
+            <fr:display-uri>VC-0006</fr:display-uri>
+            <fr:route>/VC-0006/</fr:route>
+            <fr:title text="Logaritmo continuo de una función compleja">Logaritmo continuo de una función compleja</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[S]]></fr:tex> un subconjunto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex> y sea <fr:tex display="inline"><![CDATA[f\colon S\rightarrow \mathbb  C\setminus  \{0\}]]></fr:tex> una función continua. Una función <fr:tex display="inline"><![CDATA[g\colon S\rightarrow \mathbb  C]]></fr:tex> es un <html:em>logaritmo continuo</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex> si <fr:tex display="inline"><![CDATA[g]]></fr:tex> es continua en <fr:tex display="inline"><![CDATA[S]]></fr:tex> y <fr:tex display="inline"><![CDATA[f(s) = e^{g(s)}]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[s\in  S]]></fr:tex>.</html:p>
+            <html:p>Se verifica que si <fr:tex display="inline"><![CDATA[g]]></fr:tex> es un logaritmo continuo de <fr:tex display="inline"><![CDATA[f\colon S\rightarrow \mathbb  C]]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[\mathrm {Im} g]]></fr:tex> es un <fr:link href="/VC-0007/" title="Argumento continuo de una función compleja" uri="https://juan-mad.github.io/VC-0007/" display-uri="VC-0007" type="local">argumento continuo</fr:link> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>; de hecho <fr:tex display="inline"><![CDATA[f]]></fr:tex> tiene un logaritmo continuo si y sólo si tiene un argumento continuo.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0006.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-0006/</fr:uri>
+            <fr:display-uri>VC-0006</fr:display-uri>
+            <fr:route>/VC-0006/</fr:route>
+            <fr:title text="Logaritmo continuo de una función compleja">Logaritmo continuo de una función compleja</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[S]]></fr:tex> un subconjunto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex> y sea <fr:tex display="inline"><![CDATA[f\colon S\rightarrow \mathbb  C\setminus  \{0\}]]></fr:tex> una función continua. Una función <fr:tex display="inline"><![CDATA[g\colon S\rightarrow \mathbb  C]]></fr:tex> es un <html:em>logaritmo continuo</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex> si <fr:tex display="inline"><![CDATA[g]]></fr:tex> es continua en <fr:tex display="inline"><![CDATA[S]]></fr:tex> y <fr:tex display="inline"><![CDATA[f(s) = e^{g(s)}]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[s\in  S]]></fr:tex>.</html:p>
+            <html:p>Se verifica que si <fr:tex display="inline"><![CDATA[g]]></fr:tex> es un logaritmo continuo de <fr:tex display="inline"><![CDATA[f\colon S\rightarrow \mathbb  C]]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[\mathrm {Im} g]]></fr:tex> es un <fr:link href="/VC-0007/" title="Argumento continuo de una función compleja" uri="https://juan-mad.github.io/VC-0007/" display-uri="VC-0007" type="local">argumento continuo</fr:link> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>; de hecho <fr:tex display="inline"><![CDATA[f]]></fr:tex> tiene un logaritmo continuo si y sólo si tiene un argumento continuo.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

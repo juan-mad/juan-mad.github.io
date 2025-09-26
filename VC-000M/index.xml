@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>9</fr:month>
+      <fr:day>26</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000M.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/VC-000M/</fr:uri>
+    <fr:display-uri>VC-000M</fr:display-uri>
+    <fr:route>/VC-000M/</fr:route>
+    <fr:title text="Métrica en el espacio de las funciones continuas en un abierto de \mathbb  C">Métrica en el espacio de las funciones continuas en un abierto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex></fr:title>
+    <fr:taxon>Ejemplo</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[\Omega \subset  \mathbb  C]]></fr:tex> un abierto. Dada <fr:tex display="inline"><![CDATA[\{K_n\}_{n = 1}^\infty ]]></fr:tex> una <fr:link href="/TOPO-VTQB/" title="Sucesión expansiva de compactos en un abierto" uri="https://juan-mad.github.io/TOPO-VTQB/" display-uri="TOPO-VTQB" type="local">sucesión expansiva de compactos</fr:link> de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> y dadas dos funciones contnuas <fr:tex display="inline"><![CDATA[f,g\in \mathscr  C(\Omega )]]></fr:tex> definimos <fr:tex display="block"><![CDATA[d(f,g) = \sum _{n=1}^\infty \frac {\|f-g\|_{K_n}}{1+\|f-g\|_{K_n}},]]></fr:tex> donde <fr:tex display="block"><![CDATA[\|h\|_{K_n} = \max _{z\in  K_n} |h(z)| < \infty , \, h\in \mathscr  C(\Omega ).]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n \neq  0]]></fr:tex>, o <fr:tex display="inline"><![CDATA[\|h\|_{K_n}=0]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n=\emptyset ]]></fr:tex>.</html:p>
+    <html:p>Puede probarse que <fr:tex display="inline"><![CDATA[d]]></fr:tex> define una métrica en <fr:tex display="inline"><![CDATA[\mathscr  C(\Omega )]]></fr:tex>.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/R.%20B.%20Ash" type="external">R. B. Ash</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/W.%20P.%20Novinger" type="external">W. P. Novinger</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/ash-nov-cvs.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ash-nov-cvs/</fr:uri>
+            <fr:display-uri>ash-nov-cvs</fr:display-uri>
+            <fr:route>/ash-nov-cvs/</fr:route>
+            <fr:title text="Complex Variables">Complex Variables</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000N.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-000N/</fr:uri>
+            <fr:display-uri>VC-000N</fr:display-uri>
+            <fr:route>/VC-000N/</fr:route>
+            <fr:title text="Espacio métrico completo de las funciones continuas en un abierto de \mathbb  C">Espacio métrico completo de las funciones continuas en un abierto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex></fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>26</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000M.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-000M/</fr:uri>
+                <fr:display-uri>VC-000M</fr:display-uri>
+                <fr:route>/VC-000M/</fr:route>
+                <fr:title text="Métrica en el espacio de las funciones continuas en un abierto de \mathbb  C">Métrica en el espacio de las funciones continuas en un abierto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex></fr:title>
+                <fr:taxon>Ejemplo</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[\Omega \subset  \mathbb  C]]></fr:tex> un abierto. Dada <fr:tex display="inline"><![CDATA[\{K_n\}_{n = 1}^\infty ]]></fr:tex> una <fr:link href="/TOPO-VTQB/" title="Sucesión expansiva de compactos en un abierto" uri="https://juan-mad.github.io/TOPO-VTQB/" display-uri="TOPO-VTQB" type="local">sucesión expansiva de compactos</fr:link> de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> y dadas dos funciones contnuas <fr:tex display="inline"><![CDATA[f,g\in \mathscr  C(\Omega )]]></fr:tex> definimos <fr:tex display="block"><![CDATA[d(f,g) = \sum _{n=1}^\infty \frac {\|f-g\|_{K_n}}{1+\|f-g\|_{K_n}},]]></fr:tex> donde <fr:tex display="block"><![CDATA[\|h\|_{K_n} = \max _{z\in  K_n} |h(z)| < \infty , \, h\in \mathscr  C(\Omega ).]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n \neq  0]]></fr:tex>, o <fr:tex display="inline"><![CDATA[\|h\|_{K_n}=0]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n=\emptyset ]]></fr:tex>.</html:p>
+                <html:p>Puede probarse que <fr:tex display="inline"><![CDATA[d]]></fr:tex> define una métrica en <fr:tex display="inline"><![CDATA[\mathscr  C(\Omega )]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Para una métrica <fr:tex display="inline"><![CDATA[d]]></fr:tex> <fr:link href="/VC-000M/" title="Métrica en el espacio de las funciones continuas en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000M/" display-uri="VC-000M" type="local">definida de esta forma</fr:link> a partir de una <fr:link href="/TOPO-VTQB/" title="Sucesión expansiva de compactos en un abierto" uri="https://juan-mad.github.io/TOPO-VTQB/" display-uri="TOPO-VTQB" type="local">sucesión expansiva de compactos en un abierto</fr:link>, una sucesión <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathscr  C(\Omega )]]></fr:tex> converge por <fr:tex display="inline"><![CDATA[d]]></fr:tex> hacia una función <fr:tex display="inline"><![CDATA[f]]></fr:tex> (resp. es de Cauchy) si y sólo si converge uniformemente en los compactos de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> hacia <fr:tex display="inline"><![CDATA[f]]></fr:tex> (resp. es uniformemente de Cauchy en los compactos de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>).
+</html:p>
+            <html:p>Adicionalmente, los espacios <fr:tex display="inline"><![CDATA[(\mathscr  C(\Omega ), d)]]></fr:tex> y <fr:tex display="inline"><![CDATA[(\mathscr  H(\Omega ), d)]]></fr:tex> son entonces espacios métricos completos.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000N.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-000N/</fr:uri>
+            <fr:display-uri>VC-000N</fr:display-uri>
+            <fr:route>/VC-000N/</fr:route>
+            <fr:title text="Espacio métrico completo de las funciones continuas en un abierto de \mathbb  C">Espacio métrico completo de las funciones continuas en un abierto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex></fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>26</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000M.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-000M/</fr:uri>
+                <fr:display-uri>VC-000M</fr:display-uri>
+                <fr:route>/VC-000M/</fr:route>
+                <fr:title text="Métrica en el espacio de las funciones continuas en un abierto de \mathbb  C">Métrica en el espacio de las funciones continuas en un abierto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex></fr:title>
+                <fr:taxon>Ejemplo</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[\Omega \subset  \mathbb  C]]></fr:tex> un abierto. Dada <fr:tex display="inline"><![CDATA[\{K_n\}_{n = 1}^\infty ]]></fr:tex> una <fr:link href="/TOPO-VTQB/" title="Sucesión expansiva de compactos en un abierto" uri="https://juan-mad.github.io/TOPO-VTQB/" display-uri="TOPO-VTQB" type="local">sucesión expansiva de compactos</fr:link> de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> y dadas dos funciones contnuas <fr:tex display="inline"><![CDATA[f,g\in \mathscr  C(\Omega )]]></fr:tex> definimos <fr:tex display="block"><![CDATA[d(f,g) = \sum _{n=1}^\infty \frac {\|f-g\|_{K_n}}{1+\|f-g\|_{K_n}},]]></fr:tex> donde <fr:tex display="block"><![CDATA[\|h\|_{K_n} = \max _{z\in  K_n} |h(z)| < \infty , \, h\in \mathscr  C(\Omega ).]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n \neq  0]]></fr:tex>, o <fr:tex display="inline"><![CDATA[\|h\|_{K_n}=0]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n=\emptyset ]]></fr:tex>.</html:p>
+                <html:p>Puede probarse que <fr:tex display="inline"><![CDATA[d]]></fr:tex> define una métrica en <fr:tex display="inline"><![CDATA[\mathscr  C(\Omega )]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Para una métrica <fr:tex display="inline"><![CDATA[d]]></fr:tex> <fr:link href="/VC-000M/" title="Métrica en el espacio de las funciones continuas en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000M/" display-uri="VC-000M" type="local">definida de esta forma</fr:link> a partir de una <fr:link href="/TOPO-VTQB/" title="Sucesión expansiva de compactos en un abierto" uri="https://juan-mad.github.io/TOPO-VTQB/" display-uri="TOPO-VTQB" type="local">sucesión expansiva de compactos en un abierto</fr:link>, una sucesión <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathscr  C(\Omega )]]></fr:tex> converge por <fr:tex display="inline"><![CDATA[d]]></fr:tex> hacia una función <fr:tex display="inline"><![CDATA[f]]></fr:tex> (resp. es de Cauchy) si y sólo si converge uniformemente en los compactos de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> hacia <fr:tex display="inline"><![CDATA[f]]></fr:tex> (resp. es uniformemente de Cauchy en los compactos de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>).
+</html:p>
+            <html:p>Adicionalmente, los espacios <fr:tex display="inline"><![CDATA[(\mathscr  C(\Omega ), d)]]></fr:tex> y <fr:tex display="inline"><![CDATA[(\mathscr  H(\Omega ), d)]]></fr:tex> son entonces espacios métricos completos.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/topology/TOPO-VTQB.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/TOPO-VTQB/</fr:uri>
+            <fr:display-uri>TOPO-VTQB</fr:display-uri>
+            <fr:route>/TOPO-VTQB/</fr:route>
+            <fr:title text="Sucesión expansiva de compactos en un abierto">Sucesión expansiva de compactos en un abierto</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Una <html:em>sucesión expansiva (o exhaustiva) de compactos en un abierto <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex></html:em> es una sucesión <fr:tex display="inline"><![CDATA[\{K_n\}_{n = 1}^\infty ]]></fr:tex> tales que:
+
+<html:ol><html:li><fr:tex display="inline"><![CDATA[K_n\subset  \overset {\circ }{K_{n+1}}]]></fr:tex> (contenido en el interior del siguiente elemento),</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[\Omega  = \sum _{n=1}^\infty  K_n]]></fr:tex>.</html:li></html:ol>
+Notemos que por compacidad, cualquier compacto <fr:tex display="inline"><![CDATA[K\subset \Omega ]]></fr:tex> estará contenido en algún <fr:tex display="inline"><![CDATA[K_n]]></fr:tex>.
+</html:p>
+            <html:p>Una posible construcción es la siguiente: <fr:tex display="block"><![CDATA[K_n = \overline {B}(0, n)\cap  \{ z\in \mathbb  C : \mathrm {dist}(z, \mathbb  C \setminus  \Omega ) \geq  1/n \}.]]></fr:tex> ignorando los términos previos a cierto <fr:tex display="inline"><![CDATA[n_0\in  \mathbb  N]]></fr:tex> para los cuales <fr:tex display="inline"><![CDATA[K_n = 0]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

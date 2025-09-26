@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>9</fr:month>
+      <fr:day>26</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0003.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/VC-0003/</fr:uri>
+    <fr:display-uri>VC-0003</fr:display-uri>
+    <fr:route>/VC-0003/</fr:route>
+    <fr:title text="Camino en un abierto de \mathbb  C">Camino en un abierto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex></fr:title>
+    <fr:taxon>Definición</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Un <html:em>camino</html:em> en un abierto <fr:tex display="inline"><![CDATA[U\subset \mathbb  C]]></fr:tex> es una <fr:link href="/VC-0002/" title="Curva en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-0002/" display-uri="VC-0002" type="local">curva</fr:link> en <fr:tex display="inline"><![CDATA[U]]></fr:tex> que sea <fr:tex display="inline"><![CDATA[C^1]]></fr:tex> a trozos, es decir, que existe una partición <fr:tex display="block"><![CDATA[t_0=a < t_1 < t_2 < \cdots  < t_n-1 < t_n = b]]></fr:tex>
+tal que <fr:tex display="block"><![CDATA[\gamma \Vert _{[t_{j-1}, t_j]} \text { es } C^1, j=1,\dots , n.]]></fr:tex></html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/R.%20B.%20Ash" type="external">R. B. Ash</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/W.%20P.%20Novinger" type="external">W. P. Novinger</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/ash-nov-cvs.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ash-nov-cvs/</fr:uri>
+            <fr:display-uri>ash-nov-cvs</fr:display-uri>
+            <fr:route>/ash-nov-cvs/</fr:route>
+            <fr:title text="Complex Variables">Complex Variables</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000J.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-000J/</fr:uri>
+            <fr:display-uri>VC-000J</fr:display-uri>
+            <fr:route>/VC-000J/</fr:route>
+            <fr:title text="Principio del argumento">Principio del argumento</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[f]]></fr:tex> <fr:link href="/VC-000F/" title="Funciones holomorfas o analíticas" uri="https://juan-mad.github.io/VC-000F/" display-uri="VC-000F" type="local">holomorfa</fr:link> en <fr:tex display="inline"><![CDATA[U\setminus  S]]></fr:tex> con <fr:tex display="inline"><![CDATA[U\subset  \mathbb  C]]></fr:tex> abierto y <fr:tex display="inline"><![CDATA[S]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[S'\cap  U = \emptyset ]]></fr:tex>, con cada <fr:tex display="inline"><![CDATA[z\in  S]]></fr:tex> un polo de <fr:tex display="inline"><![CDATA[f]]></fr:tex>. Supongamos que <fr:tex display="inline"><![CDATA[Z(f)]]></fr:tex>, el conjunto de ceros de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, tampoco tenga puntos de acumulación en <fr:tex display="inline"><![CDATA[U]]></fr:tex>, <fr:tex display="inline"><![CDATA[Z(f)'\cap  U = \emptyset ]]></fr:tex>.</html:p>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[\gamma ]]></fr:tex> un <fr:link href="/VC-0003/" title="Camino en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-0003/" display-uri="VC-0003" type="local">camino</fr:link> cerrado en <fr:tex display="inline"><![CDATA[U\setminus  (Z(f)\cup  S)]]></fr:tex> con <fr:tex display="inline"><![CDATA[n(\gamma , z) = 0]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[z\notin  U]]></fr:tex>. Entonces <fr:tex display="block"><![CDATA[n(f\circ \gamma , 0) = \sum _{b\in  Z(f)}n(\gamma , b)m(f,b) - \sum _{a\in  S}n(\gamma , a)\nu (\gamma , a),]]></fr:tex> donde <fr:tex display="inline"><![CDATA[m(f,b)]]></fr:tex> es el orden de <fr:tex display="inline"><![CDATA[b]]></fr:tex> como cero de <fr:tex display="inline"><![CDATA[f]]></fr:tex> y <fr:tex display="inline"><![CDATA[\nu (\gamma , a)]]></fr:tex> el orden de <fr:tex display="inline"><![CDATA[a]]></fr:tex> como <fr:link href="/VC-000H/" title="Polo de orden m" uri="https://juan-mad.github.io/VC-000H/" display-uri="VC-000H" type="local">polo</fr:link> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000D.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-000D/</fr:uri>
+            <fr:display-uri>VC-000D</fr:display-uri>
+            <fr:route>/VC-000D/</fr:route>
+            <fr:title text="Regla de Barrow">Regla de Barrow</fr:title>
+            <fr:taxon>Proposición</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Si <fr:tex display="inline"><![CDATA[f]]></fr:tex> tiene una primitiva <fr:tex display="inline"><![CDATA[F]]></fr:tex> en <fr:tex display="inline"><![CDATA[U]]></fr:tex> y <fr:tex display="inline"><![CDATA[\gamma \colon [a,b]\rightarrow \mathbb  C]]></fr:tex> es un <fr:link href="/VC-0003/" title="Camino en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-0003/" display-uri="VC-0003" type="local">camino</fr:link>, entonces <fr:tex display="block"><![CDATA[\int _\gamma  f = F(\gamma (b)) - F(\gamma (a)).]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000B.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-000B/</fr:uri>
+            <fr:display-uri>VC-000B</fr:display-uri>
+            <fr:route>/VC-000B/</fr:route>
+            <fr:title text="Teorema de los residuos">Teorema de los residuos</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C]]></fr:tex> un abierto, <fr:tex display="inline"><![CDATA[S\subset  U]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[S'\cap  U=\empty ]]></fr:tex> (<fr:tex display="inline"><![CDATA[U]]></fr:tex> no tiene puntos de acumulación de <fr:tex display="inline"><![CDATA[S]]></fr:tex>). Dada una función holomorfa <fr:tex display="inline"><![CDATA[f\in \mathscr  H(U\setminus  S)]]></fr:tex>, es decir en todos los puntos de <fr:tex display="inline"><![CDATA[U]]></fr:tex> salvo en un conjunto de puntos aislados; y un <fr:link href="/VC-0003/" title="Camino en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-0003/" display-uri="VC-0003" type="local">camino</fr:link> cerrado <fr:tex display="inline"><![CDATA[\gamma ]]></fr:tex> en <fr:tex display="inline"><![CDATA[U\setminus  S]]></fr:tex> tal que si <fr:tex display="inline"><![CDATA[z\notin  U, n(\gamma , z)=0]]></fr:tex>. Entonces <fr:tex display="block"><![CDATA[\int _\gamma  f = 2\pi  i\sum _{a\in  S}n(\gamma , a)\mathrm {Res}(f, a).]]></fr:tex></html:p>
+            <html:p>Utilizando el <fr:link href="/VC-000C/" title="Expansión de Laurent" uri="https://juan-mad.github.io/VC-000C/" display-uri="VC-000C" type="local">expansión de Laurent</fr:link> se tiene que <fr:tex display="block"><![CDATA[\mathrm {Res}(f,a) = a_{-1}.]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000A.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-000A/</fr:uri>
+            <fr:display-uri>VC-000A</fr:display-uri>
+            <fr:route>/VC-000A/</fr:route>
+            <fr:title text="Fórmula integral del índice de una curva respecto a un punto">Fórmula integral del índice de una curva respecto a un punto</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[\gamma ]]></fr:tex> un <fr:link href="/VC-0003/" title="Camino en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-0003/" display-uri="VC-0003" type="local">camino</fr:link> cerrado y sea <fr:tex display="inline"><![CDATA[z_0\notin \gamma ^*]]></fr:tex>. Entonces su <fr:link href="/VC-0009/" title="'Indice de una curva respecto a un punto" uri="https://juan-mad.github.io/VC-0009/" display-uri="VC-0009" type="local">índice respecto a <fr:tex display="inline"><![CDATA[z_0]]></fr:tex></fr:link> es <fr:tex display="block"><![CDATA[n(\gamma ,z_0) = \frac {1}{2\pi  i} \int _\gamma  \frac {1}{z-z_0}dz.]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0004.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-0004/</fr:uri>
+            <fr:display-uri>VC-0004</fr:display-uri>
+            <fr:route>/VC-0004/</fr:route>
+            <fr:title text="Ciclo en un abierto de \mathbb  C">Ciclo en un abierto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex></fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un <html:em>ciclo</html:em> en un abierto <fr:tex display="inline"><![CDATA[U\subset \mathbb  C]]></fr:tex> es una suma formal de <fr:link href="/VC-0003/" title="Camino en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-0003/" display-uri="VC-0003" type="local">caminos</fr:link> cerrados, es decir, que toman el mismo valor en los extremos del intervalo de definición, con coeficientes enteros: <fr:tex display="block"><![CDATA[\gamma  = \sum _{j=1}^n \alpha _j\gamma _j, \, \alpha _j\in  \mathbb  Z.]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0002.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-0002/</fr:uri>
+            <fr:display-uri>VC-0002</fr:display-uri>
+            <fr:route>/VC-0002/</fr:route>
+            <fr:title text="Curva en un abierto de \mathbb  C">Curva en un abierto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex></fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Una <html:em>curva</html:em> en un abierto<fr:tex display="inline"><![CDATA[U\subset \mathbb  C]]></fr:tex> es una función continua <fr:tex display="block"><![CDATA[
+    \begin {align*}
+    \gamma \colon  [a,b]\subset \mathbb  R & \longrightarrow  U \\
+    t & \mapsto  \gamma (t).
+    \end {align*}
+]]></fr:tex> El soporte de la curva se denota por <fr:tex display="inline"><![CDATA[\gamma ^*]]></fr:tex>: <fr:tex display="block"><![CDATA[\gamma ^* = \{\gamma (t)\in \mathbb  C : t\in [a,b]\}.]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

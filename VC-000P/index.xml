@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>9</fr:month>
+      <fr:day>26</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000P.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/VC-000P/</fr:uri>
+    <fr:display-uri>VC-000P</fr:display-uri>
+    <fr:route>/VC-000P/</fr:route>
+    <fr:title text="" />
+    <fr:taxon>Teorema</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> sucesión en <fr:tex display="inline"><![CDATA[\mathscr  H(\Omega )]]></fr:tex> que converge uniformemente hacia <fr:tex display="inline"><![CDATA[f]]></fr:tex> en los compactos de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>. Si <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> es conexo y para infinitos <fr:tex display="inline"><![CDATA[n\in \mathbb  N]]></fr:tex> los <fr:tex display="inline"><![CDATA[f_n]]></fr:tex> no se anulan en <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>, entonces o bien <fr:tex display="inline"><![CDATA[f]]></fr:tex> no se anula en <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> o bien es idénticamente nula.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/R.%20B.%20Ash" type="external">R. B. Ash</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/W.%20P.%20Novinger" type="external">W. P. Novinger</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/ash-nov-cvs.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ash-nov-cvs/</fr:uri>
+            <fr:display-uri>ash-nov-cvs</fr:display-uri>
+            <fr:route>/ash-nov-cvs/</fr:route>
+            <fr:title text="Complex Variables">Complex Variables</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

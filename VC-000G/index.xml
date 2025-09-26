@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>9</fr:month>
+      <fr:day>26</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000G.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/VC-000G/</fr:uri>
+    <fr:display-uri>VC-000G</fr:display-uri>
+    <fr:route>/VC-000G/</fr:route>
+    <fr:title text="Singularidad evitable">Singularidad evitable</fr:title>
+    <fr:taxon>Definición</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Decimos que <fr:tex display="inline"><![CDATA[f]]></fr:tex> tiene una <html:em>singularidad evitable</html:em> en <fr:tex display="inline"><![CDATA[z_0]]></fr:tex> si <fr:tex display="inline"><![CDATA[a_n = 0]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[n < 0]]></fr:tex> en su <fr:link href="/VC-000C/" title="Expansión de Laurent" uri="https://juan-mad.github.io/VC-000C/" display-uri="VC-000C" type="local">expansión de Laurent</fr:link>.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/R.%20B.%20Ash" type="external">R. B. Ash</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/W.%20P.%20Novinger" type="external">W. P. Novinger</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/ash-nov-cvs.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ash-nov-cvs/</fr:uri>
+            <fr:display-uri>ash-nov-cvs</fr:display-uri>
+            <fr:route>/ash-nov-cvs/</fr:route>
+            <fr:title text="Complex Variables">Complex Variables</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000E.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-000E/</fr:uri>
+            <fr:display-uri>VC-000E</fr:display-uri>
+            <fr:route>/VC-000E/</fr:route>
+            <fr:title text="Singularidades">Singularidades</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Se dice que <fr:tex display="inline"><![CDATA[f]]></fr:tex> tiene una <html:em>singularidad aislada</html:em> en <fr:tex display="inline"><![CDATA[z_0]]></fr:tex> si <fr:tex display="inline"><![CDATA[f]]></fr:tex> es holomorfa en <fr:tex display="inline"><![CDATA[B(z_0,r)\setminus  \{z_0\}]]></fr:tex> para algún <fr:tex display="inline"><![CDATA[r]]></fr:tex>. Sea <fr:tex display="inline"><![CDATA[\sum _{n=-\infty }^\infty  a_n(z-z_0)^n]]></fr:tex> su <fr:link href="/VC-000C/" title="Expansión de Laurent" uri="https://juan-mad.github.io/VC-000C/" display-uri="VC-000C" type="local">expansión de Laurent</fr:link> en <fr:tex display="inline"><![CDATA[z_0]]></fr:tex>.</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>26</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000G.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-000G/</fr:uri>
+                <fr:display-uri>VC-000G</fr:display-uri>
+                <fr:route>/VC-000G/</fr:route>
+                <fr:title text="Singularidad evitable">Singularidad evitable</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Decimos que <fr:tex display="inline"><![CDATA[f]]></fr:tex> tiene una <html:em>singularidad evitable</html:em> en <fr:tex display="inline"><![CDATA[z_0]]></fr:tex> si <fr:tex display="inline"><![CDATA[a_n = 0]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[n < 0]]></fr:tex> en su <fr:link href="/VC-000C/" title="Expansión de Laurent" uri="https://juan-mad.github.io/VC-000C/" display-uri="VC-000C" type="local">expansión de Laurent</fr:link>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>26</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000H.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-000H/</fr:uri>
+                <fr:display-uri>VC-000H</fr:display-uri>
+                <fr:route>/VC-000H/</fr:route>
+                <fr:title text="Polo de orden m">Polo de orden <fr:tex display="inline"><![CDATA[m]]></fr:tex></fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Decimos que <fr:tex display="inline"><![CDATA[f]]></fr:tex> tiene un <html:em>polo de orden <fr:tex display="inline"><![CDATA[m]]></fr:tex></html:em> en <fr:tex display="inline"><![CDATA[z_0]]></fr:tex> si <fr:tex display="inline"><![CDATA[m]]></fr:tex> es el natural más grande para el que <fr:tex display="inline"><![CDATA[a_{-m} \neq  0]]></fr:tex>.</html:p>
+                <html:p>Un polo de orden <fr:tex display="inline"><![CDATA[1]]></fr:tex> suele llamarse <html:em>polo simple</html:em>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>26</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000I.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-000I/</fr:uri>
+                <fr:display-uri>VC-000I</fr:display-uri>
+                <fr:route>/VC-000I/</fr:route>
+                <fr:title text="Singularidad esencial">Singularidad esencial</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Decimos que <fr:tex display="inline"><![CDATA[f]]></fr:tex> tiene un <html:em>singularidad esencial</html:em> en <fr:tex display="inline"><![CDATA[z_0]]></fr:tex> si <fr:tex display="inline"><![CDATA[a_n\neq  0]]></fr:tex> para infinitos <fr:tex display="inline"><![CDATA[n < 0]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000C.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-000C/</fr:uri>
+            <fr:display-uri>VC-000C</fr:display-uri>
+            <fr:route>/VC-000C/</fr:route>
+            <fr:title text="Expansión de Laurent">Expansión de Laurent</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Si <fr:tex display="inline"><![CDATA[f\in \mathscr  H(B(z_0,r)\setminus \{0\})]]></fr:tex> (es decir, es analítica), se puede escribir la función como un <html:em>desarrollo o expansión de Laurent</html:em> <fr:tex display="block"><![CDATA[f(z) = \sum _{n=0}^\infty  a_n(z-z_0)^n + \sum _{n=1}^\infty  \frac {a_n}{(z-z_0)^n} = \sum _{n=-\infty }^\infty  a_n(z-z_0)^n.]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

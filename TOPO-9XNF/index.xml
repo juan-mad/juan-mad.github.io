@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>9</fr:month>
+      <fr:day>26</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/topology/TOPO-9XNF.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/TOPO-9XNF/</fr:uri>
+    <fr:display-uri>TOPO-9XNF</fr:display-uri>
+    <fr:route>/TOPO-9XNF/</fr:route>
+    <fr:title text="Espacio relativamente compacto">Espacio relativamente compacto</fr:title>
+    <fr:taxon>Definición</fr:taxon>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Dado un espacio topológico <fr:tex display="inline"><![CDATA[E]]></fr:tex>, se dice que <fr:tex display="inline"><![CDATA[A\subset  E]]></fr:tex> es <html:em>relativamente compacto</html:em> si su adherencia <fr:tex display="inline"><![CDATA[\overline  A]]></fr:tex> es compacto.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000V.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-000V/</fr:uri>
+            <fr:display-uri>VC-000V</fr:display-uri>
+            <fr:route>/VC-000V/</fr:route>
+            <fr:title text="Teorema de Montel">Teorema de Montel</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Dado un abierto <fr:tex display="inline"><![CDATA[\Omega \subset \mathbb  C]]></fr:tex>, sea <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> una familia <fr:link href="/VC-000R/" title="Conjuntos acotados de funciones continuas en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000R/" display-uri="VC-000R" type="local">acotada</fr:link>. Entonces toda sucesión <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> de elementos de <fr:tex display="inline"><![CDATA[\mathscr  F]]></fr:tex> admine una subsucesión que converge uniformemente en los compactos de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>. Es decir, todo <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> acotado es <fr:link href="/TOPO-9XNF/" title="Espacio relativamente compacto" uri="https://juan-mad.github.io/TOPO-9XNF/" display-uri="TOPO-9XNF" type="local">relativamente compacto</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

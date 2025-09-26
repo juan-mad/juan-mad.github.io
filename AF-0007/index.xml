@@ -12,6 +12,7 @@
       <fr:month>9</fr:month>
       <fr:day>22</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0007.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/AF-0007/</fr:uri>
     <fr:display-uri>AF-0007</fr:display-uri>
     <fr:route>/AF-0007/</fr:route>
@@ -47,6 +48,7 @@
               <fr:month>9</fr:month>
               <fr:day>22</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0006.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AF-0006/</fr:uri>
             <fr:display-uri>AF-0006</fr:display-uri>
             <fr:route>/AF-0006/</fr:route>
@@ -68,6 +70,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0007.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0007/</fr:uri>
                 <fr:display-uri>AF-0007</fr:display-uri>
                 <fr:route>/AF-0007/</fr:route>

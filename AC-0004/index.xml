@@ -12,11 +12,15 @@
       <fr:month>9</fr:month>
       <fr:day>21</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0004.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/AC-0004/</fr:uri>
     <fr:display-uri>AC-0004</fr:display-uri>
     <fr:route>/AC-0004/</fr:route>
     <fr:title text="Ideales de un anillo">Ideales de un anillo</fr:title>
     <fr:taxon>Definición</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+    </fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
     <html:p>Un <html:em>ideal</html:em> <fr:tex display="inline"><![CDATA[I]]></fr:tex> de un anillo es un subconjunto de <fr:tex display="inline"><![CDATA[A]]></fr:tex> que es un subgrupo aditivo y tal que <fr:tex display="inline"><![CDATA[AI\subset  I]]></fr:tex>.</html:p>
@@ -33,17 +37,21 @@
           <fr:month>9</fr:month>
           <fr:day>21</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0005.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/AC-0005/</fr:uri>
         <fr:display-uri>AC-0005</fr:display-uri>
         <fr:route>/AC-0005/</fr:route>
         <fr:title text="Correspondencia entre ideales e ideales en el anillo cociente">Correspondencia entre ideales e ideales en el anillo cociente</fr:title>
         <fr:taxon>Proposición</fr:taxon>
+        <fr:meta name="sources">
+          <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+        </fr:meta>
       </fr:frontmatter>
       <fr:mainmatter>
         <html:p>Existe una correspondencia biyectiva que conserva el orden entre los ideales <fr:tex display="inline"><![CDATA[I]]></fr:tex> de <fr:tex display="inline"><![CDATA[A]]></fr:tex> y los ideales <fr:tex display="inline"><![CDATA[\bar  I]]></fr:tex> de <fr:tex display="inline"><![CDATA[A/I]]></fr:tex>.</html:p>
       </fr:mainmatter>
     </fr:tree>
-    <html:p>Si <fr:tex display="inline"><![CDATA[f\colon A\rightarrow B]]></fr:tex> es un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo</fr:link> de anillos, el <html:em>núcleo</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, <fr:tex display="inline"><![CDATA[\text {ker}f]]></fr:tex>=<fr:tex display="inline"><![CDATA[f^{-1}(\{0\})]]></fr:tex>, es un ideal de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, y la <html:em>imagen</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, <fr:tex display="inline"><![CDATA[f(A)]]></fr:tex>, es un subanillo de <fr:tex display="inline"><![CDATA[B]]></fr:tex>; y <fr:tex display="inline"><![CDATA[f]]></fr:tex> induce un isomorfismo de anillos <fr:tex display="inline"><![CDATA[A/\text {ker}f \cong  f(A)]]></fr:tex>.</html:p>
+    <html:p>Si <fr:tex display="inline"><![CDATA[f\colon A\rightarrow B]]></fr:tex> es un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo</fr:link> de anillos, el <html:em>núcleo</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathrm {ker} f=f^{-1}(\{0\})]]></fr:tex>, es un ideal de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, y la <html:em>imagen</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, <fr:tex display="inline"><![CDATA[f(A)]]></fr:tex>, es un subanillo de <fr:tex display="inline"><![CDATA[B]]></fr:tex>; y <fr:tex display="inline"><![CDATA[f]]></fr:tex> induce un isomorfismo de anillos <fr:tex display="inline"><![CDATA[A/\mathrm {ker} f \cong  f(A)]]></fr:tex>.</html:p>
     <fr:tree show-metadata="false">
       <fr:frontmatter>
         <fr:authors>
@@ -56,11 +64,15 @@
           <fr:month>9</fr:month>
           <fr:day>21</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0006.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/AC-0006/</fr:uri>
         <fr:display-uri>AC-0006</fr:display-uri>
         <fr:route>/AC-0006/</fr:route>
         <fr:title text="Ideales primos">Ideales primos</fr:title>
         <fr:taxon>Definición</fr:taxon>
+        <fr:meta name="sources">
+          <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+        </fr:meta>
       </fr:frontmatter>
       <fr:mainmatter>
         <html:p>Un ideal <fr:tex display="inline"><![CDATA[I]]></fr:tex> en <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <html:em>primo</html:em> si <fr:tex display="inline"><![CDATA[I \neq  (1)]]></fr:tex> y si <fr:tex display="inline"><![CDATA[xy\in  I]]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[x=0]]></fr:tex> ó <fr:tex display="inline"><![CDATA[y=0]]></fr:tex>.</html:p>
@@ -77,14 +89,18 @@
               <fr:month>9</fr:month>
               <fr:day>23</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000B.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
             <fr:display-uri>AC-000B</fr:display-uri>
             <fr:route>/AC-000B/</fr:route>
             <fr:title text="Espectro de un anillo">Espectro de un anillo</fr:title>
             <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+            </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Se denota por <fr:tex display="inline"><![CDATA[\text {Spec}]]></fr:tex>(A), el espectro de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
+            <html:p>Se denota por <fr:tex display="inline"><![CDATA[\mathrm {Spec}]]></fr:tex>(A), el espectro de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>
@@ -101,11 +117,15 @@
           <fr:month>9</fr:month>
           <fr:day>21</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0007.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/AC-0007/</fr:uri>
         <fr:display-uri>AC-0007</fr:display-uri>
         <fr:route>/AC-0007/</fr:route>
         <fr:title text="Ideales maximales">Ideales maximales</fr:title>
         <fr:taxon>Definición</fr:taxon>
+        <fr:meta name="sources">
+          <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+        </fr:meta>
       </fr:frontmatter>
       <fr:mainmatter>
         <html:p>Un ideal <fr:tex display="inline"><![CDATA[I]]></fr:tex> en <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <html:em>maximal</html:em> si <fr:tex display="inline"><![CDATA[I\neq  A]]></fr:tex> y si no existe ningún ideal <fr:tex display="inline"><![CDATA[J]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[I\subsetneq  J \subsetneq  A]]></fr:tex>.</html:p>
@@ -124,11 +144,15 @@
           <fr:month>9</fr:month>
           <fr:day>22</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0008.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/AC-0008/</fr:uri>
         <fr:display-uri>AC-0008</fr:display-uri>
         <fr:route>/AC-0008/</fr:route>
         <fr:title text="Existencia de ideal maximal">Existencia de ideal maximal</fr:title>
         <fr:taxon>Teorema</fr:taxon>
+        <fr:meta name="sources">
+          <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+        </fr:meta>
       </fr:frontmatter>
       <fr:mainmatter>
         <html:p>Cada anillo <fr:tex display="inline"><![CDATA[A \neq  0]]></fr:tex> tiene, por lo menos, un ideal maximal (requiere el lema de Zorn).</html:p>
@@ -149,15 +173,19 @@
           <fr:month>9</fr:month>
           <fr:day>22</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000A.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/AC-000A/</fr:uri>
         <fr:display-uri>AC-000A</fr:display-uri>
         <fr:route>/AC-000A/</fr:route>
         <fr:title text="Nilradical de un ideal">Nilradical de un ideal</fr:title>
         <fr:taxon>Proposición</fr:taxon>
+        <fr:meta name="sources">
+          <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+        </fr:meta>
       </fr:frontmatter>
       <fr:mainmatter>
         <html:p>El nilradical de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex>, <fr:tex display="inline"><![CDATA[N(A)=\sqrt {0} = \{a\in  A : \exists  n\in  N, a^n=0\}]]></fr:tex>, el conjunto de los elementos nilpotentes de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, es un ideal, y <fr:tex display="inline"><![CDATA[A/N(A)]]></fr:tex> no tiene ningún elemento nilpotente no nulo.</html:p>
-        <html:p>El nilradical de <fr:tex display="inline"><![CDATA[A]]></fr:tex> cumple la propiedad de ser la intersección de todos los ideales primos de A (<fr:link href="/AC-000B/" title="Espectro de un anillo" uri="https://juan-mad.github.io/AC-000B/" display-uri="AC-000B" type="local">espectro de A</fr:link>): <fr:tex display="block"><![CDATA[N(A) = \bigcap _{\mathfrak  p\in  \text {Spec}(A)}\mathfrak  p.]]></fr:tex></html:p>
+        <html:p>El nilradical de <fr:tex display="inline"><![CDATA[A]]></fr:tex> cumple la propiedad de ser la intersección de todos los ideales primos de A (<fr:link href="/AC-000B/" title="Espectro de un anillo" uri="https://juan-mad.github.io/AC-000B/" display-uri="AC-000B" type="local">espectro de A</fr:link>): <fr:tex display="block"><![CDATA[N(A) = \bigcap _{\mathfrak  p\in  \mathrm {Spec}(A)}\mathfrak  p.]]></fr:tex></html:p>
       </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false">
@@ -172,14 +200,18 @@
           <fr:month>9</fr:month>
           <fr:day>23</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000B.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
         <fr:display-uri>AC-000B</fr:display-uri>
         <fr:route>/AC-000B/</fr:route>
         <fr:title text="Espectro de un anillo">Espectro de un anillo</fr:title>
         <fr:taxon>Definición</fr:taxon>
+        <fr:meta name="sources">
+          <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+        </fr:meta>
       </fr:frontmatter>
       <fr:mainmatter>
-        <html:p>Se denota por <fr:tex display="inline"><![CDATA[\text {Spec}]]></fr:tex>(A), el espectro de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
+        <html:p>Se denota por <fr:tex display="inline"><![CDATA[\mathrm {Spec}]]></fr:tex>(A), el espectro de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
       </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false">
@@ -194,11 +226,15 @@
           <fr:month>9</fr:month>
           <fr:day>23</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000C.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/AC-000C/</fr:uri>
         <fr:display-uri>AC-000C</fr:display-uri>
         <fr:route>/AC-000C/</fr:route>
         <fr:title text="Radical de Jacobson">Radical de Jacobson</fr:title>
         <fr:taxon>Definición</fr:taxon>
+        <fr:meta name="sources">
+          <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+        </fr:meta>
       </fr:frontmatter>
       <fr:mainmatter>
         <html:p>El radical de Jacobson <fr:tex display="inline"><![CDATA[R(A)]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> se define como la intersección de todos los ideales maximales de <fr:tex display="inline"><![CDATA[A]]></fr:tex>. Se caracteriza por la siguiente propiedad: <fr:tex display="inline"><![CDATA[x\in  R(A) \Longleftrightarrow  1 - xy]]></fr:tex> es una unidad en <fr:tex display="inline"><![CDATA[A]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  A]]></fr:tex>.</html:p>
@@ -211,7 +247,55 @@
         <fr:authors />
         <fr:title text="References">References</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/M.%20F.%20Atiyah" type="external">M. F. Atiyah</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/I.%20G.%20MacDonald" type="external">I. G. MacDonald</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/atiyah-macdonald-intro-alg-conm.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/</fr:uri>
+            <fr:display-uri>atiyah-macdonald-intro-alg-conm</fr:display-uri>
+            <fr:route>/atiyah-macdonald-intro-alg-conm/</fr:route>
+            <fr:title text="Introducción al álgebra conmutativa">Introducción al álgebra conmutativa</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="bibtex"><![CDATA[@book{alma991005416249705774,
+author = {Atiyah, M. F. and MacDonald, I. G.},
+address = {Barcelona [etc},
+booktitle = {Introducción al álgebra conmutativa},
+isbn = {84-291-5008-0},
+keywords = {Algebra Conmutativa},
+language = {spa},
+publisher = {Reverté},
+title = {Introducción al álgebra conmutativa },
+year = {1978},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/Miles%20Reid/" type="external">Miles Reid</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/reid-undergrad-comm-alg.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/reid-undergrad-comm-alg/</fr:uri>
+            <fr:display-uri>reid-undergrad-comm-alg</fr:display-uri>
+            <fr:route>/reid-undergrad-comm-alg/</fr:route>
+            <fr:title text="Undergraduate Commutative Algebra">Undergraduate Commutative Algebra</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="bibtex"><![CDATA[@book{Reid_1995, place={Cambridge}, series={London Mathematical Society Student Texts}, title={Undergraduate Commutative Algebra}, publisher={Cambridge University Press}, author={Reid, Miles}, year={1995}, collection={London Mathematical Society Student Texts}}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>
@@ -231,11 +315,15 @@
               <fr:month>9</fr:month>
               <fr:day>21</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0002.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-0002/</fr:uri>
             <fr:display-uri>AC-0002</fr:display-uri>
             <fr:route>/AC-0002/</fr:route>
             <fr:title text="Anillos">Anillos</fr:title>
             <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+            </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
             <html:p>Un <html:em>anillo</html:em> <fr:tex display="inline"><![CDATA[A]]></fr:tex> es un conjunto con dos operaciones binarias, normalmente llamadas adición y multiplicación, tales que:
@@ -258,18 +346,22 @@
                   <fr:month>9</fr:month>
                   <fr:day>21</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0003.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-0003/</fr:uri>
                 <fr:display-uri>AC-0003</fr:display-uri>
                 <fr:route>/AC-0003/</fr:route>
                 <fr:title text="Homomorfismo de anillos">Homomorfismo de anillos</fr:title>
                 <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+                </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>Un <html:em>homomorfismo de anillos</html:em> es una aplicación <fr:tex display="inline"><![CDATA[f\colon A\rightarrow B]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> en un anillo <fr:tex display="inline"><![CDATA[B]]></fr:tex> tal que
 <html:ol><html:li><fr:tex display="inline"><![CDATA[f(x+y) = f(x) = f(y)]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[f(xy) = f(x)f(y)]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[f(1) = 1]]></fr:tex>.</html:li></html:ol>
-El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA[A]]></fr:tex> y <fr:tex display="inline"><![CDATA[B]]></fr:tex> se denota por <fr:tex display="inline"><![CDATA[\text {Hom}(A,B)]]></fr:tex>. En el caso de que <fr:tex display="inline"><![CDATA[A=B]]></fr:tex>, los homomorfismos son endomorfismos, y lo denotamos por <fr:tex display="inline"><![CDATA[\text {End}(A)]]></fr:tex>.
+El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA[A]]></fr:tex> y <fr:tex display="inline"><![CDATA[B]]></fr:tex> se denota por <fr:tex display="inline"><![CDATA[\mathrm {Hom}(A,B)]]></fr:tex>. En el caso de que <fr:tex display="inline"><![CDATA[A=B]]></fr:tex>, los homomorfismos son endomorfismos, y lo denotamos por <fr:tex display="inline"><![CDATA[\mathrm {End}(A)]]></fr:tex>.
 </html:p>
               </fr:mainmatter>
             </fr:tree>
@@ -285,11 +377,15 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                   <fr:month>9</fr:month>
                   <fr:day>21</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0004.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-0004/</fr:uri>
                 <fr:display-uri>AC-0004</fr:display-uri>
                 <fr:route>/AC-0004/</fr:route>
                 <fr:title text="Ideales de un anillo">Ideales de un anillo</fr:title>
                 <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+                </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>Un <html:em>ideal</html:em> <fr:tex display="inline"><![CDATA[I]]></fr:tex> de un anillo es un subconjunto de <fr:tex display="inline"><![CDATA[A]]></fr:tex> que es un subgrupo aditivo y tal que <fr:tex display="inline"><![CDATA[AI\subset  I]]></fr:tex>.</html:p>
@@ -306,17 +402,21 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                       <fr:month>9</fr:month>
                       <fr:day>21</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0005.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AC-0005/</fr:uri>
                     <fr:display-uri>AC-0005</fr:display-uri>
                     <fr:route>/AC-0005/</fr:route>
                     <fr:title text="Correspondencia entre ideales e ideales en el anillo cociente">Correspondencia entre ideales e ideales en el anillo cociente</fr:title>
                     <fr:taxon>Proposición</fr:taxon>
+                    <fr:meta name="sources">
+                      <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+                    </fr:meta>
                   </fr:frontmatter>
                   <fr:mainmatter>
                     <html:p>Existe una correspondencia biyectiva que conserva el orden entre los ideales <fr:tex display="inline"><![CDATA[I]]></fr:tex> de <fr:tex display="inline"><![CDATA[A]]></fr:tex> y los ideales <fr:tex display="inline"><![CDATA[\bar  I]]></fr:tex> de <fr:tex display="inline"><![CDATA[A/I]]></fr:tex>.</html:p>
                   </fr:mainmatter>
                 </fr:tree>
-                <html:p>Si <fr:tex display="inline"><![CDATA[f\colon A\rightarrow B]]></fr:tex> es un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo</fr:link> de anillos, el <html:em>núcleo</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, <fr:tex display="inline"><![CDATA[\text {ker}f]]></fr:tex>=<fr:tex display="inline"><![CDATA[f^{-1}(\{0\})]]></fr:tex>, es un ideal de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, y la <html:em>imagen</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, <fr:tex display="inline"><![CDATA[f(A)]]></fr:tex>, es un subanillo de <fr:tex display="inline"><![CDATA[B]]></fr:tex>; y <fr:tex display="inline"><![CDATA[f]]></fr:tex> induce un isomorfismo de anillos <fr:tex display="inline"><![CDATA[A/\text {ker}f \cong  f(A)]]></fr:tex>.</html:p>
+                <html:p>Si <fr:tex display="inline"><![CDATA[f\colon A\rightarrow B]]></fr:tex> es un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo</fr:link> de anillos, el <html:em>núcleo</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathrm {ker} f=f^{-1}(\{0\})]]></fr:tex>, es un ideal de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, y la <html:em>imagen</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, <fr:tex display="inline"><![CDATA[f(A)]]></fr:tex>, es un subanillo de <fr:tex display="inline"><![CDATA[B]]></fr:tex>; y <fr:tex display="inline"><![CDATA[f]]></fr:tex> induce un isomorfismo de anillos <fr:tex display="inline"><![CDATA[A/\mathrm {ker} f \cong  f(A)]]></fr:tex>.</html:p>
                 <fr:tree show-metadata="false">
                   <fr:frontmatter>
                     <fr:authors>
@@ -329,11 +429,15 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                       <fr:month>9</fr:month>
                       <fr:day>21</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0006.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AC-0006/</fr:uri>
                     <fr:display-uri>AC-0006</fr:display-uri>
                     <fr:route>/AC-0006/</fr:route>
                     <fr:title text="Ideales primos">Ideales primos</fr:title>
                     <fr:taxon>Definición</fr:taxon>
+                    <fr:meta name="sources">
+                      <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+                    </fr:meta>
                   </fr:frontmatter>
                   <fr:mainmatter>
                     <html:p>Un ideal <fr:tex display="inline"><![CDATA[I]]></fr:tex> en <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <html:em>primo</html:em> si <fr:tex display="inline"><![CDATA[I \neq  (1)]]></fr:tex> y si <fr:tex display="inline"><![CDATA[xy\in  I]]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[x=0]]></fr:tex> ó <fr:tex display="inline"><![CDATA[y=0]]></fr:tex>.</html:p>
@@ -350,14 +454,18 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                           <fr:month>9</fr:month>
                           <fr:day>23</fr:day>
                         </fr:date>
+                        <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000B.tree</fr:source-path>
                         <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
                         <fr:display-uri>AC-000B</fr:display-uri>
                         <fr:route>/AC-000B/</fr:route>
                         <fr:title text="Espectro de un anillo">Espectro de un anillo</fr:title>
                         <fr:taxon>Definición</fr:taxon>
+                        <fr:meta name="sources">
+                          <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+                        </fr:meta>
                       </fr:frontmatter>
                       <fr:mainmatter>
-                        <html:p>Se denota por <fr:tex display="inline"><![CDATA[\text {Spec}]]></fr:tex>(A), el espectro de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
+                        <html:p>Se denota por <fr:tex display="inline"><![CDATA[\mathrm {Spec}]]></fr:tex>(A), el espectro de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
                       </fr:mainmatter>
                     </fr:tree>
                   </fr:mainmatter>
@@ -374,11 +482,15 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                       <fr:month>9</fr:month>
                       <fr:day>21</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0007.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AC-0007/</fr:uri>
                     <fr:display-uri>AC-0007</fr:display-uri>
                     <fr:route>/AC-0007/</fr:route>
                     <fr:title text="Ideales maximales">Ideales maximales</fr:title>
                     <fr:taxon>Definición</fr:taxon>
+                    <fr:meta name="sources">
+                      <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+                    </fr:meta>
                   </fr:frontmatter>
                   <fr:mainmatter>
                     <html:p>Un ideal <fr:tex display="inline"><![CDATA[I]]></fr:tex> en <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <html:em>maximal</html:em> si <fr:tex display="inline"><![CDATA[I\neq  A]]></fr:tex> y si no existe ningún ideal <fr:tex display="inline"><![CDATA[J]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[I\subsetneq  J \subsetneq  A]]></fr:tex>.</html:p>
@@ -397,11 +509,15 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                       <fr:month>9</fr:month>
                       <fr:day>22</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0008.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AC-0008/</fr:uri>
                     <fr:display-uri>AC-0008</fr:display-uri>
                     <fr:route>/AC-0008/</fr:route>
                     <fr:title text="Existencia de ideal maximal">Existencia de ideal maximal</fr:title>
                     <fr:taxon>Teorema</fr:taxon>
+                    <fr:meta name="sources">
+                      <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+                    </fr:meta>
                   </fr:frontmatter>
                   <fr:mainmatter>
                     <html:p>Cada anillo <fr:tex display="inline"><![CDATA[A \neq  0]]></fr:tex> tiene, por lo menos, un ideal maximal (requiere el lema de Zorn).</html:p>
@@ -422,15 +538,19 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                       <fr:month>9</fr:month>
                       <fr:day>22</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000A.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AC-000A/</fr:uri>
                     <fr:display-uri>AC-000A</fr:display-uri>
                     <fr:route>/AC-000A/</fr:route>
                     <fr:title text="Nilradical de un ideal">Nilradical de un ideal</fr:title>
                     <fr:taxon>Proposición</fr:taxon>
+                    <fr:meta name="sources">
+                      <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+                    </fr:meta>
                   </fr:frontmatter>
                   <fr:mainmatter>
                     <html:p>El nilradical de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex>, <fr:tex display="inline"><![CDATA[N(A)=\sqrt {0} = \{a\in  A : \exists  n\in  N, a^n=0\}]]></fr:tex>, el conjunto de los elementos nilpotentes de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, es un ideal, y <fr:tex display="inline"><![CDATA[A/N(A)]]></fr:tex> no tiene ningún elemento nilpotente no nulo.</html:p>
-                    <html:p>El nilradical de <fr:tex display="inline"><![CDATA[A]]></fr:tex> cumple la propiedad de ser la intersección de todos los ideales primos de A (<fr:link href="/AC-000B/" title="Espectro de un anillo" uri="https://juan-mad.github.io/AC-000B/" display-uri="AC-000B" type="local">espectro de A</fr:link>): <fr:tex display="block"><![CDATA[N(A) = \bigcap _{\mathfrak  p\in  \text {Spec}(A)}\mathfrak  p.]]></fr:tex></html:p>
+                    <html:p>El nilradical de <fr:tex display="inline"><![CDATA[A]]></fr:tex> cumple la propiedad de ser la intersección de todos los ideales primos de A (<fr:link href="/AC-000B/" title="Espectro de un anillo" uri="https://juan-mad.github.io/AC-000B/" display-uri="AC-000B" type="local">espectro de A</fr:link>): <fr:tex display="block"><![CDATA[N(A) = \bigcap _{\mathfrak  p\in  \mathrm {Spec}(A)}\mathfrak  p.]]></fr:tex></html:p>
                   </fr:mainmatter>
                 </fr:tree>
                 <fr:tree show-metadata="false">
@@ -445,14 +565,18 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                       <fr:month>9</fr:month>
                       <fr:day>23</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000B.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
                     <fr:display-uri>AC-000B</fr:display-uri>
                     <fr:route>/AC-000B/</fr:route>
                     <fr:title text="Espectro de un anillo">Espectro de un anillo</fr:title>
                     <fr:taxon>Definición</fr:taxon>
+                    <fr:meta name="sources">
+                      <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+                    </fr:meta>
                   </fr:frontmatter>
                   <fr:mainmatter>
-                    <html:p>Se denota por <fr:tex display="inline"><![CDATA[\text {Spec}]]></fr:tex>(A), el espectro de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
+                    <html:p>Se denota por <fr:tex display="inline"><![CDATA[\mathrm {Spec}]]></fr:tex>(A), el espectro de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
                   </fr:mainmatter>
                 </fr:tree>
                 <fr:tree show-metadata="false">
@@ -467,11 +591,15 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                       <fr:month>9</fr:month>
                       <fr:day>23</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000C.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AC-000C/</fr:uri>
                     <fr:display-uri>AC-000C</fr:display-uri>
                     <fr:route>/AC-000C/</fr:route>
                     <fr:title text="Radical de Jacobson">Radical de Jacobson</fr:title>
                     <fr:taxon>Definición</fr:taxon>
+                    <fr:meta name="sources">
+                      <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+                    </fr:meta>
                   </fr:frontmatter>
                   <fr:mainmatter>
                     <html:p>El radical de Jacobson <fr:tex display="inline"><![CDATA[R(A)]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> se define como la intersección de todos los ideales maximales de <fr:tex display="inline"><![CDATA[A]]></fr:tex>. Se caracteriza por la siguiente propiedad: <fr:tex display="inline"><![CDATA[x\in  R(A) \Longleftrightarrow  1 - xy]]></fr:tex> es una unidad en <fr:tex display="inline"><![CDATA[A]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  A]]></fr:tex>.</html:p>
@@ -491,11 +619,15 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0009.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-0009/</fr:uri>
                 <fr:display-uri>AC-0009</fr:display-uri>
                 <fr:route>/AC-0009/</fr:route>
                 <fr:title text="Anillo local">Anillo local</fr:title>
                 <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+                </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>Un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <html:em>local</html:em> cuando tiene exactamente un ideal maximal, <fr:tex display="inline"><![CDATA[\mathfrak  m]]></fr:tex>. El cuerpo <fr:tex display="inline"><![CDATA[A/\mathfrak  m]]></fr:tex> se denomina <html:em>cuerpo residual</html:em> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
@@ -530,18 +662,22 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
               <fr:month>9</fr:month>
               <fr:day>21</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0003.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-0003/</fr:uri>
             <fr:display-uri>AC-0003</fr:display-uri>
             <fr:route>/AC-0003/</fr:route>
             <fr:title text="Homomorfismo de anillos">Homomorfismo de anillos</fr:title>
             <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+            </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
             <html:p>Un <html:em>homomorfismo de anillos</html:em> es una aplicación <fr:tex display="inline"><![CDATA[f\colon A\rightarrow B]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> en un anillo <fr:tex display="inline"><![CDATA[B]]></fr:tex> tal que
 <html:ol><html:li><fr:tex display="inline"><![CDATA[f(x+y) = f(x) = f(y)]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[f(xy) = f(x)f(y)]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[f(1) = 1]]></fr:tex>.</html:li></html:ol>
-El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA[A]]></fr:tex> y <fr:tex display="inline"><![CDATA[B]]></fr:tex> se denota por <fr:tex display="inline"><![CDATA[\text {Hom}(A,B)]]></fr:tex>. En el caso de que <fr:tex display="inline"><![CDATA[A=B]]></fr:tex>, los homomorfismos son endomorfismos, y lo denotamos por <fr:tex display="inline"><![CDATA[\text {End}(A)]]></fr:tex>.
+El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA[A]]></fr:tex> y <fr:tex display="inline"><![CDATA[B]]></fr:tex> se denota por <fr:tex display="inline"><![CDATA[\mathrm {Hom}(A,B)]]></fr:tex>. En el caso de que <fr:tex display="inline"><![CDATA[A=B]]></fr:tex>, los homomorfismos son endomorfismos, y lo denotamos por <fr:tex display="inline"><![CDATA[\mathrm {End}(A)]]></fr:tex>.
 </html:p>
           </fr:mainmatter>
         </fr:tree>

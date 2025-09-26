@@ -12,6 +12,7 @@
       <fr:month>9</fr:month>
       <fr:day>22</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0005.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/AF-0005/</fr:uri>
     <fr:display-uri>AF-0005</fr:display-uri>
     <fr:route>/AF-0005/</fr:route>
@@ -24,7 +25,7 @@
     <html:li><fr:tex display="inline"><![CDATA[T]]></fr:tex> es continua en <fr:tex display="inline"><![CDATA[0\in  E]]></fr:tex>.</html:li>
     <html:li>Existe una constante <fr:tex display="inline"><![CDATA[K > 0]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\|T(x)\|\leq  K\|x\|]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[x \in  E]]></fr:tex>.</html:li>
     <html:li><fr:tex display="inline"><![CDATA[T]]></fr:tex> transforma conjuntos acotados en conjuntos acotados.</html:li></html:ol></html:p>
-    <html:p>El extremo inferior de todas las constantes <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex> que verifican la acotación anterior recibe el nombre de <html:em>norma</html:em> del operador <fr:tex display="inline"><![CDATA[T]]></fr:tex> y se representa por <fr:tex display="inline"><![CDATA[\|T\|]]></fr:tex>. En particular, se define como <fr:tex display="block"><![CDATA[\|T\| = \inf \{K > 0 : \|T(x)\|\leq  K\|x\|,\forall  x\in  E\}.]]></fr:tex> Este valor también es igual a <fr:tex display="block"><![CDATA[\|T\| = \sup _{x\neq  0}\frac  {\|T(x)\|}{\|x\|} = \sup _{\|x\|=1}\|T(x)\| = \sup _{\|x\|\leq  1}\|T(x)\|]]></fr:tex></html:p>
+    <html:p>El extremo inferior de todas las constantes <fr:tex display="inline"><![CDATA[K]]></fr:tex> que verifican la acotación anterior recibe el nombre de <html:em>norma</html:em> del operador <fr:tex display="inline"><![CDATA[T]]></fr:tex> y se representa por <fr:tex display="inline"><![CDATA[\|T\|]]></fr:tex>. En particular, se define como <fr:tex display="block"><![CDATA[\|T\| = \inf \{K > 0 : \|T(x)\|\leq  K\|x\|,\forall  x\in  E\}.]]></fr:tex> Este valor también es igual a <fr:tex display="block"><![CDATA[\|T\| = \sup _{x\neq  0}\frac  {\|T(x)\|}{\|x\|} = \sup _{\|x\|=1}\|T(x)\| = \sup _{\|x\|\leq  1}\|T(x)\|]]></fr:tex></html:p>
     <html:p>Todo operador lineal entre espacios normados de dimensión finita es continuo. Es más, sólo se necesita que <fr:tex display="inline"><![CDATA[E]]></fr:tex> sea de dimensión finita. Como podemos ver en la proposición, la continuidad es equivalente a que se transformen acotados en acotados, razón por la que se usa <html:em>acotado</html:em> como sinónimo de continuo para operadores lineales.</html:p>
   </fr:mainmatter>
   <fr:backmatter>
@@ -53,6 +54,7 @@
               <fr:month>9</fr:month>
               <fr:day>22</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0001.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AF-0001/</fr:uri>
             <fr:display-uri>AF-0001</fr:display-uri>
             <fr:route>/AF-0001/</fr:route>
@@ -71,6 +73,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0002.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0002/</fr:uri>
                 <fr:display-uri>AF-0002</fr:display-uri>
                 <fr:route>/AF-0002/</fr:route>
@@ -78,7 +81,7 @@
                 <fr:taxon>Definición</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sea <fr:tex display="inline"><![CDATA[E]]></fr:tex> un espacio vectorial sobre un cuerpo <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex>, con <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex>=<fr:tex display="inline"><![CDATA[\mathbb  R]]></fr:tex> o <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex>. Una <html:em>norma</html:em> es una función <fr:tex display="inline"><![CDATA[\|\,\|:E\to  \mathbb  K]]></fr:tex> tal que para todo <fr:tex display="inline"><![CDATA[x, y \in  E]]></fr:tex> y <fr:tex display="inline"><![CDATA[\lambda \in  K]]></fr:tex> se tiene que
+                <html:p>Sea <fr:tex display="inline"><![CDATA[E]]></fr:tex> un espacio vectorial sobre un cuerpo <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex>, con <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex>=<fr:tex display="inline"><![CDATA[\mathbb  R]]></fr:tex> o <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex>. Una <html:em>norma</html:em> es una función <fr:tex display="inline"><![CDATA[\|\,\|:E\to  \mathbb  K]]></fr:tex> tal que para todo <fr:tex display="inline"><![CDATA[x, y \in  E]]></fr:tex> y <fr:tex display="inline"><![CDATA[\lambda \in  \mathbb  K]]></fr:tex> se tiene que
 <html:ol><html:li><fr:tex display="inline"><![CDATA[\|x\|\geq  0]]></fr:tex> y <fr:tex display="inline"><![CDATA[\|x\| = 0]]></fr:tex> si y sólo si <fr:tex display="inline"><![CDATA[x=0]]></fr:tex>.</html:li>
     <html:li><fr:tex display="inline"><![CDATA[\|x+y\|\leq  \|x\| + \|y\|]]></fr:tex>, y</html:li>
     <html:li><fr:tex display="inline"><![CDATA[\|\lambda  x\| = |\lambda |\|x\|]]></fr:tex>.</html:li></html:ol>
@@ -98,6 +101,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0003.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0003/</fr:uri>
                 <fr:display-uri>AF-0003</fr:display-uri>
                 <fr:route>/AF-0003/</fr:route>
@@ -120,6 +124,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0004.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0004/</fr:uri>
                 <fr:display-uri>AF-0004</fr:display-uri>
                 <fr:route>/AF-0004/</fr:route>
@@ -143,6 +148,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0005.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0005/</fr:uri>
                 <fr:display-uri>AF-0005</fr:display-uri>
                 <fr:route>/AF-0005/</fr:route>
@@ -155,7 +161,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
     <html:li><fr:tex display="inline"><![CDATA[T]]></fr:tex> es continua en <fr:tex display="inline"><![CDATA[0\in  E]]></fr:tex>.</html:li>
     <html:li>Existe una constante <fr:tex display="inline"><![CDATA[K > 0]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\|T(x)\|\leq  K\|x\|]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[x \in  E]]></fr:tex>.</html:li>
     <html:li><fr:tex display="inline"><![CDATA[T]]></fr:tex> transforma conjuntos acotados en conjuntos acotados.</html:li></html:ol></html:p>
-                <html:p>El extremo inferior de todas las constantes <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex> que verifican la acotación anterior recibe el nombre de <html:em>norma</html:em> del operador <fr:tex display="inline"><![CDATA[T]]></fr:tex> y se representa por <fr:tex display="inline"><![CDATA[\|T\|]]></fr:tex>. En particular, se define como <fr:tex display="block"><![CDATA[\|T\| = \inf \{K > 0 : \|T(x)\|\leq  K\|x\|,\forall  x\in  E\}.]]></fr:tex> Este valor también es igual a <fr:tex display="block"><![CDATA[\|T\| = \sup _{x\neq  0}\frac  {\|T(x)\|}{\|x\|} = \sup _{\|x\|=1}\|T(x)\| = \sup _{\|x\|\leq  1}\|T(x)\|]]></fr:tex></html:p>
+                <html:p>El extremo inferior de todas las constantes <fr:tex display="inline"><![CDATA[K]]></fr:tex> que verifican la acotación anterior recibe el nombre de <html:em>norma</html:em> del operador <fr:tex display="inline"><![CDATA[T]]></fr:tex> y se representa por <fr:tex display="inline"><![CDATA[\|T\|]]></fr:tex>. En particular, se define como <fr:tex display="block"><![CDATA[\|T\| = \inf \{K > 0 : \|T(x)\|\leq  K\|x\|,\forall  x\in  E\}.]]></fr:tex> Este valor también es igual a <fr:tex display="block"><![CDATA[\|T\| = \sup _{x\neq  0}\frac  {\|T(x)\|}{\|x\|} = \sup _{\|x\|=1}\|T(x)\| = \sup _{\|x\|\leq  1}\|T(x)\|]]></fr:tex></html:p>
                 <html:p>Todo operador lineal entre espacios normados de dimensión finita es continuo. Es más, sólo se necesita que <fr:tex display="inline"><![CDATA[E]]></fr:tex> sea de dimensión finita. Como podemos ver en la proposición, la continuidad es equivalente a que se transformen acotados en acotados, razón por la que se usa <html:em>acotado</html:em> como sinónimo de continuo para operadores lineales.</html:p>
               </fr:mainmatter>
             </fr:tree>
@@ -171,6 +177,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0006.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0006/</fr:uri>
                 <fr:display-uri>AF-0006</fr:display-uri>
                 <fr:route>/AF-0006/</fr:route>
@@ -192,6 +199,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                       <fr:month>9</fr:month>
                       <fr:day>22</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0007.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AF-0007/</fr:uri>
                     <fr:display-uri>AF-0007</fr:display-uri>
                     <fr:route>/AF-0007/</fr:route>
@@ -216,6 +224,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0008.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0008/</fr:uri>
                 <fr:display-uri>AF-0008</fr:display-uri>
                 <fr:route>/AF-0008/</fr:route>
@@ -239,6 +248,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0009.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0009/</fr:uri>
                 <fr:display-uri>AF-0009</fr:display-uri>
                 <fr:route>/AF-0009/</fr:route>
@@ -250,9 +260,9 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
 <html:ul><html:li><fr:tex display="inline"><![CDATA[\mathscr  C(X,E)]]></fr:tex> al conjunto de aplicaciones continuas entre <fr:tex display="inline"><![CDATA[X]]></fr:tex> y <fr:tex display="inline"><![CDATA[E]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[\mathscr  B(X,E)]]></fr:tex> al conjunto de aplicaciones acotadas entre <fr:tex display="inline"><![CDATA[X]]></fr:tex> y <fr:tex display="inline"><![CDATA[E]]></fr:tex>, y</html:li>
     <html:li><fr:tex display="inline"><![CDATA[\mathscr  C_B(X,E)]]></fr:tex> al conjunto de aplicaciones continuas y acotadas entre <fr:tex display="inline"><![CDATA[X]]></fr:tex> y <fr:tex display="inline"><![CDATA[E]]></fr:tex>.</html:li></html:ul>
-Notemos que <fr:tex display="inline"><![CDATA[\mathscr  C_B(X,E)]]></fr:tex> es igual a E{<fr:tex display="inline"><![CDATA[\mathscr  C]]></fr:tex>(X,E)} en el caso de que <fr:tex display="inline"><![CDATA[X]]></fr:tex> sea compacto.
+Notemos que <fr:tex display="inline"><![CDATA[\mathscr  C_B(X,E)]]></fr:tex> es igual a <fr:tex display="inline"><![CDATA[\mathscr  C(X,E)]]></fr:tex> en el caso de que <fr:tex display="inline"><![CDATA[X]]></fr:tex> sea compacto.
 </html:p>
-                <html:p>Al considerar operaciones definidas de forma puntual, estos conjuntos son espacios vectoriales sobre el mismo cuerpo que <fr:tex display="inline"><![CDATA[E]]></fr:tex>. En <fr:tex display="inline"><![CDATA[\B (X,E)]]></fr:tex> es posible definir una norma mediante la fórmula <fr:tex display="block"><![CDATA[\|f\| = \sup \{\|f\|:t\in  X\},]]></fr:tex> para la cual el subespacio vectorial <fr:tex display="inline"><![CDATA[\mathscr  C_B(X,E)]]></fr:tex> es cerrado. Con esta norma, <fr:tex display="inline"><![CDATA[\mathscr  B(X,E)]]></fr:tex> es un <fr:link href="/AF-0008/" title="Espacio de Banach" uri="https://juan-mad.github.io/AF-0008/" display-uri="AF-0008" type="local">espacio de Banach</fr:link> si y sólo si lo es <fr:tex display="inline"><![CDATA[E]]></fr:tex>.</html:p>
+                <html:p>Al considerar operaciones definidas de forma puntual, estos conjuntos son espacios vectoriales sobre el mismo cuerpo que <fr:tex display="inline"><![CDATA[E]]></fr:tex>. En <fr:tex display="inline"><![CDATA[B(X,E)]]></fr:tex> es posible definir una norma mediante la fórmula <fr:tex display="block"><![CDATA[\|f\| = \sup \{\|f\|:t\in  X\},]]></fr:tex> para la cual el subespacio vectorial <fr:tex display="inline"><![CDATA[\mathscr  C_B(X,E)]]></fr:tex> es cerrado. Con esta norma, <fr:tex display="inline"><![CDATA[\mathscr  B(X,E)]]></fr:tex> es un <fr:link href="/AF-0008/" title="Espacio de Banach" uri="https://juan-mad.github.io/AF-0008/" display-uri="AF-0008" type="local">espacio de Banach</fr:link> si y sólo si lo es <fr:tex display="inline"><![CDATA[E]]></fr:tex>.</html:p>
                 <html:p>Si <fr:tex display="inline"><![CDATA[E]]></fr:tex> es de dimensión finita, el espacio <fr:tex display="inline"><![CDATA[\mathscr  C_B(X,E)]]></fr:tex> es topológicamente isomorfo a la suma directa de <fr:tex display="inline"><![CDATA[n]]></fr:tex> copias del espacio <fr:tex display="inline"><![CDATA[\mathscr  C_B(X,\mathbb  K)]]></fr:tex>. Al considerar el producto del cuerpo se tiene de forma natural en <fr:tex display="inline"><![CDATA[\mathscr  C_B(X,\mathbb  K)]]></fr:tex> una estructura de álgebra sobre <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
@@ -268,6 +278,7 @@ Notemos que <fr:tex display="inline"><![CDATA[\mathscr  C_B(X,E)]]></fr:tex> es 
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000A.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-000A/</fr:uri>
                 <fr:display-uri>AF-000A</fr:display-uri>
                 <fr:route>/AF-000A/</fr:route>
@@ -295,6 +306,7 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es denso en <
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000B.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-000B/</fr:uri>
                 <fr:display-uri>AF-000B</fr:display-uri>
                 <fr:route>/AF-000B/</fr:route>
@@ -306,7 +318,7 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es denso en <
 <html:ol><html:li><fr:tex display="inline"><![CDATA[1\in \mathcal  A]]></fr:tex>;</html:li>
     <html:li>si <fr:tex display="inline"><![CDATA[x,y\in  X, x\neq  y]]></fr:tex>, existe <fr:tex display="inline"><![CDATA[f\in \mathcal  A]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[f(x) \neq  f(y)]]></fr:tex> (separa puntos);</html:li>
     <html:li>si <fr:tex display="inline"><![CDATA[f\in \mathcal  A]]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[\bar  f\in \mathcal  A]]></fr:tex> (<fr:tex display="inline"><![CDATA[\bar  f]]></fr:tex> denota la conjugada de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, y se dice que <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es <html:em>autoconjugada</html:em>);</html:li></html:ol>
-entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <fr:tex display="inline"><![CDATA[\mathscr  C(X,\mathbb  R)]]></fr:tex>.</html:p>
+entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <fr:tex display="inline"><![CDATA[\mathscr  C(X,\mathbb  C)]]></fr:tex>.</html:p>
                 <html:p>Como corolario, el subespacio de los polinomios en una variable con coeficientes en <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex> es denso en <fr:tex display="inline"><![CDATA[\mathscr  C([a,b],\mathbb  C)]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>

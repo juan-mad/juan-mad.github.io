@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>9</fr:month>
+      <fr:day>26</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000R.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/VC-000R/</fr:uri>
+    <fr:display-uri>VC-000R</fr:display-uri>
+    <fr:route>/VC-000R/</fr:route>
+    <fr:title text="Conjuntos acotados de funciones continuas en un abierto de \mathbb  C">Conjuntos acotados de funciones continuas en un abierto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex></fr:title>
+    <fr:taxon>Definición</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Dado <fr:tex display="inline"><![CDATA[\Omega \subset \mathbb  C]]></fr:tex> abierto, se dice que una familia de funciones continuas <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  C(\Omega )]]></fr:tex> está <html:em>acotada</html:em> si para todo compacto <fr:tex display="inline"><![CDATA[K\subset \Omega ]]></fr:tex> existe una constante <fr:tex display="inline"><![CDATA[M_K > 0]]></fr:tex> tal que <fr:tex display="block"><![CDATA[\|f\|_K < M_K, \, \forall  f\in  \mathscr  F.]]></fr:tex></html:p>
+    <html:p>En este caso no utilizamos la <fr:link href="/TOPO-CQ52/" title="Conjuntos acotados en un espacio métrico" uri="https://juan-mad.github.io/TOPO-CQ52/" display-uri="TOPO-CQ52" type="local">noción de acotación como en otros espacios métricos</fr:link>, pues la <fr:link href="/VC-000N/" title="Espacio métrico completo de las funciones continuas en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000N/" display-uri="VC-000N" type="local">distancia basada en la sucesión expansiva de compactos</fr:link> que hemos diseñado es, en particular, menor o igual que <fr:tex display="inline"><![CDATA[1]]></fr:tex> para todo par de funciones <fr:tex display="inline"><![CDATA[f,g\in \mathscr  C(\Omega )]]></fr:tex>.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/R.%20B.%20Ash" type="external">R. B. Ash</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/W.%20P.%20Novinger" type="external">W. P. Novinger</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/ash-nov-cvs.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ash-nov-cvs/</fr:uri>
+            <fr:display-uri>ash-nov-cvs</fr:display-uri>
+            <fr:route>/ash-nov-cvs/</fr:route>
+            <fr:title text="Complex Variables">Complex Variables</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000W.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-000W/</fr:uri>
+            <fr:display-uri>VC-000W</fr:display-uri>
+            <fr:route>/VC-000W/</fr:route>
+            <fr:title text="Familias de funciones holomorfas son compactas si y sólo si son cerradas y acotadas.">Familias de funciones holomorfas son compactas si y sólo si son cerradas y acotadas.</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Dado <fr:tex display="inline"><![CDATA[\Omega \subset \mathbb  C]]></fr:tex> abierto, una familia <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> es compacta si y sólo si es cerrada y <fr:link href="/VC-000R/" title="Conjuntos acotados de funciones continuas en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000R/" display-uri="VC-000R" type="local">acotada</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000V.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-000V/</fr:uri>
+            <fr:display-uri>VC-000V</fr:display-uri>
+            <fr:route>/VC-000V/</fr:route>
+            <fr:title text="Teorema de Montel">Teorema de Montel</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Dado un abierto <fr:tex display="inline"><![CDATA[\Omega \subset \mathbb  C]]></fr:tex>, sea <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> una familia <fr:link href="/VC-000R/" title="Conjuntos acotados de funciones continuas en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000R/" display-uri="VC-000R" type="local">acotada</fr:link>. Entonces toda sucesión <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> de elementos de <fr:tex display="inline"><![CDATA[\mathscr  F]]></fr:tex> admine una subsucesión que converge uniformemente en los compactos de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>. Es decir, todo <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> acotado es <fr:link href="/TOPO-9XNF/" title="Espacio relativamente compacto" uri="https://juan-mad.github.io/TOPO-9XNF/" display-uri="TOPO-9XNF" type="local">relativamente compacto</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000T.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-000T/</fr:uri>
+            <fr:display-uri>VC-000T</fr:display-uri>
+            <fr:route>/VC-000T/</fr:route>
+            <fr:title text="Acotación implica equicontinuidad en las funciones holomorfas en un abierto de \mathbb  C">Acotación implica equicontinuidad en las funciones holomorfas en un abierto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex></fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Dado un abierto <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>, sea <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> una familia de funciones <fr:link href="/VC-000R/" title="Conjuntos acotados de funciones continuas en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000R/" display-uri="VC-000R" type="local">acotadas</fr:link>. Entonces <fr:tex display="inline"><![CDATA[\mathscr  F]]></fr:tex> es <fr:link href="/VC-000S/" title="Familia equicontinua de funciones en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000S/" display-uri="VC-000S" type="local">equicontinua</fr:link> en <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>.</html:p>
+            <html:p>El resultado es falso en general para familias acotadas de <fr:tex display="inline"><![CDATA[\mathscr  C(\Omega )]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/topology/TOPO-CQ52.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/TOPO-CQ52/</fr:uri>
+            <fr:display-uri>TOPO-CQ52</fr:display-uri>
+            <fr:route>/TOPO-CQ52/</fr:route>
+            <fr:title text="Conjuntos acotados en un espacio métrico">Conjuntos acotados en un espacio métrico</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Si <fr:tex display="inline"><![CDATA[(E, d)]]></fr:tex> es un espacio métrico, se dice que un subconjunto <fr:tex display="inline"><![CDATA[A\subset  E]]></fr:tex> es acotado si <fr:tex display="block"><![CDATA[\mathrm {diam}(A) = \sup _{x,y\in  A} d(x,y) < \infty .]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000N.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-000N/</fr:uri>
+            <fr:display-uri>VC-000N</fr:display-uri>
+            <fr:route>/VC-000N/</fr:route>
+            <fr:title text="Espacio métrico completo de las funciones continuas en un abierto de \mathbb  C">Espacio métrico completo de las funciones continuas en un abierto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex></fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>26</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000M.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-000M/</fr:uri>
+                <fr:display-uri>VC-000M</fr:display-uri>
+                <fr:route>/VC-000M/</fr:route>
+                <fr:title text="Métrica en el espacio de las funciones continuas en un abierto de \mathbb  C">Métrica en el espacio de las funciones continuas en un abierto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex></fr:title>
+                <fr:taxon>Ejemplo</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[\Omega \subset  \mathbb  C]]></fr:tex> un abierto. Dada <fr:tex display="inline"><![CDATA[\{K_n\}_{n = 1}^\infty ]]></fr:tex> una <fr:link href="/TOPO-VTQB/" title="Sucesión expansiva de compactos en un abierto" uri="https://juan-mad.github.io/TOPO-VTQB/" display-uri="TOPO-VTQB" type="local">sucesión expansiva de compactos</fr:link> de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> y dadas dos funciones contnuas <fr:tex display="inline"><![CDATA[f,g\in \mathscr  C(\Omega )]]></fr:tex> definimos <fr:tex display="block"><![CDATA[d(f,g) = \sum _{n=1}^\infty \frac {\|f-g\|_{K_n}}{1+\|f-g\|_{K_n}},]]></fr:tex> donde <fr:tex display="block"><![CDATA[\|h\|_{K_n} = \max _{z\in  K_n} |h(z)| < \infty , \, h\in \mathscr  C(\Omega ).]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n \neq  0]]></fr:tex>, o <fr:tex display="inline"><![CDATA[\|h\|_{K_n}=0]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n=\emptyset ]]></fr:tex>.</html:p>
+                <html:p>Puede probarse que <fr:tex display="inline"><![CDATA[d]]></fr:tex> define una métrica en <fr:tex display="inline"><![CDATA[\mathscr  C(\Omega )]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Para una métrica <fr:tex display="inline"><![CDATA[d]]></fr:tex> <fr:link href="/VC-000M/" title="Métrica en el espacio de las funciones continuas en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000M/" display-uri="VC-000M" type="local">definida de esta forma</fr:link> a partir de una <fr:link href="/TOPO-VTQB/" title="Sucesión expansiva de compactos en un abierto" uri="https://juan-mad.github.io/TOPO-VTQB/" display-uri="TOPO-VTQB" type="local">sucesión expansiva de compactos en un abierto</fr:link>, una sucesión <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathscr  C(\Omega )]]></fr:tex> converge por <fr:tex display="inline"><![CDATA[d]]></fr:tex> hacia una función <fr:tex display="inline"><![CDATA[f]]></fr:tex> (resp. es de Cauchy) si y sólo si converge uniformemente en los compactos de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> hacia <fr:tex display="inline"><![CDATA[f]]></fr:tex> (resp. es uniformemente de Cauchy en los compactos de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>).
+</html:p>
+            <html:p>Adicionalmente, los espacios <fr:tex display="inline"><![CDATA[(\mathscr  C(\Omega ), d)]]></fr:tex> y <fr:tex display="inline"><![CDATA[(\mathscr  H(\Omega ), d)]]></fr:tex> son entonces espacios métricos completos.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

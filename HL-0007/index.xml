@@ -12,6 +12,7 @@
       <fr:month>9</fr:month>
       <fr:day>23</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0007.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/HL-0007/</fr:uri>
     <fr:display-uri>HL-0007</fr:display-uri>
     <fr:route>/HL-0007/</fr:route>
