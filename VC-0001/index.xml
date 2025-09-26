@@ -12,7 +12,7 @@
       <fr:month>9</fr:month>
       <fr:day>26</fr:day>
     </fr:date>
-    <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0001.tree</fr:source-path>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/VC-0001.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/VC-0001/</fr:uri>
     <fr:display-uri>VC-0001</fr:display-uri>
     <fr:route>/VC-0001/</fr:route>
@@ -213,6 +213,243 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
       <fr:mainmatter>
         <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C]]></fr:tex> abierto y sean <fr:tex display="inline"><![CDATA[f,g\in  \mathscr  H(U)]]></fr:tex> no idénticamente nulas en ninguna componente de <fr:tex display="inline"><![CDATA[U]]></fr:tex>. Sea <fr:tex display="inline"><![CDATA[\gamma \colon [a,b]\rightarrow \mathbb  C]]></fr:tex> un <fr:link href="/VC-000C/" title="Expansión de Laurent" uri="https://juan-mad.github.io/VC-000C/" display-uri="VC-000C" type="local">camino</fr:link> cerrado en <fr:tex display="inline"><![CDATA[U]]></fr:tex> tal que <fr:link href="https://juan-mad.github.io/" type="external"><fr:tex display="inline"><![CDATA[n(\gamma , z) = 0]]></fr:tex></fr:link> para todo <fr:tex display="inline"><![CDATA[z\notin  U]]></fr:tex>. Si <fr:tex display="block"><![CDATA[f(\gamma (t)) - g(\gamma (t))| < |f(\gamma (t))|, \, t\in [a,b],]]></fr:tex> entonces <fr:tex display="block"><![CDATA[
     \sum _{a\in  Z(f)} n(\gamma , a)m(f, a) = \sum _{b\in  Z(g)} n(\gamma , b)m(g, b).]]></fr:tex></html:p>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false">
+      <fr:frontmatter>
+        <fr:authors>
+          <fr:author>
+            <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+          </fr:author>
+        </fr:authors>
+        <fr:date>
+          <fr:year>2025</fr:year>
+          <fr:month>9</fr:month>
+          <fr:day>26</fr:day>
+        </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000O.tree</fr:source-path>
+        <fr:uri>https://juan-mad.github.io/VC-000O/</fr:uri>
+        <fr:display-uri>VC-000O</fr:display-uri>
+        <fr:route>/VC-000O/</fr:route>
+        <fr:title text="Teorema de Hurwitz">Teorema de Hurwitz</fr:title>
+        <fr:taxon>Teorema</fr:taxon>
+        <fr:meta name="sources">
+          <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+        </fr:meta>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <html:p>Sea <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> una sucesión de funciones holomorfias que converge uniformemente en los compactos hacia <fr:tex display="inline"><![CDATA[f]]></fr:tex>. Sea <fr:tex display="inline"><![CDATA[B(z_0,r)\subset  \Omega ]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[f(z)\neq  0]]></fr:tex> si <fr:tex display="inline"><![CDATA[|z-z_0| = r]]></fr:tex>. Entonces, existe <fr:tex display="inline"><![CDATA[n_0\in \mathbb  N]]></fr:tex> tal que, si <fr:tex display="inline"><![CDATA[n\geq  n_0]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[f]]></fr:tex> y <fr:tex display="inline"><![CDATA[f_n]]></fr:tex> tienen el mismo número de ceros en <fr:tex display="inline"><![CDATA[B(z_0, r)]]></fr:tex>.</html:p>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false">
+      <fr:frontmatter>
+        <fr:authors>
+          <fr:author>
+            <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+          </fr:author>
+        </fr:authors>
+        <fr:date>
+          <fr:year>2025</fr:year>
+          <fr:month>9</fr:month>
+          <fr:day>26</fr:day>
+        </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000P.tree</fr:source-path>
+        <fr:uri>https://juan-mad.github.io/VC-000P/</fr:uri>
+        <fr:display-uri>VC-000P</fr:display-uri>
+        <fr:route>/VC-000P/</fr:route>
+        <fr:title text="" />
+        <fr:taxon>Teorema</fr:taxon>
+        <fr:meta name="sources">
+          <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+        </fr:meta>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <html:p>Sea <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> sucesión en <fr:tex display="inline"><![CDATA[\mathscr  H(\Omega )]]></fr:tex> que converge uniformemente hacia <fr:tex display="inline"><![CDATA[f]]></fr:tex> en los compactos de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>. Si <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> es conexo y para infinitos <fr:tex display="inline"><![CDATA[n\in \mathbb  N]]></fr:tex> los <fr:tex display="inline"><![CDATA[f_n]]></fr:tex> no se anulan en <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>, entonces o bien <fr:tex display="inline"><![CDATA[f]]></fr:tex> no se anula en <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> o bien es idénticamente nula.</html:p>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false">
+      <fr:frontmatter>
+        <fr:authors>
+          <fr:author>
+            <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+          </fr:author>
+        </fr:authors>
+        <fr:date>
+          <fr:year>2025</fr:year>
+          <fr:month>9</fr:month>
+          <fr:day>26</fr:day>
+        </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000Q.tree</fr:source-path>
+        <fr:uri>https://juan-mad.github.io/VC-000Q/</fr:uri>
+        <fr:display-uri>VC-000Q</fr:display-uri>
+        <fr:route>/VC-000Q/</fr:route>
+        <fr:title text="" />
+        <fr:taxon>Teorema</fr:taxon>
+        <fr:meta name="sources">
+          <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+        </fr:meta>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <html:p>Sea <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> sucesión en <fr:tex display="inline"><![CDATA[\mathscr  H(\Omega )]]></fr:tex> que converge uniformemente hacia <fr:tex display="inline"><![CDATA[f]]></fr:tex> en los compactos de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>. Si <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> es conexo y los <fr:tex display="inline"><![CDATA[f_n]]></fr:tex> son inyectivos para todo <fr:tex display="inline"><![CDATA[n\in \mathbb  N]]></fr:tex>, entonces o bien <fr:tex display="inline"><![CDATA[f]]></fr:tex> es inyectiva o bien es constante en <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>.</html:p>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false">
+      <fr:frontmatter>
+        <fr:authors>
+          <fr:author>
+            <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+          </fr:author>
+        </fr:authors>
+        <fr:date>
+          <fr:year>2025</fr:year>
+          <fr:month>9</fr:month>
+          <fr:day>26</fr:day>
+        </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000R.tree</fr:source-path>
+        <fr:uri>https://juan-mad.github.io/VC-000R/</fr:uri>
+        <fr:display-uri>VC-000R</fr:display-uri>
+        <fr:route>/VC-000R/</fr:route>
+        <fr:title text="Conjuntos acotados de funciones continuas en un abierto de \mathbb  C">Conjuntos acotados de funciones continuas en un abierto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex></fr:title>
+        <fr:taxon>Definición</fr:taxon>
+        <fr:meta name="sources">
+          <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+        </fr:meta>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <html:p>Dado <fr:tex display="inline"><![CDATA[\Omega \subset \mathbb  C]]></fr:tex> abierto, se dice que una familia de funciones continuas <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  C(\Omega )]]></fr:tex> está <html:em>acotada</html:em> si para todo compacto <fr:tex display="inline"><![CDATA[K\subset \Omega ]]></fr:tex> existe una constante <fr:tex display="inline"><![CDATA[M_K > 0]]></fr:tex> tal que <fr:tex display="block"><![CDATA[\|f\|_K < M_K, \, \forall  f\in  \mathscr  F.]]></fr:tex></html:p>
+        <html:p>En este caso no utilizamos la <fr:link href="/TOPO-CQ52/" title="Conjuntos acotados en un espacio métrico" uri="https://juan-mad.github.io/TOPO-CQ52/" display-uri="TOPO-CQ52" type="local">noción de acotación como en otros espacios métricos</fr:link>, pues la <fr:link href="/VC-000N/" title="Espacio métrico completo de las funciones continuas en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000N/" display-uri="VC-000N" type="local">distancia basada en la sucesión expansiva de compactos</fr:link> que hemos diseñado es, en particular, menor o igual que <fr:tex display="inline"><![CDATA[1]]></fr:tex> para todo par de funciones <fr:tex display="inline"><![CDATA[f,g\in \mathscr  C(\Omega )]]></fr:tex>.</html:p>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false">
+      <fr:frontmatter>
+        <fr:authors>
+          <fr:author>
+            <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+          </fr:author>
+        </fr:authors>
+        <fr:date>
+          <fr:year>2025</fr:year>
+          <fr:month>9</fr:month>
+          <fr:day>26</fr:day>
+        </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000S.tree</fr:source-path>
+        <fr:uri>https://juan-mad.github.io/VC-000S/</fr:uri>
+        <fr:display-uri>VC-000S</fr:display-uri>
+        <fr:route>/VC-000S/</fr:route>
+        <fr:title text="Familia equicontinua de funciones en un abierto de \mathbb  C">Familia equicontinua de funciones en un abierto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex></fr:title>
+        <fr:taxon>Definición</fr:taxon>
+        <fr:meta name="sources">
+          <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+        </fr:meta>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <html:p>Una familia <fr:tex display="inline"><![CDATA[\mathscr  F]]></fr:tex> de funciones en un abierto <fr:tex display="inline"><![CDATA[\Omega \subset \mathbb  C]]></fr:tex> es <html:em>equicontinua</html:em> en <fr:tex display="inline"><![CDATA[z_0\in \Omega ]]></fr:tex> si dado un <fr:tex display="inline"><![CDATA[\varepsilon  > 0]]></fr:tex> existe un <fr:tex display="inline"><![CDATA[\delta  = \delta (\varepsilon , z_0)>0]]></fr:tex> tal que <fr:tex display="block"><![CDATA[|z-z_0|<\delta  \implies  |f(z) - f(z_0)| < \varepsilon , \, \forall  f\in \mathscr  F.]]></fr:tex></html:p>
+        <html:p><fr:tex display="inline"><![CDATA[\mathscr  F]]></fr:tex> es equicontinuo en <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> si lo es en cada punto.</html:p>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false">
+      <fr:frontmatter>
+        <fr:authors>
+          <fr:author>
+            <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+          </fr:author>
+        </fr:authors>
+        <fr:date>
+          <fr:year>2025</fr:year>
+          <fr:month>9</fr:month>
+          <fr:day>26</fr:day>
+        </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000T.tree</fr:source-path>
+        <fr:uri>https://juan-mad.github.io/VC-000T/</fr:uri>
+        <fr:display-uri>VC-000T</fr:display-uri>
+        <fr:route>/VC-000T/</fr:route>
+        <fr:title text="Acotación implica equicontinuidad en las funciones holomorfas en un abierto de \mathbb  C">Acotación implica equicontinuidad en las funciones holomorfas en un abierto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex></fr:title>
+        <fr:taxon>Teorema</fr:taxon>
+        <fr:meta name="sources">
+          <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+        </fr:meta>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <html:p>Dado un abierto <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>, sea <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> una familia de funciones <fr:link href="/VC-000R/" title="Conjuntos acotados de funciones continuas en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000R/" display-uri="VC-000R" type="local">acotadas</fr:link>. Entonces <fr:tex display="inline"><![CDATA[\mathscr  F]]></fr:tex> es <fr:link href="/VC-000S/" title="Familia equicontinua de funciones en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000S/" display-uri="VC-000S" type="local">equicontinua</fr:link> en <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>.</html:p>
+        <html:p>El resultado es falso en general para familias acotadas de <fr:tex display="inline"><![CDATA[\mathscr  C(\Omega )]]></fr:tex>.</html:p>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false">
+      <fr:frontmatter>
+        <fr:authors>
+          <fr:author>
+            <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+          </fr:author>
+        </fr:authors>
+        <fr:date>
+          <fr:year>2025</fr:year>
+          <fr:month>9</fr:month>
+          <fr:day>26</fr:day>
+        </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000U.tree</fr:source-path>
+        <fr:uri>https://juan-mad.github.io/VC-000U/</fr:uri>
+        <fr:display-uri>VC-000U</fr:display-uri>
+        <fr:route>/VC-000U/</fr:route>
+        <fr:title text="Convergencia puntual de funciones equicontinuas implica convergencia uniforme en los compactos de un abierto de \mathbb  C">Convergencia puntual de funciones equicontinuas implica convergencia uniforme en los compactos de un abierto de <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex></fr:title>
+        <fr:taxon>Teorema</fr:taxon>
+        <fr:meta name="sources">
+          <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+        </fr:meta>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <html:p>Dado <fr:tex display="inline"><![CDATA[\Omega \subset \mathbb  C]]></fr:tex> abierto, sea <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  C(\Omega )]]></fr:tex> una familia <fr:link href="/VC-000S/" title="Familia equicontinua de funciones en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000S/" display-uri="VC-000S" type="local">equicontinua</fr:link> y sea <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> una sucesión de elementos de <fr:tex display="inline"><![CDATA[\mathscr  F]]></fr:tex> que converge puntualmente en un subconjunto denso <fr:tex display="inline"><![CDATA[S\subset \Omega ]]></fr:tex>. Entonces <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> converge en todo <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> hacia una función <fr:tex display="inline"><![CDATA[f\in \mathscr  C(\Omega )]]></fr:tex> y además converge de forma uniformemente continua en los compactos de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>.</html:p>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false">
+      <fr:frontmatter>
+        <fr:authors>
+          <fr:author>
+            <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+          </fr:author>
+        </fr:authors>
+        <fr:date>
+          <fr:year>2025</fr:year>
+          <fr:month>9</fr:month>
+          <fr:day>26</fr:day>
+        </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000V.tree</fr:source-path>
+        <fr:uri>https://juan-mad.github.io/VC-000V/</fr:uri>
+        <fr:display-uri>VC-000V</fr:display-uri>
+        <fr:route>/VC-000V/</fr:route>
+        <fr:title text="Teorema de Montel">Teorema de Montel</fr:title>
+        <fr:taxon>Teorema</fr:taxon>
+        <fr:meta name="sources">
+          <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+        </fr:meta>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <html:p>Dado un abierto <fr:tex display="inline"><![CDATA[\Omega \subset \mathbb  C]]></fr:tex>, sea <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> una familia <fr:link href="/VC-000R/" title="Conjuntos acotados de funciones continuas en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000R/" display-uri="VC-000R" type="local">acotada</fr:link>. Entonces toda sucesión <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> de elementos de <fr:tex display="inline"><![CDATA[\mathscr  F]]></fr:tex> admine una subsucesión que converge uniformemente en los compactos de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>. Es decir, todo <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> acotado es <fr:link href="/TOPO-9XNF/" title="Espacio relativamente compacto" uri="https://juan-mad.github.io/TOPO-9XNF/" display-uri="TOPO-9XNF" type="local">relativamente compacto</fr:link>.</html:p>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false">
+      <fr:frontmatter>
+        <fr:authors>
+          <fr:author>
+            <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+          </fr:author>
+        </fr:authors>
+        <fr:date>
+          <fr:year>2025</fr:year>
+          <fr:month>9</fr:month>
+          <fr:day>26</fr:day>
+        </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000W.tree</fr:source-path>
+        <fr:uri>https://juan-mad.github.io/VC-000W/</fr:uri>
+        <fr:display-uri>VC-000W</fr:display-uri>
+        <fr:route>/VC-000W/</fr:route>
+        <fr:title text="Familias de funciones holomorfas son compactas si y sólo si son cerradas y acotadas.">Familias de funciones holomorfas son compactas si y sólo si son cerradas y acotadas.</fr:title>
+        <fr:taxon>Teorema</fr:taxon>
+        <fr:meta name="sources">
+          <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
+        </fr:meta>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <html:p>Dado <fr:tex display="inline"><![CDATA[\Omega \subset \mathbb  C]]></fr:tex> abierto, una familia <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> es compacta si y sólo si es cerrada y <fr:link href="/VC-000R/" title="Conjuntos acotados de funciones continuas en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000R/" display-uri="VC-000R" type="local">acotada</fr:link>.</html:p>
       </fr:mainmatter>
     </fr:tree>
   </fr:mainmatter>
