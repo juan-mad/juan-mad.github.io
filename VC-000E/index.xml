@@ -12,7 +12,6 @@
       <fr:month>9</fr:month>
       <fr:day>26</fr:day>
     </fr:date>
-    <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000E.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/VC-000E/</fr:uri>
     <fr:display-uri>VC-000E</fr:display-uri>
     <fr:route>/VC-000E/</fr:route>
@@ -36,7 +35,6 @@
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
-        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000G.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-000G/</fr:uri>
         <fr:display-uri>VC-000G</fr:display-uri>
         <fr:route>/VC-000G/</fr:route>
@@ -62,7 +60,6 @@
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
-        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000H.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-000H/</fr:uri>
         <fr:display-uri>VC-000H</fr:display-uri>
         <fr:route>/VC-000H/</fr:route>
@@ -89,7 +86,6 @@
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
-        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000I.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-000I/</fr:uri>
         <fr:display-uri>VC-000I</fr:display-uri>
         <fr:route>/VC-000I/</fr:route>
@@ -121,7 +117,6 @@
                 <fr:link href="https://juan-mad.github.io/W.%20P.%20Novinger" type="external">W. P. Novinger</fr:link>
               </fr:author>
             </fr:authors>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/ash-nov-cvs.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/ash-nov-cvs/</fr:uri>
             <fr:display-uri>ash-nov-cvs</fr:display-uri>
             <fr:route>/ash-nov-cvs/</fr:route>
@@ -164,7 +159,6 @@
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000C.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-000C/</fr:uri>
             <fr:display-uri>VC-000C</fr:display-uri>
             <fr:route>/VC-000C/</fr:route>

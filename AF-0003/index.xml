@@ -12,7 +12,6 @@
       <fr:month>9</fr:month>
       <fr:day>22</fr:day>
     </fr:date>
-    <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0003.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/AF-0003/</fr:uri>
     <fr:display-uri>AF-0003</fr:display-uri>
     <fr:route>/AF-0003/</fr:route>
@@ -48,7 +47,6 @@
               <fr:month>9</fr:month>
               <fr:day>22</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0001.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AF-0001/</fr:uri>
             <fr:display-uri>AF-0001</fr:display-uri>
             <fr:route>/AF-0001/</fr:route>
@@ -67,7 +65,6 @@
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0002.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0002/</fr:uri>
                 <fr:display-uri>AF-0002</fr:display-uri>
                 <fr:route>/AF-0002/</fr:route>
@@ -95,7 +92,6 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0003.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0003/</fr:uri>
                 <fr:display-uri>AF-0003</fr:display-uri>
                 <fr:route>/AF-0003/</fr:route>
@@ -118,7 +114,6 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0004.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0004/</fr:uri>
                 <fr:display-uri>AF-0004</fr:display-uri>
                 <fr:route>/AF-0004/</fr:route>
@@ -142,7 +137,6 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0005.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0005/</fr:uri>
                 <fr:display-uri>AF-0005</fr:display-uri>
                 <fr:route>/AF-0005/</fr:route>
@@ -171,7 +165,6 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0006.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0006/</fr:uri>
                 <fr:display-uri>AF-0006</fr:display-uri>
                 <fr:route>/AF-0006/</fr:route>
@@ -193,7 +186,6 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                       <fr:month>9</fr:month>
                       <fr:day>22</fr:day>
                     </fr:date>
-                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0007.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AF-0007/</fr:uri>
                     <fr:display-uri>AF-0007</fr:display-uri>
                     <fr:route>/AF-0007/</fr:route>
@@ -218,7 +210,6 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0008.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0008/</fr:uri>
                 <fr:display-uri>AF-0008</fr:display-uri>
                 <fr:route>/AF-0008/</fr:route>
@@ -242,7 +233,6 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0009.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0009/</fr:uri>
                 <fr:display-uri>AF-0009</fr:display-uri>
                 <fr:route>/AF-0009/</fr:route>
@@ -272,7 +262,6 @@ Notemos que <fr:tex display="inline"><![CDATA[\mathscr  C_B(X,E)]]></fr:tex> es 
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000A.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-000A/</fr:uri>
                 <fr:display-uri>AF-000A</fr:display-uri>
                 <fr:route>/AF-000A/</fr:route>
@@ -300,7 +289,6 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es denso en <
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000B.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-000B/</fr:uri>
                 <fr:display-uri>AF-000B</fr:display-uri>
                 <fr:route>/AF-000B/</fr:route>

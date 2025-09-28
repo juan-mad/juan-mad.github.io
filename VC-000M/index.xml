@@ -12,7 +12,6 @@
       <fr:month>9</fr:month>
       <fr:day>26</fr:day>
     </fr:date>
-    <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000M.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/VC-000M/</fr:uri>
     <fr:display-uri>VC-000M</fr:display-uri>
     <fr:route>/VC-000M/</fr:route>
@@ -23,7 +22,7 @@
     </fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Sea <fr:tex display="inline"><![CDATA[\Omega \subset  \mathbb  C]]></fr:tex> un abierto. Dada <fr:tex display="inline"><![CDATA[\{K_n\}_{n = 1}^\infty ]]></fr:tex> una <fr:link href="/TOPO-VTQB/" title="Sucesión expansiva de compactos en un abierto" uri="https://juan-mad.github.io/TOPO-VTQB/" display-uri="TOPO-VTQB" type="local">sucesión expansiva de compactos</fr:link> de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> y dadas dos funciones contnuas <fr:tex display="inline"><![CDATA[f,g\in \mathscr  C(\Omega )]]></fr:tex> definimos <fr:tex display="block"><![CDATA[d(f,g) = \sum _{n=1}^\infty \frac {\|f-g\|_{K_n}}{1+\|f-g\|_{K_n}},]]></fr:tex> donde <fr:tex display="block"><![CDATA[\|h\|_{K_n} = \max _{z\in  K_n} |h(z)| < \infty , \, h\in \mathscr  C(\Omega ).]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n \neq  0]]></fr:tex>, o <fr:tex display="inline"><![CDATA[\|h\|_{K_n}=0]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n=\emptyset ]]></fr:tex>.</html:p>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[\Omega \subset  \mathbb  C]]></fr:tex> un abierto. Dada <fr:tex display="inline"><![CDATA[\{K_n\}_{n = 1}^\infty ]]></fr:tex> una <fr:link href="/TOPO-VTQB/" title="Sucesión expansiva de compactos en un abierto" uri="https://juan-mad.github.io/TOPO-VTQB/" display-uri="TOPO-VTQB" type="local">sucesión expansiva de compactos</fr:link> de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> y dadas dos funciones continuas <fr:tex display="inline"><![CDATA[f,g\in \mathscr  C(\Omega )]]></fr:tex> definimos <fr:tex display="block"><![CDATA[d(f,g) = \sum _{n=1}^\infty \frac {\|f-g\|_{K_n}}{1+\|f-g\|_{K_n}},]]></fr:tex> donde <fr:tex display="block"><![CDATA[\|h\|_{K_n} = \max _{z\in  K_n} |h(z)| < \infty , \, h\in \mathscr  C(\Omega ).]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n \neq  0]]></fr:tex>, o <fr:tex display="inline"><![CDATA[\|h\|_{K_n}=0]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n=\emptyset ]]></fr:tex>.</html:p>
     <html:p>Puede probarse que <fr:tex display="inline"><![CDATA[d]]></fr:tex> define una métrica en <fr:tex display="inline"><![CDATA[\mathscr  C(\Omega )]]></fr:tex>.</html:p>
   </fr:mainmatter>
   <fr:backmatter>
@@ -43,7 +42,6 @@
                 <fr:link href="https://juan-mad.github.io/W.%20P.%20Novinger" type="external">W. P. Novinger</fr:link>
               </fr:author>
             </fr:authors>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/ash-nov-cvs.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/ash-nov-cvs/</fr:uri>
             <fr:display-uri>ash-nov-cvs</fr:display-uri>
             <fr:route>/ash-nov-cvs/</fr:route>
@@ -72,7 +70,6 @@
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000N.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-000N/</fr:uri>
             <fr:display-uri>VC-000N</fr:display-uri>
             <fr:route>/VC-000N/</fr:route>
@@ -95,7 +92,6 @@
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000M.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-000M/</fr:uri>
                 <fr:display-uri>VC-000M</fr:display-uri>
                 <fr:route>/VC-000M/</fr:route>
@@ -106,7 +102,7 @@
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sea <fr:tex display="inline"><![CDATA[\Omega \subset  \mathbb  C]]></fr:tex> un abierto. Dada <fr:tex display="inline"><![CDATA[\{K_n\}_{n = 1}^\infty ]]></fr:tex> una <fr:link href="/TOPO-VTQB/" title="Sucesión expansiva de compactos en un abierto" uri="https://juan-mad.github.io/TOPO-VTQB/" display-uri="TOPO-VTQB" type="local">sucesión expansiva de compactos</fr:link> de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> y dadas dos funciones contnuas <fr:tex display="inline"><![CDATA[f,g\in \mathscr  C(\Omega )]]></fr:tex> definimos <fr:tex display="block"><![CDATA[d(f,g) = \sum _{n=1}^\infty \frac {\|f-g\|_{K_n}}{1+\|f-g\|_{K_n}},]]></fr:tex> donde <fr:tex display="block"><![CDATA[\|h\|_{K_n} = \max _{z\in  K_n} |h(z)| < \infty , \, h\in \mathscr  C(\Omega ).]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n \neq  0]]></fr:tex>, o <fr:tex display="inline"><![CDATA[\|h\|_{K_n}=0]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n=\emptyset ]]></fr:tex>.</html:p>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[\Omega \subset  \mathbb  C]]></fr:tex> un abierto. Dada <fr:tex display="inline"><![CDATA[\{K_n\}_{n = 1}^\infty ]]></fr:tex> una <fr:link href="/TOPO-VTQB/" title="Sucesión expansiva de compactos en un abierto" uri="https://juan-mad.github.io/TOPO-VTQB/" display-uri="TOPO-VTQB" type="local">sucesión expansiva de compactos</fr:link> de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> y dadas dos funciones continuas <fr:tex display="inline"><![CDATA[f,g\in \mathscr  C(\Omega )]]></fr:tex> definimos <fr:tex display="block"><![CDATA[d(f,g) = \sum _{n=1}^\infty \frac {\|f-g\|_{K_n}}{1+\|f-g\|_{K_n}},]]></fr:tex> donde <fr:tex display="block"><![CDATA[\|h\|_{K_n} = \max _{z\in  K_n} |h(z)| < \infty , \, h\in \mathscr  C(\Omega ).]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n \neq  0]]></fr:tex>, o <fr:tex display="inline"><![CDATA[\|h\|_{K_n}=0]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n=\emptyset ]]></fr:tex>.</html:p>
                 <html:p>Puede probarse que <fr:tex display="inline"><![CDATA[d]]></fr:tex> define una métrica en <fr:tex display="inline"><![CDATA[\mathscr  C(\Omega )]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
@@ -135,7 +131,6 @@
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000N.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-000N/</fr:uri>
             <fr:display-uri>VC-000N</fr:display-uri>
             <fr:route>/VC-000N/</fr:route>
@@ -158,7 +153,6 @@
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000M.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-000M/</fr:uri>
                 <fr:display-uri>VC-000M</fr:display-uri>
                 <fr:route>/VC-000M/</fr:route>
@@ -169,7 +163,7 @@
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sea <fr:tex display="inline"><![CDATA[\Omega \subset  \mathbb  C]]></fr:tex> un abierto. Dada <fr:tex display="inline"><![CDATA[\{K_n\}_{n = 1}^\infty ]]></fr:tex> una <fr:link href="/TOPO-VTQB/" title="Sucesión expansiva de compactos en un abierto" uri="https://juan-mad.github.io/TOPO-VTQB/" display-uri="TOPO-VTQB" type="local">sucesión expansiva de compactos</fr:link> de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> y dadas dos funciones contnuas <fr:tex display="inline"><![CDATA[f,g\in \mathscr  C(\Omega )]]></fr:tex> definimos <fr:tex display="block"><![CDATA[d(f,g) = \sum _{n=1}^\infty \frac {\|f-g\|_{K_n}}{1+\|f-g\|_{K_n}},]]></fr:tex> donde <fr:tex display="block"><![CDATA[\|h\|_{K_n} = \max _{z\in  K_n} |h(z)| < \infty , \, h\in \mathscr  C(\Omega ).]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n \neq  0]]></fr:tex>, o <fr:tex display="inline"><![CDATA[\|h\|_{K_n}=0]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n=\emptyset ]]></fr:tex>.</html:p>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[\Omega \subset  \mathbb  C]]></fr:tex> un abierto. Dada <fr:tex display="inline"><![CDATA[\{K_n\}_{n = 1}^\infty ]]></fr:tex> una <fr:link href="/TOPO-VTQB/" title="Sucesión expansiva de compactos en un abierto" uri="https://juan-mad.github.io/TOPO-VTQB/" display-uri="TOPO-VTQB" type="local">sucesión expansiva de compactos</fr:link> de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex> y dadas dos funciones continuas <fr:tex display="inline"><![CDATA[f,g\in \mathscr  C(\Omega )]]></fr:tex> definimos <fr:tex display="block"><![CDATA[d(f,g) = \sum _{n=1}^\infty \frac {\|f-g\|_{K_n}}{1+\|f-g\|_{K_n}},]]></fr:tex> donde <fr:tex display="block"><![CDATA[\|h\|_{K_n} = \max _{z\in  K_n} |h(z)| < \infty , \, h\in \mathscr  C(\Omega ).]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n \neq  0]]></fr:tex>, o <fr:tex display="inline"><![CDATA[\|h\|_{K_n}=0]]></fr:tex> si <fr:tex display="inline"><![CDATA[K_n=\emptyset ]]></fr:tex>.</html:p>
                 <html:p>Puede probarse que <fr:tex display="inline"><![CDATA[d]]></fr:tex> define una métrica en <fr:tex display="inline"><![CDATA[\mathscr  C(\Omega )]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
@@ -198,7 +192,6 @@
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/topology/TOPO-VTQB.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/TOPO-VTQB/</fr:uri>
             <fr:display-uri>TOPO-VTQB</fr:display-uri>
             <fr:route>/TOPO-VTQB/</fr:route>

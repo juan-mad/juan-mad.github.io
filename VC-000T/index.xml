@@ -12,7 +12,6 @@
       <fr:month>9</fr:month>
       <fr:day>26</fr:day>
     </fr:date>
-    <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000T.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/VC-000T/</fr:uri>
     <fr:display-uri>VC-000T</fr:display-uri>
     <fr:route>/VC-000T/</fr:route>
@@ -43,7 +42,6 @@
                 <fr:link href="https://juan-mad.github.io/W.%20P.%20Novinger" type="external">W. P. Novinger</fr:link>
               </fr:author>
             </fr:authors>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/ash-nov-cvs.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/ash-nov-cvs/</fr:uri>
             <fr:display-uri>ash-nov-cvs</fr:display-uri>
             <fr:route>/ash-nov-cvs/</fr:route>
@@ -72,7 +70,6 @@
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/VC-0001.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-0001/</fr:uri>
             <fr:display-uri>VC-0001</fr:display-uri>
             <fr:route>/VC-0001/</fr:route>
@@ -90,7 +87,6 @@
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000F.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-000F/</fr:uri>
                 <fr:display-uri>VC-000F</fr:display-uri>
                 <fr:route>/VC-000F/</fr:route>
@@ -120,7 +116,6 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000K.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-000K/</fr:uri>
                 <fr:display-uri>VC-000K</fr:display-uri>
                 <fr:route>/VC-000K/</fr:route>
@@ -146,7 +141,6 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0005.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-0005/</fr:uri>
                 <fr:display-uri>VC-0005</fr:display-uri>
                 <fr:route>/VC-0005/</fr:route>
@@ -180,7 +174,6 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0009.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-0009/</fr:uri>
                 <fr:display-uri>VC-0009</fr:display-uri>
                 <fr:route>/VC-0009/</fr:route>
@@ -207,7 +200,6 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000A.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-000A/</fr:uri>
                 <fr:display-uri>VC-000A</fr:display-uri>
                 <fr:route>/VC-000A/</fr:route>
@@ -233,7 +225,6 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000B.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-000B/</fr:uri>
                 <fr:display-uri>VC-000B</fr:display-uri>
                 <fr:route>/VC-000B/</fr:route>
@@ -260,7 +251,6 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000L.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-000L/</fr:uri>
                 <fr:display-uri>VC-000L</fr:display-uri>
                 <fr:route>/VC-000L/</fr:route>
@@ -287,7 +277,6 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000O.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-000O/</fr:uri>
                 <fr:display-uri>VC-000O</fr:display-uri>
                 <fr:route>/VC-000O/</fr:route>
@@ -298,7 +287,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sea <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> una sucesión de funciones holomorfias que converge uniformemente en los compactos hacia <fr:tex display="inline"><![CDATA[f]]></fr:tex>. Sea <fr:tex display="inline"><![CDATA[B(z_0,r)\subset  \Omega ]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[f(z)\neq  0]]></fr:tex> si <fr:tex display="inline"><![CDATA[|z-z_0| = r]]></fr:tex>. Entonces, existe <fr:tex display="inline"><![CDATA[n_0\in \mathbb  N]]></fr:tex> tal que, si <fr:tex display="inline"><![CDATA[n\geq  n_0]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[f]]></fr:tex> y <fr:tex display="inline"><![CDATA[f_n]]></fr:tex> tienen el mismo número de ceros en <fr:tex display="inline"><![CDATA[B(z_0, r)]]></fr:tex>.</html:p>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> una sucesión de funciones holomorfas que converge uniformemente en los compactos hacia <fr:tex display="inline"><![CDATA[f]]></fr:tex>. Sea <fr:tex display="inline"><![CDATA[\overline {B}(z_0,r)\subset  \Omega ]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[f(z)\neq  0]]></fr:tex> si <fr:tex display="inline"><![CDATA[|z-z_0| = r]]></fr:tex>. Entonces, existe <fr:tex display="inline"><![CDATA[n_0\in \mathbb  N]]></fr:tex> tal que, si <fr:tex display="inline"><![CDATA[n\geq  n_0]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[f]]></fr:tex> y <fr:tex display="inline"><![CDATA[f_n]]></fr:tex> tienen el mismo número de ceros en <fr:tex display="inline"><![CDATA[B(z_0, r)]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -313,7 +302,6 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000P.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-000P/</fr:uri>
                 <fr:display-uri>VC-000P</fr:display-uri>
                 <fr:route>/VC-000P/</fr:route>
@@ -339,7 +327,6 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000Q.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-000Q/</fr:uri>
                 <fr:display-uri>VC-000Q</fr:display-uri>
                 <fr:route>/VC-000Q/</fr:route>
@@ -365,7 +352,6 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000R.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-000R/</fr:uri>
                 <fr:display-uri>VC-000R</fr:display-uri>
                 <fr:route>/VC-000R/</fr:route>
@@ -392,7 +378,6 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000S.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-000S/</fr:uri>
                 <fr:display-uri>VC-000S</fr:display-uri>
                 <fr:route>/VC-000S/</fr:route>
@@ -419,7 +404,6 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000T.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-000T/</fr:uri>
                 <fr:display-uri>VC-000T</fr:display-uri>
                 <fr:route>/VC-000T/</fr:route>
@@ -446,7 +430,6 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000U.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-000U/</fr:uri>
                 <fr:display-uri>VC-000U</fr:display-uri>
                 <fr:route>/VC-000U/</fr:route>
@@ -472,7 +455,6 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000V.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-000V/</fr:uri>
                 <fr:display-uri>VC-000V</fr:display-uri>
                 <fr:route>/VC-000V/</fr:route>
@@ -483,7 +465,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Dado un abierto <fr:tex display="inline"><![CDATA[\Omega \subset \mathbb  C]]></fr:tex>, sea <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> una familia <fr:link href="/VC-000R/" title="Conjuntos acotados de funciones continuas en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000R/" display-uri="VC-000R" type="local">acotada</fr:link>. Entonces toda sucesión <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> de elementos de <fr:tex display="inline"><![CDATA[\mathscr  F]]></fr:tex> admine una subsucesión que converge uniformemente en los compactos de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>. Es decir, todo <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> acotado es <fr:link href="/TOPO-9XNF/" title="Espacio relativamente compacto" uri="https://juan-mad.github.io/TOPO-9XNF/" display-uri="TOPO-9XNF" type="local">relativamente compacto</fr:link>.</html:p>
+                <html:p>Dado un abierto <fr:tex display="inline"><![CDATA[\Omega \subset \mathbb  C]]></fr:tex>, sea <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> una familia <fr:link href="/VC-000R/" title="Conjuntos acotados de funciones continuas en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000R/" display-uri="VC-000R" type="local">acotada</fr:link>. Entonces toda sucesión <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> de elementos de <fr:tex display="inline"><![CDATA[\mathscr  F]]></fr:tex> admite una subsucesión que converge uniformemente en los compactos de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>. Es decir, todo <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> acotado es <fr:link href="/TOPO-9XNF/" title="Espacio relativamente compacto" uri="https://juan-mad.github.io/TOPO-9XNF/" display-uri="TOPO-9XNF" type="local">relativamente compacto</fr:link>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -498,7 +480,6 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                   <fr:month>9</fr:month>
                   <fr:day>26</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000W.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/VC-000W/</fr:uri>
                 <fr:display-uri>VC-000W</fr:display-uri>
                 <fr:route>/VC-000W/</fr:route>
@@ -541,7 +522,6 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000S.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-000S/</fr:uri>
             <fr:display-uri>VC-000S</fr:display-uri>
             <fr:route>/VC-000S/</fr:route>
@@ -568,7 +548,6 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000R.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-000R/</fr:uri>
             <fr:display-uri>VC-000R</fr:display-uri>
             <fr:route>/VC-000R/</fr:route>

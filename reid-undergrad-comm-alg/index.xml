@@ -7,7 +7,6 @@
         <fr:link href="https://juan-mad.github.io/Miles%20Reid/" type="external">Miles Reid</fr:link>
       </fr:author>
     </fr:authors>
-    <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/reid-undergrad-comm-alg.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/reid-undergrad-comm-alg/</fr:uri>
     <fr:display-uri>reid-undergrad-comm-alg</fr:display-uri>
     <fr:route>/reid-undergrad-comm-alg/</fr:route>
@@ -49,7 +48,6 @@
               <fr:month>9</fr:month>
               <fr:day>24</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/modulos/AC-000I.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-000I/</fr:uri>
             <fr:display-uri>AC-000I</fr:display-uri>
             <fr:route>/AC-000I/</fr:route>
@@ -78,7 +76,6 @@
               <fr:month>9</fr:month>
               <fr:day>23</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000B.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
             <fr:display-uri>AC-000B</fr:display-uri>
             <fr:route>/AC-000B/</fr:route>

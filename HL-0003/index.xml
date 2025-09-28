@@ -10,17 +10,24 @@
     <fr:date>
       <fr:year>2025</fr:year>
       <fr:month>9</fr:month>
-      <fr:day>23</fr:day>
+      <fr:day>27</fr:day>
     </fr:date>
-    <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0003.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/HL-0003/</fr:uri>
     <fr:display-uri>HL-0003</fr:display-uri>
     <fr:route>/HL-0003/</fr:route>
-    <fr:title text="q-símplice singular"><fr:tex display="inline"><![CDATA[q]]></fr:tex>-símplice singular</fr:title>
+    <fr:title text="Homomorfismo entre módulos de homología">Homomorfismo entre módulos de homología</fr:title>
     <fr:taxon>Definición</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+    </fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>En un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex>, un <html:em><fr:tex display="inline"><![CDATA[q]]></fr:tex>-símplice singular</html:em> sobre <fr:tex display="inline"><![CDATA[X]]></fr:tex> es una aplicación continua <fr:tex display="inline"><![CDATA[\sigma \colon \Delta _{q}\rightarrow X.]]></fr:tex> Si <fr:tex display="inline"><![CDATA[X\in \mathbb  R]]></fr:tex>, se dice que un símplice singular es afín si existe una aplicación afín <fr:tex display="inline"><![CDATA[F\colon \mathbb  R^{q+1}\rightarrow \mathbb  R^q]]></fr:tex> con <fr:tex display="inline"><![CDATA[F_{\Delta _{q}} = \sigma ]]></fr:tex>.</html:p>
+    <html:p>Dados dos <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejos de cadenas</fr:link> <fr:tex display="inline"><![CDATA[C, D]]></fr:tex> y <fr:tex display="inline"><![CDATA[\overline {f}\colon \mathscr  C\rightarrow \mathscr  D]]></fr:tex> un <fr:link href="/HL-0002/" title="Morfismo de complejos de cadenas" uri="https://juan-mad.github.io/HL-0002/" display-uri="HL-0002" type="local">morfismo de complejos de cadenas</fr:link> induce un homomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos:
+<fr:tex display="block"><![CDATA[
+H_q(f)\colon  H_q(C)\longrightarrow  H_q(D) \\ \\
+H_q(f)(\overline {z}) = \overline {f_q(z)}
+]]></fr:tex>
+donde si <fr:tex display="inline"><![CDATA[z\in  Z_q(C)]]></fr:tex> es un <fr:link href="/HL-0004/" title="q-ciclos" uri="https://juan-mad.github.io/HL-0004/" display-uri="HL-0004" type="local"><fr:tex display="inline"><![CDATA[q]]></fr:tex>-ciclo</fr:link> entonces <fr:tex display="inline"><![CDATA[\overline {z}]]></fr:tex> es su clase en <fr:tex display="inline"><![CDATA[H_q(C)]]></fr:tex>.</html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -28,7 +35,26 @@
         <fr:authors />
         <fr:title text="References">References</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/Marvin%20J.%20Greenberg" type="external">Marvin J. Greenberg</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/John%20R.%20Harper" type="external">John R. Harper</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:uri>https://juan-mad.github.io/greenberg-harper-alg-topo/</fr:uri>
+            <fr:display-uri>greenberg-harper-alg-topo</fr:display-uri>
+            <fr:route>/greenberg-harper-alg-topo/</fr:route>
+            <fr:title text="Algebraic Topology">Algebraic Topology</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>
@@ -46,13 +72,13 @@
             <fr:date>
               <fr:year>2025</fr:year>
               <fr:month>9</fr:month>
-              <fr:day>23</fr:day>
+              <fr:day>28</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0001.tree</fr:source-path>
-            <fr:uri>https://juan-mad.github.io/HL-0001/</fr:uri>
-            <fr:display-uri>HL-0001</fr:display-uri>
-            <fr:route>/HL-0001/</fr:route>
-            <fr:title text="Teoría Singular">Teoría Singular</fr:title>
+            <fr:uri>https://juan-mad.github.io/HL-0007/</fr:uri>
+            <fr:display-uri>HL-0007</fr:display-uri>
+            <fr:route>/HL-0007/</fr:route>
+            <fr:title text="Homología">Homología</fr:title>
+            <fr:taxon>Tema</fr:taxon>
           </fr:frontmatter>
           <fr:mainmatter>
             <fr:tree show-metadata="false">
@@ -65,17 +91,63 @@
                 <fr:date>
                   <fr:year>2025</fr:year>
                   <fr:month>9</fr:month>
-                  <fr:day>23</fr:day>
+                  <fr:day>27</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0002.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HL-0001/</fr:uri>
+                <fr:display-uri>HL-0001</fr:display-uri>
+                <fr:route>/HL-0001/</fr:route>
+                <fr:title text="Complejo de cadenas de módulos">Complejo de cadenas de módulos</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter><html:p>Dado un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex>, un <html:em>complejo de cadenas en <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em> es un par <fr:tex display="inline"><![CDATA[(\{M_n\}_{n\in \mathbb  Z}, \{\delta _n\}_{n\in \mathbb  Z})]]></fr:tex>, donde los <fr:tex display="inline"><![CDATA[M_n]]></fr:tex> son <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos y los <fr:tex display="inline"><![CDATA[\delta _n\colon M_n\rightarrow M_{n-1}]]></fr:tex> son homomorfismos de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos tales que <fr:tex display="inline"><![CDATA[\mathrm {Im} \delta _n\subset  \mathrm {ker} \delta _{n-1}]]></fr:tex>, o lo que es lo mismo, <fr:tex display="inline"><![CDATA[\delta _{n-1}\circ \delta _n = 0]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[n\in \mathbb  Z]]></fr:tex>.</html:p>
+  <html:center><fr:resource hash="d2358a4c0d12cb27531fd32dd29334df"><fr:resource-content><html:img src="/d2358a4c0d12cb27531fd32dd29334df.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[
+  \begin {tikzcd}
+  \cdots  & C_{q+1} & C_q & C_{q-1} & \cdots 
+  \arrow [from=1-1, to=1-2]
+  \arrow ["\delta _{q+1}", from=1-2, to=1-3]
+  \arrow ["\delta _q", from=1-3, to=1-4]
+  \arrow [from=1-4, to=1-5]
+  \end {tikzcd}
+]]></fr:resource-source></fr:resource></html:center>
+<html:p>Nótese que el orden de índices creciente o decreciente es en general arbitrario y puede sustituirse una convención por la otra según el criterio o el contexto utilizado.</html:p></fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>27</fr:day>
+                </fr:date>
                 <fr:uri>https://juan-mad.github.io/HL-0002/</fr:uri>
                 <fr:display-uri>HL-0002</fr:display-uri>
                 <fr:route>/HL-0002/</fr:route>
-                <fr:title text="q-símplice estándar"><fr:tex display="inline"><![CDATA[q]]></fr:tex>-símplice estándar</fr:title>
+                <fr:title text="Morfismo de complejos de cadenas">Morfismo de complejos de cadenas</fr:title>
                 <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Si <fr:tex display="inline"><![CDATA[m>n]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathbb  R^n\subset  \mathbb  R^m]]></fr:tex> identificando <fr:tex display="inline"><![CDATA[\mathbb  R^n]]></fr:tex> con <fr:tex display="inline"><![CDATA[\mathbb  R^n\times \{\bar  0\}, \bar  0 \in  \mathbb  R^{m-n}]]></fr:tex>, llamamos <html:em><fr:tex display="inline"><![CDATA[q]]></fr:tex>-símplice singular estándar</html:em> al conjunto <fr:tex display="inline"><![CDATA[\Delta _{q}\subset  \mathbb  R^{q+1}, q\in \mathbb  N\cup \{0\}]]></fr:tex>, dado por <fr:tex display="block"><![CDATA[\Delta _{q} = \{ (x_0,\dots ,x_n) : x_0 + \dots  + x_n = 1, x_j\geq  0, \forall  j=0,\dots ,n\}.]]></fr:tex> Este es el mínimo conjunto convexo que contiene a los puntos afines <fr:tex display="inline"><![CDATA[P_j=(\delta _{0j},\dots ,\delta _{nj})\in \mathbb  R^{n+1}]]></fr:tex>, donde <fr:tex display="inline"><![CDATA[\delta _{ij}]]></fr:tex> es la delta de Kronecker.</html:p>
+                <html:p>Dados dos <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejos de cadenas</fr:link> <fr:tex display="inline"><![CDATA[C, D]]></fr:tex>, un <html:em>morfismo de complejos de cadenas</html:em> es una familia <fr:tex display="inline"><![CDATA[\overline {f}=\{f_q\}_{q\in \mathbb  Z}]]></fr:tex> de <fr:link href="/AC-000F/" title="Homomofismo de módulos" uri="https://juan-mad.github.io/AC-000F/" display-uri="AC-000F" type="local">homomorfismos de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos</fr:link> <fr:tex display="inline"><![CDATA[f_q\colon C_q\rightarrow D_q]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\partial ^D_qf_q = f_{q-1}\partial ^C_q]]></fr:tex>, es decir, que este cuadrado es conmutativo:
+
+
+  <html:center><fr:resource hash="16c622f0e703a7cbe4d2360f8a82226c"><fr:resource-content><html:img src="/16c622f0e703a7cbe4d2360f8a82226c.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[\begin {tikzcd}
+	{C_q} && {C_{q-1}} \\
+	\\
+	{D_q} && {D_{q-1}}
+	\arrow ["{\partial _q^{C}}", from=1-1, to=1-3]
+	\arrow ["{f_q}"', from=1-1, to=3-1]
+	\arrow ["{f_{q-1}}", from=1-3, to=3-3]
+	\arrow ["{\partial _q^{D}}"', from=3-1, to=3-3]
+\end {tikzcd}]]></fr:resource-source></fr:resource></html:center></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -88,40 +160,20 @@
                 <fr:date>
                   <fr:year>2025</fr:year>
                   <fr:month>9</fr:month>
-                  <fr:day>23</fr:day>
+                  <fr:day>27</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0003.tree</fr:source-path>
-                <fr:uri>https://juan-mad.github.io/HL-0003/</fr:uri>
-                <fr:display-uri>HL-0003</fr:display-uri>
-                <fr:route>/HL-0003/</fr:route>
-                <fr:title text="q-símplice singular"><fr:tex display="inline"><![CDATA[q]]></fr:tex>-símplice singular</fr:title>
-                <fr:taxon>Definición</fr:taxon>
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <html:p>En un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex>, un <html:em><fr:tex display="inline"><![CDATA[q]]></fr:tex>-símplice singular</html:em> sobre <fr:tex display="inline"><![CDATA[X]]></fr:tex> es una aplicación continua <fr:tex display="inline"><![CDATA[\sigma \colon \Delta _{q}\rightarrow X.]]></fr:tex> Si <fr:tex display="inline"><![CDATA[X\in \mathbb  R]]></fr:tex>, se dice que un símplice singular es afín si existe una aplicación afín <fr:tex display="inline"><![CDATA[F\colon \mathbb  R^{q+1}\rightarrow \mathbb  R^q]]></fr:tex> con <fr:tex display="inline"><![CDATA[F_{\Delta _{q}} = \sigma ]]></fr:tex>.</html:p>
-              </fr:mainmatter>
-            </fr:tree>
-            <fr:tree show-metadata="false">
-              <fr:frontmatter>
-                <fr:authors>
-                  <fr:author>
-                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-                  </fr:author>
-                </fr:authors>
-                <fr:date>
-                  <fr:year>2025</fr:year>
-                  <fr:month>9</fr:month>
-                  <fr:day>23</fr:day>
-                </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0004.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/HL-0004/</fr:uri>
                 <fr:display-uri>HL-0004</fr:display-uri>
                 <fr:route>/HL-0004/</fr:route>
-                <fr:title text="q-cadenas singulares"><fr:tex display="inline"><![CDATA[q]]></fr:tex>-cadenas singulares</fr:title>
+                <fr:title text="q-ciclos"><fr:tex display="inline"><![CDATA[q]]></fr:tex>-ciclos</fr:title>
                 <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Dado un anillo <fr:tex display="inline"><![CDATA[R]]></fr:tex>, definimos <fr:tex display="inline"><![CDATA[S_q(X)]]></fr:tex> como el <fr:tex display="inline"><![CDATA[R]]></fr:tex>-módulo libre generado por todos los <fr:tex display="inline"><![CDATA[q]]></fr:tex>-símplices singulares, es decir, como el conjunto de todas las sumas finitas de símplices singulares con coeficientes en <fr:tex display="inline"><![CDATA[R]]></fr:tex>.</html:p>
+                <html:p>Dado un <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> <fr:tex display="inline"><![CDATA[C = (\{C_q\}, \{\partial _q\})]]></fr:tex>, los elementos de <fr:tex display="inline"><![CDATA[Z_q(C):=\mathrm {ker}\partial _q \subset  C_q]]></fr:tex> reciben el nombre de <html:em><fr:tex display="inline"><![CDATA[q]]></fr:tex>-ciclos</html:em> de <fr:tex display="inline"><![CDATA[C]]></fr:tex>.</html:p>
+                <html:p>Decimos que dos <fr:tex display="inline"><![CDATA[q]]></fr:tex>-ciclos <fr:tex display="inline"><![CDATA[c_1,c_2]]></fr:tex> que difieren en un <fr:link href="/HL-0005/" title="q-bordes" uri="https://juan-mad.github.io/HL-0005/" display-uri="HL-0005" type="local">borde</fr:link> son homólogos, <fr:tex display="inline"><![CDATA[c_1\sim  c_2]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -134,18 +186,19 @@
                 <fr:date>
                   <fr:year>2025</fr:year>
                   <fr:month>9</fr:month>
-                  <fr:day>23</fr:day>
+                  <fr:day>27</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0005.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/HL-0005/</fr:uri>
                 <fr:display-uri>HL-0005</fr:display-uri>
                 <fr:route>/HL-0005/</fr:route>
-                <fr:title text="Caras del q-símplice estándar">Caras del <fr:tex display="inline"><![CDATA[q]]></fr:tex>-símplice estándar</fr:title>
+                <fr:title text="q-bordes"><fr:tex display="inline"><![CDATA[q]]></fr:tex>-bordes</fr:title>
                 <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Llamamos <fr:tex display="inline"><![CDATA[j]]></fr:tex>-ésima cara del <fr:tex display="inline"><![CDATA[q]]></fr:tex>-símplice estándar <fr:tex display="inline"><![CDATA[\Delta _{q}]]></fr:tex>, con <fr:tex display="inline"><![CDATA[j=0,\dots ,n]]></fr:tex> a la aplicación afín <fr:tex display="inline"><![CDATA[F_q^j\colon \Delta _{q-1}\rightarrow \Delta _{q}]]></fr:tex> que verifica <fr:tex display="block"><![CDATA[F_q^j(P_i) = \begin {cases}P_i & \text {si } i < j \\ P_{i+1} & \text {si } i\geq  j\end {cases},]]></fr:tex> es decir, se manda el punto <fr:tex display="inline"><![CDATA[(x_0,\dots ,x_{q-1})\mapsto  (x_0,\dots ,x_{j-1}, 0, x_{j+1},\dots ,x_q)]]></fr:tex>.</html:p>
-                <html:p>Notemos que <fr:tex display="inline"><![CDATA[F_q^j]]></fr:tex> es un homeomorfismo entre <fr:tex display="inline"><![CDATA[\Delta _{q-1}]]></fr:tex> y la cara de <fr:tex display="inline"><![CDATA[\Delta _{q}]]></fr:tex> "opuesta" al vértice <fr:tex display="inline"><![CDATA[P_j]]></fr:tex>.</html:p>
+                <html:p>Dado un <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> <fr:tex display="inline"><![CDATA[C = (\{C_q\}, \{\partial _q\})]]></fr:tex>, los elementos de <fr:tex display="inline"><![CDATA[B_q(C):=\mathrm {Im}\partial _{q+1}\subset  C_q]]></fr:tex> reciben el nombre de <html:em><fr:tex display="inline"><![CDATA[q]]></fr:tex>-bordes</html:em> de <fr:tex display="inline"><![CDATA[C]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -158,17 +211,221 @@
                 <fr:date>
                   <fr:year>2025</fr:year>
                   <fr:month>9</fr:month>
-                  <fr:day>23</fr:day>
+                  <fr:day>27</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0006.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/HL-0006/</fr:uri>
                 <fr:display-uri>HL-0006</fr:display-uri>
                 <fr:route>/HL-0006/</fr:route>
-                <fr:title text="Caras del q-símplice singular">Caras del <fr:tex display="inline"><![CDATA[q]]></fr:tex>-símplice singular</fr:title>
+                <fr:title text="q-ésimo módulo de homología"><fr:tex display="inline"><![CDATA[q]]></fr:tex>-ésimo módulo de homología</fr:title>
                 <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+                <fr:meta name="related">
+                  <fr:link href="/HL-0004/" title="q-ciclos" uri="https://juan-mad.github.io/HL-0004/" display-uri="HL-0004" type="local" />
+                  <fr:link href="/HL-0005/" title="q-bordes" uri="https://juan-mad.github.io/HL-0005/" display-uri="HL-0005" type="local" />
+                </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Si <fr:tex display="inline"><![CDATA[F_q^j\colon \Delta _{q-1}\rightarrow \Delta _{q}]]></fr:tex> es la <fr:tex display="inline"><![CDATA[j]]></fr:tex>-ésima <fr:link href="/HL-0005/" title="Caras del q-símplice estándar" uri="https://juan-mad.github.io/HL-0005/" display-uri="HL-0005" type="local">cara del <fr:tex display="inline"><![CDATA[q]]></fr:tex>-símplice estándar</fr:link> y <fr:tex display="inline"><![CDATA[\sigma \colon \Delta _{q}\rightarrow X]]></fr:tex> es un <fr:tex display="inline"><![CDATA[q]]></fr:tex>-símplice singular, llamamos la <fr:tex display="inline"><![CDATA[j]]></fr:tex>-ésima cara de <fr:tex display="inline"><![CDATA[\sigma ]]></fr:tex> al <fr:tex display="inline"><![CDATA[(q-1)]]></fr:tex>-símplice singular <fr:tex display="inline"><![CDATA[\sigma \circ  F_q^j]]></fr:tex>.</html:p>
+                <html:p>Dado un <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> <fr:tex display="inline"><![CDATA[C = (\{C_q\}, \{\partial _q\})]]></fr:tex>, llamamos el <html:em><fr:tex display="inline"><![CDATA[q]]></fr:tex>-ésimo módulo de homología</html:em> de <fr:tex display="inline"><![CDATA[C]]></fr:tex> al <fr:link href="/AC-000G/" title="Submódulo y módulos cocientes" uri="https://juan-mad.github.io/AC-000G/" display-uri="AC-000G" type="local">módulo cociente</fr:link> <fr:tex display="block"><![CDATA[H_q(\mathscr  C) = \frac {Z_q(\mathscr  C)}{B_q(\mathscr  C)}.]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>27</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/HL-0003/</fr:uri>
+                <fr:display-uri>HL-0003</fr:display-uri>
+                <fr:route>/HL-0003/</fr:route>
+                <fr:title text="Homomorfismo entre módulos de homología">Homomorfismo entre módulos de homología</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Dados dos <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejos de cadenas</fr:link> <fr:tex display="inline"><![CDATA[C, D]]></fr:tex> y <fr:tex display="inline"><![CDATA[\overline {f}\colon \mathscr  C\rightarrow \mathscr  D]]></fr:tex> un <fr:link href="/HL-0002/" title="Morfismo de complejos de cadenas" uri="https://juan-mad.github.io/HL-0002/" display-uri="HL-0002" type="local">morfismo de complejos de cadenas</fr:link> induce un homomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos:
+<fr:tex display="block"><![CDATA[
+H_q(f)\colon  H_q(C)\longrightarrow  H_q(D) \\ \\
+H_q(f)(\overline {z}) = \overline {f_q(z)}
+]]></fr:tex>
+donde si <fr:tex display="inline"><![CDATA[z\in  Z_q(C)]]></fr:tex> es un <fr:link href="/HL-0004/" title="q-ciclos" uri="https://juan-mad.github.io/HL-0004/" display-uri="HL-0004" type="local"><fr:tex display="inline"><![CDATA[q]]></fr:tex>-ciclo</fr:link> entonces <fr:tex display="inline"><![CDATA[\overline {z}]]></fr:tex> es su clase en <fr:tex display="inline"><![CDATA[H_q(C)]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>28</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/HL-0008/</fr:uri>
+                <fr:display-uri>HL-0008</fr:display-uri>
+                <fr:route>/HL-0008/</fr:route>
+                <fr:title text="Homotopía de cadenas">Homotopía de cadenas</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter><html:p>Una <html:em>homotopía de cadenas</html:em> entre <fr:link href="/HL-0002/" title="Morfismo de complejos de cadenas" uri="https://juan-mad.github.io/HL-0002/" display-uri="HL-0002" type="local">morfismos de cadenas</fr:link> <fr:tex display="inline"><![CDATA[f=\{f_q\colon C_q\rightarrow C_q'\}]]></fr:tex> y <fr:tex display="inline"><![CDATA[g=\{g_q\colon C_q\rightarrow C_q'\}]]></fr:tex> es una secuencia <fr:tex display="inline"><![CDATA[D=\{D_q\colon C_q\rightarrow C_{q+1}'\}]]></fr:tex> de homomorfismos tales que <fr:tex display="block"><![CDATA[\partial _{q+1}'D_q + D_{q-1}\partial _q = f_q = g_q.]]></fr:tex></html:p>
+  <html:center><fr:resource hash="22dbe70f240e1ff3d5bd059b6d076679"><fr:resource-content><html:img src="/22dbe70f240e1ff3d5bd059b6d076679.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[\begin {tikzcd}
+	{C_{q+1}} && {C_q} && {C_{q-1}} \\
+	\\
+	{C_{q-1}'} && {C_q'} && {C_{q-1}'}
+	\arrow ["{\partial _{q+1}}", from=1-1, to=1-3]
+	\arrow ["{f_{q+1}-g_{q+1}}"', from=1-1, to=3-1]
+	\arrow ["{\partial _q}", from=1-3, to=1-5]
+	\arrow ["{D_q}"', from=1-3, to=3-1]
+	\arrow ["{f_q-g_q}"', from=1-3, to=3-3]
+	\arrow ["{D_{q-1}}"', from=1-5, to=3-3]
+	\arrow ["{f_{q-1}-g_{q-1}}", from=1-5, to=3-5]
+	\arrow ["{\partial _{q+1}'}", from=3-1, to=3-3]
+	\arrow ["{\partial _q'}", from=3-3, to=3-5]
+\end {tikzcd}]]></fr:resource-source></fr:resource></html:center>
+<html:p>Si <fr:tex display="inline"><![CDATA[C_q=0]]></fr:tex> para <fr:tex display="inline"><![CDATA[q<0]]></fr:tex>, la ecuación se lee <fr:tex display="inline"><![CDATA[\partial _1'D_0=f_0-g_0]]></fr:tex>.</html:p><html:p>En este caso, escribimos <fr:tex display="inline"><![CDATA[f\simeq  g]]></fr:tex>. Esto se debe a que los homomorfismos <fr:tex display="inline"><![CDATA[f,g]]></fr:tex> de la homotopía de cadenas induce el mismo morfismo entre homologías, <fr:tex display="inline"><![CDATA[H_q(f) = H_q(g)]]></fr:tex>.</html:p></fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>28</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/HL-0009/</fr:uri>
+                <fr:display-uri>HL-0009</fr:display-uri>
+                <fr:route>/HL-0009/</fr:route>
+                <fr:title text="Complejo de cadenas acíclico o exacto">Complejo de cadenas acíclico o exacto</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un complejo de cadenas <fr:tex display="inline"><![CDATA[C]]></fr:tex> es <html:em>acíclico</html:em> o <html:em>exacto</html:em> si <fr:tex display="inline"><![CDATA[H_q(C)=0]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[q]]></fr:tex>. Esto significa que <fr:tex display="inline"><![CDATA[\mathrm {Im}\partial _{q+1}=\mathrm {ker}\partial _q]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[q]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>28</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/HL-000A/</fr:uri>
+                <fr:display-uri>HL-000A</fr:display-uri>
+                <fr:route>/HL-000A/</fr:route>
+                <fr:title text="Complejo de cadenas truncado">Complejo de cadenas truncado</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un complejo de cadenas <fr:tex display="inline"><![CDATA[C]]></fr:tex> <html:em>truncado</html:em> es un complejo de cadenas <fr:link href="/HL-0009/" title="Complejo de cadenas acíclico o exacto" uri="https://juan-mad.github.io/HL-0009/" display-uri="HL-0009" type="local">acíclico</fr:link> que además verifica <fr:tex display="inline"><![CDATA[C_q=0]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[q<0]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>28</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/HL-000B/</fr:uri>
+                <fr:display-uri>HL-000B</fr:display-uri>
+                <fr:route>/HL-000B/</fr:route>
+                <fr:title text="Aumentación de un complejo de cadenas">Aumentación de un complejo de cadenas</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Dado un <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> <fr:link href="/HL-000A/" title="Complejo de cadenas truncado" uri="https://juan-mad.github.io/HL-000A/" display-uri="HL-000A" type="local">truncado</fr:link> <fr:tex display="inline"><![CDATA[C]]></fr:tex>, una <html:em>aumentación de <fr:tex display="inline"><![CDATA[C]]></fr:tex> sobre <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em> es un <fr:link href="/AC-000F/" title="Homomofismo de módulos" uri="https://juan-mad.github.io/AC-000F/" display-uri="AC-000F" type="local">homomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos</fr:link> sobreyectivo <fr:tex display="inline"><![CDATA[\varepsilon \colon C_0\rightarrow A]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\varepsilon \partial _1 = 0]]></fr:tex>, es decir, <fr:tex display="inline"><![CDATA[\mathrm {Im}\,\partial _1\subset \mathrm {ker}\,\varepsilon ]]></fr:tex>. Nótese el isomorfismo <fr:tex display="inline"><![CDATA[C_0/\mathrm {ker}\,\varepsilon  = A]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>28</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/HL-000C/</fr:uri>
+                <fr:display-uri>HL-000C</fr:display-uri>
+                <fr:route>/HL-000C/</fr:route>
+                <fr:title text="Complejo de cadenas reducido">Complejo de cadenas reducido</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Dado un <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> con <fr:link href="/HL-000B/" title="Aumentación de un complejo de cadenas" uri="https://juan-mad.github.io/HL-000B/" display-uri="HL-000B" type="local">aumentación</fr:link> <fr:tex display="inline"><![CDATA[\varepsilon \colon C_0\rightarrow A]]></fr:tex>, se define el <html:em>complejo de cadenas reducido</html:em> <fr:tex display="inline"><![CDATA[C^\#=(\{C_q^\#\}, \{\partial _q^\#\})]]></fr:tex> definiendo:
+<html:ul><html:li><fr:tex display="inline"><![CDATA[C^\#_q=C_q]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[q\geq  1]]></fr:tex>,</html:li>
+  <html:li><fr:tex display="inline"><![CDATA[C^\#_0=\mathrm {ker}\,\varepsilon ]]></fr:tex>,</html:li>
+  <html:li><fr:tex display="inline"><![CDATA[\partial _q^\# = \partial _q]]></fr:tex>.</html:li></html:ul>
+
+Notemos que <fr:tex display="inline"><![CDATA[\partial ^\#_1\colon C^\#_1\rightarrow C^\#_0]]></fr:tex> ya que <fr:tex display="inline"><![CDATA[\mathrm {Im}\,\partial _1\subset \mathrm {ker}\,\varepsilon ]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>28</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/HL-000D/</fr:uri>
+                <fr:display-uri>HL-000D</fr:display-uri>
+                <fr:route>/HL-000D/</fr:route>
+                <fr:title text="Complejo de cadenas con aumentación acíclico">Complejo de cadenas con aumentación acíclico</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Decimos que un <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> con <fr:link href="/HL-000B/" title="Aumentación de un complejo de cadenas" uri="https://juan-mad.github.io/HL-000B/" display-uri="HL-000B" type="local">aumentación</fr:link> es <html:em>acíclico</html:em> (o exacto) si su <fr:link href="/HL-000C/" title="Complejo de cadenas reducido" uri="https://juan-mad.github.io/HL-000C/" display-uri="HL-000C" type="local">complejo de cadenas reducido</fr:link> es <fr:link href="/HL-0009/" title="Complejo de cadenas acíclico o exacto" uri="https://juan-mad.github.io/HL-0009/" display-uri="HL-0009" type="local">acíclico</fr:link>. Esto equivale a que <fr:tex display="inline"><![CDATA[\mathrm {Im}\,\partial _{q+1}=\mathrm {ker}\,\partial _q]]></fr:tex> si <fr:tex display="inline"><![CDATA[q\geq  1]]></fr:tex> y que <fr:tex display="inline"><![CDATA[\mathrm {Im}\,\partial _1 = \mathrm {ker}\,\varepsilon ]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>
@@ -187,7 +444,103 @@
         <fr:authors />
         <fr:title text="Related">Related</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>27</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/HL-0002/</fr:uri>
+            <fr:display-uri>HL-0002</fr:display-uri>
+            <fr:route>/HL-0002/</fr:route>
+            <fr:title text="Morfismo de complejos de cadenas">Morfismo de complejos de cadenas</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Dados dos <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejos de cadenas</fr:link> <fr:tex display="inline"><![CDATA[C, D]]></fr:tex>, un <html:em>morfismo de complejos de cadenas</html:em> es una familia <fr:tex display="inline"><![CDATA[\overline {f}=\{f_q\}_{q\in \mathbb  Z}]]></fr:tex> de <fr:link href="/AC-000F/" title="Homomofismo de módulos" uri="https://juan-mad.github.io/AC-000F/" display-uri="AC-000F" type="local">homomorfismos de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos</fr:link> <fr:tex display="inline"><![CDATA[f_q\colon C_q\rightarrow D_q]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\partial ^D_qf_q = f_{q-1}\partial ^C_q]]></fr:tex>, es decir, que este cuadrado es conmutativo:
+
+
+  <html:center><fr:resource hash="16c622f0e703a7cbe4d2360f8a82226c"><fr:resource-content><html:img src="/16c622f0e703a7cbe4d2360f8a82226c.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[\begin {tikzcd}
+	{C_q} && {C_{q-1}} \\
+	\\
+	{D_q} && {D_{q-1}}
+	\arrow ["{\partial _q^{C}}", from=1-1, to=1-3]
+	\arrow ["{f_q}"', from=1-1, to=3-1]
+	\arrow ["{f_{q-1}}", from=1-3, to=3-3]
+	\arrow ["{\partial _q^{D}}"', from=3-1, to=3-3]
+\end {tikzcd}]]></fr:resource-source></fr:resource></html:center></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>27</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/HL-0004/</fr:uri>
+            <fr:display-uri>HL-0004</fr:display-uri>
+            <fr:route>/HL-0004/</fr:route>
+            <fr:title text="q-ciclos"><fr:tex display="inline"><![CDATA[q]]></fr:tex>-ciclos</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Dado un <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> <fr:tex display="inline"><![CDATA[C = (\{C_q\}, \{\partial _q\})]]></fr:tex>, los elementos de <fr:tex display="inline"><![CDATA[Z_q(C):=\mathrm {ker}\partial _q \subset  C_q]]></fr:tex> reciben el nombre de <html:em><fr:tex display="inline"><![CDATA[q]]></fr:tex>-ciclos</html:em> de <fr:tex display="inline"><![CDATA[C]]></fr:tex>.</html:p>
+            <html:p>Decimos que dos <fr:tex display="inline"><![CDATA[q]]></fr:tex>-ciclos <fr:tex display="inline"><![CDATA[c_1,c_2]]></fr:tex> que difieren en un <fr:link href="/HL-0005/" title="q-bordes" uri="https://juan-mad.github.io/HL-0005/" display-uri="HL-0005" type="local">borde</fr:link> son homólogos, <fr:tex display="inline"><![CDATA[c_1\sim  c_2]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>27</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/HL-0001/</fr:uri>
+            <fr:display-uri>HL-0001</fr:display-uri>
+            <fr:route>/HL-0001/</fr:route>
+            <fr:title text="Complejo de cadenas de módulos">Complejo de cadenas de módulos</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter><html:p>Dado un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex>, un <html:em>complejo de cadenas en <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em> es un par <fr:tex display="inline"><![CDATA[(\{M_n\}_{n\in \mathbb  Z}, \{\delta _n\}_{n\in \mathbb  Z})]]></fr:tex>, donde los <fr:tex display="inline"><![CDATA[M_n]]></fr:tex> son <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos y los <fr:tex display="inline"><![CDATA[\delta _n\colon M_n\rightarrow M_{n-1}]]></fr:tex> son homomorfismos de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos tales que <fr:tex display="inline"><![CDATA[\mathrm {Im} \delta _n\subset  \mathrm {ker} \delta _{n-1}]]></fr:tex>, o lo que es lo mismo, <fr:tex display="inline"><![CDATA[\delta _{n-1}\circ \delta _n = 0]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[n\in \mathbb  Z]]></fr:tex>.</html:p>
+  <html:center><fr:resource hash="d2358a4c0d12cb27531fd32dd29334df"><fr:resource-content><html:img src="/d2358a4c0d12cb27531fd32dd29334df.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[
+  \begin {tikzcd}
+  \cdots  & C_{q+1} & C_q & C_{q-1} & \cdots 
+  \arrow [from=1-1, to=1-2]
+  \arrow ["\delta _{q+1}", from=1-2, to=1-3]
+  \arrow ["\delta _q", from=1-3, to=1-4]
+  \arrow [from=1-4, to=1-5]
+  \end {tikzcd}
+]]></fr:resource-source></fr:resource></html:center>
+<html:p>Nótese que el orden de índices creciente o decreciente es en general arbitrario y puede sustituirse una convención por la otra según el criterio o el contexto utilizado.</html:p></fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

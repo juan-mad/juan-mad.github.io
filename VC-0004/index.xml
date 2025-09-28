@@ -12,7 +12,6 @@
       <fr:month>9</fr:month>
       <fr:day>26</fr:day>
     </fr:date>
-    <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0004.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/VC-0004/</fr:uri>
     <fr:display-uri>VC-0004</fr:display-uri>
     <fr:route>/VC-0004/</fr:route>
@@ -42,7 +41,6 @@
                 <fr:link href="https://juan-mad.github.io/W.%20P.%20Novinger" type="external">W. P. Novinger</fr:link>
               </fr:author>
             </fr:authors>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/ash-nov-cvs.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/ash-nov-cvs/</fr:uri>
             <fr:display-uri>ash-nov-cvs</fr:display-uri>
             <fr:route>/ash-nov-cvs/</fr:route>
@@ -78,7 +76,6 @@
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0005.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-0005/</fr:uri>
             <fr:display-uri>VC-0005</fr:display-uri>
             <fr:route>/VC-0005/</fr:route>
@@ -120,7 +117,6 @@
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0003.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-0003/</fr:uri>
             <fr:display-uri>VC-0003</fr:display-uri>
             <fr:route>/VC-0003/</fr:route>

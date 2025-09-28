@@ -12,7 +12,6 @@
       <fr:month>9</fr:month>
       <fr:day>26</fr:day>
     </fr:date>
-    <fr:source-path>/hdd1/Projects/Forester/forest/trees/topology/TOPO-9XNF.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/TOPO-9XNF/</fr:uri>
     <fr:display-uri>TOPO-9XNF</fr:display-uri>
     <fr:route>/TOPO-9XNF/</fr:route>
@@ -55,7 +54,6 @@
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000V.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-000V/</fr:uri>
             <fr:display-uri>VC-000V</fr:display-uri>
             <fr:route>/VC-000V/</fr:route>
@@ -66,7 +64,7 @@
             </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Dado un abierto <fr:tex display="inline"><![CDATA[\Omega \subset \mathbb  C]]></fr:tex>, sea <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> una familia <fr:link href="/VC-000R/" title="Conjuntos acotados de funciones continuas en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000R/" display-uri="VC-000R" type="local">acotada</fr:link>. Entonces toda sucesión <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> de elementos de <fr:tex display="inline"><![CDATA[\mathscr  F]]></fr:tex> admine una subsucesión que converge uniformemente en los compactos de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>. Es decir, todo <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> acotado es <fr:link href="/TOPO-9XNF/" title="Espacio relativamente compacto" uri="https://juan-mad.github.io/TOPO-9XNF/" display-uri="TOPO-9XNF" type="local">relativamente compacto</fr:link>.</html:p>
+            <html:p>Dado un abierto <fr:tex display="inline"><![CDATA[\Omega \subset \mathbb  C]]></fr:tex>, sea <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> una familia <fr:link href="/VC-000R/" title="Conjuntos acotados de funciones continuas en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-000R/" display-uri="VC-000R" type="local">acotada</fr:link>. Entonces toda sucesión <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex> de elementos de <fr:tex display="inline"><![CDATA[\mathscr  F]]></fr:tex> admite una subsucesión que converge uniformemente en los compactos de <fr:tex display="inline"><![CDATA[\Omega ]]></fr:tex>. Es decir, todo <fr:tex display="inline"><![CDATA[\mathscr  F\subset \mathscr  H(\Omega )]]></fr:tex> acotado es <fr:link href="/TOPO-9XNF/" title="Espacio relativamente compacto" uri="https://juan-mad.github.io/TOPO-9XNF/" display-uri="TOPO-9XNF" type="local">relativamente compacto</fr:link>.</html:p>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>
