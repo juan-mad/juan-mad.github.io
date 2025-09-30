@@ -2,18 +2,25 @@
 <?xml-stylesheet type="text/xsl" href="/default.xsl"?>
 <fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
   <fr:frontmatter>
-    <fr:authors />
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
     <fr:date>
       <fr:year>2025</fr:year>
       <fr:month>9</fr:month>
-      <fr:day>26</fr:day>
+      <fr:day>29</fr:day>
     </fr:date>
-    <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/TOPO-VTQC.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/TOPO-VTQC/</fr:uri>
     <fr:display-uri>TOPO-VTQC</fr:display-uri>
     <fr:route>/TOPO-VTQC/</fr:route>
+    <fr:title text="Espacio precompacto o totalmente acotado">Espacio precompacto o totalmente acotado</fr:title>
+    <fr:taxon>Definición</fr:taxon>
   </fr:frontmatter>
-  <fr:mainmatter />
+  <fr:mainmatter>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topol'ogico. Decimos que <fr:tex display="inline"><![CDATA[Y\subset  X]]></fr:tex> es <html:em>precompacto</html:em> o <html:em>totalmente acotado</html:em> si para cualquier <fr:tex display="inline"><![CDATA[\varepsilon  > 0]]></fr:tex> existen un n'umero finito de puntos <fr:tex display="inline"><![CDATA[x_1,\dots ,x_n]]></fr:tex> tal que <fr:tex display="block"><![CDATA[Y\subset  B(x_1, \varepsilon )\cup \dots \cup  B(x_n, \varepsilon ).]]></fr:tex></html:p>
+  </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>
@@ -34,7 +41,33 @@
         <fr:authors />
         <fr:title text="Backlinks">Backlinks</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>29</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/AF-000E/</fr:uri>
+            <fr:display-uri>AF-000E</fr:display-uri>
+            <fr:route>/AF-000E/</fr:route>
+            <fr:title text="Espacios relativamente compactos y precompactos">Espacios relativamente compactos y precompactos</fr:title>
+            <fr:taxon>Proposici'on</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sean <fr:tex display="inline"><![CDATA[(E,d)]]></fr:tex> un espacio m'etrico y <fr:tex display="inline"><![CDATA[A\subset  E]]></fr:tex>.
+
+<html:ol><html:li>Si <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <fr:link href="/TOPO-9XNF/" title="Espacio relativamente compacto" uri="https://juan-mad.github.io/TOPO-9XNF/" display-uri="TOPO-9XNF" type="local">relativamente compacto</fr:link>, entonces es <fr:link href="/TOPO-VTQC/" title="Espacio precompacto o totalmente acotado" uri="https://juan-mad.github.io/TOPO-VTQC/" display-uri="TOPO-VTQC" type="local">precompacto</fr:link>. Esto se cumple para cualquier espacio topol'ogico.</html:li>
+    <html:li>Si <fr:tex display="inline"><![CDATA[(E,d)]]></fr:tex> es completo, entonces <fr:tex display="inline"><![CDATA[A]]></fr:tex> es relativamente compacto si y s'olo si es precompacto.</html:li></html:ol></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

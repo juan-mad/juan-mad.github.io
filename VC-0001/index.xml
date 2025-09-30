@@ -328,6 +328,9 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
         <fr:meta name="sources">
           <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
         </fr:meta>
+        <fr:meta name="related">
+          <fr:link href="/AF-000F/" title="Conjunto de funciones equicontinuas en un espacio normado." uri="https://juan-mad.github.io/AF-000F/" display-uri="AF-000F" type="local" />
+        </fr:meta>
       </fr:frontmatter>
       <fr:mainmatter>
         <html:p>Una familia <fr:tex display="inline"><![CDATA[\mathscr  F]]></fr:tex> de funciones en un abierto <fr:tex display="inline"><![CDATA[\Omega \subset \mathbb  C]]></fr:tex> es <html:em>equicontinua</html:em> en <fr:tex display="inline"><![CDATA[z_0\in \Omega ]]></fr:tex> si dado un <fr:tex display="inline"><![CDATA[\varepsilon  > 0]]></fr:tex> existe un <fr:tex display="inline"><![CDATA[\delta  = \delta (\varepsilon , z_0)>0]]></fr:tex> tal que <fr:tex display="block"><![CDATA[|z-z_0|<\delta  \implies  |f(z) - f(z_0)| < \varepsilon , \, \forall  f\in \mathscr  F.]]></fr:tex></html:p>

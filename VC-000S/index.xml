@@ -20,6 +20,9 @@
     <fr:meta name="sources">
       <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
     </fr:meta>
+    <fr:meta name="related">
+      <fr:link href="/AF-000F/" title="Conjunto de funciones equicontinuas en un espacio normado." uri="https://juan-mad.github.io/AF-000F/" display-uri="AF-000F" type="local" />
+    </fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
     <html:p>Una familia <fr:tex display="inline"><![CDATA[\mathscr  F]]></fr:tex> de funciones en un abierto <fr:tex display="inline"><![CDATA[\Omega \subset \mathbb  C]]></fr:tex> es <html:em>equicontinua</html:em> en <fr:tex display="inline"><![CDATA[z_0\in \Omega ]]></fr:tex> si dado un <fr:tex display="inline"><![CDATA[\varepsilon  > 0]]></fr:tex> existe un <fr:tex display="inline"><![CDATA[\delta  = \delta (\varepsilon , z_0)>0]]></fr:tex> tal que <fr:tex display="block"><![CDATA[|z-z_0|<\delta  \implies  |f(z) - f(z_0)| < \varepsilon , \, \forall  f\in \mathscr  F.]]></fr:tex></html:p>
@@ -386,6 +389,9 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                 <fr:meta name="sources">
                   <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
                 </fr:meta>
+                <fr:meta name="related">
+                  <fr:link href="/AF-000F/" title="Conjunto de funciones equicontinuas en un espacio normado." uri="https://juan-mad.github.io/AF-000F/" display-uri="AF-000F" type="local" />
+                </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>Una familia <fr:tex display="inline"><![CDATA[\mathscr  F]]></fr:tex> de funciones en un abierto <fr:tex display="inline"><![CDATA[\Omega \subset \mathbb  C]]></fr:tex> es <html:em>equicontinua</html:em> en <fr:tex display="inline"><![CDATA[z_0\in \Omega ]]></fr:tex> si dado un <fr:tex display="inline"><![CDATA[\varepsilon  > 0]]></fr:tex> existe un <fr:tex display="inline"><![CDATA[\delta  = \delta (\varepsilon , z_0)>0]]></fr:tex> tal que <fr:tex display="block"><![CDATA[|z-z_0|<\delta  \implies  |f(z) - f(z_0)| < \varepsilon , \, \forall  f\in \mathscr  F.]]></fr:tex></html:p>
@@ -561,7 +567,31 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
         <fr:authors />
         <fr:title text="Related">Related</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>29</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/AF-000F/</fr:uri>
+            <fr:display-uri>AF-000F</fr:display-uri>
+            <fr:route>/AF-000F/</fr:route>
+            <fr:title text="Conjunto de funciones equicontinuas en un espacio normado.">Conjunto de funciones equicontinuas en un espacio normado.</fr:title>
+            <fr:taxon>Proposici'on</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sean <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio m'etrico completo y <fr:tex display="inline"><![CDATA[E]]></fr:tex> un espacio normado. Un subconjunto <fr:tex display="inline"><![CDATA[S\subset \mathscr  C(X,E)]]></fr:tex> es <html:em>equicontinuo en <fr:tex display="inline"><![CDATA[t\in  X]]></fr:tex></html:em> si para cada <fr:tex display="inline"><![CDATA[\varepsilon >0]]></fr:tex> existe <fr:tex display="inline"><![CDATA[\delta >0]]></fr:tex> tal que para cualquier <fr:tex display="inline"><![CDATA[s\in  X]]></fr:tex> con <fr:tex display="inline"><![CDATA[d(s,t)<\delta ]]></fr:tex> y para todo <fr:tex display="inline"><![CDATA[f\in  S]]></fr:tex> se tiene que <fr:tex display="inline"><![CDATA[\|f(s)-f(t)\| < \varepsilon ]]></fr:tex>.</html:p>
+            <html:p>El conjunto <fr:tex display="inline"><![CDATA[S]]></fr:tex> es <html:em>equicontinuo en <fr:tex display="inline"><![CDATA[X]]></fr:tex></html:em> si lo es para cada punto de <fr:tex display="inline"><![CDATA[X]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

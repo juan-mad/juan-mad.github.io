@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>9</fr:month>
+      <fr:day>29</fr:day>
+    </fr:date>
+    <fr:uri>https://juan-mad.github.io/AF-000J/</fr:uri>
+    <fr:display-uri>AF-000J</fr:display-uri>
+    <fr:route>/AF-000J/</fr:route>
+    <fr:title text="Consecuencia del teorema de Banach-Steinhaus">Consecuencia del teorema de Banach-Steinhaus</fr:title>
+    <fr:taxon>Teorema</fr:taxon>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[\{T_n\}_{n = 1}^\infty ]]></fr:tex> una sucesi'on de <fr:link href="/AF-0006/" title="Espacio de operadores lineales y continuos" uri="https://juan-mad.github.io/AF-0006/" display-uri="AF-0006" type="local">operadores lineales continuos</fr:link> de Banach <fr:tex display="inline"><![CDATA[E]]></fr:tex> en un espacio normado <fr:tex display="inline"><![CDATA[F]]></fr:tex>. Se supone que para cada <fr:tex display="inline"><![CDATA[x\in  E]]></fr:tex> existe <fr:tex display="block"><![CDATA[\lim _{n\to \infty }T_n(x) = T(x)\in  F.]]></fr:tex> Entonces <fr:tex display="inline"><![CDATA[T]]></fr:tex> es un operador lineal continuo de <fr:tex display="inline"><![CDATA[E]]></fr:tex> en <fr:tex display="inline"><![CDATA[F]]></fr:tex>.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>22</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/AF-0006/</fr:uri>
+            <fr:display-uri>AF-0006</fr:display-uri>
+            <fr:route>/AF-0006/</fr:route>
+            <fr:title text="Espacio de operadores lineales y continuos">Espacio de operadores lineales y continuos</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>El conjunto <fr:tex display="inline"><![CDATA[\mathscr  L(E,F)]]></fr:tex> de los <fr:link href="/AF-0005/" title="Continuidad de operadores lineales" uri="https://juan-mad.github.io/AF-0005/" display-uri="AF-0005" type="local">operadores lineales continuos</fr:link> de un espacio normado <fr:tex display="inline"><![CDATA[E]]></fr:tex> en otro <fr:tex display="inline"><![CDATA[F]]></fr:tex> es un espacio vectorial con las operaciones habituales. Se considera la norma de los operadores sobre él. Cuando <fr:tex display="inline"><![CDATA[F=E]]></fr:tex> el espacio <fr:tex display="inline"><![CDATA[\mathscr  L(E,E)]]></fr:tex> se representa por <fr:tex display="inline"><![CDATA[\mathscr  L(E)]]></fr:tex>.</html:p>
+            <html:p>Si <fr:tex display="inline"><![CDATA[E]]></fr:tex>, <fr:tex display="inline"><![CDATA[F]]></fr:tex>, <fr:tex display="inline"><![CDATA[G]]></fr:tex> son <fr:link href="/AF-0002/" title="Espacio normado" uri="https://juan-mad.github.io/AF-0002/" display-uri="AF-0002" type="local">espacios normados</fr:link>, <fr:tex display="inline"><![CDATA[T\in \mathscr  L(E,F)]]></fr:tex> y <fr:tex display="inline"><![CDATA[S\in \mathscr  L(F,G)]]></fr:tex>, entonces la composición <fr:tex display="inline"><![CDATA[S\circ  T]]></fr:tex> es un operador lineal y continuo de <fr:tex display="inline"><![CDATA[E]]></fr:tex> en <fr:tex display="inline"><![CDATA[G]]></fr:tex> que se escribe como <fr:tex display="inline"><![CDATA[ST]]></fr:tex>. Además, <fr:tex display="inline"><![CDATA[\|ST\|\leq  \|S\|\|T\|.]]></fr:tex></html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>22</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AF-0007/</fr:uri>
+                <fr:display-uri>AF-0007</fr:display-uri>
+                <fr:route>/AF-0007/</fr:route>
+                <fr:title text="Espacio dual topológico">Espacio dual topológico</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Se denomina por espacio <html:em>dual topológico</html:em> de E al espacio <fr:tex display="inline"><![CDATA[\mathscr  L(E,\mathbb  K)]]></fr:tex> y se denota por <fr:tex display="inline"><![CDATA[E']]></fr:tex>. Sus elementos se denominan <html:em>funcionales lineales continuos</html:em>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

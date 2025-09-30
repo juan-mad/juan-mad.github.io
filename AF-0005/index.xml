@@ -19,9 +19,9 @@
     <fr:taxon>Proposición</fr:taxon>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Sean <fr:tex display="inline"><![CDATA[E]]></fr:tex>, <fr:tex display="inline"><![CDATA[F]]></fr:tex> dos espacios normados sobre el mismo cuerpo <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex> y sea <fr:tex display="inline"><![CDATA[T\colon E\rightarrow F]]></fr:tex> un operador lineal. Son equivalentes:
+    <html:p>Sean <fr:tex display="inline"><![CDATA[E]]></fr:tex>, <fr:tex display="inline"><![CDATA[F]]></fr:tex> dos <fr:link href="/AF-0002/" title="Espacio normado" uri="https://juan-mad.github.io/AF-0002/" display-uri="AF-0002" type="local">espacios normados</fr:link> sobre el mismo cuerpo <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex> y sea <fr:tex display="inline"><![CDATA[T\colon E\rightarrow F]]></fr:tex> un operador lineal. Son equivalentes:
 <html:ol><html:li><fr:tex display="inline"><![CDATA[T]]></fr:tex> es continuo en <fr:tex display="inline"><![CDATA[E]]></fr:tex>.</html:li>
-    <html:li><fr:tex display="inline"><![CDATA[T]]></fr:tex> es continua en <fr:tex display="inline"><![CDATA[0\in  E]]></fr:tex>.</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[T]]></fr:tex> es continuo en <fr:tex display="inline"><![CDATA[0\in  E]]></fr:tex>.</html:li>
     <html:li>Existe una constante <fr:tex display="inline"><![CDATA[K > 0]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\|T(x)\|\leq  K\|x\|]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[x \in  E]]></fr:tex>.</html:li>
     <html:li><fr:tex display="inline"><![CDATA[T]]></fr:tex> transforma conjuntos acotados en conjuntos acotados.</html:li></html:ol></html:p>
     <html:p>El extremo inferior de todas las constantes <fr:tex display="inline"><![CDATA[K]]></fr:tex> que verifican la acotación anterior recibe el nombre de <html:em>norma</html:em> del operador <fr:tex display="inline"><![CDATA[T]]></fr:tex> y se representa por <fr:tex display="inline"><![CDATA[\|T\|]]></fr:tex>. En particular, se define como <fr:tex display="block"><![CDATA[\|T\| = \inf \{K > 0 : \|T(x)\|\leq  K\|x\|,\forall  x\in  E\}.]]></fr:tex> Este valor también es igual a <fr:tex display="block"><![CDATA[\|T\| = \sup _{x\neq  0}\frac  {\|T(x)\|}{\|x\|} = \sup _{\|x\|=1}\|T(x)\| = \sup _{\|x\|\leq  1}\|T(x)\|]]></fr:tex></html:p>
@@ -105,7 +105,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                 <fr:taxon>Lema</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sean <fr:tex display="inline"><![CDATA[E]]></fr:tex> un espacio normado sobre <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex> y <fr:tex display="inline"><![CDATA[M]]></fr:tex> un subespacio cerrado de <fr:tex display="inline"><![CDATA[E]]></fr:tex> con <fr:tex display="inline"><![CDATA[M\neq  E]]></fr:tex>. Si <fr:tex display="inline"><![CDATA[0<r<1]]></fr:tex>, entonces existe <fr:tex display="inline"><![CDATA[y\in  E]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\|y\|=1]]></fr:tex> y <fr:tex display="inline"><![CDATA[r<\text {dist}(y, M)\leq  1]]></fr:tex>.</html:p>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[E]]></fr:tex> un <fr:link href="/AF-0002/" title="Espacio normado" uri="https://juan-mad.github.io/AF-0002/" display-uri="AF-0002" type="local">espacio normado</fr:link> sobre <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex> y <fr:tex display="inline"><![CDATA[M]]></fr:tex> un subespacio cerrado de <fr:tex display="inline"><![CDATA[E]]></fr:tex> con <fr:tex display="inline"><![CDATA[M\neq  E]]></fr:tex>. Si <fr:tex display="inline"><![CDATA[0<r<1]]></fr:tex>, entonces existe <fr:tex display="inline"><![CDATA[y\in  E]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\|y\|=1]]></fr:tex> y <fr:tex display="inline"><![CDATA[r<\text {dist}(y, M)\leq  1]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -127,7 +127,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                 <fr:taxon>Teorema</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sean <fr:tex display="inline"><![CDATA[E]]></fr:tex> un espacio normado sobre <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex>. La bola cerrada <fr:tex display="inline"><![CDATA[\bar  B(0,1)]]></fr:tex> es compacta si y sólo si <fr:tex display="inline"><![CDATA[E]]></fr:tex> es un espacio vectorial de dimensión finita.</html:p>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[E]]></fr:tex> un <fr:link href="/AF-0002/" title="Espacio normado" uri="https://juan-mad.github.io/AF-0002/" display-uri="AF-0002" type="local">espacio normado</fr:link> sobre <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex>. La bola cerrada <fr:tex display="inline"><![CDATA[\bar  B(0,1)]]></fr:tex> es compacta si y sólo si <fr:tex display="inline"><![CDATA[E]]></fr:tex> es un espacio vectorial de dimensión finita.</html:p>
                 <html:p>Esto permite demostrar que si <fr:tex display="inline"><![CDATA[E]]></fr:tex> es de dimensión finita, entonces un subconjunto <fr:tex display="inline"><![CDATA[M]]></fr:tex> de <fr:tex display="inline"><![CDATA[E]]></fr:tex> es compacto si y sólo si es cerrado y acotado.</html:p>
               </fr:mainmatter>
             </fr:tree>
@@ -150,9 +150,9 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                 <fr:taxon>Proposición</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sean <fr:tex display="inline"><![CDATA[E]]></fr:tex>, <fr:tex display="inline"><![CDATA[F]]></fr:tex> dos espacios normados sobre el mismo cuerpo <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex> y sea <fr:tex display="inline"><![CDATA[T\colon E\rightarrow F]]></fr:tex> un operador lineal. Son equivalentes:
+                <html:p>Sean <fr:tex display="inline"><![CDATA[E]]></fr:tex>, <fr:tex display="inline"><![CDATA[F]]></fr:tex> dos <fr:link href="/AF-0002/" title="Espacio normado" uri="https://juan-mad.github.io/AF-0002/" display-uri="AF-0002" type="local">espacios normados</fr:link> sobre el mismo cuerpo <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex> y sea <fr:tex display="inline"><![CDATA[T\colon E\rightarrow F]]></fr:tex> un operador lineal. Son equivalentes:
 <html:ol><html:li><fr:tex display="inline"><![CDATA[T]]></fr:tex> es continuo en <fr:tex display="inline"><![CDATA[E]]></fr:tex>.</html:li>
-    <html:li><fr:tex display="inline"><![CDATA[T]]></fr:tex> es continua en <fr:tex display="inline"><![CDATA[0\in  E]]></fr:tex>.</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[T]]></fr:tex> es continuo en <fr:tex display="inline"><![CDATA[0\in  E]]></fr:tex>.</html:li>
     <html:li>Existe una constante <fr:tex display="inline"><![CDATA[K > 0]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\|T(x)\|\leq  K\|x\|]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[x \in  E]]></fr:tex>.</html:li>
     <html:li><fr:tex display="inline"><![CDATA[T]]></fr:tex> transforma conjuntos acotados en conjuntos acotados.</html:li></html:ol></html:p>
                 <html:p>El extremo inferior de todas las constantes <fr:tex display="inline"><![CDATA[K]]></fr:tex> que verifican la acotación anterior recibe el nombre de <html:em>norma</html:em> del operador <fr:tex display="inline"><![CDATA[T]]></fr:tex> y se representa por <fr:tex display="inline"><![CDATA[\|T\|]]></fr:tex>. En particular, se define como <fr:tex display="block"><![CDATA[\|T\| = \inf \{K > 0 : \|T(x)\|\leq  K\|x\|,\forall  x\in  E\}.]]></fr:tex> Este valor también es igual a <fr:tex display="block"><![CDATA[\|T\| = \sup _{x\neq  0}\frac  {\|T(x)\|}{\|x\|} = \sup _{\|x\|=1}\|T(x)\| = \sup _{\|x\|\leq  1}\|T(x)\|]]></fr:tex></html:p>
@@ -178,8 +178,8 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                 <fr:taxon>Definición</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>El conjunto <fr:tex display="inline"><![CDATA[\mathscr  L(E,F)]]></fr:tex> de los operadores lineales y continutos de un espacio normado <fr:tex display="inline"><![CDATA[E]]></fr:tex> en otro <fr:tex display="inline"><![CDATA[F]]></fr:tex> es un espacio vectorial con las operaciones habituales. Se considera la norma de los operadores sobre él. Cuando <fr:tex display="inline"><![CDATA[F=E]]></fr:tex> el espacio <fr:tex display="inline"><![CDATA[\mathscr  L(E,E)]]></fr:tex> se representa por <fr:tex display="inline"><![CDATA[\mathscr  L(E)]]></fr:tex>.</html:p>
-                <html:p>Si <fr:tex display="inline"><![CDATA[E]]></fr:tex>, <fr:tex display="inline"><![CDATA[F]]></fr:tex>, <fr:tex display="inline"><![CDATA[G]]></fr:tex> son espacios normados, <fr:tex display="inline"><![CDATA[T\in \mathscr  L(E,F)]]></fr:tex> y <fr:tex display="inline"><![CDATA[S\in \mathscr  L(F,G)]]></fr:tex>, entonces la composición <fr:tex display="inline"><![CDATA[S\circ  T]]></fr:tex> es un operador lineal y continuo de <fr:tex display="inline"><![CDATA[E]]></fr:tex> en <fr:tex display="inline"><![CDATA[G]]></fr:tex> que se escribe como <fr:tex display="inline"><![CDATA[ST]]></fr:tex>. Además, <fr:tex display="inline"><![CDATA[\|ST\|\leq  \|S\|\|T\|.]]></fr:tex></html:p>
+                <html:p>El conjunto <fr:tex display="inline"><![CDATA[\mathscr  L(E,F)]]></fr:tex> de los <fr:link href="/AF-0005/" title="Continuidad de operadores lineales" uri="https://juan-mad.github.io/AF-0005/" display-uri="AF-0005" type="local">operadores lineales continuos</fr:link> de un espacio normado <fr:tex display="inline"><![CDATA[E]]></fr:tex> en otro <fr:tex display="inline"><![CDATA[F]]></fr:tex> es un espacio vectorial con las operaciones habituales. Se considera la norma de los operadores sobre él. Cuando <fr:tex display="inline"><![CDATA[F=E]]></fr:tex> el espacio <fr:tex display="inline"><![CDATA[\mathscr  L(E,E)]]></fr:tex> se representa por <fr:tex display="inline"><![CDATA[\mathscr  L(E)]]></fr:tex>.</html:p>
+                <html:p>Si <fr:tex display="inline"><![CDATA[E]]></fr:tex>, <fr:tex display="inline"><![CDATA[F]]></fr:tex>, <fr:tex display="inline"><![CDATA[G]]></fr:tex> son <fr:link href="/AF-0002/" title="Espacio normado" uri="https://juan-mad.github.io/AF-0002/" display-uri="AF-0002" type="local">espacios normados</fr:link>, <fr:tex display="inline"><![CDATA[T\in \mathscr  L(E,F)]]></fr:tex> y <fr:tex display="inline"><![CDATA[S\in \mathscr  L(F,G)]]></fr:tex>, entonces la composición <fr:tex display="inline"><![CDATA[S\circ  T]]></fr:tex> es un operador lineal y continuo de <fr:tex display="inline"><![CDATA[E]]></fr:tex> en <fr:tex display="inline"><![CDATA[G]]></fr:tex> que se escribe como <fr:tex display="inline"><![CDATA[ST]]></fr:tex>. Además, <fr:tex display="inline"><![CDATA[\|ST\|\leq  \|S\|\|T\|.]]></fr:tex></html:p>
                 <fr:tree show-metadata="false">
                   <fr:frontmatter>
                     <fr:authors>
@@ -223,7 +223,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                 <fr:taxon>Definición</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Un <html:em>espacio de Banach</html:em> es un espacio normado completo con la métrica inducida por la norma.</html:p>
+                <html:p>Un <html:em>espacio de Banach</html:em> es un <fr:link href="/AF-0002/" title="Espacio normado" uri="https://juan-mad.github.io/AF-0002/" display-uri="AF-0002" type="local">espacio normado</fr:link> completo con la métrica inducida por la norma.</html:p>
                 <html:p>Si <fr:tex display="inline"><![CDATA[E]]></fr:tex> y <fr:tex display="inline"><![CDATA[F]]></fr:tex> son dos espacios normados sobre el mismo cuerpo <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex>, entonces el espacio <fr:tex display="inline"><![CDATA[\mathscr  L(E,F)]]></fr:tex> de los <fr:link href="/AF-0006/" title="Espacio de operadores lineales y continuos" uri="https://juan-mad.github.io/AF-0006/" display-uri="AF-0006" type="local">operadores lineales y continuos</fr:link> entre dos espacios normados es de Banach si y sólo si lo es <fr:tex display="inline"><![CDATA[F]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
@@ -310,6 +310,219 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <
                 <html:p>Como corolario, el subespacio de los polinomios en una variable con coeficientes en <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex> es denso en <fr:tex display="inline"><![CDATA[\mathscr  C([a,b],\mathbb  C)]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>29</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AF-000C/</fr:uri>
+                <fr:display-uri>AF-000C</fr:display-uri>
+                <fr:route>/AF-000C/</fr:route>
+                <fr:title text="Polinomios de una variable son densos en intervalos cerrados de \mathbb  R">Polinomios de una variable son densos en intervalos cerrados de <fr:tex display="inline"><![CDATA[\mathbb  R]]></fr:tex></fr:title>
+                <fr:taxon>Corolario</fr:taxon>
+                <fr:meta name="related">
+                  <fr:link href="/AF-000A/" title="Teorema de Stone-Weierstrass, caso real" uri="https://juan-mad.github.io/AF-000A/" display-uri="AF-000A" type="local" />
+                  <fr:link href="/AF-000B/" title="Teorema de Stone-Weierstrass" uri="https://juan-mad.github.io/AF-000B/" display-uri="AF-000B" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>El subespacio de los polinomios en una variable con coeficientes en <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex> es denso en <fr:tex display="inline"><![CDATA[\mathscr  C([a,b],\mathbb  K)]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>29</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AF-000D/</fr:uri>
+                <fr:display-uri>AF-000D</fr:display-uri>
+                <fr:route>/AF-000D/</fr:route>
+                <fr:title text="Caracterizaci'on de los compactos en espacios m'etricos">Caracterizaci'on de los compactos en espacios m'etricos</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[K]]></fr:tex> un subconjunto de un <fr:tex display="inline"><![CDATA[(E,d)]]></fr:tex> un espacio m'etrico. Son equivalentes:
+
+<html:ol><html:li><fr:tex display="inline"><![CDATA[K]]></fr:tex> es compacto.</html:li>
+    <html:li>Todo subconjunto infinito de <fr:tex display="inline"><![CDATA[K]]></fr:tex> tiene un punto de acumulaci'on en <fr:tex display="inline"><![CDATA[K]]></fr:tex>.</html:li>
+    <html:li>Toda sucesi'on de elementos de <fr:tex display="inline"><![CDATA[K]]></fr:tex> tiene una subsucesi'on convergente en <fr:tex display="inline"><![CDATA[K]]></fr:tex>.</html:li>
+    <html:li>Para cualquier familia de conjuntos cerrados de <fr:tex display="inline"><![CDATA[K]]></fr:tex> con intersecci;on vac'ia, existe una subfamilia finita cuya intersecci'on tambi'en es vac'ia.</html:li></html:ol></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>29</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AF-000E/</fr:uri>
+                <fr:display-uri>AF-000E</fr:display-uri>
+                <fr:route>/AF-000E/</fr:route>
+                <fr:title text="Espacios relativamente compactos y precompactos">Espacios relativamente compactos y precompactos</fr:title>
+                <fr:taxon>Proposici'on</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[(E,d)]]></fr:tex> un espacio m'etrico y <fr:tex display="inline"><![CDATA[A\subset  E]]></fr:tex>.
+
+<html:ol><html:li>Si <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <fr:link href="/TOPO-9XNF/" title="Espacio relativamente compacto" uri="https://juan-mad.github.io/TOPO-9XNF/" display-uri="TOPO-9XNF" type="local">relativamente compacto</fr:link>, entonces es <fr:link href="/TOPO-VTQC/" title="Espacio precompacto o totalmente acotado" uri="https://juan-mad.github.io/TOPO-VTQC/" display-uri="TOPO-VTQC" type="local">precompacto</fr:link>. Esto se cumple para cualquier espacio topol'ogico.</html:li>
+    <html:li>Si <fr:tex display="inline"><![CDATA[(E,d)]]></fr:tex> es completo, entonces <fr:tex display="inline"><![CDATA[A]]></fr:tex> es relativamente compacto si y s'olo si es precompacto.</html:li></html:ol></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>29</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AF-000F/</fr:uri>
+                <fr:display-uri>AF-000F</fr:display-uri>
+                <fr:route>/AF-000F/</fr:route>
+                <fr:title text="Conjunto de funciones equicontinuas en un espacio normado.">Conjunto de funciones equicontinuas en un espacio normado.</fr:title>
+                <fr:taxon>Proposici'on</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio m'etrico completo y <fr:tex display="inline"><![CDATA[E]]></fr:tex> un espacio normado. Un subconjunto <fr:tex display="inline"><![CDATA[S\subset \mathscr  C(X,E)]]></fr:tex> es <html:em>equicontinuo en <fr:tex display="inline"><![CDATA[t\in  X]]></fr:tex></html:em> si para cada <fr:tex display="inline"><![CDATA[\varepsilon >0]]></fr:tex> existe <fr:tex display="inline"><![CDATA[\delta >0]]></fr:tex> tal que para cualquier <fr:tex display="inline"><![CDATA[s\in  X]]></fr:tex> con <fr:tex display="inline"><![CDATA[d(s,t)<\delta ]]></fr:tex> y para todo <fr:tex display="inline"><![CDATA[f\in  S]]></fr:tex> se tiene que <fr:tex display="inline"><![CDATA[\|f(s)-f(t)\| < \varepsilon ]]></fr:tex>.</html:p>
+                <html:p>El conjunto <fr:tex display="inline"><![CDATA[S]]></fr:tex> es <html:em>equicontinuo en <fr:tex display="inline"><![CDATA[X]]></fr:tex></html:em> si lo es para cada punto de <fr:tex display="inline"><![CDATA[X]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>29</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AF-000G/</fr:uri>
+                <fr:display-uri>AF-000G</fr:display-uri>
+                <fr:route>/AF-000G/</fr:route>
+                <fr:title text="Teorema de Arzelà-Ascoli">Teorema de Arzelà-Ascoli</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topol'ogico compacto, <fr:tex display="inline"><![CDATA[E]]></fr:tex> un espacio m'etrico completo y <fr:tex display="inline"><![CDATA[K]]></fr:tex> un subconjunto de <fr:tex display="inline"><![CDATA[\mathscr  C(X,E)]]></fr:tex>. Son equivalentes:
+<html:ul><html:li><fr:tex display="inline"><![CDATA[K]]></fr:tex> es relativamente compacto en el espacio m'etrico completo <fr:tex display="inline"><![CDATA[\mathscr  C(X,E)]]></fr:tex>.</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[K]]></fr:tex> es equicontinuo y para cada <fr:tex display="inline"><![CDATA[t\in  X]]></fr:tex>, la 'orbita <fr:tex display="inline"><![CDATA[C(t) = \{f(t) : f\in  K\}]]></fr:tex> es relativamente compacta en <fr:tex display="inline"><![CDATA[E]]></fr:tex>.</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>29</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AF-000H/</fr:uri>
+                <fr:display-uri>AF-000H</fr:display-uri>
+                <fr:route>/AF-000H/</fr:route>
+                <fr:title text="Espacios m'etricos completos son de Baire">Espacios m'etricos completos son de Baire</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Todo espacio m'etrico completo es un <fr:link href="/TOPO-XVUT/" title="Conjuntos de Baire" uri="https://juan-mad.github.io/TOPO-XVUT/" display-uri="TOPO-XVUT" type="local">espacio de Baire</fr:link>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>29</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AF-000I/</fr:uri>
+                <fr:display-uri>AF-000I</fr:display-uri>
+                <fr:route>/AF-000I/</fr:route>
+                <fr:title text="Teorema de Banach-Steinhaus o principio de acotaci'on uniforme">Teorema de Banach-Steinhaus o principio de acotaci'on uniforme</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[E]]></fr:tex> un espacio de Banach, <fr:tex display="inline"><![CDATA[F]]></fr:tex> un espacio normado y <fr:tex display="inline"><![CDATA[\{T_i:i\in  I\}\subset \mathscr  L(E,F)]]></fr:tex> una familia de <fr:link href="/AF-0006/" title="Espacio de operadores lineales y continuos" uri="https://juan-mad.github.io/AF-0006/" display-uri="AF-0006" type="local">operadores lineales y continuos</fr:link>. Entonces, o bien existe una constante <fr:tex display="inline"><![CDATA[M]]></fr:tex> tal que <fr:tex display="block"><![CDATA[\sup \{\|T_i\|:i\in  I\} \leq  M]]></fr:tex> o bien existe un conjunto <fr:tex display="inline"><![CDATA[A\subset  E]]></fr:tex>, <fr:link href="/TOPO-T2Y6/" title="Conjuntos de tipo G_\delta " uri="https://juan-mad.github.io/TOPO-T2Y6/" display-uri="TOPO-T2Y6" type="local">de tipo <fr:tex display="inline"><![CDATA[G_\delta ]]></fr:tex></fr:link> y denso en <fr:tex display="inline"><![CDATA[E]]></fr:tex>, tal que <fr:tex display="block"><![CDATA[\sup \{\|T_i(x)\|:i\in  I\} = \infty , \, \forall  x \in  A.]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>29</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AF-000K/</fr:uri>
+                <fr:display-uri>AF-000K</fr:display-uri>
+                <fr:route>/AF-000K/</fr:route>
+                <fr:title text="Teorema de la aplicaci'on abierta">Teorema de la aplicaci'on abierta</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[E]]></fr:tex> y <fr:tex display="inline"><![CDATA[F]]></fr:tex> dos espacios de Banach y <fr:tex display="inline"><![CDATA[T]]></fr:tex> un operador lineal continuo y suprayectivo de <fr:tex display="inline"><![CDATA[E]]></fr:tex> en <fr:tex display="inline"><![CDATA[F]]></fr:tex>. Entonces <fr:tex display="inline"><![CDATA[T]]></fr:tex> transforma abiertos de <fr:tex display="inline"><![CDATA[E]]></fr:tex> en abiertos de <fr:tex display="inline"><![CDATA[F]]></fr:tex>, es decir, es una aplicaci'on abierta.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>29</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AF-000L/</fr:uri>
+                <fr:display-uri>AF-000L</fr:display-uri>
+                <fr:route>/AF-000L/</fr:route>
+                <fr:title text="Teorema del grafo cerrado">Teorema del grafo cerrado</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[E, F]]></fr:tex> dos espacios de Banach y <fr:tex display="inline"><![CDATA[T]]></fr:tex> una aplicaci'on lineal de <fr:tex display="inline"><![CDATA[E]]></fr:tex> en <fr:tex display="inline"><![CDATA[F]]></fr:tex>. Entonces <fr:tex display="inline"><![CDATA[T]]></fr:tex> es continua si y s'olo si su grafo es un subconjunto cerrado de <fr:tex display="inline"><![CDATA[E\times  F]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>
@@ -319,14 +532,88 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <
         <fr:authors />
         <fr:title text="Backlinks">Backlinks</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>22</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/AF-0006/</fr:uri>
+            <fr:display-uri>AF-0006</fr:display-uri>
+            <fr:route>/AF-0006/</fr:route>
+            <fr:title text="Espacio de operadores lineales y continuos">Espacio de operadores lineales y continuos</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>El conjunto <fr:tex display="inline"><![CDATA[\mathscr  L(E,F)]]></fr:tex> de los <fr:link href="/AF-0005/" title="Continuidad de operadores lineales" uri="https://juan-mad.github.io/AF-0005/" display-uri="AF-0005" type="local">operadores lineales continuos</fr:link> de un espacio normado <fr:tex display="inline"><![CDATA[E]]></fr:tex> en otro <fr:tex display="inline"><![CDATA[F]]></fr:tex> es un espacio vectorial con las operaciones habituales. Se considera la norma de los operadores sobre él. Cuando <fr:tex display="inline"><![CDATA[F=E]]></fr:tex> el espacio <fr:tex display="inline"><![CDATA[\mathscr  L(E,E)]]></fr:tex> se representa por <fr:tex display="inline"><![CDATA[\mathscr  L(E)]]></fr:tex>.</html:p>
+            <html:p>Si <fr:tex display="inline"><![CDATA[E]]></fr:tex>, <fr:tex display="inline"><![CDATA[F]]></fr:tex>, <fr:tex display="inline"><![CDATA[G]]></fr:tex> son <fr:link href="/AF-0002/" title="Espacio normado" uri="https://juan-mad.github.io/AF-0002/" display-uri="AF-0002" type="local">espacios normados</fr:link>, <fr:tex display="inline"><![CDATA[T\in \mathscr  L(E,F)]]></fr:tex> y <fr:tex display="inline"><![CDATA[S\in \mathscr  L(F,G)]]></fr:tex>, entonces la composición <fr:tex display="inline"><![CDATA[S\circ  T]]></fr:tex> es un operador lineal y continuo de <fr:tex display="inline"><![CDATA[E]]></fr:tex> en <fr:tex display="inline"><![CDATA[G]]></fr:tex> que se escribe como <fr:tex display="inline"><![CDATA[ST]]></fr:tex>. Además, <fr:tex display="inline"><![CDATA[\|ST\|\leq  \|S\|\|T\|.]]></fr:tex></html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>22</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/AF-0007/</fr:uri>
+                <fr:display-uri>AF-0007</fr:display-uri>
+                <fr:route>/AF-0007/</fr:route>
+                <fr:title text="Espacio dual topológico">Espacio dual topológico</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Se denomina por espacio <html:em>dual topológico</html:em> de E al espacio <fr:tex display="inline"><![CDATA[\mathscr  L(E,\mathbb  K)]]></fr:tex> y se denota por <fr:tex display="inline"><![CDATA[E']]></fr:tex>. Sus elementos se denominan <html:em>funcionales lineales continuos</html:em>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>
         <fr:authors />
         <fr:title text="Related">Related</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>22</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/AF-0002/</fr:uri>
+            <fr:display-uri>AF-0002</fr:display-uri>
+            <fr:route>/AF-0002/</fr:route>
+            <fr:title text="Espacio normado">Espacio normado</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[E]]></fr:tex> un espacio vectorial sobre un cuerpo <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex>, con <fr:tex display="inline"><![CDATA[\mathbb  K]]></fr:tex>=<fr:tex display="inline"><![CDATA[\mathbb  R]]></fr:tex> o <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex>. Una <html:em>norma</html:em> es una función <fr:tex display="inline"><![CDATA[\|\,\|:E\to  \mathbb  K]]></fr:tex> tal que para todo <fr:tex display="inline"><![CDATA[x, y \in  E]]></fr:tex> y <fr:tex display="inline"><![CDATA[\lambda \in  \mathbb  K]]></fr:tex> se tiene que
+<html:ol><html:li><fr:tex display="inline"><![CDATA[\|x\|\geq  0]]></fr:tex> y <fr:tex display="inline"><![CDATA[\|x\| = 0]]></fr:tex> si y sólo si <fr:tex display="inline"><![CDATA[x=0]]></fr:tex>.</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[\|x+y\|\leq  \|x\| + \|y\|]]></fr:tex>, y</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[\|\lambda  x\| = |\lambda |\|x\|]]></fr:tex>.</html:li></html:ol>
+El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <html:em>espacio normado</html:em>.
+</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

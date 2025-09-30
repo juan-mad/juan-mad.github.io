@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>9</fr:month>
+      <fr:day>29</fr:day>
+    </fr:date>
+    <fr:uri>https://juan-mad.github.io/TOPO-T2Y6/</fr:uri>
+    <fr:display-uri>TOPO-T2Y6</fr:display-uri>
+    <fr:route>/TOPO-T2Y6/</fr:route>
+    <fr:title text="Conjuntos de tipo G_\delta ">Conjuntos de tipo <fr:tex display="inline"><![CDATA[G_\delta ]]></fr:tex></fr:title>
+    <fr:taxon>Definici'on</fr:taxon>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topol'ogico y sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un subconjunto de <fr:tex display="inline"><![CDATA[X]]></fr:tex>. Se dice que <fr:tex display="inline"><![CDATA[A]]></fr:tex> es del <html:em>tipo G_\delta </html:em> si es intersecci'on numerable de conjuntos abiertos.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>29</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/AF-000I/</fr:uri>
+            <fr:display-uri>AF-000I</fr:display-uri>
+            <fr:route>/AF-000I/</fr:route>
+            <fr:title text="Teorema de Banach-Steinhaus o principio de acotaci'on uniforme">Teorema de Banach-Steinhaus o principio de acotaci'on uniforme</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sean <fr:tex display="inline"><![CDATA[E]]></fr:tex> un espacio de Banach, <fr:tex display="inline"><![CDATA[F]]></fr:tex> un espacio normado y <fr:tex display="inline"><![CDATA[\{T_i:i\in  I\}\subset \mathscr  L(E,F)]]></fr:tex> una familia de <fr:link href="/AF-0006/" title="Espacio de operadores lineales y continuos" uri="https://juan-mad.github.io/AF-0006/" display-uri="AF-0006" type="local">operadores lineales y continuos</fr:link>. Entonces, o bien existe una constante <fr:tex display="inline"><![CDATA[M]]></fr:tex> tal que <fr:tex display="block"><![CDATA[\sup \{\|T_i\|:i\in  I\} \leq  M]]></fr:tex> o bien existe un conjunto <fr:tex display="inline"><![CDATA[A\subset  E]]></fr:tex>, <fr:link href="/TOPO-T2Y6/" title="Conjuntos de tipo G_\delta " uri="https://juan-mad.github.io/TOPO-T2Y6/" display-uri="TOPO-T2Y6" type="local">de tipo <fr:tex display="inline"><![CDATA[G_\delta ]]></fr:tex></fr:link> y denso en <fr:tex display="inline"><![CDATA[E]]></fr:tex>, tal que <fr:tex display="block"><![CDATA[\sup \{\|T_i(x)\|:i\in  I\} = \infty , \, \forall  x \in  A.]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

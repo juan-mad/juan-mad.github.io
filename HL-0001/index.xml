@@ -1166,6 +1166,33 @@ Dado un conjunto de generadores <fr:tex display="inline"><![CDATA[m_1,\dots , m_
             <fr:date>
               <fr:year>2025</fr:year>
               <fr:month>9</fr:month>
+              <fr:day>29</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/HL-000E/</fr:uri>
+            <fr:display-uri>HL-000E</fr:display-uri>
+            <fr:route>/HL-000E/</fr:route>
+            <fr:title text="Condicion suficiente de aciclicidad de complejos con aumentaci'on">Condicion suficiente de aciclicidad de complejos con aumentaci'on</fr:title>
+            <fr:taxon>Proposición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Todo <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> <fr:tex display="inline"><![CDATA[C]]></fr:tex> con <fr:link href="/HL-000B/" title="Aumentación de un complejo de cadenas" uri="https://juan-mad.github.io/HL-000B/" display-uri="HL-000B" type="local">aumentación</fr:link> <fr:tex display="inline"><![CDATA[\varepsilon \colon C_0\rightarrow A]]></fr:tex> tiene un inverso por la derecha (no necesariamente 'unico) <fr:tex display="inline"><![CDATA[\eta \colon A\rightarrow C_0]]></fr:tex> dado por <fr:tex display="inline"><![CDATA[\eta (1)=x]]></fr:tex> para alg'un <fr:tex display="inline"><![CDATA[x]]></fr:tex> con <fr:tex display="inline"><![CDATA[\varpesilon (x)=1]]></fr:tex>. Entonces, <fr:tex display="inline"><![CDATA[\varepsilon \eta  = 1]]></fr:tex>.</html:p>
+            <html:p>Definimos el <fr:link href="/HL-0002/" title="Morfismo de complejos de cadenas" uri="https://juan-mad.github.io/HL-0002/" display-uri="HL-0002" type="local">morfismo de complejos de cadenas</fr:link> <fr:tex display="inline"><![CDATA[\eta \varepsilon \colon  C\rightarrow  C]]></fr:tex> definiendo <fr:tex display="inline"><![CDATA[\varepsilon \vert _{C_q} = 0]]></fr:tex> para <fr:tex display="inline"><![CDATA[q\geq  1]]></fr:tex>.</html:p>
+            <html:p>Se tiene la siguiente condici'on suficiente: si <fr:tex display="inline"><![CDATA[1 \simeq  \eta \varepsilon ]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[C]]></fr:tex> es ac'iclico.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
               <fr:day>28</fr:day>
             </fr:date>
             <fr:uri>https://juan-mad.github.io/HL-000D/</fr:uri>
