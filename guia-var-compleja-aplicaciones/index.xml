@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="https://juan-mad.github.io/F'elix%20Galindo%20Soto/" type="external">F'elix Galindo Soto</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="https://juan-mad.github.io/Javier%20G'omez%20P'erez/" type="external">Javier G'omez P'erez</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="https://juan-mad.github.io/Javier%20Sanz%20Gil/" type="external">Javier Sanz Gil</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="https://juan-mad.github.io/Luis%20Alberto%20Trist'an%20Vega/" type="external">Luis Alberto Trist'an Vega</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:uri>https://juan-mad.github.io/guia-var-compleja-aplicaciones/</fr:uri>
+    <fr:display-uri>guia-var-compleja-aplicaciones</fr:display-uri>
+    <fr:route>/guia-var-compleja-aplicaciones/</fr:route>
+    <fr:title text="Gu'ia pr'actica de variable compleja y aplicaciones">Gu'ia pr'actica de variable compleja y aplicaciones</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

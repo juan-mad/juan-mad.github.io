@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>9</fr:month>
+      <fr:day>30</fr:day>
+    </fr:date>
+    <fr:uri>https://juan-mad.github.io/MISC-0008/</fr:uri>
+    <fr:display-uri>MISC-0008</fr:display-uri>
+    <fr:route>/MISC-0008/</fr:route>
+    <fr:title text="Teorema de holomorf'ia bajo el signo integral">Teorema de holomorf'ia bajo el signo integral</fr:title>
+    <fr:taxon>Teorema</fr:taxon>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C]]></fr:tex> abierto, <fr:tex display="inline"><![CDATA[\gamma ]]></fr:tex> una curva en <fr:tex display="inline"><![CDATA[U]]></fr:tex> y <fr:tex display="inline"><![CDATA[f\colon  U\times \gamma ^*\rightarrow  \mathbb  C]]></fr:tex> continua tal que <fr:tex display="inline"><![CDATA[f(\cdot ,t)\colon  U\rightarrow  \mathbb  C]]></fr:tex> es holomorfa. Entonces <fr:tex display="block"><![CDATA[F(x) = \int _\gamma  f(x,t)dt]]></fr:tex> es holomorfa.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>30</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/MISC-0001/</fr:uri>
+            <fr:display-uri>MISC-0001</fr:display-uri>
+            <fr:route>/MISC-0001/</fr:route>
+            <fr:title text="Propiedades de integrales param'etricas">Propiedades de integrales param'etricas</fr:title>
+            <fr:taxon>Propiedades</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>30</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/MISC-0002/</fr:uri>
+                <fr:display-uri>MISC-0002</fr:display-uri>
+                <fr:route>/MISC-0002/</fr:route>
+                <fr:title text="Teorema de continuidad bajo el signo integral, versi'on 1">Teorema de continuidad bajo el signo integral, versi'on 1</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[K\subset \mathbb  R^n]]></fr:tex> compacto y <fr:tex display="inline"><![CDATA[f\colon  K\times  [a,b]\rightarrow  \mathbb  R]]></fr:tex> continua. Definimos <fr:tex display="block"><![CDATA[F(x) = \int _a^b f(x,t)dt.]]></fr:tex> Entonces <fr:tex display="inline"><![CDATA[F]]></fr:tex> es continua en <fr:tex display="inline"><![CDATA[K]]></fr:tex>.</html:p>
+                <html:p>Si {f} est'a definida en <fr:tex display="inline"><![CDATA[U\times  [a,b]]]></fr:tex> con <fr:tex display="inline"><![CDATA[U]]></fr:tex> un abierto, basta con considerar un entorno compacto de un punto de <fr:tex display="inline"><![CDATA[U]]></fr:tex> (una bola cerrada de radio apropiado).</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>30</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/MISC-0003/</fr:uri>
+                <fr:display-uri>MISC-0003</fr:display-uri>
+                <fr:route>/MISC-0003/</fr:route>
+                <fr:title text="Teorema de derivabilidad bajo el signo integral">Teorema de derivabilidad bajo el signo integral</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset  \mathbb  R^n]]></fr:tex> abierto, <fr:tex display="inline"><![CDATA[f\colon  U\times  [a,b]\rightarrow  \mathbb  R]]></fr:tex> continua en <fr:tex display="inline"><![CDATA[U]]></fr:tex> y derivable respecto a <fr:tex display="inline"><![CDATA[x\in  U]]></fr:tex> para un <fr:tex display="inline"><![CDATA[i\in \{1,\dots ,n\}]]></fr:tex> y que <fr:tex display="inline"><![CDATA[\displaystyle {\frac {\partial  f}{\partial  x_i}}\colon  U\times  [a,b]\rightarrow  \mathbb  R]]></fr:tex> es continua. Entonces <fr:tex display="block"><![CDATA[F(x) = \int _a^bf(x,t)dt]]></fr:tex> es derivable respecto a <fr:tex display="inline"><![CDATA[x_i]]></fr:tex> y adem'as <fr:tex display="block"><![CDATA[\frac {\partial  F}{\partial  x_i} = \int _a^b\frac {\partial  f}{\partial  x_i}(x,t)dt.]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>30</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/MISC-0004/</fr:uri>
+                <fr:display-uri>MISC-0004</fr:display-uri>
+                <fr:route>/MISC-0004/</fr:route>
+                <fr:title text="Teorema de continuidad bajo el signo integral, versi'on 2">Teorema de continuidad bajo el signo integral, versi'on 2</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[A\subset \mathbb  R^n]]></fr:tex> abierto, <fr:tex display="inline"><![CDATA[E\subset  \mathbb  R^p]]></fr:tex> medible Lebesgue y <fr:tex display="inline"><![CDATA[f\colon A\times  E\rightarrow \mathbb  R]]></fr:tex> tal que:
+<html:ol><html:li>Para todo <fr:tex display="inline"><![CDATA[x\in  A, f(x,\cdot )\colon  E\rightarrow  \mathbb  R]]></fr:tex> es integrable.</html:li>
+    <html:li>Para todo <fr:tex display="inline"><![CDATA[t\in  E, f(\cdot ,t)\colon  A\rightarrow  \mathbb  R]]></fr:tex> es continua.</html:li>
+    <html:li>Existe un <fr:tex display="inline"><![CDATA[g\colon E\rightarrow \mathbb  R]]></fr:tex> integrable tal que <fr:tex display="inline"><![CDATA[|f(x,t)|\leq  g(t)]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[x\in  A]]></fr:tex>.</html:li></html:ol>
+Entonces <fr:tex display="inline"><![CDATA[\displaystyle {F(x) = \int _Ef(x,t)dt}]]></fr:tex> es continua en <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>30</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/MISC-0005/</fr:uri>
+                <fr:display-uri>MISC-0005</fr:display-uri>
+                <fr:route>/MISC-0005/</fr:route>
+                <fr:title text="Teorema de la convergencia dominada de Lebesgue">Teorema de la convergencia dominada de Lebesgue</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[\{f_n\}_{n = 1}^\infty ]]></fr:tex>, <fr:tex display="inline"><![CDATA[f_n\colon E\rightarrow \mathbb  R]]></fr:tex>, <fr:tex display="inline"><![CDATA[n\geq  1]]></fr:tex> una sucesi'on de funciones integrables que converge puntualmente a una funci'on <fr:tex display="inline"><![CDATA[f]]></fr:tex>, <fr:tex display="inline"><![CDATA[f_n(t)\xrightarrow {n\to \infty }f(t)]]></fr:tex>. Supongamos que existe una funci'on <fr:tex display="inline"><![CDATA[g\colon E\rightarrow \mathbb  R]]></fr:tex> integrable tal que <fr:tex display="inline"><![CDATA[|f_n(t)|\leq  g(t)]]></fr:tex> para casi todo <fr:tex display="inline"><![CDATA[t\in  E]]></fr:tex> y para todo <fr:tex display="inline"><![CDATA[n\geq  1]]></fr:tex>. Entonces <fr:tex display="block"><![CDATA[\int _Ef(t)dt = \lim _{n\to \infty }\int _Ef_n(t)dt.]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>30</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/MISC-0006/</fr:uri>
+                <fr:display-uri>MISC-0006</fr:display-uri>
+                <fr:route>/MISC-0006/</fr:route>
+                <fr:title text="Teorema de derivabilidad bajo el signo integral">Teorema de derivabilidad bajo el signo integral</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[A\subset \mathbb  R^n]]></fr:tex> abierto, <fr:tex display="inline"><![CDATA[E\subset  \mathbb  R^p]]></fr:tex> medible Lebesgue y <fr:tex display="inline"><![CDATA[f\colon A\times  E\rightarrow \mathbb  R]]></fr:tex> tal que:
+<html:ol><html:li>Para todo <fr:tex display="inline"><![CDATA[x\in  A, f(x,\cdot )\colon  E\rightarrow  \mathbb  R]]></fr:tex> es integrable.</html:li>
+    <html:li>Para todo <fr:tex display="inline"><![CDATA[t\in  E, f(\cdot ,t)\colon  A\rightarrow  \mathbb  R]]></fr:tex> tiene derivada <fr:tex display="inline"><![CDATA[i]]></fr:tex>-'esima continua.</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[\displaystyle {\frac {\partial  f}{\partial  x_i}(x,\cdot )\colon  E\rightarrow  \mathbb  R}]]></fr:tex> es medible, y existe un <fr:tex display="inline"><![CDATA[g\colon E\rightarrow \mathbb  R]]></fr:tex> integrable tal que <fr:tex display="inline"><![CDATA[\displaystyle {\left |\frac {\partial  f}{\partial  x_i}(x,\cdot )|\leq  g(t)}]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[x\in  A]]></fr:tex>.</html:li></html:ol>
+Entonces <fr:tex display="inline"><![CDATA[\displaystyle {F(x) = \int _Ef(x,t)dt}]]></fr:tex> es derivable respecto a <fr:tex display="inline"><![CDATA[x_i]]></fr:tex> en <fr:tex display="inline"><![CDATA[A]]></fr:tex> y <fr:tex display="block"><![CDATA[\frac {\partial  F}{\partial  x_i}(x) = \int _E\frac {\partial  f}{\partial  x_i}(x,t)dt.]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>30</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/MISC-0007/</fr:uri>
+                <fr:display-uri>MISC-0007</fr:display-uri>
+                <fr:route>/MISC-0007/</fr:route>
+                <fr:title text="Funci'on Gamma de Euler">Funci'on Gamma de Euler</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Se define la <html:em>funci'on Gamma de Euler</html:em> como <fr:tex display="block"><![CDATA[\begin {align*}
+\Gamma \colon (0,\infty ) & \longrightarrow  \mathbb  R \\
+x & \longmapsto  \int _0^\infty  t^{x-1}e^{-t}dt.\end {align*}]]></fr:tex></html:p>
+                <html:p>Esta integral existe como integral impropia. Su derivada es igual a <fr:tex display="block"><![CDATA[\Gamma '(x) = \int _0^\infty  t^{x=1}e^{-t}\log  t\,dt.]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>30</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/MISC-0008/</fr:uri>
+                <fr:display-uri>MISC-0008</fr:display-uri>
+                <fr:route>/MISC-0008/</fr:route>
+                <fr:title text="Teorema de holomorf'ia bajo el signo integral">Teorema de holomorf'ia bajo el signo integral</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C]]></fr:tex> abierto, <fr:tex display="inline"><![CDATA[\gamma ]]></fr:tex> una curva en <fr:tex display="inline"><![CDATA[U]]></fr:tex> y <fr:tex display="inline"><![CDATA[f\colon  U\times \gamma ^*\rightarrow  \mathbb  C]]></fr:tex> continua tal que <fr:tex display="inline"><![CDATA[f(\cdot ,t)\colon  U\rightarrow  \mathbb  C]]></fr:tex> es holomorfa. Entonces <fr:tex display="block"><![CDATA[F(x) = \int _\gamma  f(x,t)dt]]></fr:tex> es holomorfa.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

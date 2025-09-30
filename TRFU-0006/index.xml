@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>9</fr:month>
+      <fr:day>30</fr:day>
+    </fr:date>
+    <fr:uri>https://juan-mad.github.io/TRFU-0006/</fr:uri>
+    <fr:display-uri>TRFU-0006</fr:display-uri>
+    <fr:route>/TRFU-0006/</fr:route>
+    <fr:title text="Derivabilidad de la transformada de Laplace">Derivabilidad de la transformada de Laplace</fr:title>
+    <fr:taxon>Tema</fr:taxon>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[f\colon \left[ 0,\infty  \right)\rightarrow  \mathbb  R]]></fr:tex> y sea <fr:tex display="inline"><![CDATA[F(z)]]></fr:tex> su <fr:link href="/TRFU-0004/" title="Transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0004/" display-uri="TRFU-0004" type="local">transformada de Laplace</fr:link>. Entonces <fr:tex display="block"><![CDATA[F'(z) = -\int _0^\inftyf (t)te^{-zt}dt,]]></fr:tex> que es precisamente la transformada de Laplace de <fr:tex display="inline"><![CDATA[g(t) = -tf(t)]]></fr:tex>. De hecho, para <fr:tex display="inline"><![CDATA[k\geq  1]]></fr:tex>, se tiene <fr:tex display="block"><![CDATA[F^{(k)}(z) = (-1)^k\mathscr  L(t^kf(t))(z).]]></fr:tex></html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>30</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/TRFU-0002/</fr:uri>
+            <fr:display-uri>TRFU-0002</fr:display-uri>
+            <fr:route>/TRFU-0002/</fr:route>
+            <fr:title text="Transformada de Laplace">Transformada de Laplace</fr:title>
+            <fr:taxon>Tema</fr:taxon>
+            <fr:meta name="sources">()[guia-var-compleja-aplicaciones]</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>El estudio de la transformada de Laplace considera funciones para las que la integral <fr:tex display="inline"><![CDATA[\displaystyle {\int _0^bf(t)dt}]]></fr:tex> tiene sentido para todo <fr:tex display="inline"><![CDATA[b>0]]></fr:tex> y es finita (o absolutamente convergente para la integral de Riemann). Esto garantiza que tambi'en son finitas las integrales del tipo <fr:tex display="inline"><![CDATA[\displaystyle {\int _0^bK(t)f(t)dt}]]></fr:tex> para cualquier <fr:tex display="inline"><![CDATA[K]]></fr:tex> continua en <fr:tex display="inline"><![CDATA[\left[ 0, \infty  \right)]]></fr:tex>.</html:p>
+            <html:p>En general trabajaremos con funciones definidas en los reales positivos. Sin embargo, en ocasiones es conveniente considerar a estas funciones como definidas en todo <fr:tex display="inline"><![CDATA[\mathbb  R]]></fr:tex>. Cuando este es el caso, se dice que las funciones son nulas fuera de los reales positivos.</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>30</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/TRFU-0003/</fr:uri>
+                <fr:display-uri>TRFU-0003</fr:display-uri>
+                <fr:route>/TRFU-0003/</fr:route>
+                <fr:title text="Funciones localmente integrables">Funciones localmente integrables</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+                <fr:meta name="sources">()[guia-var-compleja-aplicaciones]</fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Se dice que una funci'on compleja <fr:tex display="inline"><![CDATA[f\colon \left[ 0,\infty  \right)\rightarrow \mathbb  C]]></fr:tex> es <html:em>localmente integrable</html:em> en <fr:tex display="inline"><![CDATA[\left[ 0,\infty  \right)]]></fr:tex> si es integrable en cada intervalo <fr:tex display="inline"><![CDATA[[0,b]]]></fr:tex>, es decir, si la integral de <fr:tex display="inline"><![CDATA[f]]></fr:tex> en <fr:tex display="inline"><![CDATA[[0,b]]]></fr:tex> tiene sentido y <fr:tex display="block"><![CDATA[\int _0^b|f(t)|dt < \infty , \,\,\, \text {para todo } b.]]></fr:tex>
+Denotaremos el espacio de estas funciones, que es un espacio vectorial sobre <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex>, por <fr:tex display="inline"><![CDATA[\mathscr  L_{\text {loc}}^1(\mathbb  R_+)]]></fr:tex>.</html:p>
+                <html:p>En particular, toda funci'on integrable <fr:tex display="inline"><![CDATA[f\in  L^1(\mathbb  R)]]></fr:tex> es localmente integrable en <fr:tex display="inline"><![CDATA[\left[ 0,\infty  \right)]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>30</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/TRFU-0004/</fr:uri>
+                <fr:display-uri>TRFU-0004</fr:display-uri>
+                <fr:route>/TRFU-0004/</fr:route>
+                <fr:title text="Transformada de Laplace">Transformada de Laplace</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+                <fr:meta name="sources">()[guia-var-compleja-aplicaciones]</fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Para una funci'on <fr:link href="/TRFU-0003/" title="Funciones localmente integrables" uri="https://juan-mad.github.io/TRFU-0003/" display-uri="TRFU-0003" type="local">localmente integrable</fr:link> <fr:tex display="inline"><![CDATA[f\in \mathscr  L_{\text {loc}}^1(\mathbb  R_+)]]></fr:tex> se define la <html:em>transformada de Laplace</html:em> como la integral (impropia) <fr:tex display="block"><![CDATA[(\mathscr  L f)(z) = \int _0^\infty  f(t)e^{-tz}dt]]></fr:tex> para los valores de <fr:tex display="inline"><![CDATA[z]]></fr:tex> para los cuales tiene sentido (DUDA: o cuando hay convergencia absoluta???).</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>30</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/TRFU-0006/</fr:uri>
+                <fr:display-uri>TRFU-0006</fr:display-uri>
+                <fr:route>/TRFU-0006/</fr:route>
+                <fr:title text="Derivabilidad de la transformada de Laplace">Derivabilidad de la transformada de Laplace</fr:title>
+                <fr:taxon>Tema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[f\colon \left[ 0,\infty  \right)\rightarrow  \mathbb  R]]></fr:tex> y sea <fr:tex display="inline"><![CDATA[F(z)]]></fr:tex> su <fr:link href="/TRFU-0004/" title="Transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0004/" display-uri="TRFU-0004" type="local">transformada de Laplace</fr:link>. Entonces <fr:tex display="block"><![CDATA[F'(z) = -\int _0^\inftyf (t)te^{-zt}dt,]]></fr:tex> que es precisamente la transformada de Laplace de <fr:tex display="inline"><![CDATA[g(t) = -tf(t)]]></fr:tex>. De hecho, para <fr:tex display="inline"><![CDATA[k\geq  1]]></fr:tex>, se tiene <fr:tex display="block"><![CDATA[F^{(k)}(z) = (-1)^k\mathscr  L(t^kf(t))(z).]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>30</fr:day>
+                </fr:date>
+                <fr:uri>https://juan-mad.github.io/TRFU-0005/</fr:uri>
+                <fr:display-uri>TRFU-0005</fr:display-uri>
+                <fr:route>/TRFU-0005/</fr:route>
+                <fr:title text="Ejemplos de Transformadas de Laplace">Ejemplos de Transformadas de Laplace</fr:title>
+                <fr:taxon>Ejemplos</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:table>
+  <html:tr><html:th><fr:tex display="block"><![CDATA[f(t)]]></fr:tex></html:th> <html:th><fr:tex display="block"><![CDATA[\left( \mathscr  L f \right) (z)=F(z)]]></fr:tex></html:th> <html:th><fr:tex display="block"><![CDATA[\text {\bf {Dominio de definici'on}}]]></fr:tex></html:th> <html:th><fr:tex display="block"><![CDATA[\text {\bf {Nombre (opcional)}}]]></fr:tex></html:th></html:tr>
+<html:tr><html:td><fr:tex display="block"><![CDATA[1]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\frac {1}{z}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[Re(z) > 0]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[H_c(t)=\begin {cases}1 & \text {si }t\geq  c, \\ 0 & \text {si }t < c. \end {cases}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\frac {e^{-cz}}{z}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[Re(z) > 0, c > 0]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {Heaviside}]]></fr:tex></html:td></html:tr>
+
+  <html:tr><html:td><fr:tex display="block"><![CDATA[t^n]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\frac {n!}{z^{n+1}}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[Re(z) > 0, n\in \mathbb  N]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[t^a]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\frac {\Gamma (a+1)}{z^{a+1}}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[Re(z) > 0, a > -1]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+
+  <html:tr><html:td><fr:tex display="block"><![CDATA[e^{at}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\frac {1}{z-a}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[Re(z) > Re(a)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[\sin (at)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\frac {a}{z^2+a^2}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[\cos (at)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\frac {z}{z^2+a^2}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[f(at)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\frac {1}{a}F\left (\frac {z}{a}\right )]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[f(t-b)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[e^{-bz}F(z)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[H_c(t)f(t-c)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[e^{-cz}F(z)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[f'(t)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[zF(z) - f(0^+)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[f^{(n)}(t)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[zF(z) - \sum _{k=1}^n z^{n-k}F^{(k-1)}(0^+)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[f \ast   g]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[(\mathscr  L f)(z)(\mathscr  L g)(z)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {Convoluci'on}]]></fr:tex></html:td></html:tr>
+</html:table>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>30</fr:day>
+            </fr:date>
+            <fr:uri>https://juan-mad.github.io/TRFU-0004/</fr:uri>
+            <fr:display-uri>TRFU-0004</fr:display-uri>
+            <fr:route>/TRFU-0004/</fr:route>
+            <fr:title text="Transformada de Laplace">Transformada de Laplace</fr:title>
+            <fr:taxon>Definici'on</fr:taxon>
+            <fr:meta name="sources">()[guia-var-compleja-aplicaciones]</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Para una funci'on <fr:link href="/TRFU-0003/" title="Funciones localmente integrables" uri="https://juan-mad.github.io/TRFU-0003/" display-uri="TRFU-0003" type="local">localmente integrable</fr:link> <fr:tex display="inline"><![CDATA[f\in \mathscr  L_{\text {loc}}^1(\mathbb  R_+)]]></fr:tex> se define la <html:em>transformada de Laplace</html:em> como la integral (impropia) <fr:tex display="block"><![CDATA[(\mathscr  L f)(z) = \int _0^\infty  f(t)e^{-tz}dt]]></fr:tex> para los valores de <fr:tex display="inline"><![CDATA[z]]></fr:tex> para los cuales tiene sentido (DUDA: o cuando hay convergencia absoluta???).</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

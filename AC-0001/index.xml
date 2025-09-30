@@ -1161,7 +1161,8 @@ year = {1978},
             <html:ul><html:li><fr:link href="/AC-0001/" title="Álgebra Conmutativa" uri="https://juan-mad.github.io/AC-0001/" display-uri="AC-0001" type="local">Álgebra Conmutativa</fr:link></html:li>
     <html:li><fr:link href="/AF-0001/" title="Análisis funcional" uri="https://juan-mad.github.io/AF-0001/" display-uri="AF-0001" type="local">Análisis Funcional</fr:link></html:li>
     <html:li><fr:link href="/SHL-0001/" title="Teoría Singular de Homología" uri="https://juan-mad.github.io/SHL-0001/" display-uri="SHL-0001" type="local">Teoría Singular de Homología</fr:link></html:li>
-    <html:li><fr:link href="/VC-0001/" title="https://juan-mad.github.io/VC-0001/" uri="https://juan-mad.github.io/VC-0001/" display-uri="VC-0001" type="local">Variable Compleja</fr:link></html:li></html:ul>
+    <html:li><fr:link href="/VC-0001/" title="https://juan-mad.github.io/VC-0001/" uri="https://juan-mad.github.io/VC-0001/" display-uri="VC-0001" type="local">Variable Compleja</fr:link></html:li>
+    <html:li><fr:link href="/TRFU-0001/" title="Transformadas Funcionales" uri="https://juan-mad.github.io/TRFU-0001/" display-uri="TRFU-0001" type="local">Transformadas Funcionales</fr:link></html:li></html:ul>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>
