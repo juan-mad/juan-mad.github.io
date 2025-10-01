@@ -12,6 +12,7 @@
       <fr:month>9</fr:month>
       <fr:day>26</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/AC-0012.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/AC-0012/</fr:uri>
     <fr:display-uri>AC-0012</fr:display-uri>
     <fr:route>/AC-0012/</fr:route>
@@ -44,6 +45,7 @@
                 <fr:link href="https://juan-mad.github.io/I.%20G.%20MacDonald" type="external">I. G. MacDonald</fr:link>
               </fr:author>
             </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/atiyah-macdonald-intro-alg-conm.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/</fr:uri>
             <fr:display-uri>atiyah-macdonald-intro-alg-conm</fr:display-uri>
             <fr:route>/atiyah-macdonald-intro-alg-conm/</fr:route>
@@ -83,6 +85,7 @@ year = {1978},
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/AC-0011.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-0011/</fr:uri>
             <fr:display-uri>AC-0011</fr:display-uri>
             <fr:route>/AC-0011/</fr:route>
@@ -111,7 +114,7 @@ year = {1978},
 	\arrow [maps to, from=2-2, to=2-3]
 	\arrow [maps to, from=3-3, to=3-4]
 \end {tikzcd}]]></fr:resource-source></fr:resource></html:center>
-<fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>9</fr:month><fr:day>26</fr:day></fr:date><fr:uri>https://juan-mad.github.io/AC-0012/</fr:uri><fr:display-uri>AC-0012</fr:display-uri><fr:route>/AC-0012/</fr:route><fr:title text="" /><fr:taxon>Proposición</fr:taxon><fr:meta name="sources"><fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>Sea <fr:tex display="inline"><![CDATA[0\rightarrow  L\xrightarrow {\alpha } M\xrightarrow {\beta }N]]></fr:tex> una <fr:link href="/AC-000Z/" title="Sucesiones exactas cortas" uri="https://juan-mad.github.io/AC-000Z/" display-uri="AC-000Z" type="local">sucesión exacta corta</fr:link>. Son equivalentes:
+<fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>9</fr:month><fr:day>26</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/AC-0012.tree</fr:source-path><fr:uri>https://juan-mad.github.io/AC-0012/</fr:uri><fr:display-uri>AC-0012</fr:display-uri><fr:route>/AC-0012/</fr:route><fr:title text="" /><fr:taxon>Proposición</fr:taxon><fr:meta name="sources"><fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>Sea <fr:tex display="inline"><![CDATA[0\rightarrow  L\xrightarrow {\alpha } M\xrightarrow {\beta }N]]></fr:tex> una <fr:link href="/AC-000Z/" title="Sucesiones exactas cortas" uri="https://juan-mad.github.io/AC-000Z/" display-uri="AC-000Z" type="local">sucesión exacta corta</fr:link>. Son equivalentes:
 <html:ol><html:li>La sucesión <fr:link href="/AC-0011/" title="Sucesión exacta corta que escinde" uri="https://juan-mad.github.io/AC-0011/" display-uri="AC-0011" type="local">escinde</fr:link>.</html:li>
     <html:li>Existe una <fr:link href="/AC-0013/" title="Sección de un homomorfismo" uri="https://juan-mad.github.io/AC-0013/" display-uri="AC-0013" type="local">sección</fr:link> de <fr:tex display="inline"><![CDATA[\beta ]]></fr:tex>.</html:li>
     <html:li>Existe una <fr:link href="/AC-0014/" title="Retracción de un homomorfismo" uri="https://juan-mad.github.io/AC-0014/" display-uri="AC-0014" type="local">retracción</fr:link> de <fr:tex display="inline"><![CDATA[\alpha ]]></fr:tex>.</html:li></html:ol></html:p></fr:mainmatter></fr:tree></fr:mainmatter>
@@ -143,6 +146,7 @@ year = {1978},
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/AC-0014.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-0014/</fr:uri>
             <fr:display-uri>AC-0014</fr:display-uri>
             <fr:route>/AC-0014/</fr:route>
@@ -166,6 +170,7 @@ year = {1978},
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/AC-0013.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-0013/</fr:uri>
             <fr:display-uri>AC-0013</fr:display-uri>
             <fr:route>/AC-0013/</fr:route>
@@ -189,6 +194,7 @@ year = {1978},
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/AC-0011.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-0011/</fr:uri>
             <fr:display-uri>AC-0011</fr:display-uri>
             <fr:route>/AC-0011/</fr:route>
@@ -217,7 +223,7 @@ year = {1978},
 	\arrow [maps to, from=2-2, to=2-3]
 	\arrow [maps to, from=3-3, to=3-4]
 \end {tikzcd}]]></fr:resource-source></fr:resource></html:center>
-<fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>9</fr:month><fr:day>26</fr:day></fr:date><fr:uri>https://juan-mad.github.io/AC-0012/</fr:uri><fr:display-uri>AC-0012</fr:display-uri><fr:route>/AC-0012/</fr:route><fr:title text="" /><fr:taxon>Proposición</fr:taxon><fr:meta name="sources"><fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>Sea <fr:tex display="inline"><![CDATA[0\rightarrow  L\xrightarrow {\alpha } M\xrightarrow {\beta }N]]></fr:tex> una <fr:link href="/AC-000Z/" title="Sucesiones exactas cortas" uri="https://juan-mad.github.io/AC-000Z/" display-uri="AC-000Z" type="local">sucesión exacta corta</fr:link>. Son equivalentes:
+<fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>9</fr:month><fr:day>26</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/AC-0012.tree</fr:source-path><fr:uri>https://juan-mad.github.io/AC-0012/</fr:uri><fr:display-uri>AC-0012</fr:display-uri><fr:route>/AC-0012/</fr:route><fr:title text="" /><fr:taxon>Proposición</fr:taxon><fr:meta name="sources"><fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>Sea <fr:tex display="inline"><![CDATA[0\rightarrow  L\xrightarrow {\alpha } M\xrightarrow {\beta }N]]></fr:tex> una <fr:link href="/AC-000Z/" title="Sucesiones exactas cortas" uri="https://juan-mad.github.io/AC-000Z/" display-uri="AC-000Z" type="local">sucesión exacta corta</fr:link>. Son equivalentes:
 <html:ol><html:li>La sucesión <fr:link href="/AC-0011/" title="Sucesión exacta corta que escinde" uri="https://juan-mad.github.io/AC-0011/" display-uri="AC-0011" type="local">escinde</fr:link>.</html:li>
     <html:li>Existe una <fr:link href="/AC-0013/" title="Sección de un homomorfismo" uri="https://juan-mad.github.io/AC-0013/" display-uri="AC-0013" type="local">sección</fr:link> de <fr:tex display="inline"><![CDATA[\beta ]]></fr:tex>.</html:li>
     <html:li>Existe una <fr:link href="/AC-0014/" title="Retracción de un homomorfismo" uri="https://juan-mad.github.io/AC-0014/" display-uri="AC-0014" type="local">retracción</fr:link> de <fr:tex display="inline"><![CDATA[\alpha ]]></fr:tex>.</html:li></html:ol></html:p></fr:mainmatter></fr:tree></fr:mainmatter>
@@ -234,6 +240,7 @@ year = {1978},
               <fr:month>9</fr:month>
               <fr:day>24</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/AC-000Z.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-000Z/</fr:uri>
             <fr:display-uri>AC-000Z</fr:display-uri>
             <fr:route>/AC-000Z/</fr:route>

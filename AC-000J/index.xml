@@ -12,6 +12,7 @@
       <fr:month>9</fr:month>
       <fr:day>24</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/modulos/AC-000J.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/AC-000J/</fr:uri>
     <fr:display-uri>AC-000J</fr:display-uri>
     <fr:route>/AC-000J/</fr:route>
@@ -48,6 +49,7 @@ En particular, tomando <fr:tex display="inline"><![CDATA[M'=\mathrm {ker} f]]></
                 <fr:link href="https://juan-mad.github.io/I.%20G.%20MacDonald" type="external">I. G. MacDonald</fr:link>
               </fr:author>
             </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/atiyah-macdonald-intro-alg-conm.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/</fr:uri>
             <fr:display-uri>atiyah-macdonald-intro-alg-conm</fr:display-uri>
             <fr:route>/atiyah-macdonald-intro-alg-conm/</fr:route>
@@ -87,6 +89,7 @@ year = {1978},
               <fr:month>9</fr:month>
               <fr:day>23</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/modulos/AC-000G.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-000G/</fr:uri>
             <fr:display-uri>AC-000G</fr:display-uri>
             <fr:route>/AC-000G/</fr:route>
@@ -117,6 +120,7 @@ Se induce naturalmente un homomorfismo <fr:tex display="inline"><![CDATA[\bar  f
                   <fr:month>9</fr:month>
                   <fr:day>24</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/modulos/AC-000J.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-000J/</fr:uri>
                 <fr:display-uri>AC-000J</fr:display-uri>
                 <fr:route>/AC-000J/</fr:route>

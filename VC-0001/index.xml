@@ -12,6 +12,7 @@
       <fr:month>9</fr:month>
       <fr:day>26</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/VC-0001.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/VC-0001/</fr:uri>
     <fr:display-uri>VC-0001</fr:display-uri>
     <fr:route>/VC-0001/</fr:route>
@@ -29,6 +30,7 @@
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000F.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-000F/</fr:uri>
         <fr:display-uri>VC-000F</fr:display-uri>
         <fr:route>/VC-000F/</fr:route>
@@ -58,6 +60,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000K.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-000K/</fr:uri>
         <fr:display-uri>VC-000K</fr:display-uri>
         <fr:route>/VC-000K/</fr:route>
@@ -83,6 +86,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0005.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-0005/</fr:uri>
         <fr:display-uri>VC-0005</fr:display-uri>
         <fr:route>/VC-0005/</fr:route>
@@ -116,6 +120,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0009.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-0009/</fr:uri>
         <fr:display-uri>VC-0009</fr:display-uri>
         <fr:route>/VC-0009/</fr:route>
@@ -142,6 +147,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000A.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-000A/</fr:uri>
         <fr:display-uri>VC-000A</fr:display-uri>
         <fr:route>/VC-000A/</fr:route>
@@ -167,6 +173,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000B.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-000B/</fr:uri>
         <fr:display-uri>VC-000B</fr:display-uri>
         <fr:route>/VC-000B/</fr:route>
@@ -193,6 +200,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000L.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-000L/</fr:uri>
         <fr:display-uri>VC-000L</fr:display-uri>
         <fr:route>/VC-000L/</fr:route>
@@ -219,6 +227,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000O.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-000O/</fr:uri>
         <fr:display-uri>VC-000O</fr:display-uri>
         <fr:route>/VC-000O/</fr:route>
@@ -244,6 +253,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000P.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-000P/</fr:uri>
         <fr:display-uri>VC-000P</fr:display-uri>
         <fr:route>/VC-000P/</fr:route>
@@ -269,6 +279,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000Q.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-000Q/</fr:uri>
         <fr:display-uri>VC-000Q</fr:display-uri>
         <fr:route>/VC-000Q/</fr:route>
@@ -294,6 +305,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000R.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-000R/</fr:uri>
         <fr:display-uri>VC-000R</fr:display-uri>
         <fr:route>/VC-000R/</fr:route>
@@ -320,6 +332,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000S.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-000S/</fr:uri>
         <fr:display-uri>VC-000S</fr:display-uri>
         <fr:route>/VC-000S/</fr:route>
@@ -349,6 +362,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000T.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-000T/</fr:uri>
         <fr:display-uri>VC-000T</fr:display-uri>
         <fr:route>/VC-000T/</fr:route>
@@ -375,6 +389,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000U.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-000U/</fr:uri>
         <fr:display-uri>VC-000U</fr:display-uri>
         <fr:route>/VC-000U/</fr:route>
@@ -400,6 +415,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000V.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-000V/</fr:uri>
         <fr:display-uri>VC-000V</fr:display-uri>
         <fr:route>/VC-000V/</fr:route>
@@ -425,6 +441,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
           <fr:month>9</fr:month>
           <fr:day>26</fr:day>
         </fr:date>
+        <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000W.tree</fr:source-path>
         <fr:uri>https://juan-mad.github.io/VC-000W/</fr:uri>
         <fr:display-uri>VC-000W</fr:display-uri>
         <fr:route>/VC-000W/</fr:route>
@@ -456,6 +473,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                 <fr:link href="https://juan-mad.github.io/W.%20P.%20Novinger" type="external">W. P. Novinger</fr:link>
               </fr:author>
             </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/ash-nov-cvs.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/ash-nov-cvs/</fr:uri>
             <fr:display-uri>ash-nov-cvs</fr:display-uri>
             <fr:route>/ash-nov-cvs/</fr:route>
@@ -491,6 +509,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
               <fr:month>9</fr:month>
               <fr:day>21</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/index.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/index/</fr:uri>
             <fr:display-uri>index</fr:display-uri>
             <fr:route>/index/</fr:route>

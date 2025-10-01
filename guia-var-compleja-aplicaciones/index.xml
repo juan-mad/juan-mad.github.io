@@ -4,22 +4,23 @@
   <fr:frontmatter>
     <fr:authors>
       <fr:author>
-        <fr:link href="https://juan-mad.github.io/F'elix%20Galindo%20Soto/" type="external">F'elix Galindo Soto</fr:link>
+        <fr:link href="https://juan-mad.github.io/F%C3%A9lix%20Galindo%20Soto/" type="external">Félix Galindo Soto</fr:link>
       </fr:author>
       <fr:author>
-        <fr:link href="https://juan-mad.github.io/Javier%20G'omez%20P'erez/" type="external">Javier G'omez P'erez</fr:link>
+        <fr:link href="https://juan-mad.github.io/Javier%20G%C3%B3mez%20P%C3%A9rez/" type="external">Javier Gómez Pérez</fr:link>
       </fr:author>
       <fr:author>
         <fr:link href="https://juan-mad.github.io/Javier%20Sanz%20Gil/" type="external">Javier Sanz Gil</fr:link>
       </fr:author>
       <fr:author>
-        <fr:link href="https://juan-mad.github.io/Luis%20Alberto%20Trist'an%20Vega/" type="external">Luis Alberto Trist'an Vega</fr:link>
+        <fr:link href="https://juan-mad.github.io/Luis%20Alberto%20Trist%C3%A1n%20Vega/" type="external">Luis Alberto Tristán Vega</fr:link>
       </fr:author>
     </fr:authors>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/guia-var-compleja-aplicaciones.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/guia-var-compleja-aplicaciones/</fr:uri>
     <fr:display-uri>guia-var-compleja-aplicaciones</fr:display-uri>
     <fr:route>/guia-var-compleja-aplicaciones/</fr:route>
-    <fr:title text="Gu'ia pr'actica de variable compleja y aplicaciones">Gu'ia pr'actica de variable compleja y aplicaciones</fr:title>
+    <fr:title text="Guía práctica de variable compleja y aplicaciones">Guía práctica de variable compleja y aplicaciones</fr:title>
     <fr:taxon>Reference</fr:taxon>
   </fr:frontmatter>
   <fr:mainmatter />

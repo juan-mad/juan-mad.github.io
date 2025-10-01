@@ -12,6 +12,7 @@
       <fr:month>9</fr:month>
       <fr:day>23</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-0003.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/SHL-0003/</fr:uri>
     <fr:display-uri>SHL-0003</fr:display-uri>
     <fr:route>/SHL-0003/</fr:route>
@@ -41,6 +42,7 @@
                 <fr:link href="https://juan-mad.github.io/John%20R.%20Harper" type="external">John R. Harper</fr:link>
               </fr:author>
             </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/greenberg-harper-alg-topo.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/greenberg-harper-alg-topo/</fr:uri>
             <fr:display-uri>greenberg-harper-alg-topo</fr:display-uri>
             <fr:route>/greenberg-harper-alg-topo/</fr:route>
@@ -69,6 +71,7 @@
               <fr:month>9</fr:month>
               <fr:day>23</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-0001.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/SHL-0001/</fr:uri>
             <fr:display-uri>SHL-0001</fr:display-uri>
             <fr:route>/SHL-0001/</fr:route>
@@ -88,6 +91,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>23</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-0002.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/SHL-0002/</fr:uri>
                 <fr:display-uri>SHL-0002</fr:display-uri>
                 <fr:route>/SHL-0002/</fr:route>
@@ -113,6 +117,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>23</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-0003.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/SHL-0003/</fr:uri>
                 <fr:display-uri>SHL-0003</fr:display-uri>
                 <fr:route>/SHL-0003/</fr:route>
@@ -138,6 +143,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>23</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-0005.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/SHL-0005/</fr:uri>
                 <fr:display-uri>SHL-0005</fr:display-uri>
                 <fr:route>/SHL-0005/</fr:route>
@@ -164,6 +170,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>23</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-0006.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/SHL-0006/</fr:uri>
                 <fr:display-uri>SHL-0006</fr:display-uri>
                 <fr:route>/SHL-0006/</fr:route>
@@ -190,6 +197,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>23</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-0004.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/SHL-0004/</fr:uri>
                 <fr:display-uri>SHL-0004</fr:display-uri>
                 <fr:route>/SHL-0004/</fr:route>
@@ -215,6 +223,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>23</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-0007.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/SHL-0007/</fr:uri>
                 <fr:display-uri>SHL-0007</fr:display-uri>
                 <fr:route>/SHL-0007/</fr:route>
@@ -247,6 +256,7 @@ Para <fr:tex display="inline"><![CDATA[q=0]]></fr:tex> lo definimos como el homo
                   <fr:month>9</fr:month>
                   <fr:day>27</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-0008.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/SHL-0008/</fr:uri>
                 <fr:display-uri>SHL-0008</fr:display-uri>
                 <fr:route>/SHL-0008/</fr:route>
@@ -283,6 +293,7 @@ Para <fr:tex display="inline"><![CDATA[q=0]]></fr:tex> lo definimos como el homo
                   <fr:month>9</fr:month>
                   <fr:day>27</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-000B.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/SHL-000B/</fr:uri>
                 <fr:display-uri>SHL-000B</fr:display-uri>
                 <fr:route>/SHL-000B/</fr:route>
@@ -308,6 +319,7 @@ Para <fr:tex display="inline"><![CDATA[q=0]]></fr:tex> lo definimos como el homo
                   <fr:month>9</fr:month>
                   <fr:day>28</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-000C.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/SHL-000C/</fr:uri>
                 <fr:display-uri>SHL-000C</fr:display-uri>
                 <fr:route>/SHL-000C/</fr:route>
@@ -333,6 +345,7 @@ Para <fr:tex display="inline"><![CDATA[q=0]]></fr:tex> lo definimos como el homo
                   <fr:month>9</fr:month>
                   <fr:day>28</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-000D.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/SHL-000D/</fr:uri>
                 <fr:display-uri>SHL-000D</fr:display-uri>
                 <fr:route>/SHL-000D/</fr:route>
@@ -358,6 +371,7 @@ Para <fr:tex display="inline"><![CDATA[q=0]]></fr:tex> lo definimos como el homo
                   <fr:month>9</fr:month>
                   <fr:day>28</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-000E.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/SHL-000E/</fr:uri>
                 <fr:display-uri>SHL-000E</fr:display-uri>
                 <fr:route>/SHL-000E/</fr:route>
@@ -393,6 +407,7 @@ Para <fr:tex display="inline"><![CDATA[q=0]]></fr:tex> lo definimos como el homo
               <fr:month>9</fr:month>
               <fr:day>28</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-000D.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/SHL-000D/</fr:uri>
             <fr:display-uri>SHL-000D</fr:display-uri>
             <fr:route>/SHL-000D/</fr:route>
@@ -418,6 +433,7 @@ Para <fr:tex display="inline"><![CDATA[q=0]]></fr:tex> lo definimos como el homo
               <fr:month>9</fr:month>
               <fr:day>23</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-0006.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/SHL-0006/</fr:uri>
             <fr:display-uri>SHL-0006</fr:display-uri>
             <fr:route>/SHL-0006/</fr:route>
@@ -444,6 +460,7 @@ Para <fr:tex display="inline"><![CDATA[q=0]]></fr:tex> lo definimos como el homo
               <fr:month>9</fr:month>
               <fr:day>23</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-0004.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/SHL-0004/</fr:uri>
             <fr:display-uri>SHL-0004</fr:display-uri>
             <fr:route>/SHL-0004/</fr:route>

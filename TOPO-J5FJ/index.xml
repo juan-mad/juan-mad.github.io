@@ -12,14 +12,15 @@
       <fr:month>9</fr:month>
       <fr:day>29</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/topology/TOPO-J5FJ.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/TOPO-J5FJ/</fr:uri>
     <fr:display-uri>TOPO-J5FJ</fr:display-uri>
     <fr:route>/TOPO-J5FJ/</fr:route>
-    <fr:title text="Caracterizaci'on de espacios de Baire">Caracterizaci'on de espacios de Baire</fr:title>
+    <fr:title text="Caracterización de espacios de Baire">Caracterización de espacios de Baire</fr:title>
     <fr:taxon>Teorema</fr:taxon>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Un espacio topol'ogico <fr:tex display="inline"><![CDATA[X]]></fr:tex> es <fr:link href="/TOPO-XVUT/" title="Conjuntos de Baire" uri="https://juan-mad.github.io/TOPO-XVUT/" display-uri="TOPO-XVUT" type="local">de Baire</fr:link> si y s'olo si la intersecci'on numerable de conjuntos abiertos densos tambi'en es densa.</html:p>
+    <html:p>Un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex> es <fr:link href="/TOPO-XVUT/" title="Conjuntos de Baire" uri="https://juan-mad.github.io/TOPO-XVUT/" display-uri="TOPO-XVUT" type="local">de Baire</fr:link> si y sólo si la intersección numerable de conjuntos abiertos densos también es densa.</html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -61,6 +62,7 @@
               <fr:month>9</fr:month>
               <fr:day>29</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/topology/TOPO-XVUT.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/TOPO-XVUT/</fr:uri>
             <fr:display-uri>TOPO-XVUT</fr:display-uri>
             <fr:route>/TOPO-XVUT/</fr:route>
@@ -68,7 +70,7 @@
             <fr:taxon>Definición</fr:taxon>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Se dice que un espacio topol'ogico <fr:tex display="inline"><![CDATA[X]]></fr:tex> es un <html:em>espacio de Baire</html:em> si cada abierto no vaci'o de <fr:tex display="inline"><![CDATA[X]]></fr:tex> es de <fr:link href="/TOPO-8TGH/" title="Conjuntos de primera y segunda categor'ia" uri="https://juan-mad.github.io/TOPO-8TGH/" display-uri="TOPO-8TGH" type="local">segunda categor'ia</fr:link> en <fr:tex display="inline"><![CDATA[X]]></fr:tex>.</html:p>
+            <html:p>Se dice que un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex> es un <html:em>espacio de Baire</html:em> si cada abierto no vació de <fr:tex display="inline"><![CDATA[X]]></fr:tex> es de <fr:link href="/TOPO-8TGH/" title="Conjuntos de primera y segunda categoría" uri="https://juan-mad.github.io/TOPO-8TGH/" display-uri="TOPO-8TGH" type="local">segunda categoría</fr:link> en <fr:tex display="inline"><![CDATA[X]]></fr:tex>.</html:p>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>

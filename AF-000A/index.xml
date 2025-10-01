@@ -12,6 +12,7 @@
       <fr:month>9</fr:month>
       <fr:day>22</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000A.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/AF-000A/</fr:uri>
     <fr:display-uri>AF-000A</fr:display-uri>
     <fr:route>/AF-000A/</fr:route>
@@ -52,6 +53,7 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es denso en <
               <fr:month>9</fr:month>
               <fr:day>22</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0001.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AF-0001/</fr:uri>
             <fr:display-uri>AF-0001</fr:display-uri>
             <fr:route>/AF-0001/</fr:route>
@@ -70,6 +72,7 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es denso en <
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0002.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0002/</fr:uri>
                 <fr:display-uri>AF-0002</fr:display-uri>
                 <fr:route>/AF-0002/</fr:route>
@@ -97,6 +100,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0003.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0003/</fr:uri>
                 <fr:display-uri>AF-0003</fr:display-uri>
                 <fr:route>/AF-0003/</fr:route>
@@ -119,6 +123,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0004.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0004/</fr:uri>
                 <fr:display-uri>AF-0004</fr:display-uri>
                 <fr:route>/AF-0004/</fr:route>
@@ -142,6 +147,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0005.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0005/</fr:uri>
                 <fr:display-uri>AF-0005</fr:display-uri>
                 <fr:route>/AF-0005/</fr:route>
@@ -170,6 +176,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0006.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0006/</fr:uri>
                 <fr:display-uri>AF-0006</fr:display-uri>
                 <fr:route>/AF-0006/</fr:route>
@@ -191,6 +198,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                       <fr:month>9</fr:month>
                       <fr:day>22</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0007.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AF-0007/</fr:uri>
                     <fr:display-uri>AF-0007</fr:display-uri>
                     <fr:route>/AF-0007/</fr:route>
@@ -215,6 +223,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0008.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0008/</fr:uri>
                 <fr:display-uri>AF-0008</fr:display-uri>
                 <fr:route>/AF-0008/</fr:route>
@@ -238,6 +247,7 @@ El par <fr:tex display="inline"><![CDATA[(E, \|\,\|)]]></fr:tex> se denomina <ht
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-0009.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-0009/</fr:uri>
                 <fr:display-uri>AF-0009</fr:display-uri>
                 <fr:route>/AF-0009/</fr:route>
@@ -267,6 +277,7 @@ Notemos que <fr:tex display="inline"><![CDATA[\mathscr  C_B(X,E)]]></fr:tex> es 
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000A.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-000A/</fr:uri>
                 <fr:display-uri>AF-000A</fr:display-uri>
                 <fr:route>/AF-000A/</fr:route>
@@ -294,6 +305,7 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es denso en <
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000B.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-000B/</fr:uri>
                 <fr:display-uri>AF-000B</fr:display-uri>
                 <fr:route>/AF-000B/</fr:route>
@@ -321,6 +333,7 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <
                   <fr:month>9</fr:month>
                   <fr:day>29</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000C.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-000C/</fr:uri>
                 <fr:display-uri>AF-000C</fr:display-uri>
                 <fr:route>/AF-000C/</fr:route>
@@ -347,19 +360,20 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <
                   <fr:month>9</fr:month>
                   <fr:day>29</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000D.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-000D/</fr:uri>
                 <fr:display-uri>AF-000D</fr:display-uri>
                 <fr:route>/AF-000D/</fr:route>
-                <fr:title text="Caracterizaci'on de los compactos en espacios m'etricos">Caracterizaci'on de los compactos en espacios m'etricos</fr:title>
+                <fr:title text="Caracterización de los compactos en espacios métricos">Caracterización de los compactos en espacios métricos</fr:title>
                 <fr:taxon>Teorema</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sea <fr:tex display="inline"><![CDATA[K]]></fr:tex> un subconjunto de un <fr:tex display="inline"><![CDATA[(E,d)]]></fr:tex> un espacio m'etrico. Son equivalentes:
+                <html:p>Sea <fr:tex display="inline"><![CDATA[K]]></fr:tex> un subconjunto de un <fr:tex display="inline"><![CDATA[(E,d)]]></fr:tex> un espacio métrico. Son equivalentes:
 
 <html:ol><html:li><fr:tex display="inline"><![CDATA[K]]></fr:tex> es compacto.</html:li>
-    <html:li>Todo subconjunto infinito de <fr:tex display="inline"><![CDATA[K]]></fr:tex> tiene un punto de acumulaci'on en <fr:tex display="inline"><![CDATA[K]]></fr:tex>.</html:li>
-    <html:li>Toda sucesi'on de elementos de <fr:tex display="inline"><![CDATA[K]]></fr:tex> tiene una subsucesi'on convergente en <fr:tex display="inline"><![CDATA[K]]></fr:tex>.</html:li>
-    <html:li>Para cualquier familia de conjuntos cerrados de <fr:tex display="inline"><![CDATA[K]]></fr:tex> con intersecci;on vac'ia, existe una subfamilia finita cuya intersecci'on tambi'en es vac'ia.</html:li></html:ol></html:p>
+    <html:li>Todo subconjunto infinito de <fr:tex display="inline"><![CDATA[K]]></fr:tex> tiene un punto de acumulación en <fr:tex display="inline"><![CDATA[K]]></fr:tex>.</html:li>
+    <html:li>Toda sucesión de elementos de <fr:tex display="inline"><![CDATA[K]]></fr:tex> tiene una subsucesión convergente en <fr:tex display="inline"><![CDATA[K]]></fr:tex>.</html:li>
+    <html:li>Para cualquier familia de conjuntos cerrados de <fr:tex display="inline"><![CDATA[K]]></fr:tex> con intersecci;on vacía, existe una subfamilia finita cuya intersección también es vacía.</html:li></html:ol></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -374,17 +388,18 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <
                   <fr:month>9</fr:month>
                   <fr:day>29</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000E.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-000E/</fr:uri>
                 <fr:display-uri>AF-000E</fr:display-uri>
                 <fr:route>/AF-000E/</fr:route>
                 <fr:title text="Espacios relativamente compactos y precompactos">Espacios relativamente compactos y precompactos</fr:title>
-                <fr:taxon>Proposici'on</fr:taxon>
+                <fr:taxon>Proposición</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sean <fr:tex display="inline"><![CDATA[(E,d)]]></fr:tex> un espacio m'etrico y <fr:tex display="inline"><![CDATA[A\subset  E]]></fr:tex>.
+                <html:p>Sean <fr:tex display="inline"><![CDATA[(E,d)]]></fr:tex> un espacio métrico y <fr:tex display="inline"><![CDATA[A\subset  E]]></fr:tex>.
 
-<html:ol><html:li>Si <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <fr:link href="/TOPO-9XNF/" title="Espacio relativamente compacto" uri="https://juan-mad.github.io/TOPO-9XNF/" display-uri="TOPO-9XNF" type="local">relativamente compacto</fr:link>, entonces es <fr:link href="/TOPO-VTQC/" title="Espacio precompacto o totalmente acotado" uri="https://juan-mad.github.io/TOPO-VTQC/" display-uri="TOPO-VTQC" type="local">precompacto</fr:link>. Esto se cumple para cualquier espacio topol'ogico.</html:li>
-    <html:li>Si <fr:tex display="inline"><![CDATA[(E,d)]]></fr:tex> es completo, entonces <fr:tex display="inline"><![CDATA[A]]></fr:tex> es relativamente compacto si y s'olo si es precompacto.</html:li></html:ol></html:p>
+<html:ol><html:li>Si <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <fr:link href="/TOPO-9XNF/" title="Espacio relativamente compacto" uri="https://juan-mad.github.io/TOPO-9XNF/" display-uri="TOPO-9XNF" type="local">relativamente compacto</fr:link>, entonces es <fr:link href="/TOPO-VTQC/" title="Espacio precompacto o totalmente acotado" uri="https://juan-mad.github.io/TOPO-VTQC/" display-uri="TOPO-VTQC" type="local">precompacto</fr:link>. Esto se cumple para cualquier espacio topológico.</html:li>
+    <html:li>Si <fr:tex display="inline"><![CDATA[(E,d)]]></fr:tex> es completo, entonces <fr:tex display="inline"><![CDATA[A]]></fr:tex> es relativamente compacto si y sólo si es precompacto.</html:li></html:ol></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -399,14 +414,15 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <
                   <fr:month>9</fr:month>
                   <fr:day>29</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000F.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-000F/</fr:uri>
                 <fr:display-uri>AF-000F</fr:display-uri>
                 <fr:route>/AF-000F/</fr:route>
                 <fr:title text="Conjunto de funciones equicontinuas en un espacio normado.">Conjunto de funciones equicontinuas en un espacio normado.</fr:title>
-                <fr:taxon>Proposici'on</fr:taxon>
+                <fr:taxon>Proposición</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sean <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio m'etrico completo y <fr:tex display="inline"><![CDATA[E]]></fr:tex> un espacio normado. Un subconjunto <fr:tex display="inline"><![CDATA[S\subset \mathscr  C(X,E)]]></fr:tex> es <html:em>equicontinuo en <fr:tex display="inline"><![CDATA[t\in  X]]></fr:tex></html:em> si para cada <fr:tex display="inline"><![CDATA[\varepsilon >0]]></fr:tex> existe <fr:tex display="inline"><![CDATA[\delta >0]]></fr:tex> tal que para cualquier <fr:tex display="inline"><![CDATA[s\in  X]]></fr:tex> con <fr:tex display="inline"><![CDATA[d(s,t)<\delta ]]></fr:tex> y para todo <fr:tex display="inline"><![CDATA[f\in  S]]></fr:tex> se tiene que <fr:tex display="inline"><![CDATA[\|f(s)-f(t)\| < \varepsilon ]]></fr:tex>.</html:p>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio métrico completo y <fr:tex display="inline"><![CDATA[E]]></fr:tex> un espacio normado. Un subconjunto <fr:tex display="inline"><![CDATA[S\subset \mathscr  C(X,E)]]></fr:tex> es <html:em>equicontinuo en <fr:tex display="inline"><![CDATA[t\in  X]]></fr:tex></html:em> si para cada <fr:tex display="inline"><![CDATA[\varepsilon >0]]></fr:tex> existe <fr:tex display="inline"><![CDATA[\delta >0]]></fr:tex> tal que para cualquier <fr:tex display="inline"><![CDATA[s\in  X]]></fr:tex> con <fr:tex display="inline"><![CDATA[d(s,t)<\delta ]]></fr:tex> y para todo <fr:tex display="inline"><![CDATA[f\in  S]]></fr:tex> se tiene que <fr:tex display="inline"><![CDATA[\|f(s)-f(t)\| < \varepsilon ]]></fr:tex>.</html:p>
                 <html:p>El conjunto <fr:tex display="inline"><![CDATA[S]]></fr:tex> es <html:em>equicontinuo en <fr:tex display="inline"><![CDATA[X]]></fr:tex></html:em> si lo es para cada punto de <fr:tex display="inline"><![CDATA[X]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
@@ -422,6 +438,7 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <
                   <fr:month>9</fr:month>
                   <fr:day>29</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000G.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-000G/</fr:uri>
                 <fr:display-uri>AF-000G</fr:display-uri>
                 <fr:route>/AF-000G/</fr:route>
@@ -429,9 +446,9 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <
                 <fr:taxon>Teorema</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sean <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topol'ogico compacto, <fr:tex display="inline"><![CDATA[E]]></fr:tex> un espacio m'etrico completo y <fr:tex display="inline"><![CDATA[K]]></fr:tex> un subconjunto de <fr:tex display="inline"><![CDATA[\mathscr  C(X,E)]]></fr:tex>. Son equivalentes:
-<html:ul><html:li><fr:tex display="inline"><![CDATA[K]]></fr:tex> es relativamente compacto en el espacio m'etrico completo <fr:tex display="inline"><![CDATA[\mathscr  C(X,E)]]></fr:tex>.</html:li>
-    <html:li><fr:tex display="inline"><![CDATA[K]]></fr:tex> es equicontinuo y para cada <fr:tex display="inline"><![CDATA[t\in  X]]></fr:tex>, la 'orbita <fr:tex display="inline"><![CDATA[C(t) = \{f(t) : f\in  K\}]]></fr:tex> es relativamente compacta en <fr:tex display="inline"><![CDATA[E]]></fr:tex>.</html:li></html:ul></html:p>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topológico compacto, <fr:tex display="inline"><![CDATA[E]]></fr:tex> un espacio métrico completo y <fr:tex display="inline"><![CDATA[K]]></fr:tex> un subconjunto de <fr:tex display="inline"><![CDATA[\mathscr  C(X,E)]]></fr:tex>. Son equivalentes:
+<html:ul><html:li><fr:tex display="inline"><![CDATA[K]]></fr:tex> es relativamente compacto en el espacio métrico completo <fr:tex display="inline"><![CDATA[\mathscr  C(X,E)]]></fr:tex>.</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[K]]></fr:tex> es equicontinuo y para cada <fr:tex display="inline"><![CDATA[t\in  X]]></fr:tex>, la órbita <fr:tex display="inline"><![CDATA[C(t) = \{f(t) : f\in  K\}]]></fr:tex> es relativamente compacta en <fr:tex display="inline"><![CDATA[E]]></fr:tex>.</html:li></html:ul></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -446,14 +463,15 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <
                   <fr:month>9</fr:month>
                   <fr:day>29</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000H.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-000H/</fr:uri>
                 <fr:display-uri>AF-000H</fr:display-uri>
                 <fr:route>/AF-000H/</fr:route>
-                <fr:title text="Espacios m'etricos completos son de Baire">Espacios m'etricos completos son de Baire</fr:title>
+                <fr:title text="Espacios métricos completos son de Baire">Espacios métricos completos son de Baire</fr:title>
                 <fr:taxon>Teorema</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Todo espacio m'etrico completo es un <fr:link href="/TOPO-XVUT/" title="Conjuntos de Baire" uri="https://juan-mad.github.io/TOPO-XVUT/" display-uri="TOPO-XVUT" type="local">espacio de Baire</fr:link>.</html:p>
+                <html:p>Todo espacio métrico completo es un <fr:link href="/TOPO-XVUT/" title="Conjuntos de Baire" uri="https://juan-mad.github.io/TOPO-XVUT/" display-uri="TOPO-XVUT" type="local">espacio de Baire</fr:link>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -468,10 +486,11 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <
                   <fr:month>9</fr:month>
                   <fr:day>29</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000I.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-000I/</fr:uri>
                 <fr:display-uri>AF-000I</fr:display-uri>
                 <fr:route>/AF-000I/</fr:route>
-                <fr:title text="Teorema de Banach-Steinhaus o principio de acotaci'on uniforme">Teorema de Banach-Steinhaus o principio de acotaci'on uniforme</fr:title>
+                <fr:title text="Teorema de Banach-Steinhaus o principio de acotación uniforme">Teorema de Banach-Steinhaus o principio de acotación uniforme</fr:title>
                 <fr:taxon>Teorema</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
@@ -490,14 +509,15 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <
                   <fr:month>9</fr:month>
                   <fr:day>29</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000K.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-000K/</fr:uri>
                 <fr:display-uri>AF-000K</fr:display-uri>
                 <fr:route>/AF-000K/</fr:route>
-                <fr:title text="Teorema de la aplicaci'on abierta">Teorema de la aplicaci'on abierta</fr:title>
+                <fr:title text="Teorema de la aplicación abierta">Teorema de la aplicación abierta</fr:title>
                 <fr:taxon>Teorema</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sean <fr:tex display="inline"><![CDATA[E]]></fr:tex> y <fr:tex display="inline"><![CDATA[F]]></fr:tex> dos espacios de Banach y <fr:tex display="inline"><![CDATA[T]]></fr:tex> un operador lineal continuo y suprayectivo de <fr:tex display="inline"><![CDATA[E]]></fr:tex> en <fr:tex display="inline"><![CDATA[F]]></fr:tex>. Entonces <fr:tex display="inline"><![CDATA[T]]></fr:tex> transforma abiertos de <fr:tex display="inline"><![CDATA[E]]></fr:tex> en abiertos de <fr:tex display="inline"><![CDATA[F]]></fr:tex>, es decir, es una aplicaci'on abierta.</html:p>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[E]]></fr:tex> y <fr:tex display="inline"><![CDATA[F]]></fr:tex> dos espacios de Banach y <fr:tex display="inline"><![CDATA[T]]></fr:tex> un operador lineal continuo y suprayectivo de <fr:tex display="inline"><![CDATA[E]]></fr:tex> en <fr:tex display="inline"><![CDATA[F]]></fr:tex>. Entonces <fr:tex display="inline"><![CDATA[T]]></fr:tex> transforma abiertos de <fr:tex display="inline"><![CDATA[E]]></fr:tex> en abiertos de <fr:tex display="inline"><![CDATA[F]]></fr:tex>, es decir, es una aplicación abierta.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -512,6 +532,7 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <
                   <fr:month>9</fr:month>
                   <fr:day>29</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000L.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AF-000L/</fr:uri>
                 <fr:display-uri>AF-000L</fr:display-uri>
                 <fr:route>/AF-000L/</fr:route>
@@ -519,7 +540,7 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <
                 <fr:taxon>Teorema</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sean <fr:tex display="inline"><![CDATA[E, F]]></fr:tex> dos espacios de Banach y <fr:tex display="inline"><![CDATA[T]]></fr:tex> una aplicaci'on lineal de <fr:tex display="inline"><![CDATA[E]]></fr:tex> en <fr:tex display="inline"><![CDATA[F]]></fr:tex>. Entonces <fr:tex display="inline"><![CDATA[T]]></fr:tex> es continua si y s'olo si su grafo es un subconjunto cerrado de <fr:tex display="inline"><![CDATA[E\times  F]]></fr:tex>.</html:p>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[E, F]]></fr:tex> dos espacios de Banach y <fr:tex display="inline"><![CDATA[T]]></fr:tex> una aplicación lineal de <fr:tex display="inline"><![CDATA[E]]></fr:tex> en <fr:tex display="inline"><![CDATA[F]]></fr:tex>. Entonces <fr:tex display="inline"><![CDATA[T]]></fr:tex> es continua si y sólo si su grafo es un subconjunto cerrado de <fr:tex display="inline"><![CDATA[E\times  F]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>
@@ -544,6 +565,7 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <
               <fr:month>9</fr:month>
               <fr:day>29</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000C.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AF-000C/</fr:uri>
             <fr:display-uri>AF-000C</fr:display-uri>
             <fr:route>/AF-000C/</fr:route>

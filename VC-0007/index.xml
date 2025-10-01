@@ -12,6 +12,7 @@
       <fr:month>9</fr:month>
       <fr:day>26</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0007.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/VC-0007/</fr:uri>
     <fr:display-uri>VC-0007</fr:display-uri>
     <fr:route>/VC-0007/</fr:route>
@@ -42,6 +43,7 @@
                 <fr:link href="https://juan-mad.github.io/W.%20P.%20Novinger" type="external">W. P. Novinger</fr:link>
               </fr:author>
             </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/ash-nov-cvs.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/ash-nov-cvs/</fr:uri>
             <fr:display-uri>ash-nov-cvs</fr:display-uri>
             <fr:route>/ash-nov-cvs/</fr:route>
@@ -77,6 +79,7 @@
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0009.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-0009/</fr:uri>
             <fr:display-uri>VC-0009</fr:display-uri>
             <fr:route>/VC-0009/</fr:route>
@@ -103,6 +106,7 @@
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0008.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-0008/</fr:uri>
             <fr:display-uri>VC-0008</fr:display-uri>
             <fr:route>/VC-0008/</fr:route>
@@ -128,6 +132,7 @@
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0006.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-0006/</fr:uri>
             <fr:display-uri>VC-0006</fr:display-uri>
             <fr:route>/VC-0006/</fr:route>
@@ -162,6 +167,7 @@
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0006.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-0006/</fr:uri>
             <fr:display-uri>VC-0006</fr:display-uri>
             <fr:route>/VC-0006/</fr:route>

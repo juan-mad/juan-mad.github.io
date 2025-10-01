@@ -12,6 +12,7 @@
       <fr:month>9</fr:month>
       <fr:day>26</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0003.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/VC-0003/</fr:uri>
     <fr:display-uri>VC-0003</fr:display-uri>
     <fr:route>/VC-0003/</fr:route>
@@ -42,6 +43,7 @@ tal que <fr:tex display="block"><![CDATA[\gamma \Vert _{[t_{j-1}, t_j]} \text { 
                 <fr:link href="https://juan-mad.github.io/W.%20P.%20Novinger" type="external">W. P. Novinger</fr:link>
               </fr:author>
             </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/ash-nov-cvs.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/ash-nov-cvs/</fr:uri>
             <fr:display-uri>ash-nov-cvs</fr:display-uri>
             <fr:route>/ash-nov-cvs/</fr:route>
@@ -77,6 +79,7 @@ tal que <fr:tex display="block"><![CDATA[\gamma \Vert _{[t_{j-1}, t_j]} \text { 
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000J.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-000J/</fr:uri>
             <fr:display-uri>VC-000J</fr:display-uri>
             <fr:route>/VC-000J/</fr:route>
@@ -103,6 +106,7 @@ tal que <fr:tex display="block"><![CDATA[\gamma \Vert _{[t_{j-1}, t_j]} \text { 
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000D.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-000D/</fr:uri>
             <fr:display-uri>VC-000D</fr:display-uri>
             <fr:route>/VC-000D/</fr:route>
@@ -125,6 +129,7 @@ tal que <fr:tex display="block"><![CDATA[\gamma \Vert _{[t_{j-1}, t_j]} \text { 
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000B.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-000B/</fr:uri>
             <fr:display-uri>VC-000B</fr:display-uri>
             <fr:route>/VC-000B/</fr:route>
@@ -151,6 +156,7 @@ tal que <fr:tex display="block"><![CDATA[\gamma \Vert _{[t_{j-1}, t_j]} \text { 
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-000A.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-000A/</fr:uri>
             <fr:display-uri>VC-000A</fr:display-uri>
             <fr:route>/VC-000A/</fr:route>
@@ -176,6 +182,7 @@ tal que <fr:tex display="block"><![CDATA[\gamma \Vert _{[t_{j-1}, t_j]} \text { 
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0004.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-0004/</fr:uri>
             <fr:display-uri>VC-0004</fr:display-uri>
             <fr:route>/VC-0004/</fr:route>
@@ -209,6 +216,7 @@ tal que <fr:tex display="block"><![CDATA[\gamma \Vert _{[t_{j-1}, t_j]} \text { 
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/base/VC-0002.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-0002/</fr:uri>
             <fr:display-uri>VC-0002</fr:display-uri>
             <fr:route>/VC-0002/</fr:route>

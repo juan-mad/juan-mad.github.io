@@ -12,14 +12,15 @@
       <fr:month>9</fr:month>
       <fr:day>29</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/topology/TOPO-YQBX.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/TOPO-YQBX/</fr:uri>
     <fr:display-uri>TOPO-YQBX</fr:display-uri>
     <fr:route>/TOPO-YQBX/</fr:route>
-    <fr:title text="Espacios de Baire son de segunda categor'ia">Espacios de Baire son de segunda categor'ia</fr:title>
+    <fr:title text="Espacios de Baire son de segunda categoría">Espacios de Baire son de segunda categoría</fr:title>
     <fr:taxon>Teorema</fr:taxon>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Todo <fr:link href="/TOPO-XVUT/" title="Conjuntos de Baire" uri="https://juan-mad.github.io/TOPO-XVUT/" display-uri="TOPO-XVUT" type="local">espacio de Baire</fr:link> es de <fr:link href="/TOPO-8TGH/" title="Conjuntos de primera y segunda categor'ia" uri="https://juan-mad.github.io/TOPO-8TGH/" display-uri="TOPO-8TGH" type="local">segunda categor'ia</fr:link> en s'i mismo. En particular, lo son los <fr:link href="/AF-000H/" title="Espacios m'etricos completos son de Baire" uri="https://juan-mad.github.io/AF-000H/" display-uri="AF-000H" type="local">espacios m'etricos completos</fr:link>.</html:p>
+    <html:p>Todo <fr:link href="/TOPO-XVUT/" title="Conjuntos de Baire" uri="https://juan-mad.github.io/TOPO-XVUT/" display-uri="TOPO-XVUT" type="local">espacio de Baire</fr:link> es de <fr:link href="/TOPO-8TGH/" title="Conjuntos de primera y segunda categoría" uri="https://juan-mad.github.io/TOPO-8TGH/" display-uri="TOPO-8TGH" type="local">segunda categoría</fr:link> en sí mismo. En particular, lo son los <fr:link href="/AF-000H/" title="Espacios métricos completos son de Baire" uri="https://juan-mad.github.io/AF-000H/" display-uri="AF-000H" type="local">espacios métricos completos</fr:link>.</html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -61,6 +62,7 @@
               <fr:month>9</fr:month>
               <fr:day>29</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/topology/TOPO-XVUT.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/TOPO-XVUT/</fr:uri>
             <fr:display-uri>TOPO-XVUT</fr:display-uri>
             <fr:route>/TOPO-XVUT/</fr:route>
@@ -68,7 +70,7 @@
             <fr:taxon>Definición</fr:taxon>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Se dice que un espacio topol'ogico <fr:tex display="inline"><![CDATA[X]]></fr:tex> es un <html:em>espacio de Baire</html:em> si cada abierto no vaci'o de <fr:tex display="inline"><![CDATA[X]]></fr:tex> es de <fr:link href="/TOPO-8TGH/" title="Conjuntos de primera y segunda categor'ia" uri="https://juan-mad.github.io/TOPO-8TGH/" display-uri="TOPO-8TGH" type="local">segunda categor'ia</fr:link> en <fr:tex display="inline"><![CDATA[X]]></fr:tex>.</html:p>
+            <html:p>Se dice que un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex> es un <html:em>espacio de Baire</html:em> si cada abierto no vació de <fr:tex display="inline"><![CDATA[X]]></fr:tex> es de <fr:link href="/TOPO-8TGH/" title="Conjuntos de primera y segunda categoría" uri="https://juan-mad.github.io/TOPO-8TGH/" display-uri="TOPO-8TGH" type="local">segunda categoría</fr:link> en <fr:tex display="inline"><![CDATA[X]]></fr:tex>.</html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -83,14 +85,15 @@
               <fr:month>9</fr:month>
               <fr:day>29</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/topology/TOPO-8TGH.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/TOPO-8TGH/</fr:uri>
             <fr:display-uri>TOPO-8TGH</fr:display-uri>
             <fr:route>/TOPO-8TGH/</fr:route>
-            <fr:title text="Conjuntos de primera y segunda categor'ia">Conjuntos de primera y segunda categor'ia</fr:title>
+            <fr:title text="Conjuntos de primera y segunda categoría">Conjuntos de primera y segunda categoría</fr:title>
             <fr:taxon>Definición</fr:taxon>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Sea <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topol'ogico. Se dice que <fr:tex display="inline"><![CDATA[A\subset  X]]></fr:tex> es de <html:em>primera categor'ia</html:em> en <fr:tex display="inline"><![CDATA[X]]></fr:tex> si es uni'on numerable de <fr:link href="/TOPO-D1RG/" title="Conjuntos raros" uri="https://juan-mad.github.io/TOPO-D1RG/" display-uri="TOPO-D1RG" type="local">conjuntos raros</fr:link>. En caso contrario, se dice que <fr:tex display="inline"><![CDATA[A]]></fr:tex> es de <html:em>segunda categor'ia</html:em>.</html:p>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topológico. Se dice que <fr:tex display="inline"><![CDATA[A\subset  X]]></fr:tex> es de <html:em>primera categoría</html:em> en <fr:tex display="inline"><![CDATA[X]]></fr:tex> si es unión numerable de <fr:link href="/TOPO-D1RG/" title="Conjuntos raros" uri="https://juan-mad.github.io/TOPO-D1RG/" display-uri="TOPO-D1RG" type="local">conjuntos raros</fr:link>. En caso contrario, se dice que <fr:tex display="inline"><![CDATA[A]]></fr:tex> es de <html:em>segunda categoría</html:em>.</html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -105,14 +108,15 @@
               <fr:month>9</fr:month>
               <fr:day>29</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000H.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AF-000H/</fr:uri>
             <fr:display-uri>AF-000H</fr:display-uri>
             <fr:route>/AF-000H/</fr:route>
-            <fr:title text="Espacios m'etricos completos son de Baire">Espacios m'etricos completos son de Baire</fr:title>
+            <fr:title text="Espacios métricos completos son de Baire">Espacios métricos completos son de Baire</fr:title>
             <fr:taxon>Teorema</fr:taxon>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Todo espacio m'etrico completo es un <fr:link href="/TOPO-XVUT/" title="Conjuntos de Baire" uri="https://juan-mad.github.io/TOPO-XVUT/" display-uri="TOPO-XVUT" type="local">espacio de Baire</fr:link>.</html:p>
+            <html:p>Todo espacio métrico completo es un <fr:link href="/TOPO-XVUT/" title="Conjuntos de Baire" uri="https://juan-mad.github.io/TOPO-XVUT/" display-uri="TOPO-XVUT" type="local">espacio de Baire</fr:link>.</html:p>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>

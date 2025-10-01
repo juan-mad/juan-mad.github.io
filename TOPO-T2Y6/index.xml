@@ -12,14 +12,15 @@
       <fr:month>9</fr:month>
       <fr:day>29</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/topology/TOPO-T2Y6.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/TOPO-T2Y6/</fr:uri>
     <fr:display-uri>TOPO-T2Y6</fr:display-uri>
     <fr:route>/TOPO-T2Y6/</fr:route>
     <fr:title text="Conjuntos de tipo G_\delta ">Conjuntos de tipo <fr:tex display="inline"><![CDATA[G_\delta ]]></fr:tex></fr:title>
-    <fr:taxon>Definici'on</fr:taxon>
+    <fr:taxon>Definición</fr:taxon>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Sea <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topol'ogico y sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un subconjunto de <fr:tex display="inline"><![CDATA[X]]></fr:tex>. Se dice que <fr:tex display="inline"><![CDATA[A]]></fr:tex> es del <html:em>tipo G_\delta </html:em> si es intersecci'on numerable de conjuntos abiertos.</html:p>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topológico y sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un subconjunto de <fr:tex display="inline"><![CDATA[X]]></fr:tex>. Se dice que <fr:tex display="inline"><![CDATA[A]]></fr:tex> es del <html:em>tipo G_\delta </html:em> si es intersección numerable de conjuntos abiertos.</html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -54,10 +55,11 @@
               <fr:month>9</fr:month>
               <fr:day>29</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000I.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AF-000I/</fr:uri>
             <fr:display-uri>AF-000I</fr:display-uri>
             <fr:route>/AF-000I/</fr:route>
-            <fr:title text="Teorema de Banach-Steinhaus o principio de acotaci'on uniforme">Teorema de Banach-Steinhaus o principio de acotaci'on uniforme</fr:title>
+            <fr:title text="Teorema de Banach-Steinhaus o principio de acotación uniforme">Teorema de Banach-Steinhaus o principio de acotación uniforme</fr:title>
             <fr:taxon>Teorema</fr:taxon>
           </fr:frontmatter>
           <fr:mainmatter>

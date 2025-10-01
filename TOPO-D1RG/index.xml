@@ -12,14 +12,15 @@
       <fr:month>9</fr:month>
       <fr:day>29</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/topology/TOPO-D1RG.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/TOPO-D1RG/</fr:uri>
     <fr:display-uri>TOPO-D1RG</fr:display-uri>
     <fr:route>/TOPO-D1RG/</fr:route>
     <fr:title text="Conjuntos raros">Conjuntos raros</fr:title>
-    <fr:taxon>Definici'on</fr:taxon>
+    <fr:taxon>Definición</fr:taxon>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Sea <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topol'ogico y sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un subconjunto de <fr:tex display="inline"><![CDATA[X]]></fr:tex>. Se dice que <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <html:em>raro</html:em> si <fr:tex display="inline"><![CDATA[\overset {\circ }{\overline {A}} = \emptyset ]]></fr:tex>.</html:p>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topológico y sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un subconjunto de <fr:tex display="inline"><![CDATA[X]]></fr:tex>. Se dice que <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <html:em>raro</html:em> si <fr:tex display="inline"><![CDATA[\overset {\circ }{\overline {A}} = \emptyset ]]></fr:tex>.</html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -54,14 +55,15 @@
               <fr:month>9</fr:month>
               <fr:day>29</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/topology/TOPO-8TGH.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/TOPO-8TGH/</fr:uri>
             <fr:display-uri>TOPO-8TGH</fr:display-uri>
             <fr:route>/TOPO-8TGH/</fr:route>
-            <fr:title text="Conjuntos de primera y segunda categor'ia">Conjuntos de primera y segunda categor'ia</fr:title>
+            <fr:title text="Conjuntos de primera y segunda categoría">Conjuntos de primera y segunda categoría</fr:title>
             <fr:taxon>Definición</fr:taxon>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Sea <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topol'ogico. Se dice que <fr:tex display="inline"><![CDATA[A\subset  X]]></fr:tex> es de <html:em>primera categor'ia</html:em> en <fr:tex display="inline"><![CDATA[X]]></fr:tex> si es uni'on numerable de <fr:link href="/TOPO-D1RG/" title="Conjuntos raros" uri="https://juan-mad.github.io/TOPO-D1RG/" display-uri="TOPO-D1RG" type="local">conjuntos raros</fr:link>. En caso contrario, se dice que <fr:tex display="inline"><![CDATA[A]]></fr:tex> es de <html:em>segunda categor'ia</html:em>.</html:p>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topológico. Se dice que <fr:tex display="inline"><![CDATA[A\subset  X]]></fr:tex> es de <html:em>primera categoría</html:em> en <fr:tex display="inline"><![CDATA[X]]></fr:tex> si es unión numerable de <fr:link href="/TOPO-D1RG/" title="Conjuntos raros" uri="https://juan-mad.github.io/TOPO-D1RG/" display-uri="TOPO-D1RG" type="local">conjuntos raros</fr:link>. En caso contrario, se dice que <fr:tex display="inline"><![CDATA[A]]></fr:tex> es de <html:em>segunda categoría</html:em>.</html:p>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>

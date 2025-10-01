@@ -12,6 +12,7 @@
       <fr:month>9</fr:month>
       <fr:day>26</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/topology/TOPO-9XNF.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/TOPO-9XNF/</fr:uri>
     <fr:display-uri>TOPO-9XNF</fr:display-uri>
     <fr:route>/TOPO-9XNF/</fr:route>
@@ -54,17 +55,18 @@
               <fr:month>9</fr:month>
               <fr:day>29</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/anfun/AF-000E.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AF-000E/</fr:uri>
             <fr:display-uri>AF-000E</fr:display-uri>
             <fr:route>/AF-000E/</fr:route>
             <fr:title text="Espacios relativamente compactos y precompactos">Espacios relativamente compactos y precompactos</fr:title>
-            <fr:taxon>Proposici'on</fr:taxon>
+            <fr:taxon>Proposición</fr:taxon>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Sean <fr:tex display="inline"><![CDATA[(E,d)]]></fr:tex> un espacio m'etrico y <fr:tex display="inline"><![CDATA[A\subset  E]]></fr:tex>.
+            <html:p>Sean <fr:tex display="inline"><![CDATA[(E,d)]]></fr:tex> un espacio métrico y <fr:tex display="inline"><![CDATA[A\subset  E]]></fr:tex>.
 
-<html:ol><html:li>Si <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <fr:link href="/TOPO-9XNF/" title="Espacio relativamente compacto" uri="https://juan-mad.github.io/TOPO-9XNF/" display-uri="TOPO-9XNF" type="local">relativamente compacto</fr:link>, entonces es <fr:link href="/TOPO-VTQC/" title="Espacio precompacto o totalmente acotado" uri="https://juan-mad.github.io/TOPO-VTQC/" display-uri="TOPO-VTQC" type="local">precompacto</fr:link>. Esto se cumple para cualquier espacio topol'ogico.</html:li>
-    <html:li>Si <fr:tex display="inline"><![CDATA[(E,d)]]></fr:tex> es completo, entonces <fr:tex display="inline"><![CDATA[A]]></fr:tex> es relativamente compacto si y s'olo si es precompacto.</html:li></html:ol></html:p>
+<html:ol><html:li>Si <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <fr:link href="/TOPO-9XNF/" title="Espacio relativamente compacto" uri="https://juan-mad.github.io/TOPO-9XNF/" display-uri="TOPO-9XNF" type="local">relativamente compacto</fr:link>, entonces es <fr:link href="/TOPO-VTQC/" title="Espacio precompacto o totalmente acotado" uri="https://juan-mad.github.io/TOPO-VTQC/" display-uri="TOPO-VTQC" type="local">precompacto</fr:link>. Esto se cumple para cualquier espacio topológico.</html:li>
+    <html:li>Si <fr:tex display="inline"><![CDATA[(E,d)]]></fr:tex> es completo, entonces <fr:tex display="inline"><![CDATA[A]]></fr:tex> es relativamente compacto si y sólo si es precompacto.</html:li></html:ol></html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -79,6 +81,7 @@
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/funcional/VC-000V.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/VC-000V/</fr:uri>
             <fr:display-uri>VC-000V</fr:display-uri>
             <fr:route>/VC-000V/</fr:route>

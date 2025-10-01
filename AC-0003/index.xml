@@ -12,6 +12,7 @@
       <fr:month>9</fr:month>
       <fr:day>21</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0003.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/AC-0003/</fr:uri>
     <fr:display-uri>AC-0003</fr:display-uri>
     <fr:route>/AC-0003/</fr:route>
@@ -46,6 +47,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                 <fr:link href="https://juan-mad.github.io/I.%20G.%20MacDonald" type="external">I. G. MacDonald</fr:link>
               </fr:author>
             </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/atiyah-macdonald-intro-alg-conm.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/</fr:uri>
             <fr:display-uri>atiyah-macdonald-intro-alg-conm</fr:display-uri>
             <fr:route>/atiyah-macdonald-intro-alg-conm/</fr:route>
@@ -85,6 +87,7 @@ year = {1978},
               <fr:month>9</fr:month>
               <fr:day>21</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0002.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-0002/</fr:uri>
             <fr:display-uri>AC-0002</fr:display-uri>
             <fr:route>/AC-0002/</fr:route>
@@ -115,6 +118,7 @@ year = {1978},
                   <fr:month>9</fr:month>
                   <fr:day>21</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0003.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-0003/</fr:uri>
                 <fr:display-uri>AC-0003</fr:display-uri>
                 <fr:route>/AC-0003/</fr:route>
@@ -145,6 +149,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                   <fr:month>9</fr:month>
                   <fr:day>21</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0004.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-0004/</fr:uri>
                 <fr:display-uri>AC-0004</fr:display-uri>
                 <fr:route>/AC-0004/</fr:route>
@@ -169,6 +174,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                       <fr:month>9</fr:month>
                       <fr:day>21</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0005.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AC-0005/</fr:uri>
                     <fr:display-uri>AC-0005</fr:display-uri>
                     <fr:route>/AC-0005/</fr:route>
@@ -195,6 +201,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                       <fr:month>9</fr:month>
                       <fr:day>21</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0006.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AC-0006/</fr:uri>
                     <fr:display-uri>AC-0006</fr:display-uri>
                     <fr:route>/AC-0006/</fr:route>
@@ -219,6 +226,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                           <fr:month>9</fr:month>
                           <fr:day>23</fr:day>
                         </fr:date>
+                        <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000B.tree</fr:source-path>
                         <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
                         <fr:display-uri>AC-000B</fr:display-uri>
                         <fr:route>/AC-000B/</fr:route>
@@ -246,6 +254,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                       <fr:month>9</fr:month>
                       <fr:day>21</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0007.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AC-0007/</fr:uri>
                     <fr:display-uri>AC-0007</fr:display-uri>
                     <fr:route>/AC-0007/</fr:route>
@@ -272,6 +281,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                       <fr:month>9</fr:month>
                       <fr:day>22</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0008.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AC-0008/</fr:uri>
                     <fr:display-uri>AC-0008</fr:display-uri>
                     <fr:route>/AC-0008/</fr:route>
@@ -300,6 +310,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                       <fr:month>9</fr:month>
                       <fr:day>22</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000A.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AC-000A/</fr:uri>
                     <fr:display-uri>AC-000A</fr:display-uri>
                     <fr:route>/AC-000A/</fr:route>
@@ -326,6 +337,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                       <fr:month>9</fr:month>
                       <fr:day>23</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000B.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
                     <fr:display-uri>AC-000B</fr:display-uri>
                     <fr:route>/AC-000B/</fr:route>
@@ -351,6 +363,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                       <fr:month>9</fr:month>
                       <fr:day>23</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000C.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AC-000C/</fr:uri>
                     <fr:display-uri>AC-000C</fr:display-uri>
                     <fr:route>/AC-000C/</fr:route>
@@ -378,6 +391,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0009.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-0009/</fr:uri>
                 <fr:display-uri>AC-0009</fr:display-uri>
                 <fr:route>/AC-0009/</fr:route>
@@ -413,6 +427,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/AC-0014.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-0014/</fr:uri>
             <fr:display-uri>AC-0014</fr:display-uri>
             <fr:route>/AC-0014/</fr:route>
@@ -436,6 +451,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
               <fr:month>9</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/AC-0013.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-0013/</fr:uri>
             <fr:display-uri>AC-0013</fr:display-uri>
             <fr:route>/AC-0013/</fr:route>
@@ -459,6 +475,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
               <fr:month>9</fr:month>
               <fr:day>24</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/modulos/AC-000I.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-000I/</fr:uri>
             <fr:display-uri>AC-000I</fr:display-uri>
             <fr:route>/AC-000I/</fr:route>
@@ -487,6 +504,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
               <fr:month>9</fr:month>
               <fr:day>21</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0004.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-0004/</fr:uri>
             <fr:display-uri>AC-0004</fr:display-uri>
             <fr:route>/AC-0004/</fr:route>
@@ -511,6 +529,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                   <fr:month>9</fr:month>
                   <fr:day>21</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0005.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-0005/</fr:uri>
                 <fr:display-uri>AC-0005</fr:display-uri>
                 <fr:route>/AC-0005/</fr:route>
@@ -537,6 +556,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                   <fr:month>9</fr:month>
                   <fr:day>21</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0006.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-0006/</fr:uri>
                 <fr:display-uri>AC-0006</fr:display-uri>
                 <fr:route>/AC-0006/</fr:route>
@@ -561,6 +581,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                       <fr:month>9</fr:month>
                       <fr:day>23</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000B.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
                     <fr:display-uri>AC-000B</fr:display-uri>
                     <fr:route>/AC-000B/</fr:route>
@@ -588,6 +609,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                   <fr:month>9</fr:month>
                   <fr:day>21</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0007.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-0007/</fr:uri>
                 <fr:display-uri>AC-0007</fr:display-uri>
                 <fr:route>/AC-0007/</fr:route>
@@ -614,6 +636,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0008.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-0008/</fr:uri>
                 <fr:display-uri>AC-0008</fr:display-uri>
                 <fr:route>/AC-0008/</fr:route>
@@ -642,6 +665,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000A.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-000A/</fr:uri>
                 <fr:display-uri>AC-000A</fr:display-uri>
                 <fr:route>/AC-000A/</fr:route>
@@ -668,6 +692,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                   <fr:month>9</fr:month>
                   <fr:day>23</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000B.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
                 <fr:display-uri>AC-000B</fr:display-uri>
                 <fr:route>/AC-000B/</fr:route>
@@ -693,6 +718,7 @@ El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA
                   <fr:month>9</fr:month>
                   <fr:day>23</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000C.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-000C/</fr:uri>
                 <fr:display-uri>AC-000C</fr:display-uri>
                 <fr:route>/AC-000C/</fr:route>

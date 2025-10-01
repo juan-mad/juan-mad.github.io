@@ -12,6 +12,7 @@
       <fr:month>9</fr:month>
       <fr:day>23</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000B.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
     <fr:display-uri>AC-000B</fr:display-uri>
     <fr:route>/AC-000B/</fr:route>
@@ -38,6 +39,7 @@
                 <fr:link href="https://juan-mad.github.io/Miles%20Reid/" type="external">Miles Reid</fr:link>
               </fr:author>
             </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/reid-undergrad-comm-alg.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/reid-undergrad-comm-alg/</fr:uri>
             <fr:display-uri>reid-undergrad-comm-alg</fr:display-uri>
             <fr:route>/reid-undergrad-comm-alg/</fr:route>
@@ -67,6 +69,7 @@
               <fr:month>9</fr:month>
               <fr:day>21</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0006.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-0006/</fr:uri>
             <fr:display-uri>AC-0006</fr:display-uri>
             <fr:route>/AC-0006/</fr:route>
@@ -91,6 +94,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>23</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000B.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
                 <fr:display-uri>AC-000B</fr:display-uri>
                 <fr:route>/AC-000B/</fr:route>
@@ -118,6 +122,7 @@
               <fr:month>9</fr:month>
               <fr:day>21</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0004.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-0004/</fr:uri>
             <fr:display-uri>AC-0004</fr:display-uri>
             <fr:route>/AC-0004/</fr:route>
@@ -142,6 +147,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>21</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0005.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-0005/</fr:uri>
                 <fr:display-uri>AC-0005</fr:display-uri>
                 <fr:route>/AC-0005/</fr:route>
@@ -168,6 +174,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>21</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0006.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-0006/</fr:uri>
                 <fr:display-uri>AC-0006</fr:display-uri>
                 <fr:route>/AC-0006/</fr:route>
@@ -192,6 +199,7 @@
                       <fr:month>9</fr:month>
                       <fr:day>23</fr:day>
                     </fr:date>
+                    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000B.tree</fr:source-path>
                     <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
                     <fr:display-uri>AC-000B</fr:display-uri>
                     <fr:route>/AC-000B/</fr:route>
@@ -219,6 +227,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>21</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0007.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-0007/</fr:uri>
                 <fr:display-uri>AC-0007</fr:display-uri>
                 <fr:route>/AC-0007/</fr:route>
@@ -245,6 +254,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0008.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-0008/</fr:uri>
                 <fr:display-uri>AC-0008</fr:display-uri>
                 <fr:route>/AC-0008/</fr:route>
@@ -273,6 +283,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000A.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-000A/</fr:uri>
                 <fr:display-uri>AC-000A</fr:display-uri>
                 <fr:route>/AC-000A/</fr:route>
@@ -299,6 +310,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>23</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000B.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
                 <fr:display-uri>AC-000B</fr:display-uri>
                 <fr:route>/AC-000B/</fr:route>
@@ -324,6 +336,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>23</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000C.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-000C/</fr:uri>
                 <fr:display-uri>AC-000C</fr:display-uri>
                 <fr:route>/AC-000C/</fr:route>
@@ -359,6 +372,7 @@
               <fr:month>9</fr:month>
               <fr:day>22</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000A.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-000A/</fr:uri>
             <fr:display-uri>AC-000A</fr:display-uri>
             <fr:route>/AC-000A/</fr:route>
@@ -393,6 +407,7 @@
               <fr:month>9</fr:month>
               <fr:day>21</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0006.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-0006/</fr:uri>
             <fr:display-uri>AC-0006</fr:display-uri>
             <fr:route>/AC-0006/</fr:route>
@@ -417,6 +432,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>23</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000B.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
                 <fr:display-uri>AC-000B</fr:display-uri>
                 <fr:route>/AC-000B/</fr:route>

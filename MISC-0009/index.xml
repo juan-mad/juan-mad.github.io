@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>10</fr:month>
+      <fr:day>31</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/misc/MISC-0009.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/MISC-0009/</fr:uri>
+    <fr:display-uri>MISC-0009</fr:display-uri>
+    <fr:route>/MISC-0009/</fr:route>
+    <fr:title text="Funciones de crecimiento exponencial">Funciones de crecimiento exponencial</fr:title>
+    <fr:taxon>Definición</fr:taxon>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Se dice que <fr:tex display="inline"><![CDATA[f\colon \left[ 0,\infty  \right)\rightarrow \mathbb  C]]></fr:tex> es de <html:em>crecimiento exponencial</html:em> (u orden exponencial) si existen <fr:tex display="inline"><![CDATA[M>0, \alpha \in \mathbb  R]]></fr:tex> y <fr:tex display="inline"><![CDATA[t_0>0]]></fr:tex> tales que <fr:tex display="block"><![CDATA[|f(t)|\leq  Me^{\alpha  t}, \,\,\,\text {para todo } t\geq  t_0.]]></fr:tex></html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>10</fr:month>
+              <fr:day>1</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-000C.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/TRFU-000C/</fr:uri>
+            <fr:display-uri>TRFU-000C</fr:display-uri>
+            <fr:route>/TRFU-000C/</fr:route>
+            <fr:title text="F'ormula de inversi'on de la transformada de Laplace">F'ormula de inversi'on de la transformada de Laplace</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[F]]></fr:tex> una funci'on holomorfa en <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex> salvo en un conjunto finito <fr:tex display="inline"><![CDATA[P]]></fr:tex> de los polos de <fr:tex display="inline"><![CDATA[F]]></fr:tex>. Supongamos tambi'en que existe <fr:tex display="inline"><![CDATA[\alpha \in \mathbb  R]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[F]]></fr:tex> coincide con la <fr:link href="/TRFU-0004/" title="Transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0004/" display-uri="TRFU-0004" type="local">transformada de Laplace</fr:link> de una funci'on <fr:link href="/TRFU-0003/" title="Funciones localmente integrables" uri="https://juan-mad.github.io/TRFU-0003/" display-uri="TRFU-0003" type="local">localmente integrable</fr:link> en el semiplano <fr:tex display="inline"><![CDATA[\{z\in \mathbb  C : \mathrm {Re}(z) > \alpha \}.]]></fr:tex>. Supongamos que existen <fr:tex display="inline"><![CDATA[M>0, R>0, p>0]]></fr:tex> tales que <fr:tex display="block"><![CDATA[|F(z)|\leq  \frac {M}{|z|^p}, \,\,\,\text {si } |z|\geq  R, \mathrm {Re}(z)\geq \alpha .]]></fr:tex> Entonces, la funci'on <fr:tex display="inline"><![CDATA[f\colon \left[ 0,\infty  \right)\rightarrow \mathbb  C]]></fr:tex> dada por <fr:tex display="block"><![CDATA[f(t) = \sum _{s\in  P}\mathrm {Res}(e^{tz}F(z), s)]]></fr:tex> verifica:
+
+<html:ol><html:li><fr:tex display="inline"><![CDATA[f]]></fr:tex> es continua y de <fr:link href="/MISC-0009/" title="Funciones de crecimiento exponencial" uri="https://juan-mad.github.io/MISC-0009/" display-uri="MISC-0009" type="local">crecimiento exponencial</fr:link>, por lo que admite <fr:link href="/TRFU-0004/" title="Transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0004/" display-uri="TRFU-0004" type="local">transformada de Laplace</fr:link>.</html:li>
+    <html:li>Para cada <fr:tex display="inline"><![CDATA[x\geq \alpha ]]></fr:tex> y <fr:tex display="inline"><![CDATA[t\geq  0]]></fr:tex> se da la igualdad <fr:tex display="block"><![CDATA[f(t)=\frac {1}{2\pi  i}VP\int _{x-i\infty }^{x+i\infty }e^{tz}F(z)dz.]]></fr:tex></html:li>
+    <html:li>En el <fr:link href="/TRFU-0007/" title="Dominio de convergencia de la transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0007/" display-uri="TRFU-0007" type="local">semiplano abierto de abscisa <fr:tex display="inline"><![CDATA[\alpha ]]></fr:tex></fr:link> se tiene <fr:tex display="inline"><![CDATA[F(z) = (\mathscr  L f)(z).]]></fr:tex></html:li></html:ol></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

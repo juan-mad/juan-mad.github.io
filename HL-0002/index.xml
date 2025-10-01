@@ -12,6 +12,7 @@
       <fr:month>9</fr:month>
       <fr:day>27</fr:day>
     </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0002.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/HL-0002/</fr:uri>
     <fr:display-uri>HL-0002</fr:display-uri>
     <fr:route>/HL-0002/</fr:route>
@@ -52,6 +53,7 @@
                 <fr:link href="https://juan-mad.github.io/John%20R.%20Harper" type="external">John R. Harper</fr:link>
               </fr:author>
             </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/greenberg-harper-alg-topo.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/greenberg-harper-alg-topo/</fr:uri>
             <fr:display-uri>greenberg-harper-alg-topo</fr:display-uri>
             <fr:route>/greenberg-harper-alg-topo/</fr:route>
@@ -80,6 +82,7 @@
               <fr:month>9</fr:month>
               <fr:day>28</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0007.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/HL-0007/</fr:uri>
             <fr:display-uri>HL-0007</fr:display-uri>
             <fr:route>/HL-0007/</fr:route>
@@ -99,6 +102,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>27</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0001.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/HL-0001/</fr:uri>
                 <fr:display-uri>HL-0001</fr:display-uri>
                 <fr:route>/HL-0001/</fr:route>
@@ -132,6 +136,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>27</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0002.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/HL-0002/</fr:uri>
                 <fr:display-uri>HL-0002</fr:display-uri>
                 <fr:route>/HL-0002/</fr:route>
@@ -168,6 +173,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>27</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0004.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/HL-0004/</fr:uri>
                 <fr:display-uri>HL-0004</fr:display-uri>
                 <fr:route>/HL-0004/</fr:route>
@@ -194,6 +200,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>27</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0005.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/HL-0005/</fr:uri>
                 <fr:display-uri>HL-0005</fr:display-uri>
                 <fr:route>/HL-0005/</fr:route>
@@ -219,6 +226,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>27</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0006.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/HL-0006/</fr:uri>
                 <fr:display-uri>HL-0006</fr:display-uri>
                 <fr:route>/HL-0006/</fr:route>
@@ -248,6 +256,7 @@
                   <fr:month>9</fr:month>
                   <fr:day>27</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0003.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/HL-0003/</fr:uri>
                 <fr:display-uri>HL-0003</fr:display-uri>
                 <fr:route>/HL-0003/</fr:route>
@@ -278,6 +287,7 @@ donde si <fr:tex display="inline"><![CDATA[z\in  Z_q(C)]]></fr:tex> es un <fr:li
                   <fr:month>9</fr:month>
                   <fr:day>28</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0008.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/HL-0008/</fr:uri>
                 <fr:display-uri>HL-0008</fr:display-uri>
                 <fr:route>/HL-0008/</fr:route>
@@ -316,6 +326,7 @@ donde si <fr:tex display="inline"><![CDATA[z\in  Z_q(C)]]></fr:tex> es un <fr:li
                   <fr:month>9</fr:month>
                   <fr:day>28</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0009.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/HL-0009/</fr:uri>
                 <fr:display-uri>HL-0009</fr:display-uri>
                 <fr:route>/HL-0009/</fr:route>
@@ -341,6 +352,7 @@ donde si <fr:tex display="inline"><![CDATA[z\in  Z_q(C)]]></fr:tex> es un <fr:li
                   <fr:month>9</fr:month>
                   <fr:day>28</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-000A.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/HL-000A/</fr:uri>
                 <fr:display-uri>HL-000A</fr:display-uri>
                 <fr:route>/HL-000A/</fr:route>
@@ -366,6 +378,7 @@ donde si <fr:tex display="inline"><![CDATA[z\in  Z_q(C)]]></fr:tex> es un <fr:li
                   <fr:month>9</fr:month>
                   <fr:day>28</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-000B.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/HL-000B/</fr:uri>
                 <fr:display-uri>HL-000B</fr:display-uri>
                 <fr:route>/HL-000B/</fr:route>
@@ -391,6 +404,7 @@ donde si <fr:tex display="inline"><![CDATA[z\in  Z_q(C)]]></fr:tex> es un <fr:li
                   <fr:month>9</fr:month>
                   <fr:day>28</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-000C.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/HL-000C/</fr:uri>
                 <fr:display-uri>HL-000C</fr:display-uri>
                 <fr:route>/HL-000C/</fr:route>
@@ -421,6 +435,7 @@ Notemos que <fr:tex display="inline"><![CDATA[\partial ^\#_1\colon C^\#_1\righta
                   <fr:month>9</fr:month>
                   <fr:day>28</fr:day>
                 </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-000D.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/HL-000D/</fr:uri>
                 <fr:display-uri>HL-000D</fr:display-uri>
                 <fr:route>/HL-000D/</fr:route>
@@ -456,19 +471,20 @@ Notemos que <fr:tex display="inline"><![CDATA[\partial ^\#_1\colon C^\#_1\righta
               <fr:month>9</fr:month>
               <fr:day>29</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-000E.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/HL-000E/</fr:uri>
             <fr:display-uri>HL-000E</fr:display-uri>
             <fr:route>/HL-000E/</fr:route>
-            <fr:title text="Condicion suficiente de aciclicidad de complejos con aumentaci'on">Condicion suficiente de aciclicidad de complejos con aumentaci'on</fr:title>
+            <fr:title text="Condicion suficiente de aciclicidad de complejos con aumentación">Condicion suficiente de aciclicidad de complejos con aumentación</fr:title>
             <fr:taxon>Proposición</fr:taxon>
             <fr:meta name="sources">
               <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
             </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Todo <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> <fr:tex display="inline"><![CDATA[C]]></fr:tex> con <fr:link href="/HL-000B/" title="Aumentación de un complejo de cadenas" uri="https://juan-mad.github.io/HL-000B/" display-uri="HL-000B" type="local">aumentación</fr:link> <fr:tex display="inline"><![CDATA[\varepsilon \colon C_0\rightarrow A]]></fr:tex> tiene un inverso por la derecha (no necesariamente 'unico) <fr:tex display="inline"><![CDATA[\eta \colon A\rightarrow C_0]]></fr:tex> dado por <fr:tex display="inline"><![CDATA[\eta (1)=x]]></fr:tex> para alg'un <fr:tex display="inline"><![CDATA[x]]></fr:tex> con <fr:tex display="inline"><![CDATA[\varpesilon (x)=1]]></fr:tex>. Entonces, <fr:tex display="inline"><![CDATA[\varepsilon \eta  = 1]]></fr:tex>.</html:p>
+            <html:p>Todo <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> <fr:tex display="inline"><![CDATA[C]]></fr:tex> con <fr:link href="/HL-000B/" title="Aumentación de un complejo de cadenas" uri="https://juan-mad.github.io/HL-000B/" display-uri="HL-000B" type="local">aumentación</fr:link> <fr:tex display="inline"><![CDATA[\varepsilon \colon C_0\rightarrow A]]></fr:tex> tiene un inverso por la derecha (no necesariamente único) <fr:tex display="inline"><![CDATA[\eta \colon A\rightarrow C_0]]></fr:tex> dado por <fr:tex display="inline"><![CDATA[\eta (1)=x]]></fr:tex> para algún <fr:tex display="inline"><![CDATA[x]]></fr:tex> con <fr:tex display="inline"><![CDATA[\varpesilon (x)=1]]></fr:tex>. Entonces, <fr:tex display="inline"><![CDATA[\varepsilon \eta  = 1]]></fr:tex>.</html:p>
             <html:p>Definimos el <fr:link href="/HL-0002/" title="Morfismo de complejos de cadenas" uri="https://juan-mad.github.io/HL-0002/" display-uri="HL-0002" type="local">morfismo de complejos de cadenas</fr:link> <fr:tex display="inline"><![CDATA[\eta \varepsilon \colon  C\rightarrow  C]]></fr:tex> definiendo <fr:tex display="inline"><![CDATA[\varepsilon \vert _{C_q} = 0]]></fr:tex> para <fr:tex display="inline"><![CDATA[q\geq  1]]></fr:tex>.</html:p>
-            <html:p>Se tiene la siguiente condici'on suficiente: si <fr:tex display="inline"><![CDATA[1 \simeq  \eta \varepsilon ]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[C]]></fr:tex> es ac'iclico.</html:p>
+            <html:p>Se tiene la siguiente condición suficiente: si <fr:tex display="inline"><![CDATA[1 \simeq  \eta \varepsilon ]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[C]]></fr:tex> es acíclico.</html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -483,6 +499,7 @@ Notemos que <fr:tex display="inline"><![CDATA[\partial ^\#_1\colon C^\#_1\righta
               <fr:month>9</fr:month>
               <fr:day>28</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0008.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/HL-0008/</fr:uri>
             <fr:display-uri>HL-0008</fr:display-uri>
             <fr:route>/HL-0008/</fr:route>
@@ -521,6 +538,7 @@ Notemos que <fr:tex display="inline"><![CDATA[\partial ^\#_1\colon C^\#_1\righta
               <fr:month>9</fr:month>
               <fr:day>28</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-000C.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/SHL-000C/</fr:uri>
             <fr:display-uri>SHL-000C</fr:display-uri>
             <fr:route>/SHL-000C/</fr:route>
@@ -546,6 +564,7 @@ Notemos que <fr:tex display="inline"><![CDATA[\partial ^\#_1\colon C^\#_1\righta
               <fr:month>9</fr:month>
               <fr:day>27</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0003.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/HL-0003/</fr:uri>
             <fr:display-uri>HL-0003</fr:display-uri>
             <fr:route>/HL-0003/</fr:route>
@@ -584,6 +603,7 @@ donde si <fr:tex display="inline"><![CDATA[z\in  Z_q(C)]]></fr:tex> es un <fr:li
               <fr:month>9</fr:month>
               <fr:day>27</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-0001.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/HL-0001/</fr:uri>
             <fr:display-uri>HL-0001</fr:display-uri>
             <fr:route>/HL-0001/</fr:route>
@@ -617,6 +637,7 @@ donde si <fr:tex display="inline"><![CDATA[z\in  Z_q(C)]]></fr:tex> es un <fr:li
               <fr:month>9</fr:month>
               <fr:day>23</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/modulos/AC-000F.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-000F/</fr:uri>
             <fr:display-uri>AC-000F</fr:display-uri>
             <fr:route>/AC-000F/</fr:route>

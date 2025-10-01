@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>10</fr:month>
+      <fr:day>1</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-000C.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/TRFU-000C/</fr:uri>
+    <fr:display-uri>TRFU-000C</fr:display-uri>
+    <fr:route>/TRFU-000C/</fr:route>
+    <fr:title text="F'ormula de inversi'on de la transformada de Laplace">F'ormula de inversi'on de la transformada de Laplace</fr:title>
+    <fr:taxon>Teorema</fr:taxon>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[F]]></fr:tex> una funci'on holomorfa en <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex> salvo en un conjunto finito <fr:tex display="inline"><![CDATA[P]]></fr:tex> de los polos de <fr:tex display="inline"><![CDATA[F]]></fr:tex>. Supongamos tambi'en que existe <fr:tex display="inline"><![CDATA[\alpha \in \mathbb  R]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[F]]></fr:tex> coincide con la <fr:link href="/TRFU-0004/" title="Transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0004/" display-uri="TRFU-0004" type="local">transformada de Laplace</fr:link> de una funci'on <fr:link href="/TRFU-0003/" title="Funciones localmente integrables" uri="https://juan-mad.github.io/TRFU-0003/" display-uri="TRFU-0003" type="local">localmente integrable</fr:link> en el semiplano <fr:tex display="inline"><![CDATA[\{z\in \mathbb  C : \mathrm {Re}(z) > \alpha \}.]]></fr:tex>. Supongamos que existen <fr:tex display="inline"><![CDATA[M>0, R>0, p>0]]></fr:tex> tales que <fr:tex display="block"><![CDATA[|F(z)|\leq  \frac {M}{|z|^p}, \,\,\,\text {si } |z|\geq  R, \mathrm {Re}(z)\geq \alpha .]]></fr:tex> Entonces, la funci'on <fr:tex display="inline"><![CDATA[f\colon \left[ 0,\infty  \right)\rightarrow \mathbb  C]]></fr:tex> dada por <fr:tex display="block"><![CDATA[f(t) = \sum _{s\in  P}\mathrm {Res}(e^{tz}F(z), s)]]></fr:tex> verifica:
+
+<html:ol><html:li><fr:tex display="inline"><![CDATA[f]]></fr:tex> es continua y de <fr:link href="/MISC-0009/" title="Funciones de crecimiento exponencial" uri="https://juan-mad.github.io/MISC-0009/" display-uri="MISC-0009" type="local">crecimiento exponencial</fr:link>, por lo que admite <fr:link href="/TRFU-0004/" title="Transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0004/" display-uri="TRFU-0004" type="local">transformada de Laplace</fr:link>.</html:li>
+    <html:li>Para cada <fr:tex display="inline"><![CDATA[x\geq \alpha ]]></fr:tex> y <fr:tex display="inline"><![CDATA[t\geq  0]]></fr:tex> se da la igualdad <fr:tex display="block"><![CDATA[f(t)=\frac {1}{2\pi  i}VP\int _{x-i\infty }^{x+i\infty }e^{tz}F(z)dz.]]></fr:tex></html:li>
+    <html:li>En el <fr:link href="/TRFU-0007/" title="Dominio de convergencia de la transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0007/" display-uri="TRFU-0007" type="local">semiplano abierto de abscisa <fr:tex display="inline"><![CDATA[\alpha ]]></fr:tex></fr:link> se tiene <fr:tex display="inline"><![CDATA[F(z) = (\mathscr  L f)(z).]]></fr:tex></html:li></html:ol></html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>30</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-0002.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/TRFU-0002/</fr:uri>
+            <fr:display-uri>TRFU-0002</fr:display-uri>
+            <fr:route>/TRFU-0002/</fr:route>
+            <fr:title text="Transformada de Laplace">Transformada de Laplace</fr:title>
+            <fr:taxon>Tema</fr:taxon>
+            <fr:meta name="sources">()[guia-var-compleja-aplicaciones]</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>El estudio de la transformada de Laplace considera funciones para las que la integral <fr:tex display="inline"><![CDATA[\displaystyle {\int _0^bf(t)dt}]]></fr:tex> tiene sentido para todo <fr:tex display="inline"><![CDATA[b>0]]></fr:tex> y es finita (o absolutamente convergente para la integral de Riemann). Esto garantiza que también son finitas las integrales del tipo <fr:tex display="inline"><![CDATA[\displaystyle {\int _0^bK(t)f(t)dt}]]></fr:tex> para cualquier <fr:tex display="inline"><![CDATA[K]]></fr:tex> continua en <fr:tex display="inline"><![CDATA[\left[ 0, \infty  \right)]]></fr:tex>.</html:p>
+            <html:p>En general trabajaremos con funciones definidas en los reales positivos. Sin embargo, en ocasiones es conveniente considerar a estas funciones como definidas en todo <fr:tex display="inline"><![CDATA[\mathbb  R]]></fr:tex>. Cuando este es el caso, se dice que las funciones son nulas fuera de los reales positivos.</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>30</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-0003.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/TRFU-0003/</fr:uri>
+                <fr:display-uri>TRFU-0003</fr:display-uri>
+                <fr:route>/TRFU-0003/</fr:route>
+                <fr:title text="Funciones localmente integrables">Funciones localmente integrables</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">()[guia-var-compleja-aplicaciones]</fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Se dice que una función compleja <fr:tex display="inline"><![CDATA[f\colon \left[ 0,\infty  \right)\rightarrow \mathbb  C]]></fr:tex> es <html:em>localmente integrable</html:em> en <fr:tex display="inline"><![CDATA[\left[ 0,\infty  \right)]]></fr:tex> si es integrable en cada intervalo <fr:tex display="inline"><![CDATA[[0,b]]]></fr:tex>, es decir, si la integral de <fr:tex display="inline"><![CDATA[f]]></fr:tex> en <fr:tex display="inline"><![CDATA[[0,b]]]></fr:tex> tiene sentido y <fr:tex display="block"><![CDATA[\int _0^b|f(t)|dt < \infty , \,\,\, \text {para todo } b.]]></fr:tex>
+Denotaremos el espacio de estas funciones, que es un espacio vectorial sobre <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex>, por <fr:tex display="inline"><![CDATA[\mathscr  L_{\text {loc}}^1(\mathbb  R_+)]]></fr:tex>.</html:p>
+                <html:p>En particular, toda función integrable <fr:tex display="inline"><![CDATA[f\in  L^1(\mathbb  R)]]></fr:tex> es localmente integrable en <fr:tex display="inline"><![CDATA[\left[ 0,\infty  \right)]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>30</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-0004.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/TRFU-0004/</fr:uri>
+                <fr:display-uri>TRFU-0004</fr:display-uri>
+                <fr:route>/TRFU-0004/</fr:route>
+                <fr:title text="Transformada de Laplace">Transformada de Laplace</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">()[guia-var-compleja-aplicaciones]</fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Para una función <fr:link href="/TRFU-0003/" title="Funciones localmente integrables" uri="https://juan-mad.github.io/TRFU-0003/" display-uri="TRFU-0003" type="local">localmente integrable</fr:link> <fr:tex display="inline"><![CDATA[f\in \mathscr  L_{\text {loc}}^1(\mathbb  R_+)]]></fr:tex> se define la <html:em>transformada de Laplace</html:em> como la integral (impropia) <fr:tex display="block"><![CDATA[(\mathscr  L f)(z) = \int _0^\infty  f(t)e^{-tz}dt]]></fr:tex> para los valores de <fr:tex display="inline"><![CDATA[z]]></fr:tex> para los cuales tiene sentido (DUDA: o cuando hay convergencia absoluta???).</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>30</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-0006.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/TRFU-0006/</fr:uri>
+                <fr:display-uri>TRFU-0006</fr:display-uri>
+                <fr:route>/TRFU-0006/</fr:route>
+                <fr:title text="Derivabilidad de la transformada de Laplace">Derivabilidad de la transformada de Laplace</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[f\colon \left[ 0,\infty  \right)\rightarrow  \mathbb  R]]></fr:tex> y sea <fr:tex display="inline"><![CDATA[F(z)]]></fr:tex> su <fr:link href="/TRFU-0004/" title="Transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0004/" display-uri="TRFU-0004" type="local">transformada de Laplace</fr:link>. Entonces <fr:tex display="block"><![CDATA[F'(z) = -\int _0^\infty  f(t)te^{-zt}dt,]]></fr:tex> que es precisamente la transformada de Laplace de <fr:tex display="inline"><![CDATA[g(t) = -tf(t)]]></fr:tex>. De hecho, para <fr:tex display="inline"><![CDATA[k\geq  1]]></fr:tex>, se tiene <fr:tex display="block"><![CDATA[F^{(k)}(z) = (-1)^k\mathscr  L(t^kf(t))(z).]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>1</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-0007.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/TRFU-0007/</fr:uri>
+                <fr:display-uri>TRFU-0007</fr:display-uri>
+                <fr:route>/TRFU-0007/</fr:route>
+                <fr:title text="Dominio de convergencia de la transformada de Laplace">Dominio de convergencia de la transformada de Laplace</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[f\colon \left[ 0,\infty  \right)\rightarrow \mathbb  R]]></fr:tex> y sean <fr:tex display="inline"><![CDATA[C(f)]]></fr:tex> y <fr:tex display="inline"><![CDATA[A(f)]]></fr:tex> los dominios de convergencia puntual y absoluta de la transformada de Laplace de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, respectivamente.
+
+<html:ul><html:li>Si la <fr:link href="/TRFU-0004/" title="Transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0004/" display-uri="TRFU-0004" type="local">transformada de Laplace</fr:link> de <fr:tex display="inline"><![CDATA[f]]></fr:tex> converge absolutamente en <fr:tex display="inline"><![CDATA[z_0\in \mathbb  C]]></fr:tex>, entonces converge absolutamente en todo punto del semiplano <fr:tex display="inline"><![CDATA[\{z\in \mathbb  C : \mathrm {Re}\,z > \mathrm {Re}\,z_0\}]]></fr:tex>. Entonces <fr:tex display="inline"><![CDATA[A(f)]]></fr:tex> es <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex>, un semiplano abierto o un semiplano cerrado. Esto define una <html:em>abscisa de convergencia uniforme</html:em>.</html:li>
+    <html:li>Si la <fr:link href="/TRFU-0004/" title="Transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0004/" display-uri="TRFU-0004" type="local">transformada de Laplace</fr:link> converge en <fr:tex display="inline"><![CDATA[z_0\in \mathbb  C]]></fr:tex>, entonces converge en todo punto del semiplano <fr:tex display="inline"><![CDATA[\{z\in \mathbb  C : \mathrm {Re}\,z > \mathrm {Re}\,z_0\}]]></fr:tex>. Entonces, si <fr:tex display="inline"><![CDATA[C(f)]]></fr:tex> no es vac'io, entonces es <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex> o es un semiplano abierto. Esto define una <html:em>abscisa de convergencia</html:em>.</html:li>
+    <html:li>Si <fr:link href="/TRFU-0004/" title="Transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0004/" display-uri="TRFU-0004" type="local">transformada de Laplace</fr:link> converge en <fr:tex display="inline"><![CDATA[z_0\in \mathbb  C]]></fr:tex>, entonces converge uniformemente en <fr:tex display="block"><![CDATA[S=\left \{z\in \mathbb  C : \mathrm {Re}\,z>\mathrm {Re}\,z_0, \left |\arg (z-z_0)\right |\leq  \psi  < \frac {\pi }{2}\right \}.]]></fr:tex> Llamamos a esta regi'on una <html:em>secci'on de convergencia</html:em>.</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>1</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-0008.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/TRFU-0008/</fr:uri>
+                <fr:display-uri>TRFU-0008</fr:display-uri>
+                <fr:route>/TRFU-0008/</fr:route>
+                <fr:title text="Inyectividad de la transformada de Laplace">Inyectividad de la transformada de Laplace</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[f\colon \left[ 0,\infty  \right)\rightarrow \mathbb  C]]></fr:tex> y <fr:tex display="inline"><![CDATA[F(z)=(\mathscr  L f)(z)]]></fr:tex> su <fr:link href="/TRFU-0004/" title="Transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0004/" display-uri="TRFU-0004" type="local">transformada de Laplace</fr:link>. Supongamos que existen <fr:tex display="inline"><![CDATA[z_0\in \mathbb  C]]></fr:tex> y <fr:tex display="inline"><![CDATA[\sigma  > 0]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[F(z_0 + n\sigma ) = 0]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[n\in \mathbb  N]]></fr:tex>. Entonces <fr:tex display="inline"><![CDATA[f(t) = 0]]></fr:tex> casi siempre. En particular, la transformada de Laplace no puede ser una funci'on peri'odica no nula.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>1</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-0009.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/TRFU-0009/</fr:uri>
+                <fr:display-uri>TRFU-0009</fr:display-uri>
+                <fr:route>/TRFU-0009/</fr:route>
+                <fr:title text="" />
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[f\colon \left[ 0,\infty  \right)\rightarrow \mathbb  C]]></fr:tex> y <fr:tex display="inline"><![CDATA[F(z)=(\mathscr  L f)(z)]]></fr:tex> su <fr:link href="/TRFU-0004/" title="Transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0004/" display-uri="TRFU-0004" type="local">transformada de Laplace</fr:link>. Sea <fr:tex display="inline"><![CDATA[z_0\in  C(f)]]></fr:tex> un <fr:link href="/TRFU-0007/" title="Dominio de convergencia de la transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0007/" display-uri="TRFU-0007" type="local">punto de convergencia</fr:link> y sun sector <fr:tex display="inline"><![CDATA[S]]></fr:tex> de convergencia uniforme basado en <fr:tex display="inline"><![CDATA[z_0]]></fr:tex>. Entonces <fr:tex display="block"><![CDATA[\lim _{\substack {z\to \infty  \\ z\in  S}}F(z) = 0.]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>1</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-000A.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/TRFU-000A/</fr:uri>
+                <fr:display-uri>TRFU-000A</fr:display-uri>
+                <fr:route>/TRFU-000A/</fr:route>
+                <fr:title text="Convoluci'on de funciones">Convoluci'on de funciones</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Dadas <fr:tex display="inline"><![CDATA[f_1,f_2\colon \left[ 0,\infty  \right)\rightarrow \mathbb  C]]></fr:tex> dos funciones, se define su <html:em>convoluci'on</html:em> como <fr:tex display="block"><![CDATA[(f_1\ast  f_2)(t) = 
+\int _0^t f_1(u)f_2(t-u)du]]></fr:tex> para los valores en los que la integral existe.</html:p>
+                <html:ul><html:li>Si <fr:tex display="inline"><![CDATA[f_1,f_2]]></fr:tex> son absolutamente integrables y acotadas en cada intervalo cerrado <fr:tex display="inline"><![CDATA[[a,b]]]></fr:tex> con <fr:tex display="inline"><![CDATA[0<a<b]]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[(f_1\ast  f_2)(t)]]></fr:tex> est'a bien definida si <fr:tex display="inline"><![CDATA[t>0]]></fr:tex>.</html:li>
+    <html:li>Si en general <fr:tex display="inline"><![CDATA[f_1,f_2\in  L^1(\mathbb  R)]]></fr:tex> funciones integrables, entonces <fr:tex display="inline"><![CDATA[(f_1\ast  f_2)(t)]]></fr:tex> existe casi siempre.</html:li></html:ul>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>1</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-000B.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/TRFU-000B/</fr:uri>
+                <fr:display-uri>TRFU-000B</fr:display-uri>
+                <fr:route>/TRFU-000B/</fr:route>
+                <fr:title text="F'ormula integral de Bromwich">F'ormula integral de Bromwich</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[f\colon \left[ 0,\infty  \right)\rightarrow \mathbb  C]]></fr:tex> una funci'on <fr:link href="/TRFU-0003/" title="Funciones localmente integrables" uri="https://juan-mad.github.io/TRFU-0003/" display-uri="TRFU-0003" type="local">localmente integrable</fr:link>, <fr:tex display="inline"><![CDATA[f\in \mathscr  L^1_{\text {loc}}]]></fr:tex> que admite transformada de Laplace <fr:tex display="inline"><![CDATA[F(z)]]></fr:tex>. Para cualquier <fr:tex display="inline"><![CDATA[x\in \mathbb  R]]></fr:tex> mayor que la <fr:link href="/TRFU-0007/" title="Dominio de convergencia de la transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0007/" display-uri="TRFU-0007" type="local">abscisa de convergencia (uniforme)</fr:link>, si para un <fr:tex display="inline"><![CDATA[t\in \mathbb  R]]></fr:tex> existe un entornonen el que <fr:tex display="inline"><![CDATA[f]]></fr:tex> es de variaci'on acotada, se tiene que <fr:tex display="block"><![CDATA[\frac {f(t^+) + f(t^-)}{2} = \frac {1}{2\pi  i}VP\int _{x-i\infty }^{x+i\infty }e^{tz}F(z)dz = \frac {1}{2\pi  i}\lim _{\tau \to \infty }\int _{x-i\tau }^{x+i\tau }e^{ts}F(s)ds.]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>1</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-000E.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/TRFU-000E/</fr:uri>
+                <fr:display-uri>TRFU-000E</fr:display-uri>
+                <fr:route>/TRFU-000E/</fr:route>
+                <fr:title text="Transformada inversa de Laplace">Transformada inversa de Laplace</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[F]]></fr:tex> holomorfa en el semiplano <fr:tex display="inline"><![CDATA[\mathrm {Re}(z) > \alpha , \alpha  > 0]]></fr:tex>. Decimos que <fr:tex display="inline"><![CDATA[F]]></fr:tex> admite <html:em>transformada inversa de Laplace</html:em> si existe una funci'on <fr:link href="/TRFU-0003/" title="Funciones localmente integrables" uri="https://juan-mad.github.io/TRFU-0003/" display-uri="TRFU-0003" type="local">localmente integrable</fr:link> <fr:tex display="inline"><![CDATA[f\in \mathscr  L^1_{\text {loc}}(\mathbb  R_+)]]></fr:tex> que admite <fr:link href="/TRFU-0003/" title="Funciones localmente integrables" uri="https://juan-mad.github.io/TRFU-0003/" display-uri="TRFU-0003" type="local">transformada de Laplace</fr:link> con abscisa de covergencia menor o igual que <fr:tex display="inline"><![CDATA[\alpha ]]></fr:tex> y <fr:tex display="inline"><![CDATA[(\mathscr  L f)(z) = F(z)]]></fr:tex> en el semiplano <fr:tex display="inline"><![CDATA[\mathrm {Re}(z) > \alpha ]]></fr:tex>. </html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>1</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-000C.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/TRFU-000C/</fr:uri>
+                <fr:display-uri>TRFU-000C</fr:display-uri>
+                <fr:route>/TRFU-000C/</fr:route>
+                <fr:title text="F'ormula de inversi'on de la transformada de Laplace">F'ormula de inversi'on de la transformada de Laplace</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[F]]></fr:tex> una funci'on holomorfa en <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex> salvo en un conjunto finito <fr:tex display="inline"><![CDATA[P]]></fr:tex> de los polos de <fr:tex display="inline"><![CDATA[F]]></fr:tex>. Supongamos tambi'en que existe <fr:tex display="inline"><![CDATA[\alpha \in \mathbb  R]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[F]]></fr:tex> coincide con la <fr:link href="/TRFU-0004/" title="Transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0004/" display-uri="TRFU-0004" type="local">transformada de Laplace</fr:link> de una funci'on <fr:link href="/TRFU-0003/" title="Funciones localmente integrables" uri="https://juan-mad.github.io/TRFU-0003/" display-uri="TRFU-0003" type="local">localmente integrable</fr:link> en el semiplano <fr:tex display="inline"><![CDATA[\{z\in \mathbb  C : \mathrm {Re}(z) > \alpha \}.]]></fr:tex>. Supongamos que existen <fr:tex display="inline"><![CDATA[M>0, R>0, p>0]]></fr:tex> tales que <fr:tex display="block"><![CDATA[|F(z)|\leq  \frac {M}{|z|^p}, \,\,\,\text {si } |z|\geq  R, \mathrm {Re}(z)\geq \alpha .]]></fr:tex> Entonces, la funci'on <fr:tex display="inline"><![CDATA[f\colon \left[ 0,\infty  \right)\rightarrow \mathbb  C]]></fr:tex> dada por <fr:tex display="block"><![CDATA[f(t) = \sum _{s\in  P}\mathrm {Res}(e^{tz}F(z), s)]]></fr:tex> verifica:
+
+<html:ol><html:li><fr:tex display="inline"><![CDATA[f]]></fr:tex> es continua y de <fr:link href="/MISC-0009/" title="Funciones de crecimiento exponencial" uri="https://juan-mad.github.io/MISC-0009/" display-uri="MISC-0009" type="local">crecimiento exponencial</fr:link>, por lo que admite <fr:link href="/TRFU-0004/" title="Transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0004/" display-uri="TRFU-0004" type="local">transformada de Laplace</fr:link>.</html:li>
+    <html:li>Para cada <fr:tex display="inline"><![CDATA[x\geq \alpha ]]></fr:tex> y <fr:tex display="inline"><![CDATA[t\geq  0]]></fr:tex> se da la igualdad <fr:tex display="block"><![CDATA[f(t)=\frac {1}{2\pi  i}VP\int _{x-i\infty }^{x+i\infty }e^{tz}F(z)dz.]]></fr:tex></html:li>
+    <html:li>En el <fr:link href="/TRFU-0007/" title="Dominio de convergencia de la transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0007/" display-uri="TRFU-0007" type="local">semiplano abierto de abscisa <fr:tex display="inline"><![CDATA[\alpha ]]></fr:tex></fr:link> se tiene <fr:tex display="inline"><![CDATA[F(z) = (\mathscr  L f)(z).]]></fr:tex></html:li></html:ol></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>1</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-000D.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/TRFU-000D/</fr:uri>
+                <fr:display-uri>TRFU-000D</fr:display-uri>
+                <fr:route>/TRFU-000D/</fr:route>
+                <fr:title text="F'ormula de expansi'on de Heaviside">F'ormula de expansi'on de Heaviside</fr:title>
+                <fr:taxon>Proposici'on</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[P,Q]]></fr:tex> polinomios tales que <fr:tex display="inline"><![CDATA[\mathrm {deg}\,Q > \mathrm {deg}\, Q]]></fr:tex> y todos los ceros de <fr:tex display="inline"><![CDATA[Q]]></fr:tex> son simples. Entonces <fr:tex display="block"><![CDATA[f(t) = \sum \limits _{\substack {a\in \mathbb  C \\ Q(a)=0}}e^{at}\frac {P(a)}{Q'(a)}, \,\,\, t\geq  0]]></fr:tex> es la <fr:link href="/TRFU-000E/" title="Transformada inversa de Laplace" uri="https://juan-mad.github.io/TRFU-000E/" display-uri="TRFU-000E" type="local">transformada inversa de Laplace</fr:link> de <fr:tex display="inline"><![CDATA[F(z)=P(z)/Q(z)]]></fr:tex>, continua en <fr:tex display="inline"><![CDATA[\left[ 0,\infty  \right)]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>30</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-0005.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/TRFU-0005/</fr:uri>
+                <fr:display-uri>TRFU-0005</fr:display-uri>
+                <fr:route>/TRFU-0005/</fr:route>
+                <fr:title text="Ejemplos de Transformadas de Laplace">Ejemplos de Transformadas de Laplace</fr:title>
+                <fr:taxon>Ejemplos</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:table>
+  <html:tr><html:th><fr:tex display="block"><![CDATA[f(t)]]></fr:tex></html:th> <html:th><fr:tex display="block"><![CDATA[\left( \mathscr  L f \right) (z)=F(z)]]></fr:tex></html:th> <html:th><fr:tex display="block"><![CDATA[\text {\bf {Dominio de definición}}]]></fr:tex></html:th> <html:th><fr:tex display="block"><![CDATA[\text {\bf {Nombre (opcional)}}]]></fr:tex></html:th></html:tr>
+<html:tr><html:td><fr:tex display="block"><![CDATA[1]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\frac {1}{z}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[Re(z) > 0]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[H_c(t)=\begin {cases}1 & \text {si }t\geq  c, \\ 0 & \text {si }t < c. \end {cases}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\frac {e^{-cz}}{z}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[Re(z) > 0, c > 0]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {Heaviside}]]></fr:tex></html:td></html:tr>
+
+  <html:tr><html:td><fr:tex display="block"><![CDATA[t^n]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\frac {n!}{z^{n+1}}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[Re(z) > 0, n\in \mathbb  N]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[t^a]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\frac {\Gamma (a+1)}{z^{a+1}}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[Re(z) > 0, a > -1]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+
+  <html:tr><html:td><fr:tex display="block"><![CDATA[e^{at}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\frac {1}{z-a}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[Re(z) > Re(a)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[\sin (at)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\frac {a}{z^2+a^2}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[\cos (at)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\frac {z}{z^2+a^2}]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[f(at)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\frac {1}{a}F\left (\frac {z}{a}\right )]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[f(t-b)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[e^{-bz}F(z)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[H_c(t)f(t-c)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[e^{-cz}F(z)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[f'(t)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[zF(z) - f(0^+)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[f^{(n)}(t)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[zF(z) - \sum _{k=1}^n z^{n-k}f^{(k-1)}(0^+)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {}]]></fr:tex></html:td></html:tr>
+  <html:tr><html:td><fr:tex display="block"><![CDATA[f \ast   g]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[(\mathscr  L f)(z)(\mathscr  L g)(z)]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[]]></fr:tex></html:td> <html:td><fr:tex display="block"><![CDATA[\text {Convolución}]]></fr:tex></html:td></html:tr>
+</html:table>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>10</fr:month>
+              <fr:day>31</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/misc/MISC-0009.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/MISC-0009/</fr:uri>
+            <fr:display-uri>MISC-0009</fr:display-uri>
+            <fr:route>/MISC-0009/</fr:route>
+            <fr:title text="Funciones de crecimiento exponencial">Funciones de crecimiento exponencial</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Se dice que <fr:tex display="inline"><![CDATA[f\colon \left[ 0,\infty  \right)\rightarrow \mathbb  C]]></fr:tex> es de <html:em>crecimiento exponencial</html:em> (u orden exponencial) si existen <fr:tex display="inline"><![CDATA[M>0, \alpha \in \mathbb  R]]></fr:tex> y <fr:tex display="inline"><![CDATA[t_0>0]]></fr:tex> tales que <fr:tex display="block"><![CDATA[|f(t)|\leq  Me^{\alpha  t}, \,\,\,\text {para todo } t\geq  t_0.]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>10</fr:month>
+              <fr:day>1</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-0007.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/TRFU-0007/</fr:uri>
+            <fr:display-uri>TRFU-0007</fr:display-uri>
+            <fr:route>/TRFU-0007/</fr:route>
+            <fr:title text="Dominio de convergencia de la transformada de Laplace">Dominio de convergencia de la transformada de Laplace</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[f\colon \left[ 0,\infty  \right)\rightarrow \mathbb  R]]></fr:tex> y sean <fr:tex display="inline"><![CDATA[C(f)]]></fr:tex> y <fr:tex display="inline"><![CDATA[A(f)]]></fr:tex> los dominios de convergencia puntual y absoluta de la transformada de Laplace de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, respectivamente.
+
+<html:ul><html:li>Si la <fr:link href="/TRFU-0004/" title="Transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0004/" display-uri="TRFU-0004" type="local">transformada de Laplace</fr:link> de <fr:tex display="inline"><![CDATA[f]]></fr:tex> converge absolutamente en <fr:tex display="inline"><![CDATA[z_0\in \mathbb  C]]></fr:tex>, entonces converge absolutamente en todo punto del semiplano <fr:tex display="inline"><![CDATA[\{z\in \mathbb  C : \mathrm {Re}\,z > \mathrm {Re}\,z_0\}]]></fr:tex>. Entonces <fr:tex display="inline"><![CDATA[A(f)]]></fr:tex> es <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex>, un semiplano abierto o un semiplano cerrado. Esto define una <html:em>abscisa de convergencia uniforme</html:em>.</html:li>
+    <html:li>Si la <fr:link href="/TRFU-0004/" title="Transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0004/" display-uri="TRFU-0004" type="local">transformada de Laplace</fr:link> converge en <fr:tex display="inline"><![CDATA[z_0\in \mathbb  C]]></fr:tex>, entonces converge en todo punto del semiplano <fr:tex display="inline"><![CDATA[\{z\in \mathbb  C : \mathrm {Re}\,z > \mathrm {Re}\,z_0\}]]></fr:tex>. Entonces, si <fr:tex display="inline"><![CDATA[C(f)]]></fr:tex> no es vac'io, entonces es <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex> o es un semiplano abierto. Esto define una <html:em>abscisa de convergencia</html:em>.</html:li>
+    <html:li>Si <fr:link href="/TRFU-0004/" title="Transformada de Laplace" uri="https://juan-mad.github.io/TRFU-0004/" display-uri="TRFU-0004" type="local">transformada de Laplace</fr:link> converge en <fr:tex display="inline"><![CDATA[z_0\in \mathbb  C]]></fr:tex>, entonces converge uniformemente en <fr:tex display="block"><![CDATA[S=\left \{z\in \mathbb  C : \mathrm {Re}\,z>\mathrm {Re}\,z_0, \left |\arg (z-z_0)\right |\leq  \psi  < \frac {\pi }{2}\right \}.]]></fr:tex> Llamamos a esta regi'on una <html:em>secci'on de convergencia</html:em>.</html:li></html:ul></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>30</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-0004.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/TRFU-0004/</fr:uri>
+            <fr:display-uri>TRFU-0004</fr:display-uri>
+            <fr:route>/TRFU-0004/</fr:route>
+            <fr:title text="Transformada de Laplace">Transformada de Laplace</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">()[guia-var-compleja-aplicaciones]</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Para una función <fr:link href="/TRFU-0003/" title="Funciones localmente integrables" uri="https://juan-mad.github.io/TRFU-0003/" display-uri="TRFU-0003" type="local">localmente integrable</fr:link> <fr:tex display="inline"><![CDATA[f\in \mathscr  L_{\text {loc}}^1(\mathbb  R_+)]]></fr:tex> se define la <html:em>transformada de Laplace</html:em> como la integral (impropia) <fr:tex display="block"><![CDATA[(\mathscr  L f)(z) = \int _0^\infty  f(t)e^{-tz}dt]]></fr:tex> para los valores de <fr:tex display="inline"><![CDATA[z]]></fr:tex> para los cuales tiene sentido (DUDA: o cuando hay convergencia absoluta???).</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>30</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/transfunc/TRFU-0003.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/TRFU-0003/</fr:uri>
+            <fr:display-uri>TRFU-0003</fr:display-uri>
+            <fr:route>/TRFU-0003/</fr:route>
+            <fr:title text="Funciones localmente integrables">Funciones localmente integrables</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">()[guia-var-compleja-aplicaciones]</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Se dice que una función compleja <fr:tex display="inline"><![CDATA[f\colon \left[ 0,\infty  \right)\rightarrow \mathbb  C]]></fr:tex> es <html:em>localmente integrable</html:em> en <fr:tex display="inline"><![CDATA[\left[ 0,\infty  \right)]]></fr:tex> si es integrable en cada intervalo <fr:tex display="inline"><![CDATA[[0,b]]]></fr:tex>, es decir, si la integral de <fr:tex display="inline"><![CDATA[f]]></fr:tex> en <fr:tex display="inline"><![CDATA[[0,b]]]></fr:tex> tiene sentido y <fr:tex display="block"><![CDATA[\int _0^b|f(t)|dt < \infty , \,\,\, \text {para todo } b.]]></fr:tex>
+Denotaremos el espacio de estas funciones, que es un espacio vectorial sobre <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex>, por <fr:tex display="inline"><![CDATA[\mathscr  L_{\text {loc}}^1(\mathbb  R_+)]]></fr:tex>.</html:p>
+            <html:p>En particular, toda función integrable <fr:tex display="inline"><![CDATA[f\in  L^1(\mathbb  R)]]></fr:tex> es localmente integrable en <fr:tex display="inline"><![CDATA[\left[ 0,\infty  \right)]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
