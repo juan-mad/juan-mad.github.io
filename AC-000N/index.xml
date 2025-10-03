@@ -729,7 +729,7 @@ Dado un conjunto de generadores <fr:tex display="inline"><![CDATA[m_1,\dots , m_
 <html:p>se dice que es <html:em>exacta</html:em> en <fr:tex display="inline"><![CDATA[M_i]]></fr:tex> si <fr:tex display="inline"><![CDATA[\mathrm {Im} f_i=\mathrm {ker} f_{i+1}]]></fr:tex>. La sucesión es <html:em>exacta</html:em> si es exacta en cada <fr:tex display="inline"><![CDATA[M_i]]></fr:tex>. En particular:</html:p><html:ul><html:li><fr:tex display="inline"><![CDATA[0\rightarrow  M' \xrightarrow {f} M]]></fr:tex> es exacta <fr:tex display="inline"><![CDATA[\iff ]]></fr:tex> <fr:tex display="inline"><![CDATA[f]]></fr:tex> es inyectiva;</html:li>
     <html:li><fr:tex display="inline"><![CDATA[M \xrightarrow {g} M'' \rightarrow  0]]></fr:tex> es exacta <fr:tex display="inline"><![CDATA[\iff ]]></fr:tex> <fr:tex display="inline"><![CDATA[g]]></fr:tex> es suprayectiva;</html:li>
     <html:li><fr:tex display="inline"><![CDATA[0\rightarrow  M' \xrightarrow {f} M \xrightarrow {g} M'']]></fr:tex> es exacta <fr:tex display="inline"><![CDATA[\iff ]]></fr:tex> <fr:tex display="inline"><![CDATA[f]]></fr:tex> es inyectiva, <fr:tex display="inline"><![CDATA[g]]></fr:tex> es suprayectiva y <fr:tex display="inline"><![CDATA[g]]></fr:tex> induce un isomorfismo de <fr:tex display="inline"><![CDATA[\mathrm {coker} f=M/f(M')]]></fr:tex> sobre <fr:tex display="inline"><![CDATA[M'']]></fr:tex>. Esta se denomina <fr:link href="/AC-000Z/" title="Sucesiones exactas cortas" uri="https://juan-mad.github.io/AC-000Z/" display-uri="AC-000Z" type="local">sucesión exacta corta</fr:link>.</html:li>.
-</html:ul><fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/AC-000Z.tree</fr:source-path><fr:uri>https://juan-mad.github.io/AC-000Z/</fr:uri><fr:display-uri>AC-000Z</fr:display-uri><fr:route>/AC-000Z/</fr:route><fr:title text="Sucesiones exactas cortas">Sucesiones exactas cortas</fr:title><fr:taxon>Definición</fr:taxon><fr:meta name="sources"><fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>La <fr:link href="/AC-000Y/" title="Sucesiones exactas de módulos" uri="https://juan-mad.github.io/AC-000Y/" display-uri="AC-000Y" type="local">sucesión exacta</fr:link> <fr:tex display="inline"><![CDATA[0\rightarrow  M' \xrightarrow {f} M \xrightarrow {g} M'']]></fr:tex> se denomina una <html:em>sucesión exacta corta</html:em>. Cada sucesión exacta larga</html:p>
+</html:ul><fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/AC-000Z.tree</fr:source-path><fr:uri>https://juan-mad.github.io/AC-000Z/</fr:uri><fr:display-uri>AC-000Z</fr:display-uri><fr:route>/AC-000Z/</fr:route><fr:title text="Sucesiones exactas cortas">Sucesiones exactas cortas</fr:title><fr:taxon>Definición</fr:taxon><fr:meta name="sources"><fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>La <fr:link href="/AC-000Y/" title="Sucesiones exactas de módulos" uri="https://juan-mad.github.io/AC-000Y/" display-uri="AC-000Y" type="local">sucesión exacta</fr:link> <fr:tex display="inline"><![CDATA[0\rightarrow  M' \xrightarrow {f} M \xrightarrow {g} M''\rightarrow  0]]></fr:tex> se denomina una <html:em>sucesión exacta corta</html:em>. Cada sucesión exacta larga</html:p>
   <html:center><fr:resource hash="e75671d33f8cadf97640e069e490da57"><fr:resource-content><html:img src="/e75671d33f8cadf97640e069e490da57.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[
   \begin {tikzcd}
   \cdots  & M_{i-1} & M_i & M_{i+1} & \cdots 
@@ -813,6 +813,148 @@ Dado un conjunto de generadores <fr:tex display="inline"><![CDATA[m_1,\dots , m_
 <html:ol><html:li>La sucesión <fr:link href="/AC-0011/" title="Sucesión exacta corta que escinde" uri="https://juan-mad.github.io/AC-0011/" display-uri="AC-0011" type="local">escinde</fr:link>.</html:li>
     <html:li>Existe una <fr:link href="/AC-0013/" title="Sección de un homomorfismo" uri="https://juan-mad.github.io/AC-0013/" display-uri="AC-0013" type="local">sección</fr:link> de <fr:tex display="inline"><![CDATA[\beta ]]></fr:tex>.</html:li>
     <html:li>Existe una <fr:link href="/AC-0014/" title="Retracción de un homomorfismo" uri="https://juan-mad.github.io/AC-0014/" display-uri="AC-0014" type="local">retracción</fr:link> de <fr:tex display="inline"><![CDATA[\alpha ]]></fr:tex>.</html:li></html:ol></html:p></fr:mainmatter></fr:tree></fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>3</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/AC-0016.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AC-0016/</fr:uri>
+                <fr:display-uri>AC-0016</fr:display-uri>
+                <fr:route>/AC-0016/</fr:route>
+                <fr:title text="Producto tensorial de módulos">Producto tensorial de módulos</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Vamos a definir un <fr:link href="/AC-000D/" title="Módulos" uri="https://juan-mad.github.io/AC-000D/" display-uri="AC-000D" type="local"><fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo</fr:link> <fr:tex display="inline"><![CDATA[T]]></fr:tex>, el <html:em>producto tensorial de <fr:tex display="inline"><![CDATA[M]]></fr:tex> por <fr:tex display="inline"><![CDATA[N]]></fr:tex></html:em>, denotado <fr:tex display="inline"><![CDATA[T=M\otimes _A N = M\otimes  N]]></fr:tex>, que verifica que las <fr:link href="/AC-0015/" title="Aplicación bilineal" uri="https://juan-mad.github.io/AC-0015/" display-uri="AC-0015" type="local">aplicaciones <fr:tex display="inline"><![CDATA[A]]></fr:tex>-bilineales</fr:link> <fr:tex display="inline"><![CDATA[M\times  N\rightarrow  P]]></fr:tex> están en correspondencia natural con las aplicaciones <fr:tex display="inline"><![CDATA[A]]></fr:tex>-lineales <fr:tex display="inline"><![CDATA[T\rightarrow  P]]></fr:tex> para tódo <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[P]]></fr:tex>.</html:p>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[M, N]]></fr:tex> dos <fr:link href="/AC-000D/" title="Módulos" uri="https://juan-mad.github.io/AC-000D/" display-uri="AC-000D" type="local"><fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos</fr:link>. Existe un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[T]]></fr:tex> y una <fr:link href="/AC-0015/" title="Aplicación bilineal" uri="https://juan-mad.github.io/AC-0015/" display-uri="AC-0015" type="local">aplicación <fr:tex display="inline"><![CDATA[A]]></fr:tex>-bilineal</fr:link> <fr:tex display="inline"><![CDATA[g\colon M\times  N\rightarrow T]]></fr:tex> con la siguiente propiedad:
+<html:ul><html:li>Para cada <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[P]]></fr:tex> y cualquier aplicación bilineal <fr:tex display="inline"><![CDATA[f\colon M\times  N\rightarrow P]]></fr:tex>, existe una aplicación lineal unica <fr:tex display="inline"><![CDATA[f'\colon T\rightarrow P]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[f=f'\circ  g]]></fr:tex>.</html:li>
+<html:li>Además, si <fr:tex display="inline"><![CDATA[(T,g)]]></fr:tex> y <fr:tex display="inline"><![CDATA[(T',g')]]></fr:tex> son dos pares con esta propiedad, existe un isomorfismo único <fr:tex display="inline"><![CDATA[i\colon T\rightarrow T']]></fr:tex> tal que <fr:tex display="inline"><![CDATA[i\circ  g = g']]></fr:tex>.</html:li></html:ul> <html:strong>Existe una definición equivalente para aplicaciones multilineales y producto tensorial de un número finito de módulos.</html:strong></html:p>
+                <html:p>La forma de construir <fr:tex display="inline"><![CDATA[T]]></fr:tex> es la siguiente:
+<html:ol><html:li>Consideramos el <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo libre <fr:tex display="inline"><![CDATA[C=A^{M\times  N}]]></fr:tex> que tiene por elementos las combinaciones lineales de pares <fr:tex display="inline"><![CDATA[(m_i, n_i)\in  M\times  N]]></fr:tex>.</html:li>
+    <html:li>Sea <fr:tex display="inline"><![CDATA[D]]></fr:tex> el submódulo de <fr:tex display="inline"><![CDATA[C]]></fr:tex> generado por todos los elementos de estos cuatro tipos: <fr:tex display="block"><![CDATA[(m + m', n) - (m, n) / (m', n) \\ (m, n+n') - (m,n) - (m,n') \\ (am, n) - a(m, n) \\ (m, an) - a(m, n).]]></fr:tex></html:li>
+    <html:li>Definimos <fr:tex display="inline"><![CDATA[T=C/D]]></fr:tex> como espacio cociente, y representamos por <fr:tex display="inline"><![CDATA[m\otimes  n]]></fr:tex> a la clase de equivalencia de cada elemento <fr:tex display="inline"><![CDATA[(x,y)]]></fr:tex> de la base de <fr:tex display="inline"><![CDATA[C]]></fr:tex>. Entonces <fr:tex display="inline"><![CDATA[T]]></fr:tex> está generado por los elementos de la forma <fr:tex display="inline"><![CDATA[x\otimes  y]]></fr:tex>, y en virtud de la definición de <fr:tex display="inline"><![CDATA[T]]></fr:tex> se tiene que la siguiente aplicación <fr:tex display="inline"><![CDATA[g]]></fr:tex> es bilineal: <fr:tex display="block"><![CDATA[\begin {align*} g\colon  M\times  N & \longrightarrow  T \\ (x,y) & \longmapsto  x\otimes  y.\end {align*}]]></fr:tex></html:li>
+    <html:li>Cada aplicación <fr:tex display="inline"><![CDATA[f\colon M\times  N\rightarrow P]]></fr:tex> sobre un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[P]]></fr:tex> se extiene por linealidad a un homomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos <fr:tex display="inline"><![CDATA[f\colon C\rightarrow P]]></fr:tex>. Si además <fr:tex display="inline"><![CDATA[f]]></fr:tex> es <fr:tex display="inline"><![CDATA[A]]></fr:tex>-bilineal, en particular se anula en cada elemento de <fr:tex display="inline"><![CDATA[D]]></fr:tex>, por lo que induce un bien definido y único homomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos <fr:tex display="inline"><![CDATA[f'\colon T\rightarrow P]]></fr:tex> tal que <fr:tex display="block"><![CDATA[f'(x\otimes  y) = f(x, y).]]></fr:tex></html:li></html:ol></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>3</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/AC-0017.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AC-0017/</fr:uri>
+                <fr:display-uri>AC-0017</fr:display-uri>
+                <fr:route>/AC-0017/</fr:route>
+                <fr:title text="Generadores del producto tensorial">Generadores del producto tensorial</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[T]]></fr:tex> el <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:link href="/AC-0016/" title="Producto tensorial de módulos" uri="https://juan-mad.github.io/AC-0016/" display-uri="AC-0016" type="local">producto tensorial</fr:link> de dos <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos <fr:tex display="inline"><![CDATA[M]]></fr:tex> y <fr:tex display="inline"><![CDATA[N]]></fr:tex>, <fr:tex display="inline"><![CDATA[T = M\otimes  N]]></fr:tex>. Si <fr:tex display="inline"><![CDATA[\{x_i\}_{i\in  I}, \{y_j\}_{j\in  J}]]></fr:tex> son respectivamente familias de generadores de <fr:tex display="inline"><![CDATA[M]]></fr:tex> y <fr:tex display="inline"><![CDATA[N]]></fr:tex>, entonces los elementos <fr:tex display="inline"><![CDATA[x_i\otimes  y_j, i\in  I, j\in  J]]></fr:tex> generan <fr:tex display="inline"><![CDATA[M\otimes  N]]></fr:tex>. En particular, si <fr:tex display="inline"><![CDATA[M]]></fr:tex> y <fr:tex display="inline"><![CDATA[N]]></fr:tex> están <fr:link href="/AC-000Q/" title="Módulos finitamente generados" uri="https://juan-mad.github.io/AC-000Q/" display-uri="AC-000Q" type="local">finitamente generados</fr:link> entonces también lo está <fr:tex display="inline"><![CDATA[M\otimes  N]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>3</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/AC-0018.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AC-0018/</fr:uri>
+                <fr:display-uri>AC-0018</fr:display-uri>
+                <fr:route>/AC-0018/</fr:route>
+                <fr:title text="Isomorfismos canónicos del producto tensorial">Isomorfismos canónicos del producto tensorial</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+                </fr:meta>
+                <fr:meta name="related">
+                  <fr:link href="/AC-0016/" title="Producto tensorial de módulos" uri="https://juan-mad.github.io/AC-0016/" display-uri="AC-0016" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[M, N, P]]></fr:tex> <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos. Entonces existen isomorfismo únicos definidos de forma natural <fr:tex display="block"><![CDATA[M\otimes  \longrightarrow  N \otimes  M \\ (M\otimes  N) \otimes  P \longrightarrow  M\otimes  (N\otimes  P) \longrightarrow  M\otimes  N \otimes  P \\ (M \oplus  N)\otimes  P \longrightarrow  (M \oplus  P) \otimes  (N \oplus  P) \\ A \otimes  M \longrightarrow  M.]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>3</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0019.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AC-0019/</fr:uri>
+                <fr:display-uri>AC-0019</fr:display-uri>
+                <fr:route>/AC-0019/</fr:route>
+                <fr:title text="Anillo de fracciones">Anillo de fracciones</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link> y <fr:tex display="inline"><![CDATA[S\subset  A]]></fr:tex> un subconjunto multiplicativamente cerrado (<fr:tex display="inline"><![CDATA[1\in  S]]></fr:tex> y cerrado para la multiplicaci'on). Se define una relaci'on de equivalencia <fr:tex display="inline"><![CDATA[\sim ]]></fr:tex> en <fr:tex display="inline"><![CDATA[A\times  S]]></fr:tex> por <fr:tex display="block"><![CDATA[(a,s)\sim  (b,t) \iff  \exists  u\in  S : u(at-bs) = 0.]]></fr:tex> Denotamos <fr:tex display="inline"><![CDATA[a/s]]></fr:tex> a la clase de equivalencia de <fr:tex display="inline"><![CDATA[(a,s)]]></fr:tex>. Se define el <html:em>anillo de fracciones</html:em> de <fr:tex display="inline"><![CDATA[A]]></fr:tex> respecto a <fr:tex display="inline"><![CDATA[S]]></fr:tex> como <fr:tex display="block"><![CDATA[S^{-1}A=(A\times  S)/\sim ]]></fr:tex> con las operaciones <fr:tex display="block"><![CDATA[\frac {a}{s} + \frac {b}{t} = \frac {at+bs}{st}, \,\,\, \frac {a}{s}\cdot \frac {b}{t} = \frac {ab}{st}.]]></fr:tex>
+Con estas operaciones <fr:tex display="inline"><![CDATA[S^{-1}A]]></fr:tex> es un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo (conmutativo y unitario)</fr:link>. La aplicaci'on <fr:tex display="inline"><![CDATA[\varphi \colon A\rightarrow S^{-1}A]]></fr:tex> dado por <fr:tex display="inline"><![CDATA[a\mapsto  a/1]]></fr:tex> es un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo de anillos</fr:link>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>3</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/modulos/AC-001H.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AC-001H/</fr:uri>
+                <fr:display-uri>AC-001H</fr:display-uri>
+                <fr:route>/AC-001H/</fr:route>
+                <fr:title text="M'odulo de fracciones">M'odulo de fracciones</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link>, <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo y <fr:tex display="inline"><![CDATA[S\subset  A]]></fr:tex> un subconjunto multiplicativamente cerrado (<fr:tex display="inline"><![CDATA[1\in  S]]></fr:tex> y cerrado para la multiplicaci'on). De forma an'aloga al <fr:link href="/AC-0019/" title="Anillo de fracciones" uri="https://juan-mad.github.io/AC-0019/" display-uri="AC-0019" type="local">anillo de fracciones</fr:link> se define un <html:em>m'odulo de fracciones</html:em> mediante una relaci'on de equivalencia <fr:tex display="inline"><![CDATA[\sim ]]></fr:tex> en <fr:tex display="inline"><![CDATA[M\times  S]]></fr:tex> por <fr:tex display="block"><![CDATA[(m,s)\sim  (n,t) \iff  \exists  u\in  S : u(mt-ns) = 0.]]></fr:tex> Denotamos <fr:tex display="inline"><![CDATA[m/s]]></fr:tex> a la clase de equivalencia de <fr:tex display="inline"><![CDATA[(m,s)]]></fr:tex>. Se denota el m'odulo de fracciones por <fr:tex display="block"><![CDATA[S^{-1}M=(M\times  S)/\sim ]]></fr:tex> con las operaciones de adici'on y multiplicaci'on obvias.</html:p>
+              </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>
         </fr:tree>
