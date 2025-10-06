@@ -251,7 +251,7 @@ year = {1978},
                 <fr:display-uri>AC-001D</fr:display-uri>
                 <fr:route>/AC-001D/</fr:route>
                 <fr:title text="Condiciones suficientes para ser anillo local">Condiciones suficientes para ser anillo local</fr:title>
-                <fr:taxon>Proposici'on</fr:taxon>
+                <fr:taxon>Proposición</fr:taxon>
                 <fr:meta name="sources">
                   <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
                 </fr:meta>
@@ -358,14 +358,14 @@ year = {1978},
                 <fr:uri>https://juan-mad.github.io/AC-001E/</fr:uri>
                 <fr:display-uri>AC-001E</fr:display-uri>
                 <fr:route>/AC-001E/</fr:route>
-                <fr:title text="Extensi'on de un ideal">Extensi'on de un ideal</fr:title>
-                <fr:taxon>Definici'on</fr:taxon>
+                <fr:title text="Extensión de un ideal">Extensión de un ideal</fr:title>
+                <fr:taxon>Definición</fr:taxon>
                 <fr:meta name="sources">
                   <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sea <fr:tex display="inline"><![CDATA[\varphi \colon A\rightarrow B]]></fr:tex> un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo de anillos</fr:link> y sea <fr:tex display="inline"><![CDATA[I\subset  A]]></fr:tex> un <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link>. Se define la <html:em>extensi'on de <fr:tex display="inline"><![CDATA[I]]></fr:tex></html:em>, <fr:tex display="inline"><![CDATA[I^e]]></fr:tex>, como el ideal de <fr:tex display="inline"><![CDATA[B]]></fr:tex> generado por <fr:tex display="inline"><![CDATA[\varphi (I)]]></fr:tex>, <fr:tex display="inline"><![CDATA[I^e = I\cdot  B = \varphi (I)B = \langle  \varphi (I)\rangle _B]]></fr:tex>. En general <fr:tex display="inline"><![CDATA[\varphi (I)]]></fr:tex> no es un ideal de <fr:tex display="inline"><![CDATA[B]]></fr:tex>.</html:p>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[\varphi \colon A\rightarrow B]]></fr:tex> un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo de anillos</fr:link> y sea <fr:tex display="inline"><![CDATA[I\subset  A]]></fr:tex> un <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link>. Se define la <html:em>extensión de <fr:tex display="inline"><![CDATA[I]]></fr:tex></html:em>, <fr:tex display="inline"><![CDATA[I^e]]></fr:tex>, como el ideal de <fr:tex display="inline"><![CDATA[B]]></fr:tex> generado por <fr:tex display="inline"><![CDATA[\varphi (I)]]></fr:tex>, <fr:tex display="inline"><![CDATA[I^e = I\cdot  B = \varphi (I)B = \langle  \varphi (I)\rangle _B]]></fr:tex>. En general <fr:tex display="inline"><![CDATA[\varphi (I)]]></fr:tex> no es un ideal de <fr:tex display="inline"><![CDATA[B]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -384,14 +384,14 @@ year = {1978},
                 <fr:uri>https://juan-mad.github.io/AC-001F/</fr:uri>
                 <fr:display-uri>AC-001F</fr:display-uri>
                 <fr:route>/AC-001F/</fr:route>
-                <fr:title text="Contracci'on de un ideal">Contracci'on de un ideal</fr:title>
-                <fr:taxon>Definici'on</fr:taxon>
+                <fr:title text="Contracción de un ideal">Contracción de un ideal</fr:title>
+                <fr:taxon>Definición</fr:taxon>
                 <fr:meta name="sources">
                   <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sea <fr:tex display="inline"><![CDATA[\varphi \colon A\rightarrow B]]></fr:tex> un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo de anillos</fr:link> y sea <fr:tex display="inline"><![CDATA[J\subset  B]]></fr:tex> un <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link>. Se define la <html:em>contracci'on de <fr:tex display="inline"><![CDATA[J]]></fr:tex></html:em>, <fr:tex display="inline"><![CDATA[J^c]]></fr:tex>, como la contraimagen del ideal <fr:tex display="inline"><![CDATA[J]]></fr:tex> en <fr:tex display="inline"><![CDATA[A]]></fr:tex>, <fr:tex display="inline"><![CDATA[J^c = \varphi ^{-1}(J)]]></fr:tex>.</html:p>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[\varphi \colon A\rightarrow B]]></fr:tex> un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo de anillos</fr:link> y sea <fr:tex display="inline"><![CDATA[J\subset  B]]></fr:tex> un <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link>. Se define la <html:em>contracción de <fr:tex display="inline"><![CDATA[J]]></fr:tex></html:em>, <fr:tex display="inline"><![CDATA[J^c]]></fr:tex>, como la contraimagen del ideal <fr:tex display="inline"><![CDATA[J]]></fr:tex> en <fr:tex display="inline"><![CDATA[A]]></fr:tex>, <fr:tex display="inline"><![CDATA[J^c = \varphi ^{-1}(J)]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -410,8 +410,8 @@ year = {1978},
                 <fr:uri>https://juan-mad.github.io/AC-001G/</fr:uri>
                 <fr:display-uri>AC-001G</fr:display-uri>
                 <fr:route>/AC-001G/</fr:route>
-                <fr:title text="Propiedades de la extensi'on y contracci'on de un ideal">Propiedades de la extensi'on y contracci'on de un ideal</fr:title>
-                <fr:taxon>Definici'on</fr:taxon>
+                <fr:title text="Propiedades de la extensión y contracción de un ideal">Propiedades de la extensión y contracción de un ideal</fr:title>
+                <fr:taxon>Definición</fr:taxon>
                 <fr:meta name="sources">
                   <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
                 </fr:meta>
@@ -420,7 +420,7 @@ year = {1978},
                 <html:p>Sea <fr:tex display="inline"><![CDATA[\varphi \colon A\rightarrow B]]></fr:tex> un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo de anillos</fr:link> y sean <fr:tex display="inline"><![CDATA[I\subset  A, J\subset  B]]></fr:tex> ideales.
 <html:ol><html:li><fr:tex display="inline"><![CDATA[I\subset  (I^e)^c]]></fr:tex> y <fr:tex display="inline"><![CDATA[J\supset  (J^c)^e]]></fr:tex>.</html:li>
     <html:li><fr:tex display="inline"><![CDATA[I^e = I^{ece}]]></fr:tex> y <fr:tex display="inline"><![CDATA[J^c = J^{cec}]]></fr:tex>.</html:li>
-    <html:li>Existe una biyecci'on entre los ideales contra'idos en <fr:tex display="inline"><![CDATA[A]]></fr:tex>, <fr:tex display="inline"><![CDATA[\{J^c:J\subset  B\text { ideal}\}]]></fr:tex>, y los ideales extendidos en <fr:tex display="inline"><![CDATA[B]]></fr:tex>, <fr:tex display="inline"><![CDATA[\{ I^e : I\subset  A \text { ideal} \}]]></fr:tex>.</html:li></html:ol></html:p>
+    <html:li>Existe una biyección entre los ideales contraídos en <fr:tex display="inline"><![CDATA[A]]></fr:tex>, <fr:tex display="inline"><![CDATA[\{J^c:J\subset  B\text { ideal}\}]]></fr:tex>, y los ideales extendidos en <fr:tex display="inline"><![CDATA[B]]></fr:tex>, <fr:tex display="inline"><![CDATA[\{ I^e : I\subset  A \text { ideal} \}]]></fr:tex>.</html:li></html:ol></html:p>
               </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>

@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>10</fr:month>
+      <fr:day>3</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-0013.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/VC-0013/</fr:uri>
+    <fr:display-uri>VC-0013</fr:display-uri>
+    <fr:route>/VC-0013/</fr:route>
+    <fr:title text="Lema de Osgood">Lema de Osgood</fr:title>
+    <fr:taxon>Lema</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/local-analytic-geometry-jong-pfister/" title="Local Analytic Geometry" uri="https://juan-mad.github.io/local-analytic-geometry-jong-pfister/" display-uri="local-analytic-geometry-jong-pfister" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex> y <fr:tex display="inline"><![CDATA[f\colon U\rightarrow \mathbb  C]]></fr:tex> una función. Son equivalentes:
+<html:ul><html:li><fr:tex display="inline"><![CDATA[f]]></fr:tex> es analítica en <fr:tex display="inline"><![CDATA[U]]></fr:tex>.</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[f]]></fr:tex> es holomorfa (<fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex>-diferenciable) en <fr:tex display="inline"><![CDATA[U]]></fr:tex>.</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[f]]></fr:tex> es continua y parcialmente holomorfa en <fr:tex display="inline"><![CDATA[U]]></fr:tex> para <fr:tex display="inline"><![CDATA[j=1,\dots ,n]]></fr:tex>.
+</html:li></html:ul></html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/Theo%20de%20Jong/" type="external">Theo de Jong</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/Gerhard%20Pfister/" type="external">Gerhard Pfister</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/local-analytic-geometry-jong-pfister.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/local-analytic-geometry-jong-pfister/</fr:uri>
+            <fr:display-uri>local-analytic-geometry-jong-pfister</fr:display-uri>
+            <fr:route>/local-analytic-geometry-jong-pfister/</fr:route>
+            <fr:title text="Local Analytic Geometry">Local Analytic Geometry</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>10</fr:month>
+              <fr:day>3</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-000X.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/VC-000X/</fr:uri>
+            <fr:display-uri>VC-000X</fr:display-uri>
+            <fr:route>/VC-000X/</fr:route>
+            <fr:title text="Análisis complejo en varias variables">Análisis complejo en varias variables</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>3</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-000Y.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-000Y/</fr:uri>
+                <fr:display-uri>VC-000Y</fr:display-uri>
+                <fr:route>/VC-000Y/</fr:route>
+                <fr:title text="Función holomorfa en varias variables">Función holomorfa en varias variables</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/local-analytic-geometry-jong-pfister/" title="Local Analytic Geometry" uri="https://juan-mad.github.io/local-analytic-geometry-jong-pfister/" display-uri="local-analytic-geometry-jong-pfister" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex> abierto, <fr:tex display="inline"><![CDATA[z_0\in  U]]></fr:tex> y sea <fr:tex display="inline"><![CDATA[f\colon U\rightarrow \mathbb  C]]></fr:tex> una función. Decimos que <fr:tex display="inline"><![CDATA[f]]></fr:tex> es <html:em>holomorfa</html:em> o <html:em><fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex>-diferenciable</html:em> en <fr:tex display="inline"><![CDATA[z_0]]></fr:tex> si existen funciones <fr:tex display="inline"><![CDATA[\psi _1,\dots ,\psi _n\colon  V\to \mathbb  C]]></fr:tex> definidas en un entorno conexo <fr:tex display="inline"><![CDATA[V]]></fr:tex> de <fr:tex display="inline"><![CDATA[z_0]]></fr:tex> en <fr:tex display="inline"><![CDATA[U]]></fr:tex> y continuas de modo que se verifica <fr:tex display="block"><![CDATA[f(z) = f(z_0) + (z_1-z_{01})\psi _1(z) + \cdots  + (z_n - z_{0n})\psi _n(z),]]></fr:tex> es decir existe una aplicación lineal <fr:tex display="inline"><![CDATA[L(z)]]></fr:tex> tal que <fr:tex display="block"><![CDATA[f(z) = f(z_0) + L(z)(z-z_0).]]></fr:tex> El conjunto de funciones holomorfas en un abierto <fr:tex display="inline"><![CDATA[U]]></fr:tex> se suele denotar por <fr:tex display="inline"><![CDATA[\mathscr  H(U)]]></fr:tex> o <fr:tex display="inline"><![CDATA[\mathscr  O(U)]]></fr:tex>.</html:p>
+                <html:p>También podemos escribir <fr:tex display="block"><![CDATA[\psi _i(z) = \psi _i(z_0) + g_i(z), \,\,\, \lim _{z\to  z_0}g_i(z) = 0.]]></fr:tex> Si <fr:tex display="inline"><![CDATA[L\colon \mathbb  C^n\rightarrow \mathbb  C]]></fr:tex>, la aplicación <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex>-lineal definida por <fr:tex display="block"><![CDATA[L(v) = \psi _1(z_0)v_1 + \cdots  + \psi _n(z_0)v_n.]]></fr:tex> Entonces <fr:tex display="block"><![CDATA[
+    lim_{z\to  z_0}\frac {|f(z) - f(z_0) - L(z-z_0)|}{\|z-z_0\|}  = 0.]]></fr:tex> Llamamos <fr:tex display="inline"><![CDATA[L = Df(z_0)]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>3</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-000Z.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-000Z/</fr:uri>
+                <fr:display-uri>VC-000Z</fr:display-uri>
+                <fr:route>/VC-000Z/</fr:route>
+                <fr:title text="Series formales de potencias">Series formales de potencias</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/local-analytic-geometry-jong-pfister/" title="Local Analytic Geometry" uri="https://juan-mad.github.io/local-analytic-geometry-jong-pfister/" display-uri="local-analytic-geometry-jong-pfister" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Si <fr:tex display="inline"><![CDATA[\alpha \in \mathbb  N^n]]></fr:tex>, denotamos <fr:tex display="block"><![CDATA[z^\alpha  = x_1^{\alpha _1}\cdots  x_n^{\alpha _n} \\ |\alpha | = \alpha _1 + \cdots  + \alpha _n.]]></fr:tex> Una <html:em>serie de potencias formal</html:em>  con coeficientes en <fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex> en <fr:tex display="inline"><![CDATA[n]]></fr:tex> variables es una aplicación <fr:tex display="block"><![CDATA[\begin {align*} S\colon \mathbb  N^n & \longrightarrow  \mathbb  C \\ \alpha  & \longmapsto  S(\alpha ) =: s_\alpha . \end {align*}]]></fr:tex> y la escribimos como <fr:tex display="block"><![CDATA[S = \sum _{\alpha \in \mathbb  N^n}s_\alpha  x^\alpha .]]></fr:tex>  Denotaremos por <fr:tex display="inline"><![CDATA[\mathbb  C\left [\left [x\right ]\right ]]]></fr:tex> el conjunto de todas las series formales.</html:p>
+                <html:p>Se dice que la serie converge absolutamente si <fr:tex display="inline"><![CDATA[\sum _{\alpha \in \mathbb  N^n}|c_\alpha |]]></fr:tex> converge. Esto implica convergencia, pero no al revés. Denotaremos por <fr:tex display="inline"><![CDATA[\mathbb  C\left \{x\right \}]]></fr:tex> al conjunto de series de potencias convergentes. En particular <fr:tex display="inline"><![CDATA[\mathbb  C\left \{ x \right \}]]></fr:tex> es un subanillo y subálgebra de <fr:tex display="inline"><![CDATA[\mathbb  C\left [\left [ x \right ]\right ]]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>3</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-0010.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-0010/</fr:uri>
+                <fr:display-uri>VC-0010</fr:display-uri>
+                <fr:route>/VC-0010/</fr:route>
+                <fr:title text="Lema de Abel en varias variables">Lema de Abel en varias variables</fr:title>
+                <fr:taxon>Lema</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/local-analytic-geometry-jong-pfister/" title="Local Analytic Geometry" uri="https://juan-mad.github.io/local-analytic-geometry-jong-pfister/" display-uri="local-analytic-geometry-jong-pfister" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[\sum _\nu  a_\nu  x^\nu \in \mathbb  C\left [\left [x\right ]\right ]]]></fr:tex> una <fr:link href="/VC-000Z/" title="Series formales de potencias" uri="https://juan-mad.github.io/VC-000Z/" display-uri="VC-000Z" type="local">serie formal en varias variables</fr:link>. Supongamos que existe un <fr:tex display="inline"><![CDATA[p\in \mathbb  C^n]]></fr:tex> con <fr:tex display="inline"><![CDATA[p_n \neq  0]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[j=1,\dots ,n]]></fr:tex>. para el cual la serie converge. Definimos <fr:tex display="inline"><![CDATA[r]]></fr:tex> un radio por <fr:tex display="inline"><![CDATA[r_j=|p_j| > 0, j=1,\dots ,n]]></fr:tex>. Entonces coverge uniformemente en el polidisco <fr:tex display="inline"><![CDATA[\Delta (0, r)]]></fr:tex> y uniformemente en los compactos del polidisco.</html:p>
+                <html:p>Bajo las hipótesis del lema, la función <fr:tex display="block"><![CDATA[\begin {align*}f_s\colon \Delta (0,r) & \longrightarrow  \mathbb  C \\ x & \longmapsto  \sum _\nu  a_\nu  x^\nu .\end {align*}]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>3</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-0011.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-0011/</fr:uri>
+                <fr:display-uri>VC-0011</fr:display-uri>
+                <fr:route>/VC-0011/</fr:route>
+                <fr:title text="Serie de potencias formal convergente">Serie de potencias formal convergente</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/local-analytic-geometry-jong-pfister/" title="Local Analytic Geometry" uri="https://juan-mad.github.io/local-analytic-geometry-jong-pfister/" display-uri="local-analytic-geometry-jong-pfister" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Se dice que una <fr:link href="/VC-000Z/" title="Series formales de potencias" uri="https://juan-mad.github.io/VC-000Z/" display-uri="VC-000Z" type="local">serie</fr:link> <fr:tex display="inline"><![CDATA[s\in \mathbb  C\left [\left [x\right ]\right ]]]></fr:tex> es <html:em>convergente</html:em> si ocurre cualquiero de estos hechos: <html:ul><html:li>Converge puntualmente para cada <fr:tex display="inline"><![CDATA[x]]></fr:tex> en cierto polidisco <fr:tex display="inline"><![CDATA[\Delta (0,r)]]></fr:tex>.</html:li> 
+   <html:li>Converge puntualmente en un punto <fr:tex display="inline"><![CDATA[p]]></fr:tex> fuera de los ejes coordenados.</html:li>
+   <html:li>Converge absolutamente y uniformemente en cada compacto de un polidisco centrado en <fr:tex display="inline"><![CDATA[0]]></fr:tex>.</html:li></html:ul>
+En ese caso se determina una función continua <fr:tex display="inline"><![CDATA[f_s\colon \Delta (0,r)\rightarrow \mathbb  C]]></fr:tex>.
+</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>3</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-0012.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-0012/</fr:uri>
+                <fr:display-uri>VC-0012</fr:display-uri>
+                <fr:route>/VC-0012/</fr:route>
+                <fr:title text="Función analítica en varias variables">Función analítica en varias variables</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/local-analytic-geometry-jong-pfister/" title="Local Analytic Geometry" uri="https://juan-mad.github.io/local-analytic-geometry-jong-pfister/" display-uri="local-analytic-geometry-jong-pfister" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex> abierto y sea <fr:tex display="inline"><![CDATA[f\colon U\rightarrow \mathbb  C]]></fr:tex>. Decimos que <fr:tex display="inline"><![CDATA[f]]></fr:tex> es <html:em>analítica en <fr:tex display="inline"><![CDATA[U]]></fr:tex></html:em> si para cada <fr:tex display="inline"><![CDATA[p\in  U]]></fr:tex> existe una serie convergente <fr:tex display="inline"><![CDATA[S\in \mathbb  C\{x\}]]></fr:tex> tal que en un entorno de <fr:tex display="inline"><![CDATA[p]]></fr:tex>, <fr:tex display="inline"><![CDATA[f = f_s\circ  T]]></fr:tex> donde <fr:tex display="inline"><![CDATA[f_s]]></fr:tex> es la <fr:link href="/VC-0011/" title="Serie de potencias formal convergente" uri="https://juan-mad.github.io/VC-0011/" display-uri="VC-0011" type="local">función continua de evaluación de la serie</fr:link> en <fr:tex display="inline"><![CDATA[T]]></fr:tex> es la traslación que envía a <fr:tex display="inline"><![CDATA[p]]></fr:tex> en el <fr:tex display="inline"><![CDATA[0]]></fr:tex>. Es decir, <fr:tex display="block"><![CDATA[f(x) = \sum _\nu  a_\nu  (x-p)^\nu .]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>3</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-0013.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-0013/</fr:uri>
+                <fr:display-uri>VC-0013</fr:display-uri>
+                <fr:route>/VC-0013/</fr:route>
+                <fr:title text="Lema de Osgood">Lema de Osgood</fr:title>
+                <fr:taxon>Lema</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/local-analytic-geometry-jong-pfister/" title="Local Analytic Geometry" uri="https://juan-mad.github.io/local-analytic-geometry-jong-pfister/" display-uri="local-analytic-geometry-jong-pfister" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex> y <fr:tex display="inline"><![CDATA[f\colon U\rightarrow \mathbb  C]]></fr:tex> una función. Son equivalentes:
+<html:ul><html:li><fr:tex display="inline"><![CDATA[f]]></fr:tex> es analítica en <fr:tex display="inline"><![CDATA[U]]></fr:tex>.</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[f]]></fr:tex> es holomorfa (<fr:tex display="inline"><![CDATA[\mathbb  C]]></fr:tex>-diferenciable) en <fr:tex display="inline"><![CDATA[U]]></fr:tex>.</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[f]]></fr:tex> es continua y parcialmente holomorfa en <fr:tex display="inline"><![CDATA[U]]></fr:tex> para <fr:tex display="inline"><![CDATA[j=1,\dots ,n]]></fr:tex>.
+</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-0014.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-0014/</fr:uri>
+                <fr:display-uri>VC-0014</fr:display-uri>
+                <fr:route>/VC-0014/</fr:route>
+                <fr:title text="Fórmula integral de Cauchy en varias variables">Fórmula integral de Cauchy en varias variables</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/local-analytic-geometry-jong-pfister/" title="Local Analytic Geometry" uri="https://juan-mad.github.io/local-analytic-geometry-jong-pfister/" display-uri="local-analytic-geometry-jong-pfister" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^N]]></fr:tex> un abierto y <fr:tex display="inline"><![CDATA[f\colon U\rightarrow \mathbb  C]]></fr:tex> <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">holomorfa</fr:link> en <fr:tex display="inline"><![CDATA[p\in  U]]></fr:tex> y sea <fr:tex display="inline"><![CDATA[\overline {\Delta }(p, r)\subset  U]]></fr:tex>. Entonces para todo <fr:tex display="inline"><![CDATA[z\in \Delta (p,r)]]></fr:tex> se tiene <fr:tex display="block"><![CDATA[f(z) = \frac {1}{(2\pi  i)^n}\int _{\xi \in \mathbb  T_{p,r}}\frac {f(\xi )}{(\xi _1 - x_1)\cdots (\xi _n-z_n)}d\xi _1\dots \xi _n]]></fr:tex> donde <fr:tex display="inline"><![CDATA[\mathbb  T_{p,r} = \{ \xi \in \mathbb  C^n : |\xi _i-p_i| = r_i \}]]></fr:tex> es un "toro".</html:p>
+                <html:p>Diferenciando también se deduce que <fr:tex display="block"><![CDATA[\frac {\partial ^{|\nu |}f(z)}{\partial  z_1^{\nu _1}\cdots \partial  z_n^{\nu _n}} = \frac {\nu _1!\cdots \nu _n!}{(2\pi  i)^n}\int _{\xi \in \mathbb  T_{p,r}} \frac {f(\xi )}{(\xi _1-x_1)^{\nu _1+1}\cdots (\xi _n-z_n)^{\nu _n+1}}d\xi _1\dots  d\xi _n. ]]></fr:tex></html:p>
+                <html:p>De esta fórmula se sigue que los coeficientes de la expansión como serie en torno a un punto fijado <fr:tex display="inline"><![CDATA[z\in \Delta (p,r)]]></fr:tex> es de la forma <fr:tex display="block"><![CDATA[a_{\nu _1\dots \nu _n} = \frac {1}{(2\pi  i)^n} \int _{\xi \in \mathbb  T_{p,r}}\frac {f(\xi )}{(\xi _1-x_1)^{\nu _1+1}\cdots (\xi _n-z_n)^{\nu _n+1}}d\xi _1\dots  d\xi _n.]]></fr:tex></html:p>
+                <html:p>
+                  <fr:tex display="block"><![CDATA[\nu _1!\cdots \nu _n! \cdot  a_\nu  = \frac {\partial ^{|\nu |}f(z)}{\partial  z_1^{\nu _1}\cdots \partial  z_n^{\nu _n}}.]]></fr:tex>
+                </html:p>
+                <html:p>Además, las derivadas parciales reales de <fr:tex display="inline"><![CDATA[f]]></fr:tex> verifican la fórmula de Cauchy-Riemann: <fr:tex display="block"><![CDATA[\frac {\partial }{\partial  \overline {z_i}}f(z) := \frac {1}{2}\left (\frac {\partial }{\partial  x_i}f(z) + i\frac {\partial }{\partial  y_i}f(z)\right ) = 0.]]></fr:tex> La derivada parcial respecto a <fr:tex display="inline"><![CDATA[\overline {z_i}]]></fr:tex> no tiene otro sentido que el definido arriba; descomponemos <fr:tex display="inline"><![CDATA[f = u + iv]]></fr:tex> en sus partes reales e imaginarias. Recíprocamente, si <fr:tex display="inline"><![CDATA[f\colon U\subset \mathbb  C^n\rightarrow \mathbb  C]]></fr:tex> es una función de clase <fr:tex display="inline"><![CDATA[\mathscr  C^1]]></fr:tex>-real, y verifica las fórmulas de Cauchy-Riemann en cada punto de <fr:tex display="inline"><![CDATA[U]]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[f]]></fr:tex> es holomorfa.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-0015.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-0015/</fr:uri>
+                <fr:display-uri>VC-0015</fr:display-uri>
+                <fr:route>/VC-0015/</fr:route>
+                <fr:title text="Principio de Identidad">Principio de Identidad</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex> un abierto conexo y sea <fr:tex display="inline"><![CDATA[f\colon U\rightarrow \mathbb  C]]></fr:tex> holomorfa en <fr:tex display="inline"><![CDATA[U]]></fr:tex>. Si el conjunto de puntos donde <fr:tex display="inline"><![CDATA[f]]></fr:tex> se anula, <fr:tex display="inline"><![CDATA[\{f=0\}]]></fr:tex>, tiene interior no vacío, entonces <fr:tex display="inline"><![CDATA[f]]></fr:tex> es idénticamente nula.</html:p>
+                <html:p>El resultado es diferente de la versión <fr:tex display="inline"><![CDATA[n=1]]></fr:tex>, donde se requiere que este conjunto tenga puntos de acumulación.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-0016.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-0016/</fr:uri>
+                <fr:display-uri>VC-0016</fr:display-uri>
+                <fr:route>/VC-0016/</fr:route>
+                <fr:title text="Principio del módulo máximo">Principio del módulo máximo</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex> un abierto conexo y <fr:tex display="inline"><![CDATA[f\colon U\rightarrow \mathbb  C]]></fr:tex> una función holomorfa y no constante. Entonces <fr:tex display="inline"><![CDATA[|f|]]></fr:tex> no alcanza un máximo en <fr:tex display="inline"><![CDATA[U]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-0017.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-0017/</fr:uri>
+                <fr:display-uri>VC-0017</fr:display-uri>
+                <fr:route>/VC-0017/</fr:route>
+                <fr:title text="Orden de una función holomorfa en un punto">Orden de una función holomorfa en un punto</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[f\in \mathscr  H(U)]]></fr:tex> y <fr:tex display="inline"><![CDATA[z_0\in  U]]></fr:tex>. Como la <fr:link href="/VC-0011/" title="Serie de potencias formal convergente" uri="https://juan-mad.github.io/VC-0011/" display-uri="VC-0011" type="local">expansión en serie de potencias converge absolutamente</fr:link>, pueden reordenarse los términos de la serie en una polinomios homogéneos: <fr:tex display="block"><![CDATA[f(z) = \sum _{k=0}^\infty  \left ( \sum _{|\nu | = k}a_\nu (z_1-z_{01})^{\nu _1}\cdots (z_n-z_{0n})^{\nu _n} \right ) = \sum _{k=0}^\infty  p_k(z).]]></fr:tex></html:p>
+                <html:p>El orden de <fr:tex display="inline"><![CDATA[f]]></fr:tex> en <fr:tex display="inline"><![CDATA[z_0]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathrm {ord}_{z_0}f]]></fr:tex>, como el grado del mínimo polinomio homogéneo no idénticamente cero, <fr:tex display="inline"><![CDATA[\mathrm {ord}_{z_0}f = \min \{k : p_k\not \equiv  0 \}]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-0018.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-0018/</fr:uri>
+                <fr:display-uri>VC-0018</fr:display-uri>
+                <fr:route>/VC-0018/</fr:route>
+                <fr:title text="Función holomorfa regular de cierto orden">Función holomorfa regular de cierto orden</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[f\in \mathscr  H(U)]]></fr:tex> y <fr:tex display="inline"><![CDATA[z_0\in  U]]></fr:tex>. Decimos que <fr:tex display="inline"><![CDATA[f]]></fr:tex> es <html:em>regular de orden <fr:tex display="inline"><![CDATA[k]]></fr:tex></html:em> respecto a la última variable (<fr:tex display="inline"><![CDATA[z_n]]></fr:tex>) en <fr:tex display="inline"><![CDATA[z_0\in  U]]></fr:tex> si <fr:tex display="block"><![CDATA[f(z_0)=\frac {\partial  f}{\partial  z_n}(z_0) = \dots  = \frac {\partial ^{k-1}f}{\partial  z_n^{k-1}}(z_0) = 0, \text { y }\frac {\partial ^kf}{\partial  z_n^k}(z_0)\neq  0.]]></fr:tex> Equivalentemente, <fr:tex display="block"><![CDATA[a_{(0,\dots ,0)} = a_{(0,\dots ,1)} = \cdots  = a_{(0,\dots ,k-1)} = 0, \text { y } a_{(0,\dots ,k)}\neq  0.]]></fr:tex></html:p>
+                <html:p>Existen funciones que no son regulares respecto a ninguna variable, como <fr:tex display="inline"><![CDATA[f(z_1,z_2) = z_1z_2]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-0019.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-0019/</fr:uri>
+                <fr:display-uri>VC-0019</fr:display-uri>
+                <fr:route>/VC-0019/</fr:route>
+                <fr:title text="Relación entre orden de de un punto y regularidad de cierto orden">Relación entre orden de de un punto y regularidad de cierto orden</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[f]]></fr:tex> una <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">función holomorfa</fr:link> en un abierto <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex>. <html:ul><html:li><fr:tex display="inline"><![CDATA[f]]></fr:tex> es <fr:link href="/VC-0018/" title="Función holomorfa regular de cierto orden" uri="https://juan-mad.github.io/VC-0018/" display-uri="VC-0018" type="local">regular de orden <fr:tex display="inline"><![CDATA[1]]></fr:tex></fr:link> respecto de alguna variable en <fr:tex display="inline"><![CDATA[z_0]]></fr:tex> si y sólo si <fr:tex display="inline"><![CDATA[\mathrm {ord}_{z_0}f = 1]]></fr:tex>.</html:li>
+    <html:li>Si <fr:tex display="inline"><![CDATA[f]]></fr:tex> es <fr:link href="/VC-0018/" title="Función holomorfa regular de cierto orden" uri="https://juan-mad.github.io/VC-0018/" display-uri="VC-0018" type="local">regular de orden <fr:tex display="inline"><![CDATA[k]]></fr:tex></fr:link> respecto a <fr:tex display="inline"><![CDATA[z_n]]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[\mathrm {ord}_{z_0}f \leq  k]]></fr:tex>.</html:li>
+    <html:li>Si <fr:tex display="inline"><![CDATA[\mathrm {ord}_{z_0}f = k]]></fr:tex> y la componente homogénea de grado <fr:tex display="inline"><![CDATA[k]]></fr:tex>, <fr:tex display="inline"><![CDATA[p_k]]></fr:tex>, verifica <fr:tex display="inline"><![CDATA[p_k(0,\dots ,0,1)\neq  0]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[f]]></fr:tex> es regular de orden <fr:tex display="inline"><![CDATA[k]]></fr:tex> respecto a <fr:tex display="inline"><![CDATA[z_n]]></fr:tex>.</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-001A.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-001A/</fr:uri>
+                <fr:display-uri>VC-001A</fr:display-uri>
+                <fr:route>/VC-001A/</fr:route>
+                <fr:title text="Toda función holomorfa puede tratarse como regular respecto de alguna variable">Toda función holomorfa puede tratarse como regular respecto de alguna variable</fr:title>
+                <fr:taxon>Lema</fr:taxon>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[f\in \mathscr  H(U)]]></fr:tex> <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">holomorfa</fr:link> en un abierto <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex>. Sin pérdida de generalidad supongamos que <fr:tex display="inline"><![CDATA[z_0=0\in  U]]></fr:tex> y el <fr:link href="/VC-0017/" title="Orden de una función holomorfa en un punto" uri="https://juan-mad.github.io/VC-0017/" display-uri="VC-0017" type="local">orden de <fr:tex display="inline"><![CDATA[f]]></fr:tex> en <fr:tex display="inline"><![CDATA[0]]></fr:tex></fr:link> es <fr:tex display="inline"><![CDATA[\mathrm {ord}_0f = k]]></fr:tex>. Existe un cambio lineal de coordenadas <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[g=f\circ \varphi \colon \varphi (U)\rightarrow \mathbb  C]]></fr:tex> es <fr:link href="/VC-0018/" title="Función holomorfa regular de cierto orden" uri="https://juan-mad.github.io/VC-0018/" display-uri="VC-0018" type="local">regular de orden <fr:tex display="inline"><![CDATA[k]]></fr:tex></fr:link> respecto a <fr:tex display="inline"><![CDATA[z_n]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-001B.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-001B/</fr:uri>
+                <fr:display-uri>VC-001B</fr:display-uri>
+                <fr:route>/VC-001B/</fr:route>
+                <fr:title text="" />
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sin pérdida de generalidad, sea <fr:tex display="inline"><![CDATA[z_0=0\in  U\subset  \mathbb  C^n]]></fr:tex> y sea <fr:tex display="inline"><![CDATA[f]]></fr:tex> una <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">función holomorfa</fr:link> en <fr:tex display="inline"><![CDATA[U]]></fr:tex>. que es <fr:link href="/VC-0018/" title="Función holomorfa regular de cierto orden" uri="https://juan-mad.github.io/VC-0018/" display-uri="VC-0018" type="local">regular de orden <fr:tex display="inline"><![CDATA[k]]></fr:tex></fr:link> respecto a <fr:tex display="inline"><![CDATA[z_n]]></fr:tex> en <fr:tex display="inline"><![CDATA[0]]></fr:tex>. Existe un polidisco <fr:tex display="inline"><![CDATA[\Delta (0,r)\subset \mathbb  C^n]]></fr:tex> tal que para cada <fr:tex display="inline"><![CDATA[a'=(a_1,\dots ,a_{n-1})\in \Delta (0, r')\subset \mathbb  C^{n-1}]]></fr:tex> la función <fr:tex display="block"><![CDATA[f_n\colon  z_n\longmapsto  f(a',z_n)]]></fr:tex> tiene <fr:tex display="inline"><![CDATA[k]]></fr:tex> ceros dentro del disco <fr:tex display="inline"><![CDATA[\Delta (0,r_n)\subset \mathbb  C]]></fr:tex> contando multiplicidades.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-001C.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-001C/</fr:uri>
+                <fr:display-uri>VC-001C</fr:display-uri>
+                <fr:route>/VC-001C/</fr:route>
+                <fr:title text="Conjunto delgado o &quot;thin&quot;">Conjunto delgado o "thin"</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex> un abierto conexo y sea <fr:tex display="inline"><![CDATA[X\subset  U]]></fr:tex>. Se dice que <fr:tex display="inline"><![CDATA[X]]></fr:tex> es <html:em>delgado</html:em> (o "thin", en inglés) si para todo <fr:tex display="inline"><![CDATA[w\in  U]]></fr:tex> existe un polidisco <fr:tex display="inline"><![CDATA[\Delta (w,r)]]></fr:tex> y <fr:tex display="inline"><![CDATA[g_w\in \mathscr  H(\Delta (w,r)), g_w\not \equiv  0]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[X\cap \Delta (w,r)\subset  Z(g)]]></fr:tex>. Es decir, para todo punto <fr:tex display="inline"><![CDATA[w]]></fr:tex> de <fr:tex display="inline"><![CDATA[U]]></fr:tex> existe un polidisco en <fr:tex display="inline"><![CDATA[U]]></fr:tex> y una función no idénticamente nula que sen anula en <fr:tex display="inline"><![CDATA[X\cap \Delta (w,r)]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-001D.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-001D/</fr:uri>
+                <fr:display-uri>VC-001D</fr:display-uri>
+                <fr:route>/VC-001D/</fr:route>
+                <fr:title text="Conjuntos analíticos">Conjuntos analíticos</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset  \mathbb  C^n]]></fr:tex> un abierto. Decimos que un conjunto <fr:tex display="inline"><![CDATA[X\subset  U]]></fr:tex> es un <html:em>conjunto analítico</html:em> si para todo <fr:tex display="inline"><![CDATA[w\in  U]]></fr:tex> existe un entorno <fr:tex display="inline"><![CDATA[\Delta (w,r)\subset  U]]></fr:tex> y un número finito de funciones holomorfas <fr:tex display="inline"><![CDATA[g_1,
+\dots ,g_k\in \mathscr  H(\Delta (w,r))]]></fr:tex> tal que <fr:tex display="block"><![CDATA[X\cap \Delta (w,r) = Z(g_1,\dots ,g_k).]]></fr:tex> En particular, los conjuntos analíticos son <fr:link href="/VC-001C/" title="Conjunto delgado o &quot;thin&quot;" uri="https://juan-mad.github.io/VC-001C/" display-uri="VC-001C" type="local">conjuntos delgados</fr:link>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-001E.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-001E/</fr:uri>
+                <fr:display-uri>VC-001E</fr:display-uri>
+                <fr:route>/VC-001E/</fr:route>
+                <fr:title text="Propiedades de conjuntos delgados">Propiedades de conjuntos delgados</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex> un abierto y <fr:tex display="inline"><![CDATA[X\subset  U]]></fr:tex> un <fr:link href="/VC-001C/" title="Conjunto delgado o &quot;thin&quot;" uri="https://juan-mad.github.io/VC-001C/" display-uri="VC-001C" type="local">conjunto delgado</fr:link>.
+<html:ul><html:li>La adherencia de <fr:tex display="inline"><![CDATA[X]]></fr:tex>, <fr:tex display="inline"><![CDATA[\overline {X}]]></fr:tex> también es delgada.</html:li>
+    <html:li>El interior de <fr:tex display="inline"><![CDATA[X]]></fr:tex> es vacío.</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[\overline {U\setminus  X} = U\setminus \overset {\circ }{X} = U]]></fr:tex>.</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[U\setminus  X]]></fr:tex> es conexo.</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-001F.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-001F/</fr:uri>
+                <fr:display-uri>VC-001F</fr:display-uri>
+                <fr:route>/VC-001F/</fr:route>
+                <fr:title text="Funciones localmente acotadas">Funciones localmente acotadas</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex> abierto y conexo y sea <fr:tex display="inline"><![CDATA[X\subset  U]]></fr:tex>. Decimos que una función <fr:tex display="inline"><![CDATA[f]]></fr:tex> definida en <fr:tex display="inline"><![CDATA[U\setminus  X]]></fr:tex> es <html:em>localmente acotada en <fr:tex display="inline"><![CDATA[U]]></fr:tex></html:em> si para cada <fr:tex display="inline"><![CDATA[w\in  U]]></fr:tex> existe un polidisco <fr:tex display="inline"><![CDATA[\Delta (w,r)\subset  U]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[f]]></fr:tex> está localmente acotada en  <fr:tex display="inline"><![CDATA[\Delta (w,r)\cap (U\setminus  X)]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-001G.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-001G/</fr:uri>
+                <fr:display-uri>VC-001G</fr:display-uri>
+                <fr:route>/VC-001G/</fr:route>
+                <fr:title text="Teorema de extensión de Riemann en varias variables">Teorema de extensión de Riemann en varias variables</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex> un abierto conexo, <fr:tex display="inline"><![CDATA[X\in  U]]></fr:tex> un <fr:link href="/VC-001C/" title="Conjunto delgado o &quot;thin&quot;" uri="https://juan-mad.github.io/VC-001C/" display-uri="VC-001C" type="local">conjunto delgado</fr:link> y <fr:tex display="inline"><![CDATA[f\in \mathscr  H(U\setminus  X)]]></fr:tex> localmente acotada en <fr:tex display="inline"><![CDATA[U]]></fr:tex>. Entonces existe una única función <fr:tex display="inline"><![CDATA[\tilde  f\in \mathscr  H(U)]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\tilde  f\vert _{U\setminus  X}=f]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-001H.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-001H/</fr:uri>
+                <fr:display-uri>VC-001H</fr:display-uri>
+                <fr:route>/VC-001H/</fr:route>
+                <fr:title text="Teorema de extensión en el interior de un polidisco">Teorema de extensión en el interior de un polidisco</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n, n\geq  2]]></fr:tex> un abierto conexo y entorno del borde de un polidisco <fr:tex display="inline"><![CDATA[\Delta (0,r)]]></fr:tex> y <fr:tex display="inline"><![CDATA[f\in \mathscr  H(U)]]></fr:tex>. Entonces existe una única función <fr:tex display="inline"><![CDATA[\tilde  f \in  \mathscr  H (U\cup \Delta (0,r))]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\tilde  f = f]]></fr:tex> en su dominio de definición común.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-001I.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-001I/</fr:uri>
+                <fr:display-uri>VC-001I</fr:display-uri>
+                <fr:route>/VC-001I/</fr:route>
+                <fr:title text="Corolarios de los teoremas de extensi'on">Corolarios de los teoremas de extensi'on</fr:title>
+                <fr:taxon>Corolario</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>
+                  <html:ul><html:li>Toda singularidad aislada de una funci'on <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">holomorfa</fr:link> en un abierto <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n,n\geq  2]]></fr:tex> es evitable.</html:li>
+    <html:li>Si <fr:tex display="inline"><![CDATA[f\in \mathscr  H(\mathbb  C^n), n\geq  2]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[Z(f)]]></fr:tex> no es acotado, es decir no es compacto.</html:li>
+    <html:li>Una funci'on <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">holomorfa</fr:link> no tiene singularidades aisladas.</html:li></html:ul>
+                </html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
