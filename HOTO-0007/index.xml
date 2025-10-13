@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>10</fr:month>
+      <fr:day>7</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-0007.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/HOTO-0007/</fr:uri>
+    <fr:display-uri>HOTO-0007</fr:display-uri>
+    <fr:route>/HOTO-0007/</fr:route>
+    <fr:title text="Aplicaciones continuas homótopas">Aplicaciones continuas homótopas</fr:title>
+    <fr:taxon>Definición</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Dados dos espacios topológicos <fr:tex display="inline"><![CDATA[X,Y]]></fr:tex>, un subespacio <fr:tex display="inline"><![CDATA[A\subset  Y]]></fr:tex> y aplicaciones continuas <fr:tex display="inline"><![CDATA[f,g\colon Y\rightarrow X]]></fr:tex> tales que <fr:tex display="inline"><![CDATA[f\vert _A = g\vert _A]]></fr:tex>, decimos que <html:em><fr:tex display="inline"><![CDATA[f]]></fr:tex> y <fr:tex display="inline"><![CDATA[g]]></fr:tex> son homótopas relativas a <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em>, <fr:tex display="block"><![CDATA[f\simeq  g\,\mathrm {rel}\, A]]></fr:tex> si existe una aplicación continua <fr:tex display="inline"><![CDATA[F\colon Y\times  I\rightarrow X]]></fr:tex> tal que <html:ul><html:li><fr:tex display="inline"><![CDATA[F(y,0) = f(y)]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  Y]]></fr:tex>,</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[F(y,1) = g(y)]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  Y]]></fr:tex>,</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[F(y,t) = f(y) = g(y)]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  A, t\in  I]]></fr:tex>.</html:li></html:ul> Si <fr:tex display="inline"><![CDATA[A=\emptyset ]]></fr:tex>, escribimos <fr:tex display="block"><![CDATA[f\simeq  q.]]></fr:tex>
+
+De nuevo esta es una relación de equivalencia.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/Marvin%20J.%20Greenberg" type="external">Marvin J. Greenberg</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/John%20R.%20Harper" type="external">John R. Harper</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/greenberg-harper-alg-topo.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/greenberg-harper-alg-topo/</fr:uri>
+            <fr:display-uri>greenberg-harper-alg-topo</fr:display-uri>
+            <fr:route>/greenberg-harper-alg-topo/</fr:route>
+            <fr:title text="Algebraic Topology">Algebraic Topology</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>10</fr:month>
+              <fr:day>8</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-000F.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/HOTO-000F/</fr:uri>
+            <fr:display-uri>HOTO-000F</fr:display-uri>
+            <fr:route>/HOTO-000F/</fr:route>
+            <fr:title text="Homotopía">Homotopía</fr:title>
+            <fr:taxon>Tema</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>7</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-0001.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-0001/</fr:uri>
+                <fr:display-uri>HOTO-0001</fr:display-uri>
+                <fr:route>/HOTO-0001/</fr:route>
+                <fr:title text="Caminos homótopos con extremos fijos">Caminos homótopos con extremos fijos</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topológico y sean <fr:tex display="inline"><![CDATA[\sigma , \tau \colon  I=[0,1]\rightarrow  X]]></fr:tex> dos caminos con los mismos puntos incial y final, <fr:tex display="inline"><![CDATA[\sigma (0) = \tau (0) = x_0, \sigma (1) = \tau (1) = x_1]]></fr:tex>. Decimos que <fr:tex display="inline"><![CDATA[\sigma ]]></fr:tex>  y <fr:tex display="inline"><![CDATA[\tau ]]></fr:tex>son <html:em>homótopos con extremos fijados</html:em>, denotado por <fr:tex display="inline"><![CDATA[\sigma \simeq \tau  \,\mathrm {rel}\,(0,1)]]></fr:tex> si existe una aplicación continua <fr:tex display="inline"><![CDATA[F\colon I\times  I\rightarrow X]]></fr:tex> tal que <html:ol><html:li><fr:tex display="inline"><![CDATA[F(s,0) = \sigma (s)]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[s\in  I]]></fr:tex>,</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[F(s,1) = \tau (s)]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[s\in  I]]></fr:tex>,</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[F(0,t) = x_0]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[t\in  I]]></fr:tex>, y</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[F(1,t) = x_1]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[t\in  I]]></fr:tex>.</html:li></html:ol>
+<fr:tex display="inline"><![CDATA[F]]></fr:tex> se llama una <html:em>homotopía de <fr:tex display="inline"><![CDATA[\sigma ]]></fr:tex> a <fr:tex display="inline"><![CDATA[\tau ]]></fr:tex>.</html:em>. Para <fr:tex display="inline"><![CDATA[t]]></fr:tex> fijado, la aplicación <fr:tex display="inline"><![CDATA[F_t(s) = F(s,t)]]></fr:tex> es un camino de <fr:tex display="inline"><![CDATA[x_0]]></fr:tex> a <fr:tex display="inline"><![CDATA[x_1]]></fr:tex>, y <fr:tex display="inline"><![CDATA[F_0=\sigma , F_1=\tau ]]></fr:tex>. Escribimos <fr:tex display="inline"><![CDATA[F_t\colon \sigma \simeq \tau \,\mathrm {rel}\,(0,1)]]></fr:tex>.</html:p>
+                <html:p>Pueden probarse las siguientes propiedades: <html:ol><html:li><fr:tex display="inline"><![CDATA[\sigma \simeq \sigma \,\mathrm {rel}\,(0,1)]]></fr:tex></html:li>
+    <html:li><fr:tex display="inline"><![CDATA[\sigma \simeq \tau \,\mathrm {rel}\,(0,1) \implies  \tau \simeq \sigma \,\mathrm {rel}\,(0,1)]]></fr:tex></html:li>
+    <html:li><fr:tex display="inline"><![CDATA[\sigma \simeq \tau \,\mathrm {rel}\,(0,1)]]></fr:tex> y <fr:tex display="inline"><![CDATA[\tau \simeq \rho \,\mathrm {rel}\,(0,1)]]></fr:tex> implica que <fr:tex display="inline"><![CDATA[\sigma \simeq \rho \,\mathrm {rel}\,(0,1)]]></fr:tex></html:li>
+    <html:li><fr:tex display="inline"><![CDATA[\sigma \simeq \sigma '\,\mathrm {rel}\,(0,1)]]></fr:tex> y <fr:tex display="inline"><![CDATA[\tau \simeq \tau '\,\mathrm {rel}\,(0,1)]]></fr:tex> implican que <fr:tex display="inline"><![CDATA[(\tau \circ \sigma )\simeq (\tau '\circ \sigma ')\,\mathrm {rel}\,(0,1)]]></fr:tex>.</html:li></html:ol></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>7</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-0002.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-0002/</fr:uri>
+                <fr:display-uri>HOTO-0002</fr:display-uri>
+                <fr:route>/HOTO-0002/</fr:route>
+                <fr:title text="Camino homotópicamente trivial">Camino homotópicamente trivial</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Si <fr:tex display="inline"><![CDATA[\sigma \colon  I\rightarrow  X]]></fr:tex> es cerrado, es decir, <fr:tex display="inline"><![CDATA[\sigma (0)=\sigma (1)=x_0]]></fr:tex>, y <fr:tex display="inline"><![CDATA[\tau \colon  I\rightarrow  X]]></fr:tex> es el camino constante <fr:tex display="inline"><![CDATA[\tau (s)=x_0, s\in  I]]></fr:tex>, y son <fr:link href="/HOTO-0001/" title="Caminos homótopos con extremos fijos" uri="https://juan-mad.github.io/HOTO-0001/" display-uri="HOTO-0001" type="local">homótopos con extremos fijos</fr:link>, <fr:tex display="inline"><![CDATA[\sigma \simeq \tau \,\mathrm {rel}\,(0,1)]]></fr:tex>, decimos que <fr:tex display="inline"><![CDATA[\sigma ]]></fr:tex> es <html:em>homotópicamente trivial</html:em> o que puede encongerse a un punto.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>7</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-0003.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-0003/</fr:uri>
+                <fr:display-uri>HOTO-0003</fr:display-uri>
+                <fr:route>/HOTO-0003/</fr:route>
+                <fr:title text="La relación de homotopía con extremos fijos es de equivalencia">La relación de homotopía con extremos fijos es de equivalencia</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>La relación entre dos caminos <fr:tex display="inline"><![CDATA[\sigma ,\tau \colon  I\rightarrow  X]]></fr:tex> de <fr:link href="/HOTO-0001/" title="Caminos homótopos con extremos fijos" uri="https://juan-mad.github.io/HOTO-0001/" display-uri="HOTO-0001" type="local">homotopía con extremos fijos</fr:link> es de equivalencia. Denominamos <fr:tex display="inline"><![CDATA[[\sigma ]]]></fr:tex> a la clase de equivalencia de <fr:tex display="inline"><![CDATA[\sigma ]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>7</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-0004.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-0004/</fr:uri>
+                <fr:display-uri>HOTO-0004</fr:display-uri>
+                <fr:route>/HOTO-0004/</fr:route>
+                <fr:title text="Grupo fundamental de homotopía de un espacio respecto a un punto">Grupo fundamental de homotopía de un espacio respecto a un punto</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Se define el <html:em>grupo de homotopía de un espacio <fr:tex display="inline"><![CDATA[X]]></fr:tex> respecto a un punto <fr:tex display="inline"><![CDATA[x_0\in  X]]></fr:tex></html:em> como el conjunto de las <fr:link href="/HOTO-0003/" title="La relación de homotopía con extremos fijos es de equivalencia" uri="https://juan-mad.github.io/HOTO-0003/" display-uri="HOTO-0003" type="local">clases de equivalencia</fr:link> de caminos cerrados o lazos con origen y destino en <fr:tex display="inline"><![CDATA[x_0]]></fr:tex> bajo la relación de <fr:link href="/HOTO-0001/" title="Caminos homótopos con extremos fijos" uri="https://juan-mad.github.io/HOTO-0001/" display-uri="HOTO-0001" type="local">homotopía con extremos fijos</fr:link>. Este conjunto de clases de equivalencia se denota por <fr:tex display="block"><![CDATA[\pi _1(X,x_0).]]></fr:tex></html:p>
+                <html:p>Si <fr:tex display="inline"><![CDATA[\sigma ,\tau \colon  I\rightarrow  X]]></fr:tex> son dos caminos, se define el producto entre sus clases de equivalencia (que <fr:link href="/HOTO-0001/" title="Caminos homótopos con extremos fijos" uri="https://juan-mad.github.io/HOTO-0001/" display-uri="HOTO-0001" type="local">no depende del representante elegido</fr:link>) como la clase del camino <fr:tex display="block"><![CDATA[\begin {align*}
+\sigma \tau \colon  I & \longrightarrow  X \\ t&\longmapsto  (\tau \circ \sigma )(t).\end {align*}]]></fr:tex></html:p>
+                <html:p>El inverso de la clase <fr:tex display="inline"><![CDATA[[\sigma ]]]></fr:tex> es la clase del lazo <fr:tex display="inline"><![CDATA[\sigma ^{-1}]]></fr:tex> definido por <fr:tex display="inline"><![CDATA[\sigma ^{-1} = \sigma (1-t), t\in  I]]></fr:tex>.</html:p>
+                <html:p>El elemento neutro del grupo es el lazo constante a <fr:tex display="inline"><![CDATA[x_0]]></fr:tex>.</html:p>
+                <html:p>Con estas definiciones, <fr:tex display="inline"><![CDATA[\pi _1(X,x_0)]]></fr:tex> verifica las propiedades de grupo.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>7</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-0005.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-0005/</fr:uri>
+                <fr:display-uri>HOTO-0005</fr:display-uri>
+                <fr:route>/HOTO-0005/</fr:route>
+                <fr:title text="Isomorfismo entre dos grupos de homotopía centrados en puntos distintos">Isomorfismo entre dos grupos de homotopía centrados en puntos distintos</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[\alpha \colon  I\rightarrow  X]]></fr:tex> un camino que va de <fr:tex display="inline"><![CDATA[x_0]]></fr:tex> a <fr:tex display="inline"><![CDATA[x_1]]></fr:tex>. Entonces la aplicación <fr:tex display="block"><![CDATA[\begin {align*}
+\alpha _*\colon \pi _1(X,x_0) & \longrightarrow  \pi _1(X,x_1) \\
+[\sigma ] & \longmapsto  [\alpha ^{-1}\sigma \alpha ]\end {align*}]]></fr:tex> es un isomorfismo.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>7</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-0006.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-0006/</fr:uri>
+                <fr:display-uri>HOTO-0006</fr:display-uri>
+                <fr:route>/HOTO-0006/</fr:route>
+                <fr:title text="Funtor entre espacios topológicos y grupos de homotopía respecto a un punto">Funtor entre espacios topológicos y grupos de homotopía respecto a un punto</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+                <fr:meta name="related">
+                  <fr:link href="/HOTO-0004/" title="Grupo fundamental de homotopía de un espacio respecto a un punto" uri="https://juan-mad.github.io/HOTO-0004/" display-uri="HOTO-0004" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Consideremos la categoría de pares <fr:tex display="inline"><![CDATA[(X,x_0)]]></fr:tex> de espacios topológicos y un punto con las aplicaciones continuas <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y]]></fr:tex> con <fr:tex display="inline"><![CDATA[f(x_0)=y_0]]></fr:tex> como morfismos. Para cada <fr:tex display="inline"><![CDATA[f]]></fr:tex> obtenemos un homomorfismo inducido <fr:tex display="block"><![CDATA[f_*\colon \pi (X,x_0)\longrightarrow  \pi _1(Y,y_0)]]></fr:tex> definido por <fr:tex display="inline"><![CDATA[f_*([s]) = f\circ  s]]></fr:tex>. Puede verificarse que está bien definido y que es un homomorifsmo. Además se verifican las propiedades siguientes:<html:ul><html:li>Si <fr:tex display="inline"><![CDATA[Y=X]]></fr:tex> y <fr:tex display="inline"><![CDATA[f=\mathrm {Id}_X]]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[f_* = \mathrm {Id}_{\pi _1(X,x_0)}]]></fr:tex></html:li>
+    <html:li>Dado <fr:tex display="inline"><![CDATA[g\colon (Y,y_0)\rightarrow (Z,z_0)]]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[(gf)_* = g_*f_*]]></fr:tex>.</html:li></html:ul>
+Por lo tanto podemos hablar del funtor de grupos fundamental de la categoría de espacios topológicos con un punto a la categoría de grupos.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>7</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-0007.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-0007/</fr:uri>
+                <fr:display-uri>HOTO-0007</fr:display-uri>
+                <fr:route>/HOTO-0007/</fr:route>
+                <fr:title text="Aplicaciones continuas homótopas">Aplicaciones continuas homótopas</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Dados dos espacios topológicos <fr:tex display="inline"><![CDATA[X,Y]]></fr:tex>, un subespacio <fr:tex display="inline"><![CDATA[A\subset  Y]]></fr:tex> y aplicaciones continuas <fr:tex display="inline"><![CDATA[f,g\colon Y\rightarrow X]]></fr:tex> tales que <fr:tex display="inline"><![CDATA[f\vert _A = g\vert _A]]></fr:tex>, decimos que <html:em><fr:tex display="inline"><![CDATA[f]]></fr:tex> y <fr:tex display="inline"><![CDATA[g]]></fr:tex> son homótopas relativas a <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em>, <fr:tex display="block"><![CDATA[f\simeq  g\,\mathrm {rel}\, A]]></fr:tex> si existe una aplicación continua <fr:tex display="inline"><![CDATA[F\colon Y\times  I\rightarrow X]]></fr:tex> tal que <html:ul><html:li><fr:tex display="inline"><![CDATA[F(y,0) = f(y)]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  Y]]></fr:tex>,</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[F(y,1) = g(y)]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  Y]]></fr:tex>,</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[F(y,t) = f(y) = g(y)]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  A, t\in  I]]></fr:tex>.</html:li></html:ul> Si <fr:tex display="inline"><![CDATA[A=\emptyset ]]></fr:tex>, escribimos <fr:tex display="block"><![CDATA[f\simeq  q.]]></fr:tex>
+
+De nuevo esta es una relación de equivalencia.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>7</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-0008.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-0008/</fr:uri>
+                <fr:display-uri>HOTO-0008</fr:display-uri>
+                <fr:route>/HOTO-0008/</fr:route>
+                <fr:title text="Espacio topológico contráctil">Espacio topológico contráctil</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Si para un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex> existe una <fr:link href="/HOTO-0007/" title="Aplicaciones continuas homótopas" uri="https://juan-mad.github.io/HOTO-0007/" display-uri="HOTO-0007" type="local">homotopía</fr:link> entre la aplicación identidad y la aplicación constante a algún punto <fr:tex display="inline"><![CDATA[x_0\in  X]]></fr:tex>, entonces decimos que <fr:tex display="inline"><![CDATA[X]]></fr:tex> es <html:em>contráctil</html:em>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>7</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-0009.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-0009/</fr:uri>
+                <fr:display-uri>HOTO-0009</fr:display-uri>
+                <fr:route>/HOTO-0009/</fr:route>
+                <fr:title text="Caracterización de espacio contráctil">Caracterización de espacio contráctil</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex> es <fr:link href="/HOTO-0008/" title="Espacio topológico contráctil" uri="https://juan-mad.github.io/HOTO-0008/" display-uri="HOTO-0008" type="local">contráctil</fr:link> si y sólo si para cualquier espacio topológico <fr:tex display="inline"><![CDATA[Y]]></fr:tex> toda pareja de aplicaciones continuas <fr:tex display="inline"><![CDATA[f,g\colon Y\rightarrow X]]></fr:tex> es <fr:link href="/HOTO-0007/" title="Aplicaciones continuas homótopas" uri="https://juan-mad.github.io/HOTO-0007/" display-uri="HOTO-0007" type="local">homótopa</fr:link>. En particular, es conexo por caminos.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>7</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-000A.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-000A/</fr:uri>
+                <fr:display-uri>HOTO-000A</fr:display-uri>
+                <fr:route>/HOTO-000A/</fr:route>
+                <fr:title text="Espacio simplemente conexo">Espacio simplemente conexo</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Decimos que un espacio topológico es <html:em>simplemente conexo</html:em> si es conexo por caminos y su <fr:link href="/HOTO-0004/" title="Grupo fundamental de homotopía de un espacio respecto a un punto" uri="https://juan-mad.github.io/HOTO-0004/" display-uri="HOTO-0004" type="local">grupo fundamental de homotopía</fr:link> es el trivial. Notemos que no necesitamos fijar ningún punto, ya que todos los <fr:link href="/HOTO-0005/" title="Isomorfismo entre dos grupos de homotopía centrados en puntos distintos" uri="https://juan-mad.github.io/HOTO-0005/" display-uri="HOTO-0005" type="local">grupos respecto de un punto son isomorfos gracias a la conexión por caminos</fr:link>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>7</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-000B.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-000B/</fr:uri>
+                <fr:display-uri>HOTO-000B</fr:display-uri>
+                <fr:route>/HOTO-000B/</fr:route>
+                <fr:title text="Los espacios contráctiles son simplemente conexos">Los espacios contráctiles son simplemente conexos</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Todo espacio topológico <fr:link href="/HOTO-0008/" title="Espacio topológico contráctil" uri="https://juan-mad.github.io/HOTO-0008/" display-uri="HOTO-0008" type="local">contráctil</fr:link> es <fr:link href="/HOTO-000A/" title="Espacio simplemente conexo" uri="https://juan-mad.github.io/HOTO-000A/" display-uri="HOTO-000A" type="local">simplemente conexo</fr:link>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>7</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-000C.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-000C/</fr:uri>
+                <fr:display-uri>HOTO-000C</fr:display-uri>
+                <fr:route>/HOTO-000C/</fr:route>
+                <fr:title text="" />
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[f,g\colon Y\rightarrow X]]></fr:tex> aplicaciones <fr:link href="/HOTO-0007/" title="Aplicaciones continuas homótopas" uri="https://juan-mad.github.io/HOTO-0007/" display-uri="HOTO-0007" type="local">homótopas</fr:link> a través de <fr:tex display="inline"><![CDATA[F\colon Y\times  I\rightarrow X]]></fr:tex>. Sean <fr:tex display="inline"><![CDATA[y_0\in  Y, x_0=f(y_0), x_1=g(y_0)]]></fr:tex>. Sea <fr:tex display="inline"><![CDATA[\alpha ]]></fr:tex> el camino de <fr:tex display="inline"><![CDATA[x_0]]></fr:tex> a <fr:tex display="inline"><![CDATA[x_1]]></fr:tex> dado por <fr:tex display="block"><![CDATA[\alpha (t) = F(y_0, t),\,\,t\in  I.]]></fr:tex> Entonces el siguiente triángulo es conmutativo:
+
+
+  <html:center><fr:resource hash="dfd9a8aa62aa01e98ced80324966f242"><fr:resource-content><html:img src="/dfd9a8aa62aa01e98ced80324966f242.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[
+\begin {tikzcd}
+	{\pi _1(Y,y_0)} && {\pi _1(X,x_0)} \\
+	\\
+	&& {\pi _1(X,x_1)}
+	\arrow ["{f_*}", from=1-1, to=1-3]
+	\arrow ["{g_*}"', from=1-1, to=3-3]
+	\arrow ["{\alpha _*}", from=1-3, to=3-3]
+\end {tikzcd}
+]]></fr:resource-source></fr:resource></html:center>
+
+
+Puesto que <fr:tex display="inline"><![CDATA[\alpha _*]]></fr:tex> es un isomorfismo, <fr:tex display="inline"><![CDATA[f_*]]></fr:tex> será un isomorfismo si y sólo si <fr:tex display="inline"><![CDATA[g_*]]></fr:tex> lo es.
+</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>7</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-000D.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-000D/</fr:uri>
+                <fr:display-uri>HOTO-000D</fr:display-uri>
+                <fr:route>/HOTO-000D/</fr:route>
+                <fr:title text="Equivalencia homotópa">Equivalencia homotópa</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Una aplicación continua <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y]]></fr:tex> es una <html:em>equivalencia homótopa</html:em> si existe una aplicación continua <fr:tex display="inline"><![CDATA[\AP {f'}{Y}{X}]]></fr:tex> tal que <fr:tex display="block"><![CDATA[ff'\simeq  \mathrm {Id}_X \\ f'f\simeq  \mathrm {Id}_Y.]]></fr:tex> Si tal <fr:tex display="inline"><![CDATA[f]]></fr:tex> existe diremos que <fr:tex display="inline"><![CDATA[X]]></fr:tex> e <fr:tex display="inline"><![CDATA[Y]]></fr:tex> son espacios <html:em>homotópicamente equivalentes</html:em>. Por ejemplo, <fr:tex display="inline"><![CDATA[X]]></fr:tex> es <fr:link href="/HOTO-0008/" title="Espacio topológico contráctil" uri="https://juan-mad.github.io/HOTO-0008/" display-uri="HOTO-0008" type="local">contráctil</fr:link> si y sólo si es homotópicamente equivalente a un punto.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>7</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-000E.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-000E/</fr:uri>
+                <fr:display-uri>HOTO-000E</fr:display-uri>
+                <fr:route>/HOTO-000E/</fr:route>
+                <fr:title text="Equivalencias homótopas inducen isomorfismos entre grupos de homotopía">Equivalencias homótopas inducen isomorfismos entre grupos de homotopía</fr:title>
+                <fr:taxon>Corolario</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+                <fr:meta name="related">
+                  <fr:link href="/HOTO-000D/" title="Equivalencia homotópa" uri="https://juan-mad.github.io/HOTO-000D/" display-uri="HOTO-000D" type="local" />
+                  <fr:link href="/HOTO-000E/" title="Equivalencias homótopas inducen isomorfismos entre grupos de homotopía" uri="https://juan-mad.github.io/HOTO-000E/" display-uri="HOTO-000E" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Si <fr:tex display="inline"><![CDATA[f]]></fr:tex> es una <fr:link href="/HOTO-000E/" title="Equivalencias homótopas inducen isomorfismos entre grupos de homotopía" uri="https://juan-mad.github.io/HOTO-000E/" display-uri="HOTO-000E" type="local">equivalencia homótopa</fr:link> entonces <fr:tex display="inline"><![CDATA[f_*]]></fr:tex> es un isomorfismo <fr:tex display="block"><![CDATA[f_*\colon  \pi _1(Y,y_0)\longrightarrow  \pi (X, f(y_0))]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[u_0\in  Y]]></fr:tex>.</html:p>
+                <html:p>Por lo tanto, el <fr:link href="/HOTO-0004/" title="Grupo fundamental de homotopía de un espacio respecto a un punto" uri="https://juan-mad.github.io/HOTO-0004/" display-uri="HOTO-0004" type="local">grupo fundamental</fr:link> de un espacio conexo por caminos es un <html:strong>invariante por homotopía</html:strong>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>8</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-000G.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-000G/</fr:uri>
+                <fr:display-uri>HOTO-000G</fr:display-uri>
+                <fr:route>/HOTO-000G/</fr:route>
+                <fr:title text="Grupo fundamental de homotop'ia de la circunferencia">Grupo fundamental de homotop'ia de la circunferencia</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>El <fr:link href="/HOTO-0004/" title="Grupo fundamental de homotopía de un espacio respecto a un punto" uri="https://juan-mad.github.io/HOTO-0004/" display-uri="HOTO-0004" type="local">grupo fundamental de homotop'ia</fr:link> de la circunferencia es isomorfo a <fr:tex display="inline"><![CDATA[\mathbb  Z]]></fr:tex>, <fr:tex display="block"><![CDATA[\pi _1(\mathbb  S^1)\cong  \mathbb  Z.]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>8</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-000H.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-000H/</fr:uri>
+                <fr:display-uri>HOTO-000H</fr:display-uri>
+                <fr:route>/HOTO-000H/</fr:route>
+                <fr:title text="" />
+                <fr:taxon>Teorema</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+                <fr:meta name="related">
+                  <fr:link href="/HOTO-0004/" title="Grupo fundamental de homotopía de un espacio respecto a un punto" uri="https://juan-mad.github.io/HOTO-0004/" display-uri="HOTO-0004" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[G]]></fr:tex> un grupo topol'ogico [simplemente conexo], y <fr:tex display="inline"><![CDATA[H]]></fr:tex> un subgrupo normal y discreto de <fr:tex display="inline"><![CDATA[G]]></fr:tex>. Entonces <fr:tex display="block"><![CDATA[\pi _1(G/H, 1) \cong  H.]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors />
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>8</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-000I.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-000I/</fr:uri>
+                <fr:display-uri>HOTO-000I</fr:display-uri>
+                <fr:route>/HOTO-000I/</fr:route>
+              </fr:frontmatter>
+              <fr:mainmatter />
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors />
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>8</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-000J.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-000J/</fr:uri>
+                <fr:display-uri>HOTO-000J</fr:display-uri>
+                <fr:route>/HOTO-000J/</fr:route>
+              </fr:frontmatter>
+              <fr:mainmatter />
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors />
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>8</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-000K.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HOTO-000K/</fr:uri>
+                <fr:display-uri>HOTO-000K</fr:display-uri>
+                <fr:route>/HOTO-000K/</fr:route>
+              </fr:frontmatter>
+              <fr:mainmatter />
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>10</fr:month>
+              <fr:day>7</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-000C.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/HOTO-000C/</fr:uri>
+            <fr:display-uri>HOTO-000C</fr:display-uri>
+            <fr:route>/HOTO-000C/</fr:route>
+            <fr:title text="" />
+            <fr:taxon>Proposición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sean <fr:tex display="inline"><![CDATA[f,g\colon Y\rightarrow X]]></fr:tex> aplicaciones <fr:link href="/HOTO-0007/" title="Aplicaciones continuas homótopas" uri="https://juan-mad.github.io/HOTO-0007/" display-uri="HOTO-0007" type="local">homótopas</fr:link> a través de <fr:tex display="inline"><![CDATA[F\colon Y\times  I\rightarrow X]]></fr:tex>. Sean <fr:tex display="inline"><![CDATA[y_0\in  Y, x_0=f(y_0), x_1=g(y_0)]]></fr:tex>. Sea <fr:tex display="inline"><![CDATA[\alpha ]]></fr:tex> el camino de <fr:tex display="inline"><![CDATA[x_0]]></fr:tex> a <fr:tex display="inline"><![CDATA[x_1]]></fr:tex> dado por <fr:tex display="block"><![CDATA[\alpha (t) = F(y_0, t),\,\,t\in  I.]]></fr:tex> Entonces el siguiente triángulo es conmutativo:
+
+
+  <html:center><fr:resource hash="dfd9a8aa62aa01e98ced80324966f242"><fr:resource-content><html:img src="/dfd9a8aa62aa01e98ced80324966f242.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[
+\begin {tikzcd}
+	{\pi _1(Y,y_0)} && {\pi _1(X,x_0)} \\
+	\\
+	&& {\pi _1(X,x_1)}
+	\arrow ["{f_*}", from=1-1, to=1-3]
+	\arrow ["{g_*}"', from=1-1, to=3-3]
+	\arrow ["{\alpha _*}", from=1-3, to=3-3]
+\end {tikzcd}
+]]></fr:resource-source></fr:resource></html:center>
+
+
+Puesto que <fr:tex display="inline"><![CDATA[\alpha _*]]></fr:tex> es un isomorfismo, <fr:tex display="inline"><![CDATA[f_*]]></fr:tex> será un isomorfismo si y sólo si <fr:tex display="inline"><![CDATA[g_*]]></fr:tex> lo es.
+</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>10</fr:month>
+              <fr:day>7</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-0009.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/HOTO-0009/</fr:uri>
+            <fr:display-uri>HOTO-0009</fr:display-uri>
+            <fr:route>/HOTO-0009/</fr:route>
+            <fr:title text="Caracterización de espacio contráctil">Caracterización de espacio contráctil</fr:title>
+            <fr:taxon>Proposición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex> es <fr:link href="/HOTO-0008/" title="Espacio topológico contráctil" uri="https://juan-mad.github.io/HOTO-0008/" display-uri="HOTO-0008" type="local">contráctil</fr:link> si y sólo si para cualquier espacio topológico <fr:tex display="inline"><![CDATA[Y]]></fr:tex> toda pareja de aplicaciones continuas <fr:tex display="inline"><![CDATA[f,g\colon Y\rightarrow X]]></fr:tex> es <fr:link href="/HOTO-0007/" title="Aplicaciones continuas homótopas" uri="https://juan-mad.github.io/HOTO-0007/" display-uri="HOTO-0007" type="local">homótopa</fr:link>. En particular, es conexo por caminos.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>10</fr:month>
+              <fr:day>7</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-0008.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/HOTO-0008/</fr:uri>
+            <fr:display-uri>HOTO-0008</fr:display-uri>
+            <fr:route>/HOTO-0008/</fr:route>
+            <fr:title text="Espacio topológico contráctil">Espacio topológico contráctil</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Si para un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex> existe una <fr:link href="/HOTO-0007/" title="Aplicaciones continuas homótopas" uri="https://juan-mad.github.io/HOTO-0007/" display-uri="HOTO-0007" type="local">homotopía</fr:link> entre la aplicación identidad y la aplicación constante a algún punto <fr:tex display="inline"><![CDATA[x_0\in  X]]></fr:tex>, entonces decimos que <fr:tex display="inline"><![CDATA[X]]></fr:tex> es <html:em>contráctil</html:em>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

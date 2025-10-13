@@ -643,7 +643,7 @@ En ese caso se determina una función continua <fr:tex display="inline"><![CDATA
                 <fr:uri>https://juan-mad.github.io/VC-001I/</fr:uri>
                 <fr:display-uri>VC-001I</fr:display-uri>
                 <fr:route>/VC-001I/</fr:route>
-                <fr:title text="Corolarios de los teoremas de extensi'on">Corolarios de los teoremas de extensi'on</fr:title>
+                <fr:title text="Corolarios de los teoremas de extensión">Corolarios de los teoremas de extensión</fr:title>
                 <fr:taxon>Corolario</fr:taxon>
                 <fr:meta name="sources">
                   <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
@@ -651,9 +651,9 @@ En ese caso se determina una función continua <fr:tex display="inline"><![CDATA
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>
-                  <html:ul><html:li>Toda singularidad aislada de una funci'on <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">holomorfa</fr:link> en un abierto <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n,n\geq  2]]></fr:tex> es evitable.</html:li>
+                  <html:ul><html:li>Toda singularidad aislada de una función <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">holomorfa</fr:link> en un abierto <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n,n\geq  2]]></fr:tex> es evitable.</html:li>
     <html:li>Si <fr:tex display="inline"><![CDATA[f\in \mathscr  H(\mathbb  C^n), n\geq  2]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[Z(f)]]></fr:tex> no es acotado, es decir no es compacto.</html:li>
-    <html:li>Una funci'on <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">holomorfa</fr:link> no tiene singularidades aisladas.</html:li></html:ul>
+    <html:li>Una función <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">holomorfa</fr:link> no tiene singularidades aisladas.</html:li></html:ul>
                 </html:p>
               </fr:mainmatter>
             </fr:tree>
