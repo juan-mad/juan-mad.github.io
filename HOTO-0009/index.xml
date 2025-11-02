@@ -504,14 +504,14 @@ Puesto que <fr:tex display="inline"><![CDATA[\alpha _*]]></fr:tex> es un isomorf
                 <fr:uri>https://juan-mad.github.io/HOTO-000G/</fr:uri>
                 <fr:display-uri>HOTO-000G</fr:display-uri>
                 <fr:route>/HOTO-000G/</fr:route>
-                <fr:title text="Grupo fundamental de homotop'ia de la circunferencia">Grupo fundamental de homotop'ia de la circunferencia</fr:title>
+                <fr:title text="Grupo fundamental de homotopía de la circunferencia">Grupo fundamental de homotopía de la circunferencia</fr:title>
                 <fr:taxon>Teorema</fr:taxon>
                 <fr:meta name="sources">
                   <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>El <fr:link href="/HOTO-0004/" title="Grupo fundamental de homotopía de un espacio respecto a un punto" uri="https://juan-mad.github.io/HOTO-0004/" display-uri="HOTO-0004" type="local">grupo fundamental de homotop'ia</fr:link> de la circunferencia es isomorfo a <fr:tex display="inline"><![CDATA[\mathbb  Z]]></fr:tex>, <fr:tex display="block"><![CDATA[\pi _1(\mathbb  S^1)\cong  \mathbb  Z.]]></fr:tex></html:p>
+                <html:p>El <fr:link href="/HOTO-0004/" title="Grupo fundamental de homotopía de un espacio respecto a un punto" uri="https://juan-mad.github.io/HOTO-0004/" display-uri="HOTO-0004" type="local">grupo fundamental de homotopía</fr:link> de la circunferencia es isomorfo a <fr:tex display="inline"><![CDATA[\mathbb  Z]]></fr:tex>, <fr:tex display="block"><![CDATA[\pi _1(\mathbb  S^1)\cong  \mathbb  Z.]]></fr:tex></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -540,7 +540,7 @@ Puesto que <fr:tex display="inline"><![CDATA[\alpha _*]]></fr:tex> es un isomorf
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sea <fr:tex display="inline"><![CDATA[G]]></fr:tex> un grupo topol'ogico [simplemente conexo], y <fr:tex display="inline"><![CDATA[H]]></fr:tex> un subgrupo normal y discreto de <fr:tex display="inline"><![CDATA[G]]></fr:tex>. Entonces <fr:tex display="block"><![CDATA[\pi _1(G/H, 1) \cong  H.]]></fr:tex></html:p>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[G]]></fr:tex> un grupo topológico [simplemente conexo], y <fr:tex display="inline"><![CDATA[H]]></fr:tex> un subgrupo normal y discreto de <fr:tex display="inline"><![CDATA[G]]></fr:tex>. Entonces <fr:tex display="block"><![CDATA[\pi _1(G/H, 1) \cong  H.]]></fr:tex></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -597,7 +597,32 @@ Puesto que <fr:tex display="inline"><![CDATA[\alpha _*]]></fr:tex> es un isomorf
         <fr:authors />
         <fr:title text="Backlinks">Backlinks</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>10</fr:month>
+              <fr:day>24</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/topology/TOPO-N5U0.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/TOPO-N5U0/</fr:uri>
+            <fr:display-uri>TOPO-N5U0</fr:display-uri>
+            <fr:route>/TOPO-N5U0/</fr:route>
+            <fr:title text="Conjuntos esféricos o asféricos">Conjuntos esféricos o asféricos</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Se dice que un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex> es <html:em>esférico</html:em> o <html:em>asférico</html:em> (en inglés, "aspherical") si cada función continua <fr:tex display="block"><![CDATA[f\colon \mathbb  S^n\longrightarrow  X]]></fr:tex> se extiende a una función continua <fr:tex display="block"><![CDATA[\tilde  f\colon  B(0, 1)=E^{n+1}\longrightarrow  X.]]></fr:tex></html:p>
+            <html:p>En particular todo <fr:link href="/HOTO-0009/" title="Caracterización de espacio contráctil" uri="https://juan-mad.github.io/HOTO-0009/" display-uri="HOTO-0009" type="local">espacio contráctil</fr:link> y todo espacio convexo de un espacio euclídeo es esférico.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

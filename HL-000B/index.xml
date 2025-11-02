@@ -23,7 +23,7 @@
     </fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Dado un <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> <fr:link href="/HL-000A/" title="Complejo de cadenas truncado" uri="https://juan-mad.github.io/HL-000A/" display-uri="HL-000A" type="local">truncado</fr:link> <fr:tex display="inline"><![CDATA[C]]></fr:tex>, una <html:em>aumentación de <fr:tex display="inline"><![CDATA[C]]></fr:tex> sobre <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em> es un <fr:link href="/AC-000F/" title="Homomofismo de módulos" uri="https://juan-mad.github.io/AC-000F/" display-uri="AC-000F" type="local">homomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos</fr:link> sobreyectivo <fr:tex display="inline"><![CDATA[\varepsilon \colon C_0\rightarrow A]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\varepsilon \partial _1 = 0]]></fr:tex>, es decir, <fr:tex display="inline"><![CDATA[\mathrm {Im}\,\partial _1\subset \mathrm {ker}\,\varepsilon ]]></fr:tex>. Nótese el isomorfismo <fr:tex display="inline"><![CDATA[C_0/\mathrm {ker}\,\varepsilon  = A]]></fr:tex>.</html:p>
+    <html:p>Dado un <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> <fr:link href="/HL-000A/" title="Complejo de cadenas truncado" uri="https://juan-mad.github.io/HL-000A/" display-uri="HL-000A" type="local">truncado</fr:link> <fr:tex display="inline"><![CDATA[C]]></fr:tex>, una <html:em>aumentación de <fr:tex display="inline"><![CDATA[C]]></fr:tex> sobre <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em> es un <fr:link href="/AC-000F/" title="Homomorfismo de módulos" uri="https://juan-mad.github.io/AC-000F/" display-uri="AC-000F" type="local">homomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos</fr:link> sobreyectivo <fr:tex display="inline"><![CDATA[\varepsilon \colon C_0\rightarrow A]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\varepsilon \partial _1 = 0]]></fr:tex>, es decir, <fr:tex display="inline"><![CDATA[\mathrm {Im}\,\partial _1\subset \mathrm {ker}\,\varepsilon ]]></fr:tex>. Nótese el isomorfismo <fr:tex display="inline"><![CDATA[C_0/\mathrm {ker}\,\varepsilon  = A]]></fr:tex>.</html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -136,7 +136,7 @@
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Dados dos <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejos de cadenas</fr:link> <fr:tex display="inline"><![CDATA[C, D]]></fr:tex>, un <html:em>morfismo de complejos de cadenas</html:em> es una familia <fr:tex display="inline"><![CDATA[\overline {f}=\{f_q\}_{q\in \mathbb  Z}]]></fr:tex> de <fr:link href="/AC-000F/" title="Homomofismo de módulos" uri="https://juan-mad.github.io/AC-000F/" display-uri="AC-000F" type="local">homomorfismos de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos</fr:link> <fr:tex display="inline"><![CDATA[f_q\colon C_q\rightarrow D_q]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\partial ^D_qf_q = f_{q-1}\partial ^C_q]]></fr:tex>, es decir, que este cuadrado es conmutativo:
+                <html:p>Dados dos <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejos de cadenas</fr:link> <fr:tex display="inline"><![CDATA[C, D]]></fr:tex>, un <html:em>morfismo de complejos de cadenas</html:em> es una familia <fr:tex display="inline"><![CDATA[\overline {f}=\{f_q\}_{q\in \mathbb  Z}]]></fr:tex> de <fr:link href="/AC-000F/" title="Homomorfismo de módulos" uri="https://juan-mad.github.io/AC-000F/" display-uri="AC-000F" type="local">homomorfismos de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos</fr:link> <fr:tex display="inline"><![CDATA[f_q\colon C_q\rightarrow D_q]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\partial ^D_qf_q = f_{q-1}\partial ^C_q]]></fr:tex>, es decir, que este cuadrado es conmutativo:
 
 
   <html:center><fr:resource hash="16c622f0e703a7cbe4d2360f8a82226c"><fr:resource-content><html:img src="/16c622f0e703a7cbe4d2360f8a82226c.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[\begin {tikzcd}
@@ -286,7 +286,7 @@ donde si <fr:tex display="inline"><![CDATA[z\in  Z_q(C)]]></fr:tex> es un <fr:li
                   <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
                 </fr:meta>
               </fr:frontmatter>
-              <fr:mainmatter><html:p>Una <html:em>homotopía de cadenas</html:em> entre <fr:link href="/HL-0002/" title="Morfismo de complejos de cadenas" uri="https://juan-mad.github.io/HL-0002/" display-uri="HL-0002" type="local">morfismos de cadenas</fr:link> <fr:tex display="inline"><![CDATA[f=\{f_q\colon C_q\rightarrow C_q'\}]]></fr:tex> y <fr:tex display="inline"><![CDATA[g=\{g_q\colon C_q\rightarrow C_q'\}]]></fr:tex> es una secuencia <fr:tex display="inline"><![CDATA[D=\{D_q\colon C_q\rightarrow C_{q+1}'\}]]></fr:tex> de homomorfismos tales que <fr:tex display="block"><![CDATA[\partial _{q+1}'D_q + D_{q-1}\partial _q = f_q = g_q.]]></fr:tex></html:p>
+              <fr:mainmatter><html:p>Una <html:em>homotopía de cadenas</html:em> entre <fr:link href="/HL-0002/" title="Morfismo de complejos de cadenas" uri="https://juan-mad.github.io/HL-0002/" display-uri="HL-0002" type="local">morfismos de cadenas</fr:link> <fr:tex display="inline"><![CDATA[f=\{f_q\colon C_q\rightarrow C_q'\}]]></fr:tex> y <fr:tex display="inline"><![CDATA[g=\{g_q\colon C_q\rightarrow C_q'\}]]></fr:tex> es una secuencia <fr:tex display="inline"><![CDATA[D=\{D_q\colon C_q\rightarrow C_{q+1}'\}]]></fr:tex> de homomorfismos tales que <fr:tex display="block"><![CDATA[\partial _{q+1}'D_q + D_{q-1}\partial _q = f_q - g_q.]]></fr:tex></html:p>
   <html:center><fr:resource hash="22dbe70f240e1ff3d5bd059b6d076679"><fr:resource-content><html:img src="/22dbe70f240e1ff3d5bd059b6d076679.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[\begin {tikzcd}
 	{C_{q+1}} && {C_q} && {C_{q-1}} \\
 	\\
@@ -378,7 +378,7 @@ donde si <fr:tex display="inline"><![CDATA[z\in  Z_q(C)]]></fr:tex> es un <fr:li
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Dado un <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> <fr:link href="/HL-000A/" title="Complejo de cadenas truncado" uri="https://juan-mad.github.io/HL-000A/" display-uri="HL-000A" type="local">truncado</fr:link> <fr:tex display="inline"><![CDATA[C]]></fr:tex>, una <html:em>aumentación de <fr:tex display="inline"><![CDATA[C]]></fr:tex> sobre <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em> es un <fr:link href="/AC-000F/" title="Homomofismo de módulos" uri="https://juan-mad.github.io/AC-000F/" display-uri="AC-000F" type="local">homomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos</fr:link> sobreyectivo <fr:tex display="inline"><![CDATA[\varepsilon \colon C_0\rightarrow A]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\varepsilon \partial _1 = 0]]></fr:tex>, es decir, <fr:tex display="inline"><![CDATA[\mathrm {Im}\,\partial _1\subset \mathrm {ker}\,\varepsilon ]]></fr:tex>. Nótese el isomorfismo <fr:tex display="inline"><![CDATA[C_0/\mathrm {ker}\,\varepsilon  = A]]></fr:tex>.</html:p>
+                <html:p>Dado un <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> <fr:link href="/HL-000A/" title="Complejo de cadenas truncado" uri="https://juan-mad.github.io/HL-000A/" display-uri="HL-000A" type="local">truncado</fr:link> <fr:tex display="inline"><![CDATA[C]]></fr:tex>, una <html:em>aumentación de <fr:tex display="inline"><![CDATA[C]]></fr:tex> sobre <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em> es un <fr:link href="/AC-000F/" title="Homomorfismo de módulos" uri="https://juan-mad.github.io/AC-000F/" display-uri="AC-000F" type="local">homomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos</fr:link> sobreyectivo <fr:tex display="inline"><![CDATA[\varepsilon \colon C_0\rightarrow A]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\varepsilon \partial _1 = 0]]></fr:tex>, es decir, <fr:tex display="inline"><![CDATA[\mathrm {Im}\,\partial _1\subset \mathrm {ker}\,\varepsilon ]]></fr:tex>. Nótese el isomorfismo <fr:tex display="inline"><![CDATA[C_0/\mathrm {ker}\,\varepsilon  = A]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -405,9 +405,9 @@ donde si <fr:tex display="inline"><![CDATA[z\in  Z_q(C)]]></fr:tex> es un <fr:li
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>Dado un <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> con <fr:link href="/HL-000B/" title="Aumentación de un complejo de cadenas" uri="https://juan-mad.github.io/HL-000B/" display-uri="HL-000B" type="local">aumentación</fr:link> <fr:tex display="inline"><![CDATA[\varepsilon \colon C_0\rightarrow A]]></fr:tex>, se define el <html:em>complejo de cadenas reducido</html:em> <fr:tex display="inline"><![CDATA[C^\#=(\{C_q^\#\}, \{\partial _q^\#\})]]></fr:tex> definiendo:
-<html:ul><html:li><fr:tex display="inline"><![CDATA[C^\#_q=C_q]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[q\geq  1]]></fr:tex>,</html:li>
+<html:ul><html:li><fr:tex display="inline"><![CDATA[C^\#_q=C_q]]></fr:tex> y <fr:tex display="inline"><![CDATA[\partial _q^\#=\partial _q]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[q\geq  1]]></fr:tex>,</html:li>
   <html:li><fr:tex display="inline"><![CDATA[C^\#_0=\mathrm {ker}\,\varepsilon ]]></fr:tex>,</html:li>
-  <html:li><fr:tex display="inline"><![CDATA[\partial _q^\# = \partial _q]]></fr:tex>.</html:li></html:ul>
+  <html:li><fr:tex display="inline"><![CDATA[\partial _0^\# = \varepsilon ]]></fr:tex>.</html:li></html:ul>
 
 Notemos que <fr:tex display="inline"><![CDATA[\partial ^\#_1\colon C^\#_1\rightarrow C^\#_0]]></fr:tex> ya que <fr:tex display="inline"><![CDATA[\mathrm {Im}\,\partial _1\subset \mathrm {ker}\,\varepsilon ]]></fr:tex>.</html:p>
               </fr:mainmatter>
@@ -436,6 +436,34 @@ Notemos que <fr:tex display="inline"><![CDATA[\partial ^\#_1\colon C^\#_1\righta
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>Decimos que un <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> con <fr:link href="/HL-000B/" title="Aumentación de un complejo de cadenas" uri="https://juan-mad.github.io/HL-000B/" display-uri="HL-000B" type="local">aumentación</fr:link> es <html:em>acíclico</html:em> (o exacto) si su <fr:link href="/HL-000C/" title="Complejo de cadenas reducido" uri="https://juan-mad.github.io/HL-000C/" display-uri="HL-000C" type="local">complejo de cadenas reducido</fr:link> es <fr:link href="/HL-0009/" title="Complejo de cadenas acíclico o exacto" uri="https://juan-mad.github.io/HL-0009/" display-uri="HL-0009" type="local">acíclico</fr:link>. Esto equivale a que <fr:tex display="inline"><![CDATA[\mathrm {Im}\,\partial _{q+1}=\mathrm {ker}\,\partial _q]]></fr:tex> si <fr:tex display="inline"><![CDATA[q\geq  1]]></fr:tex> y que <fr:tex display="inline"><![CDATA[\mathrm {Im}\,\partial _1 = \mathrm {ker}\,\varepsilon ]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>29</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/HL-000E.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/HL-000E/</fr:uri>
+                <fr:display-uri>HL-000E</fr:display-uri>
+                <fr:route>/HL-000E/</fr:route>
+                <fr:title text="Condicion suficiente de aciclicidad de complejos con aumentación">Condicion suficiente de aciclicidad de complejos con aumentación</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Todo <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> <fr:tex display="inline"><![CDATA[C]]></fr:tex> con <fr:link href="/HL-000B/" title="Aumentación de un complejo de cadenas" uri="https://juan-mad.github.io/HL-000B/" display-uri="HL-000B" type="local">aumentación</fr:link> <fr:tex display="inline"><![CDATA[\varepsilon \colon C_0\rightarrow A]]></fr:tex> tiene un inverso por la derecha (no necesariamente único) <fr:tex display="inline"><![CDATA[\eta \colon A\rightarrow C_0]]></fr:tex> dado por <fr:tex display="inline"><![CDATA[\eta (1)=x]]></fr:tex> para algún <fr:tex display="inline"><![CDATA[x]]></fr:tex> con <fr:tex display="inline"><![CDATA[\varepsilon (x)=1]]></fr:tex>. Entonces, <fr:tex display="inline"><![CDATA[\varepsilon \eta  = 1]]></fr:tex>.</html:p>
+                <html:p>Definimos el <fr:link href="/HL-0002/" title="Morfismo de complejos de cadenas" uri="https://juan-mad.github.io/HL-0002/" display-uri="HL-0002" type="local">morfismo de complejos de cadenas</fr:link> <fr:tex display="inline"><![CDATA[\eta \varepsilon \colon  C\rightarrow  C]]></fr:tex> definiendo <fr:tex display="inline"><![CDATA[\varepsilon \vert _{C_q} = 0]]></fr:tex> para <fr:tex display="inline"><![CDATA[q\geq  1]]></fr:tex>.</html:p>
+                <html:p>Se tiene la siguiente condición suficiente:<html:ul><html:li> si <fr:tex display="inline"><![CDATA[1 \simeq  \eta \varepsilon ]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[C]]></fr:tex> es acíclico.</html:li></html:ul></html:p>
               </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>
@@ -471,9 +499,9 @@ Notemos que <fr:tex display="inline"><![CDATA[\partial ^\#_1\colon C^\#_1\righta
             </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Todo <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> <fr:tex display="inline"><![CDATA[C]]></fr:tex> con <fr:link href="/HL-000B/" title="Aumentación de un complejo de cadenas" uri="https://juan-mad.github.io/HL-000B/" display-uri="HL-000B" type="local">aumentación</fr:link> <fr:tex display="inline"><![CDATA[\varepsilon \colon C_0\rightarrow A]]></fr:tex> tiene un inverso por la derecha (no necesariamente único) <fr:tex display="inline"><![CDATA[\eta \colon A\rightarrow C_0]]></fr:tex> dado por <fr:tex display="inline"><![CDATA[\eta (1)=x]]></fr:tex> para algún <fr:tex display="inline"><![CDATA[x]]></fr:tex> con <fr:tex display="inline"><![CDATA[\varpesilon (x)=1]]></fr:tex>. Entonces, <fr:tex display="inline"><![CDATA[\varepsilon \eta  = 1]]></fr:tex>.</html:p>
+            <html:p>Todo <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> <fr:tex display="inline"><![CDATA[C]]></fr:tex> con <fr:link href="/HL-000B/" title="Aumentación de un complejo de cadenas" uri="https://juan-mad.github.io/HL-000B/" display-uri="HL-000B" type="local">aumentación</fr:link> <fr:tex display="inline"><![CDATA[\varepsilon \colon C_0\rightarrow A]]></fr:tex> tiene un inverso por la derecha (no necesariamente único) <fr:tex display="inline"><![CDATA[\eta \colon A\rightarrow C_0]]></fr:tex> dado por <fr:tex display="inline"><![CDATA[\eta (1)=x]]></fr:tex> para algún <fr:tex display="inline"><![CDATA[x]]></fr:tex> con <fr:tex display="inline"><![CDATA[\varepsilon (x)=1]]></fr:tex>. Entonces, <fr:tex display="inline"><![CDATA[\varepsilon \eta  = 1]]></fr:tex>.</html:p>
             <html:p>Definimos el <fr:link href="/HL-0002/" title="Morfismo de complejos de cadenas" uri="https://juan-mad.github.io/HL-0002/" display-uri="HL-0002" type="local">morfismo de complejos de cadenas</fr:link> <fr:tex display="inline"><![CDATA[\eta \varepsilon \colon  C\rightarrow  C]]></fr:tex> definiendo <fr:tex display="inline"><![CDATA[\varepsilon \vert _{C_q} = 0]]></fr:tex> para <fr:tex display="inline"><![CDATA[q\geq  1]]></fr:tex>.</html:p>
-            <html:p>Se tiene la siguiente condición suficiente: si <fr:tex display="inline"><![CDATA[1 \simeq  \eta \varepsilon ]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[C]]></fr:tex> es acíclico.</html:p>
+            <html:p>Se tiene la siguiente condición suficiente:<html:ul><html:li> si <fr:tex display="inline"><![CDATA[1 \simeq  \eta \varepsilon ]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[C]]></fr:tex> es acíclico.</html:li></html:ul></html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -526,9 +554,9 @@ Notemos que <fr:tex display="inline"><![CDATA[\partial ^\#_1\colon C^\#_1\righta
           </fr:frontmatter>
           <fr:mainmatter>
             <html:p>Dado un <fr:link href="/HL-0001/" title="Complejo de cadenas de módulos" uri="https://juan-mad.github.io/HL-0001/" display-uri="HL-0001" type="local">complejo de cadenas</fr:link> con <fr:link href="/HL-000B/" title="Aumentación de un complejo de cadenas" uri="https://juan-mad.github.io/HL-000B/" display-uri="HL-000B" type="local">aumentación</fr:link> <fr:tex display="inline"><![CDATA[\varepsilon \colon C_0\rightarrow A]]></fr:tex>, se define el <html:em>complejo de cadenas reducido</html:em> <fr:tex display="inline"><![CDATA[C^\#=(\{C_q^\#\}, \{\partial _q^\#\})]]></fr:tex> definiendo:
-<html:ul><html:li><fr:tex display="inline"><![CDATA[C^\#_q=C_q]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[q\geq  1]]></fr:tex>,</html:li>
+<html:ul><html:li><fr:tex display="inline"><![CDATA[C^\#_q=C_q]]></fr:tex> y <fr:tex display="inline"><![CDATA[\partial _q^\#=\partial _q]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[q\geq  1]]></fr:tex>,</html:li>
   <html:li><fr:tex display="inline"><![CDATA[C^\#_0=\mathrm {ker}\,\varepsilon ]]></fr:tex>,</html:li>
-  <html:li><fr:tex display="inline"><![CDATA[\partial _q^\# = \partial _q]]></fr:tex>.</html:li></html:ul>
+  <html:li><fr:tex display="inline"><![CDATA[\partial _0^\# = \varepsilon ]]></fr:tex>.</html:li></html:ul>
 
 Notemos que <fr:tex display="inline"><![CDATA[\partial ^\#_1\colon C^\#_1\rightarrow C^\#_0]]></fr:tex> ya que <fr:tex display="inline"><![CDATA[\mathrm {Im}\,\partial _1\subset \mathrm {ker}\,\varepsilon ]]></fr:tex>.</html:p>
           </fr:mainmatter>
@@ -617,7 +645,7 @@ Notemos que <fr:tex display="inline"><![CDATA[\partial ^\#_1\colon C^\#_1\righta
             <fr:uri>https://juan-mad.github.io/AC-000F/</fr:uri>
             <fr:display-uri>AC-000F</fr:display-uri>
             <fr:route>/AC-000F/</fr:route>
-            <fr:title text="Homomofismo de módulos">Homomofismo de módulos</fr:title>
+            <fr:title text="Homomorfismo de módulos">Homomorfismo de módulos</fr:title>
             <fr:taxon>Definición</fr:taxon>
             <fr:meta name="sources">
               <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />

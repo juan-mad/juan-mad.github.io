@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>11</fr:month>
+      <fr:day>1</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/algebras/AC-0025.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/AC-0025/</fr:uri>
+    <fr:display-uri>AC-0025</fr:display-uri>
+    <fr:route>/AC-0025/</fr:route>
+    <fr:title text="Álgebra íntegra o entera">Álgebra íntegra o entera</fr:title>
+    <fr:taxon>Definición</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[B]]></fr:tex> una <fr:link href="/AC-001V/" title="Álgebras" uri="https://juan-mad.github.io/AC-001V/" display-uri="AC-001V" type="local"><fr:tex display="inline"><![CDATA[A]]></fr:tex>-álgebra</fr:link>. Se dice que <fr:tex display="inline"><![CDATA[B]]></fr:tex> es una <html:em><fr:tex display="inline"><![CDATA[A]]></fr:tex>-álgebra íntegra o entera</html:em> si <fr:tex display="inline"><![CDATA[B]]></fr:tex> es entero sobre el subanillo <fr:tex display="inline"><![CDATA[f(A)\subset  B]]></fr:tex>.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/M.%20F.%20Atiyah" type="external">M. F. Atiyah</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/I.%20G.%20MacDonald" type="external">I. G. MacDonald</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/atiyah-macdonald-intro-alg-conm.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/</fr:uri>
+            <fr:display-uri>atiyah-macdonald-intro-alg-conm</fr:display-uri>
+            <fr:route>/atiyah-macdonald-intro-alg-conm/</fr:route>
+            <fr:title text="Introducción al álgebra conmutativa">Introducción al álgebra conmutativa</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="bibtex"><![CDATA[@book{alma991005416249705774,
+author = {Atiyah, M. F. and MacDonald, I. G.},
+address = {Barcelona [etc},
+booktitle = {Introducción al álgebra conmutativa},
+isbn = {84-291-5008-0},
+keywords = {Algebra Conmutativa},
+language = {spa},
+publisher = {Reverté},
+title = {Introducción al álgebra conmutativa },
+year = {1978},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>2</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-002G.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002G/</fr:uri>
+            <fr:display-uri>AC-002G</fr:display-uri>
+            <fr:route>/AC-002G/</fr:route>
+            <fr:title text="Álgebras finitas sobre un anillo son enteras sobre él">Álgebras finitas sobre un anillo son enteras sobre él</fr:title>
+            <fr:taxon>Proposición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sean <fr:tex display="inline"><![CDATA[A, B, C]]></fr:tex> <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillos</fr:link> tal que <fr:tex display="inline"><![CDATA[B]]></fr:tex> es una <fr:link href="/AC-001V/" title="Álgebras" uri="https://juan-mad.github.io/AC-001V/" display-uri="AC-001V" type="local"><fr:tex display="inline"><![CDATA[A]]></fr:tex>-álgebra</fr:link> (<fr:tex display="inline"><![CDATA[\varphi \colon A\rightarrow B]]></fr:tex> <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo de anillos</fr:link>) y <fr:tex display="inline"><![CDATA[C]]></fr:tex> es una <fr:link href="/AC-001V/" title="Álgebras" uri="https://juan-mad.github.io/AC-001V/" display-uri="AC-001V" type="local"><fr:tex display="inline"><![CDATA[B]]></fr:tex>-álgebra</fr:link>. <html:ol><html:li>Si <fr:tex display="inline"><![CDATA[C]]></fr:tex> es una <fr:link href="/AC-001X/" title="Álgebras finitas" uri="https://juan-mad.github.io/AC-001X/" display-uri="AC-001X" type="local"><fr:tex display="inline"><![CDATA[B]]></fr:tex>-álgebra finita</fr:link> y <fr:tex display="inline"><![CDATA[B]]></fr:tex> es una <fr:link href="/AC-001X/" title="Álgebras finitas" uri="https://juan-mad.github.io/AC-001X/" display-uri="AC-001X" type="local"><fr:tex display="inline"><![CDATA[A]]></fr:tex>-álgebra finita</fr:link>, entonces <fr:tex display="inline"><![CDATA[C]]></fr:tex> es una <fr:link href="/AC-001X/" title="Álgebras finitas" uri="https://juan-mad.github.io/AC-001X/" display-uri="AC-001X" type="local"><fr:tex display="inline"><![CDATA[A]]></fr:tex>-álgebra finita</fr:link>.</html:li>
+<html:li>Si <fr:tex display="inline"><![CDATA[y_1,\dots ,y_m\in  B]]></fr:tex> son enteros sobre <fr:tex display="inline"><![CDATA[A]]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[\varphi (A)[y_1,\dots ,y_m]\subset  B]]></fr:tex> es finita sobre <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:li>
+<html:li>Si <fr:tex display="inline"><![CDATA[C]]></fr:tex> es una <fr:link href="/AC-0025/" title="Álgebra íntegra o entera" uri="https://juan-mad.github.io/AC-0025/" display-uri="AC-0025" type="local"><fr:tex display="inline"><![CDATA[B]]></fr:tex>-álgebra entera</fr:link> y <fr:tex display="inline"><![CDATA[B]]></fr:tex> es una <fr:link href="/AC-0025/" title="Álgebra íntegra o entera" uri="https://juan-mad.github.io/AC-0025/" display-uri="AC-0025" type="local"><fr:tex display="inline"><![CDATA[A]]></fr:tex>-álgebra entera</fr:link>, entonces <fr:tex display="inline"><![CDATA[C]]></fr:tex> es una <fr:link href="/AC-0025/" title="Álgebra íntegra o entera" uri="https://juan-mad.github.io/AC-0025/" display-uri="AC-0025" type="local"><fr:tex display="inline"><![CDATA[A]]></fr:tex>-álgebra entera</fr:link>.</html:li></html:ol></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>1</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/algebras/AC-001V.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-001V/</fr:uri>
+            <fr:display-uri>AC-001V</fr:display-uri>
+            <fr:route>/AC-001V/</fr:route>
+            <fr:title text="Álgebras">Álgebras</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[f\colon A\rightarrow B]]></fr:tex> un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo de anillos</fr:link>. Si <fr:tex display="inline"><![CDATA[a\in  A, b\in  B]]></fr:tex> se define un producto <fr:tex display="block"><![CDATA[ab = f(a)b.]]></fr:tex>
+El anillo <fr:tex display="inline"><![CDATA[B]]></fr:tex> dotado de esta estructura de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo se denomina una <html:em><fr:tex display="inline"><![CDATA[A]]></fr:tex>-álgebra</html:em>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

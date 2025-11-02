@@ -167,7 +167,7 @@ tal que <fr:tex display="block"><![CDATA[\gamma \Vert _{[t_{j-1}, t_j]} \text { 
             </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Sea <fr:tex display="inline"><![CDATA[\gamma ]]></fr:tex> un <fr:link href="/VC-0003/" title="Camino en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-0003/" display-uri="VC-0003" type="local">camino</fr:link> cerrado y sea <fr:tex display="inline"><![CDATA[z_0\notin \gamma ^*]]></fr:tex>. Entonces su <fr:link href="/VC-0009/" title="'Indice de una curva respecto a un punto" uri="https://juan-mad.github.io/VC-0009/" display-uri="VC-0009" type="local">índice respecto a <fr:tex display="inline"><![CDATA[z_0]]></fr:tex></fr:link> es <fr:tex display="block"><![CDATA[n(\gamma ,z_0) = \frac {1}{2\pi  i} \int _\gamma  \frac {1}{z-z_0}dz.]]></fr:tex></html:p>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[\gamma ]]></fr:tex> un <fr:link href="/VC-0003/" title="Camino en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-0003/" display-uri="VC-0003" type="local">camino</fr:link> cerrado y sea <fr:tex display="inline"><![CDATA[z_0\notin \gamma ^*]]></fr:tex>. Entonces su <fr:link href="/VC-0009/" title="Índice de una curva respecto a un punto" uri="https://juan-mad.github.io/VC-0009/" display-uri="VC-0009" type="local">índice respecto a <fr:tex display="inline"><![CDATA[z_0]]></fr:tex></fr:link> es <fr:tex display="block"><![CDATA[n(\gamma ,z_0) = \frac {1}{2\pi  i} \int _\gamma  \frac {1}{z-z_0}dz.]]></fr:tex></html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">

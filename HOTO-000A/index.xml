@@ -504,14 +504,14 @@ Puesto que <fr:tex display="inline"><![CDATA[\alpha _*]]></fr:tex> es un isomorf
                 <fr:uri>https://juan-mad.github.io/HOTO-000G/</fr:uri>
                 <fr:display-uri>HOTO-000G</fr:display-uri>
                 <fr:route>/HOTO-000G/</fr:route>
-                <fr:title text="Grupo fundamental de homotop'ia de la circunferencia">Grupo fundamental de homotop'ia de la circunferencia</fr:title>
+                <fr:title text="Grupo fundamental de homotopía de la circunferencia">Grupo fundamental de homotopía de la circunferencia</fr:title>
                 <fr:taxon>Teorema</fr:taxon>
                 <fr:meta name="sources">
                   <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>El <fr:link href="/HOTO-0004/" title="Grupo fundamental de homotopía de un espacio respecto a un punto" uri="https://juan-mad.github.io/HOTO-0004/" display-uri="HOTO-0004" type="local">grupo fundamental de homotop'ia</fr:link> de la circunferencia es isomorfo a <fr:tex display="inline"><![CDATA[\mathbb  Z]]></fr:tex>, <fr:tex display="block"><![CDATA[\pi _1(\mathbb  S^1)\cong  \mathbb  Z.]]></fr:tex></html:p>
+                <html:p>El <fr:link href="/HOTO-0004/" title="Grupo fundamental de homotopía de un espacio respecto a un punto" uri="https://juan-mad.github.io/HOTO-0004/" display-uri="HOTO-0004" type="local">grupo fundamental de homotopía</fr:link> de la circunferencia es isomorfo a <fr:tex display="inline"><![CDATA[\mathbb  Z]]></fr:tex>, <fr:tex display="block"><![CDATA[\pi _1(\mathbb  S^1)\cong  \mathbb  Z.]]></fr:tex></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -540,7 +540,7 @@ Puesto que <fr:tex display="inline"><![CDATA[\alpha _*]]></fr:tex> es un isomorf
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sea <fr:tex display="inline"><![CDATA[G]]></fr:tex> un grupo topol'ogico [simplemente conexo], y <fr:tex display="inline"><![CDATA[H]]></fr:tex> un subgrupo normal y discreto de <fr:tex display="inline"><![CDATA[G]]></fr:tex>. Entonces <fr:tex display="block"><![CDATA[\pi _1(G/H, 1) \cong  H.]]></fr:tex></html:p>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[G]]></fr:tex> un grupo topológico [simplemente conexo], y <fr:tex display="inline"><![CDATA[H]]></fr:tex> un subgrupo normal y discreto de <fr:tex display="inline"><![CDATA[G]]></fr:tex>. Entonces <fr:tex display="block"><![CDATA[\pi _1(G/H, 1) \cong  H.]]></fr:tex></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">

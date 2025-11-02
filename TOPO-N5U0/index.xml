@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>10</fr:month>
+      <fr:day>24</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/topology/TOPO-N5U0.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/TOPO-N5U0/</fr:uri>
+    <fr:display-uri>TOPO-N5U0</fr:display-uri>
+    <fr:route>/TOPO-N5U0/</fr:route>
+    <fr:title text="Conjuntos esféricos o asféricos">Conjuntos esféricos o asféricos</fr:title>
+    <fr:taxon>Definición</fr:taxon>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Se dice que un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex> es <html:em>esférico</html:em> o <html:em>asférico</html:em> (en inglés, "aspherical") si cada función continua <fr:tex display="block"><![CDATA[f\colon \mathbb  S^n\longrightarrow  X]]></fr:tex> se extiende a una función continua <fr:tex display="block"><![CDATA[\tilde  f\colon  B(0, 1)=E^{n+1}\longrightarrow  X.]]></fr:tex></html:p>
+    <html:p>En particular todo <fr:link href="/HOTO-0009/" title="Caracterización de espacio contráctil" uri="https://juan-mad.github.io/HOTO-0009/" display-uri="HOTO-0009" type="local">espacio contráctil</fr:link> y todo espacio convexo de un espacio euclídeo es esférico.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>10</fr:month>
+              <fr:day>24</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/homology/singular/SHL-000F.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/SHL-000F/</fr:uri>
+            <fr:display-uri>SHL-000F</fr:display-uri>
+            <fr:route>/SHL-000F/</fr:route>
+            <fr:title text="El complejo singular de un espacio esférico es acíclico">El complejo singular de un espacio esférico es acíclico</fr:title>
+            <fr:taxon>Proposición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[X]]></fr:tex> un <fr:link href="/TOPO-N5U0/" title="Conjuntos esféricos o asféricos" uri="https://juan-mad.github.io/TOPO-N5U0/" display-uri="TOPO-N5U0" type="local">espacio esférico</fr:link>. Entonces su <fr:link href="/SHL-0008/" title="Complejo de q-cadenas singulares" uri="https://juan-mad.github.io/SHL-0008/" display-uri="SHL-0008" type="local">complejo de cadenas singulares</fr:link> con aumentación es <fr:link href="/HL-000D/" title="Complejo de cadenas con aumentación acíclico" uri="https://juan-mad.github.io/HL-000D/" display-uri="HL-000D" type="local">acíclico</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>10</fr:month>
+              <fr:day>7</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/homotopy/HOTO-0009.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/HOTO-0009/</fr:uri>
+            <fr:display-uri>HOTO-0009</fr:display-uri>
+            <fr:route>/HOTO-0009/</fr:route>
+            <fr:title text="Caracterización de espacio contráctil">Caracterización de espacio contráctil</fr:title>
+            <fr:taxon>Proposición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex> es <fr:link href="/HOTO-0008/" title="Espacio topológico contráctil" uri="https://juan-mad.github.io/HOTO-0008/" display-uri="HOTO-0008" type="local">contráctil</fr:link> si y sólo si para cualquier espacio topológico <fr:tex display="inline"><![CDATA[Y]]></fr:tex> toda pareja de aplicaciones continuas <fr:tex display="inline"><![CDATA[f,g\colon Y\rightarrow X]]></fr:tex> es <fr:link href="/HOTO-0007/" title="Aplicaciones continuas homótopas" uri="https://juan-mad.github.io/HOTO-0007/" display-uri="HOTO-0007" type="local">homótopa</fr:link>. En particular, es conexo por caminos.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

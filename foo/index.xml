@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>10</fr:month>
+      <fr:day>17</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/foo.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/foo/</fr:uri>
+    <fr:display-uri>foo</fr:display-uri>
+    <fr:route>/foo/</fr:route>
+    <fr:title text="Inversa Fourier">Inversa Fourier</fr:title>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[g\in  L^1(\mathbb  R)]]></fr:tex>. Se define su transformada inversa de Fourier como la función <fr:tex display="inline"><![CDATA[\mathbb  R\to \mathbb  C]]></fr:tex> dada por <fr:tex display="block"><![CDATA[\mathcal  F^{-1}(g)(x) := \frac {1}{2\pi }\int _{\infty }^{\infty } e^{i\omega  x}f(\omega )d\omega .]]></fr:tex></html:p>
+    <html:p>Ya con el nombre que le hemos dado, obviamente queremos que esta fórmula sea la que nos permita recuperar una función inicial si conocemos su transformada de Fourier. Sin embargo, para que esta función de la transformada exista necesitamos pedir que sea <fr:tex display="inline"><![CDATA[L^1]]></fr:tex> para que la integral tenga sentido. En principio, dada una función <fr:tex display="inline"><![CDATA[f]]></fr:tex> en <fr:tex display="inline"><![CDATA[L^1]]></fr:tex> arbitraria, lo que sabemos de su transformada de Fourier <fr:tex display="inline"><![CDATA[\hat  f]]></fr:tex> es que es uniformemente continua, y que tiende a 0 en infinito, pero no que es integrable. Lo que haremos hoy es explorar diversas situaciones en las que podemos aplicar esta función inversa sobre una transformada de Fourier.</html:p>
+    <html:p>Una función <fr:tex display="inline"><![CDATA[f\colon [a,b]\rightarrow \mathbb  C]]></fr:tex> es de <html:em>variación acotada</html:em> si existen cuatro funciones reales monótonas <fr:tex display="inline"><![CDATA[f_j\colon [a,b]\rightarrow \mathbb  R, j=1,2,3,4]]></fr:tex> tal que <fr:tex display="block"><![CDATA[f(x) = (f_1(x) - f_2(x)) + i(f_3(x) + f_4(x)).]]></fr:tex></html:p>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[f\in  L^1(\mathbb  R)]]></fr:tex>. Si <fr:tex display="inline"><![CDATA[f]]></fr:tex> es de variación acotada en un entorno <fr:tex display="inline"><![CDATA[[t-\varepsilon , t+\varepsilon ]]]></fr:tex> de un punto <fr:tex display="inline"><![CDATA[t\in \mathbb  R]]></fr:tex>, entonces <fr:tex display="block"><![CDATA[\frac {f(t^+) + f(t^-)}{2} = \frac {1}{2\pi }\lim _{a\to \infty } \int _{-a}^{a}e^{i\omega  t} \hat  f(\omega )d\omega  =: \frac {1}{2\pi }VP\int _{-\infty }^{\infty }e^{i\omega  t}\hat  f(\omega )d\omega .]]></fr:tex> En particular, si <fr:tex display="inline"><![CDATA[f]]></fr:tex> es continua en <fr:tex display="inline"><![CDATA[t]]></fr:tex> esta expresión nos dice que el valor principal toma precisamente el valor <fr:tex display="inline"><![CDATA[f(t)]]></fr:tex>.</html:p>
+    <html:p><html:em>Demostración</html:em>.
+Sea <fr:tex display="inline"><![CDATA[a>0]]></fr:tex>. Entonces <fr:tex display="block"><![CDATA[\begin {align*}
+S_p(t) &= \frac {1}{2\pi } \int _{-a}^{a} \hat  f(\omega )e^{i\omega  t} d\omega  \\
+& = \frac {1}{2\pi } \int _{-a}^{a}\left [ \int _{-\infty }^{\infty }f(x)e^{-i\omega  x}dx \right ]d\omega .
+\end {align*}]]></fr:tex>
+Como <fr:tex display="inline"><![CDATA[f(x)e^{-i\omega  x}]]></fr:tex> está en <fr:tex display="inline"><![CDATA[L^1(\mathbb  R^2)]]></fr:tex> (notemos que solo toma valores no nulos en el intervalo <fr:tex display="inline"><![CDATA[\omega \in [-a,a]]]></fr:tex>) podemos aplicar Fubini, y <fr:tex display="block"><![CDATA[
+\begin {align*}
+S_p(t) &= \frac {1}{2\pi } \int _{-\infty }^{\infty }\left [ \int _{-a}^{a}f(x)e^{-i\omega (x-t)}d\omega  \right ]dx \\
+&= \frac {2}{2\pi } \int _{-\infty }^{\infty } f(x)\frac {\sin {a(x-t)}}{x-t}dx \\
+(y:=x-t) &= \int _{-\infty }^{\infty } f(t+y) \frac {\sin {py}}{y}dy
+\end {align*}
+    ]]></fr:tex></html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

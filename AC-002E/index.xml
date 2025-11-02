@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>11</fr:month>
+      <fr:day>2</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-002E.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/AC-002E/</fr:uri>
+    <fr:display-uri>AC-002E</fr:display-uri>
+    <fr:route>/AC-002E/</fr:route>
+    <fr:title text="Clausura entera o íntegra sobre un ideal">Clausura entera o íntegra sobre un ideal</fr:title>
+    <fr:taxon>Definición</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Sean <fr:tex display="inline"><![CDATA[A\subset  B]]></fr:tex> <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillos</fr:link> y dominios de integridad, con <fr:tex display="inline"><![CDATA[A]]></fr:tex> <fr:link href="/AC-0026/" title="Anillo normal y normalización de un anillo" uri="https://juan-mad.github.io/AC-0026/" display-uri="AC-0026" type="local">íntegramente cerrado</fr:link>, y sea <fr:tex display="inline"><![CDATA[x\in  B]]></fr:tex>. Son equivalentes:
+<html:ul><html:li><fr:tex display="inline"><![CDATA[x]]></fr:tex> es <fr:link href="/AC-001Z/" title="Elemento entero o íntegro sobre un anillo" uri="https://juan-mad.github.io/AC-001Z/" display-uri="AC-001Z" type="local">entero sobre <fr:tex display="inline"><![CDATA[A]]></fr:tex></fr:link>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[x]]></fr:tex>, como elemento del cuerpo de fracciones de <fr:tex display="inline"><![CDATA[B]]></fr:tex>, es algebraico sobre el cuerpo de fracciones de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, <fr:tex display="inline"><![CDATA[k(A)]]></fr:tex>, y el polinomio mónico irreducible de <fr:tex display="inline"><![CDATA[x]]></fr:tex> sobre <fr:tex display="inline"><![CDATA[k(A)]]></fr:tex> tiene coeficientes en <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:li></html:ul></html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/M.%20F.%20Atiyah" type="external">M. F. Atiyah</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/I.%20G.%20MacDonald" type="external">I. G. MacDonald</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/atiyah-macdonald-intro-alg-conm.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/</fr:uri>
+            <fr:display-uri>atiyah-macdonald-intro-alg-conm</fr:display-uri>
+            <fr:route>/atiyah-macdonald-intro-alg-conm/</fr:route>
+            <fr:title text="Introducción al álgebra conmutativa">Introducción al álgebra conmutativa</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="bibtex"><![CDATA[@book{alma991005416249705774,
+author = {Atiyah, M. F. and MacDonald, I. G.},
+address = {Barcelona [etc},
+booktitle = {Introducción al álgebra conmutativa},
+isbn = {84-291-5008-0},
+keywords = {Algebra Conmutativa},
+language = {spa},
+publisher = {Reverté},
+title = {Introducción al álgebra conmutativa },
+year = {1978},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>2</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0026.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-0026/</fr:uri>
+            <fr:display-uri>AC-0026</fr:display-uri>
+            <fr:route>/AC-0026/</fr:route>
+            <fr:title text="Anillo normal y normalización de un anillo">Anillo normal y normalización de un anillo</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link> y dominio de integridad. Se dice que <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <html:em>normal</html:em> si es <fr:link href="/AC-0023/" title="Clausura entera o íntegra" uri="https://juan-mad.github.io/AC-0023/" display-uri="AC-0023" type="local">íntegramente cerrado</fr:link> en su <fr:link href="/AC-0019/" title="Anillo de fracciones" uri="https://juan-mad.github.io/AC-0019/" display-uri="AC-0019" type="local">anillo de fracciones</fr:link>. En general, la <fr:link href="/AC-0023/" title="Clausura entera o íntegra" uri="https://juan-mad.github.io/AC-0023/" display-uri="AC-0023" type="local">clausura entera</fr:link> de cualquier dominio de integridad en su anillo de fracciones se denomina la <html:em>normalización de <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>1</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-001Z.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-001Z/</fr:uri>
+            <fr:display-uri>AC-001Z</fr:display-uri>
+            <fr:route>/AC-001Z/</fr:route>
+            <fr:title text="Elemento entero o íntegro sobre un anillo">Elemento entero o íntegro sobre un anillo</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[B]]></fr:tex> un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link> y sea <fr:tex display="inline"><![CDATA[A\subset  B]]></fr:tex> un subanillo. Se dice que <fr:tex display="inline"><![CDATA[b\in  B]]></fr:tex> es <html:em>entero o íntegro sobre <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em> si existe un polinomio mónico con coeficientes en <fr:tex display="inline"><![CDATA[A]]></fr:tex> tal que <fr:tex display="block"><![CDATA[x^n + a_1x^{n-1} + \cdots  + a_n = 0, \,\,\,a_i\in  A, i=1,\dots ,n.]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>21</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0002.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-0002/</fr:uri>
+            <fr:display-uri>AC-0002</fr:display-uri>
+            <fr:route>/AC-0002/</fr:route>
+            <fr:title text="Anillos">Anillos</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un <html:em>anillo</html:em> <fr:tex display="inline"><![CDATA[A]]></fr:tex> es un conjunto con dos operaciones binarias, normalmente llamadas adición y multiplicación, tales que:
+<html:ol><html:li><fr:tex display="inline"><![CDATA[A]]></fr:tex> es un grupo abeliano respecto a la adición</html:li>
+    <html:li>La multiplicación es asociativa y distributiva respecto a la adición</html:li></html:ol></html:p>
+            <html:p>Se dice que un anillo es <html:em>conmutativo</html:em> si la multiplicación conmuta, <fr:tex display="block"><![CDATA[xy = yx \text { para cada }x, y \in  A,]]></fr:tex> y que es <html:em>unitario</html:em> si tiene un elemento unidad para la multiplicación, <fr:tex display="inline"><![CDATA[1_A]]></fr:tex>, tal que <fr:tex display="block"><![CDATA[x1 = 1x = x \text { para todo } x\in  A.]]></fr:tex></html:p>
+            <html:p>
+              <html:strong>En general, se denominará siempre por anillo a un <html:em>anillo conmutativo unitario</html:em> a no ser que se especifique lo contrario.</html:strong>
+            </html:p>
+            <html:p>Un subconjunto <fr:tex display="inline"><![CDATA[S]]></fr:tex> de un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> es un <html:em>subanillo</html:em> de <fr:tex display="inline"><![CDATA[A]]></fr:tex> si <fr:tex display="inline"><![CDATA[S]]></fr:tex> es cerrado respecto la adición y multiplicación y contiene el elemento unidad de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

@@ -83,7 +83,7 @@
             <fr:uri>https://juan-mad.github.io/VC-0009/</fr:uri>
             <fr:display-uri>VC-0009</fr:display-uri>
             <fr:route>/VC-0009/</fr:route>
-            <fr:title text="'Indice de una curva respecto a un punto">'Indice de una <fr:link href="/VC-0002/" title="Curva en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-0002/" display-uri="VC-0002" type="local">curva</fr:link> respecto a un punto</fr:title>
+            <fr:title text="Índice de una curva respecto a un punto">Índice de una <fr:link href="/VC-0002/" title="Curva en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-0002/" display-uri="VC-0002" type="local">curva</fr:link> respecto a un punto</fr:title>
             <fr:taxon>Definición</fr:taxon>
             <fr:meta name="sources">
               <fr:link href="/ash-nov-cvs/" title="Complex Variables" uri="https://juan-mad.github.io/ash-nov-cvs/" display-uri="ash-nov-cvs" type="local" />
