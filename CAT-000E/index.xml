@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>11</fr:month>
+      <fr:day>4</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-000E.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/CAT-000E/</fr:uri>
+    <fr:display-uri>CAT-000E</fr:display-uri>
+    <fr:route>/CAT-000E/</fr:route>
+    <fr:title text="Categoría de un conjunto parcialmente ordenado">Categoría de un conjunto parcialmente ordenado</fr:title>
+    <fr:taxon>Ejemplo</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Dado un conjunto parcialmente ordenado <fr:tex display="inline"><![CDATA[(X,\leq )]]></fr:tex>, es decir, un conjunto <fr:tex display="inline"><![CDATA[X]]></fr:tex> y un orden parcial <fr:tex display="inline"><![CDATA[\leq ]]></fr:tex> (es decir, reflexivo, transitivo y antisimétrico), se define una categoría <fr:tex display="inline"><![CDATA[\mathsf {X}]]></fr:tex> tal que: <html:ul><html:li>Los elementos de <fr:tex display="inline"><![CDATA[X]]></fr:tex> son los objetos.</html:li>
+<html:li>Dados dos elementos <fr:tex display="inline"><![CDATA[x,y\in  X]]></fr:tex>, el conjunto de morfismos es <fr:tex display="block"><![CDATA[\operatorname {Hom}(x,y) = \begin {cases}\{*\} & \text { si } x\leq  y \\ \emptyset  & \text { si no.} \end {cases}]]></fr:tex> donde <fr:tex display="inline"><![CDATA[\{*\}]]></fr:tex> es un conjunto con un elemento.</html:li></html:ul></html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/Emily%20Riehl/" type="external">Emily Riehl</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/category-theory-context-riehl.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/category-theory-context-riehl/</fr:uri>
+            <fr:display-uri>category-theory-context-riehl</fr:display-uri>
+            <fr:route>/category-theory-context-riehl/</fr:route>
+            <fr:title text="Category Theory in Context">Category Theory in Context</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>
+              <fr:link href="https://emilyriehl.github.io/files/context.pdf" type="external">https://emilyriehl.github.io/files/context.pdf</fr:link>
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>4</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000I.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-000I/</fr:uri>
+            <fr:display-uri>CAT-000I</fr:display-uri>
+            <fr:route>/CAT-000I/</fr:route>
+            <fr:title text="Isomorfismo en una categoría">Isomorfismo en una categoría</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un <html:em>isomorfismo</html:em> en una <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categoría</fr:link> es un morfismo <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y]]></fr:tex> para el cual existe un morfismo <fr:tex display="inline"><![CDATA[g\colon Y\rightarrow X]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[gf=1_X]]></fr:tex> y <fr:tex display="inline"><![CDATA[fg=1_Y]]></fr:tex>. Decimos que dos objetos <fr:tex display="inline"><![CDATA[X]]></fr:tex> e <fr:tex display="inline"><![CDATA[Y]]></fr:tex> son <html:em>isomorfos</html:em> cuando existe un isomorfismo entre <fr:tex display="inline"><![CDATA[X]]></fr:tex> e <fr:tex display="inline"><![CDATA[Y]]></fr:tex>; en este caso escribimos <fr:tex display="inline"><![CDATA[X\cong  Y]]></fr:tex>.</html:p>
+            <html:p>En particular, todo isomorfismo es un <fr:link href="/CAT-000K/" title="Monomorfismo" uri="https://juan-mad.github.io/CAT-000K/" display-uri="CAT-000K" type="local">monomorfismo</fr:link> y un <fr:link href="/CAT-000L/" title="Epimorfismo" uri="https://juan-mad.github.io/CAT-000L/" display-uri="CAT-000L" type="local">epimorfismo</fr:link>.</html:p>
+            <html:p>Un endomorfismo, es decir, un morfismo con igual dominio y codominio, que también es isomorfismo recibe el nombre de <html:em>automorfismo</html:em>.</html:p>
+            <html:p>Algunos ejemplos de isomorfismos son: <html:ul><html:li>Los <fr:link href="/CAT-0003/" title="Categoría de conjuntos" uri="https://juan-mad.github.io/CAT-0003/" display-uri="CAT-0003" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Set}]]></fr:tex></fr:link> son las biyecciones.</html:li>
+    <html:li>Los <fr:link href="/CAT-0005/" title="Categoría de grupos" uri="https://juan-mad.github.io/CAT-0005/" display-uri="CAT-0005" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Group}]]></fr:tex></fr:link> son los homomorfismos biyectivos.</html:li>
+    <html:li>Los <fr:link href="/CAT-0006/" title="Categoría de anillos" uri="https://juan-mad.github.io/CAT-0006/" display-uri="CAT-0006" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Ring}]]></fr:tex></fr:link> son los homomorfismos biyectivos.</html:li>
+    <html:li>Los <fr:link href="/CAT-0007/" title="Categoría de cuerpos" uri="https://juan-mad.github.io/CAT-0007/" display-uri="CAT-0007" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Field}]]></fr:tex></fr:link> son los homomorfismos biyectivos.</html:li>
+    <html:li>Los <fr:link href="/CAT-0008/" title="Categoría de módulos sobre un anillo" uri="https://juan-mad.github.io/CAT-0008/" display-uri="CAT-0008" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Mod}_R]]></fr:tex></fr:link> son los homomorfismos biyectivos.</html:li>
+    <html:li>En la <fr:link href="/CAT-000E/" title="Categoría de un conjunto parcialmente ordenado" uri="https://juan-mad.github.io/CAT-000E/" display-uri="CAT-000E" type="local">categoría de un conjunto parcialmente ordenado</fr:link> <fr:tex display="inline"><![CDATA[(\mathsf {P}, \leq )]]></fr:tex>, los únicos isomorfismos son las identidades.</html:li></html:ul></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

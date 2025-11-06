@@ -186,7 +186,7 @@
     <html:li><fr:tex display="inline"><![CDATA[\Omega  = \sum _{n=1}^\infty  K_n]]></fr:tex>.</html:li></html:ol>
 Notemos que por compacidad, cualquier compacto <fr:tex display="inline"><![CDATA[K\subset \Omega ]]></fr:tex> estará contenido en algún <fr:tex display="inline"><![CDATA[K_n]]></fr:tex>.
 </html:p>
-            <html:p>Una posible construcción es la siguiente: <fr:tex display="block"><![CDATA[K_n = \overline {B}(0, n)\cap  \{ z\in \mathbb  C : \mathrm {dist}(z, \mathbb  C \setminus  \Omega ) \geq  1/n \}.]]></fr:tex> ignorando los términos previos a cierto <fr:tex display="inline"><![CDATA[n_0\in  \mathbb  N]]></fr:tex> para los cuales <fr:tex display="inline"><![CDATA[K_n = 0]]></fr:tex>.</html:p>
+            <html:p>Una posible construcción es la siguiente: <fr:tex display="block"><![CDATA[K_n = \overline {B}(0, n)\cap  \{ z\in \mathbb  C : \operatorname {dist}(z, \mathbb  C \setminus  \Omega ) \geq  1/n \}.]]></fr:tex> ignorando los términos previos a cierto <fr:tex display="inline"><![CDATA[n_0\in  \mathbb  N]]></fr:tex> para los cuales <fr:tex display="inline"><![CDATA[K_n = 0]]></fr:tex>.</html:p>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>

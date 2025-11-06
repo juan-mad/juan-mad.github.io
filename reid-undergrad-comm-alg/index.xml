@@ -47,13 +47,273 @@
             <fr:date>
               <fr:year>2025</fr:year>
               <fr:month>11</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000C.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AG-000C/</fr:uri>
+            <fr:display-uri>AG-000C</fr:display-uri>
+            <fr:route>/AG-000C/</fr:route>
+            <fr:title text="Relación entre ideales y conjuntos algebraicos">Relación entre ideales y conjuntos algebraicos</fr:title>
+            <fr:taxon>Corolario</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+            </fr:meta>
+            <fr:meta name="related">
+              <fr:link href="/AG-0008/" title="Variedades algebraicas afines y cuasi-afines" uri="https://juan-mad.github.io/AG-0008/" display-uri="AG-0008" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo algebraicamente cerrado. Las funciones <fr:tex display="inline"><![CDATA[V]]></fr:tex> e <fr:tex display="inline"><![CDATA[I]]></fr:tex> inducen correspondencias biyectivas entre <fr:tex display="block"><![CDATA[\left \{ \text {ideales radicales }J \subset  k[X_1,\dots ,X_n] \right \} \longleftrightarrow  \left \{ \begin {align*} \text {conjuntos algebraicos de } \mathbb  A^n \end {align*}\right \} ]]></fr:tex> y en particular <fr:tex display="block"><![CDATA[
+
+\left \{ \text {ideales primos }J \subset  k[X_1,\dots ,X_n] \right \} \longleftrightarrow  \left \{ \begin {align*} \text {variedades afines de } \mathbb  A^n \end {align*}\right \}.
+]]></fr:tex>
+
+Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_n]/J]]></fr:tex> para algún <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link> <fr:tex display="inline"><![CDATA[J\subset  k[X_1,\dots ,X_n]]]></fr:tex> (donde <fr:tex display="inline"><![CDATA[x_i = X_i\mod  J]]></fr:tex>), entonces existe una correspondencia biyectiva <fr:tex display="block"><![CDATA[
+\operatorname {Spec} A \longleftrightarrow  \left \{ \text {variedades afines } Y \subset  V(J)\right \},
+]]></fr:tex> ya que los ideales primos de <fr:tex display="inline"><![CDATA[A]]></fr:tex> son precisamente los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[k[X_1,\dots ,X_n]]]></fr:tex> que contienen a <fr:tex display="inline"><![CDATA[J]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000B.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AG-000B/</fr:uri>
+            <fr:display-uri>AG-000B</fr:display-uri>
+            <fr:route>/AG-000B/</fr:route>
+            <fr:title text="Conjuntos algebraicos irreducibles e ideales primos">Conjuntos algebraicos irreducibles e ideales primos</fr:title>
+            <fr:taxon>Proposición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Una <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjunto algebraico</fr:link> <fr:tex display="inline"><![CDATA[X\subset \mathbb  A^n]]></fr:tex> es irreducible si y sólo si <fr:link href="/AG-0009/" title="Ideal de polinomios que se anulan en un subconjunto del espacio afín" uri="https://juan-mad.github.io/AG-0009/" display-uri="AG-0009" type="local">el ideal <fr:tex display="inline"><![CDATA[I(X)\subset  k[x_1,\dots ,x_n]]]></fr:tex></fr:link> es un <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/algebras/AC-002N.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002N/</fr:uri>
+            <fr:display-uri>AC-002N</fr:display-uri>
+            <fr:route>/AC-002N/</fr:route>
+            <fr:title text="Teorema de los ceros de Hilbert (Nullstellenstaz)">Teorema de los ceros de Hilbert (Nullstellenstaz)</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+            </fr:meta>
+            <fr:meta name="related">
+              <fr:link href="/AC-002L/" title="Radical de un ideal e ideal radical" uri="https://juan-mad.github.io/AC-002L/" display-uri="AC-002L" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo algebraicamente cerrado. <html:ol><html:li>Si <fr:tex display="inline"><![CDATA[J\subsetneq  k[X_1,\dots ,X_n]]]></fr:tex> es un <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link> propio, entonces el <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjunto algebraico</fr:link> <fr:tex display="inline"><![CDATA[V(J)\neq  \emptyset ]]></fr:tex>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[I(V(J)) = \sqrt {J}]]></fr:tex>, donde <fr:tex display="inline"><![CDATA[I(V(J))]]></fr:tex> es el <fr:link href="/AG-0009/" title="Ideal de polinomios que se anulan en un subconjunto del espacio afín" uri="https://juan-mad.github.io/AG-0009/" display-uri="AG-0009" type="local">ideal de los polinomios que se anulan en <fr:tex display="inline"><![CDATA[V(J)]]></fr:tex></fr:link>.</html:li></html:ol>
+
+Como consecuencia de este teorema, se tiene que si <fr:tex display="inline"><![CDATA[J_1,J_2\subset  A=k[X_1,\dots ,X_n]]]></fr:tex> son dos <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideales</fr:link>, entonces <fr:tex display="block"><![CDATA[V(J_1) = V(J_2) \,\,\,\Longrightarrow  \,\,\,\sqrt {J_1} = \sqrt {J_2}.]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/algebras/AC-002M.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002M/</fr:uri>
+            <fr:display-uri>AC-002M</fr:display-uri>
+            <fr:route>/AC-002M/</fr:route>
+            <fr:title text="Ideales maximales de un álgebra finitamente generada">Ideales maximales de un álgebra finitamente generada</fr:title>
+            <fr:taxon>Proposición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo algebraicamente cerrado, y sea un <fr:link href="/AC-001Y/" title="Álgebras con generación finita" uri="https://juan-mad.github.io/AC-001Y/" display-uri="AC-001Y" type="local">álgebra finitamente generada</fr:link> de la forma <fr:tex display="inline"><![CDATA[A=k[x_1,\dots , x_n]=k[X_1,\dots ,X_n]/J]]></fr:tex>, donde <fr:tex display="inline"><![CDATA[J]]></fr:tex> es un <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link> de <fr:tex display="inline"><![CDATA[k[X_1,\dots ,X_n]]]></fr:tex> (notemos que <fr:tex display="inline"><![CDATA[x_i = X_i\mod  J]]></fr:tex>). Entonces todo ideal maximal de <fr:tex display="inline"><![CDATA[A]]></fr:tex> es de la forma <fr:tex display="block"><![CDATA[m = \langle  x_1 - a_1, \dots , x_n - a_n \rangle , \,\,\, (a_1,\dots ,a_n)\in  V(J),]]></fr:tex> donde <fr:tex display="inline"><![CDATA[V(J)]]></fr:tex> es el <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjunto algebraico</fr:link> de <fr:tex display="inline"><![CDATA[J]]></fr:tex>.</html:p>
+            <html:p>Este resultado nos da una correspondencia biyectiva natural entre <fr:tex display="inline"><![CDATA[V(J)]]></fr:tex> y los ideales maximales de <fr:tex display="inline"><![CDATA[A = k[X_1,\dots ,X_N]/J]]></fr:tex> definida por <fr:tex display="block"><![CDATA[(a_1,\dots ,a_n) \longleftrightarrow  \langle  x_1 - a_1,\dots ,x_n - a_n \rangle .]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-002L.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002L/</fr:uri>
+            <fr:display-uri>AC-002L</fr:display-uri>
+            <fr:route>/AC-002L/</fr:route>
+            <fr:title text="Radical de un ideal e ideal radical">Radical de un ideal e ideal radical</fr:title>
+            <fr:taxon>Proposición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[I]]></fr:tex> un <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link> de un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link> <fr:tex display="inline"><![CDATA[A]]></fr:tex>. Se define el <html:em>radical del ideal <fr:tex display="inline"><![CDATA[I]]></fr:tex></html:em> como <fr:tex display="block"><![CDATA[\operatorname {rad} I = \sqrt {I} = \{ f\in  A : f^n\in  A \text { para algún } n\geq  1\}.]]></fr:tex> En particular, el radical de un ideal es un ideal.</html:p>
+            <html:p>Si un ideal <fr:tex display="inline"><![CDATA[I]]></fr:tex> es igual a su radical, <fr:tex display="inline"><![CDATA[I=\sqrt {I}]]></fr:tex>, se dice que es un <html:em>ideal radical</html:em>. En particular, todo <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link> es un ideal radical.</html:p>
+            <html:p>Se puede ver que <fr:tex display="inline"><![CDATA[\sqrt {I}]]></fr:tex> es igual a la intersección de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> que contienen a <fr:tex display="inline"><![CDATA[I]]></fr:tex>, <fr:tex display="block"><![CDATA[\sqrt {I} = \bigcap _{\substack {P\supset  I, \\ P\in \operatorname {Spec} A}}P]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>4</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/algebras/AC-002K.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002K/</fr:uri>
+            <fr:display-uri>AC-002K</fr:display-uri>
+            <fr:route>/AC-002K/</fr:route>
+            <fr:title text="Ideales maximales de un álgebra de los polinomios sobre cuerpo algebraicamente cerrado">Ideales maximales de un álgebra de los polinomios sobre cuerpo algebraicamente cerrado</fr:title>
+            <fr:taxon>Proposición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo algebraicamente cerrado, y sea <fr:tex display="inline"><![CDATA[A=k[X_1,\dots , X_n]]]></fr:tex>. Entonces todo ideal maximal de <fr:tex display="inline"><![CDATA[A]]></fr:tex> es de la forma <fr:tex display="block"><![CDATA[m = \langle  X_1 - \alpha _1, \dots , X_n - \alpha _n \rangle , \,\,\, \alpha _i \in  k, i=1,\dots ,n.]]></fr:tex> El paso al cociente <fr:tex display="inline"><![CDATA[K[X_1,\dots ,X_n]\rightarrow  k[X_1,\dots ,X_n]/m = k]]></fr:tex> es la aplicación natural de evaluación <fr:tex display="inline"><![CDATA[f(X_1,\dots ,X_n)\mapsto  f(\alpha _1,\dots ,\alpha _n)]]></fr:tex>.</html:p>
+            <html:p>Este resultado nos da una correspondencia biyectiva natural entre <fr:tex display="inline"><![CDATA[k^n]]></fr:tex> o el <fr:link href="/AG-0002/" title="Espacio afín n-dimensional" uri="https://juan-mad.github.io/AG-0002/" display-uri="AG-0002" type="local">espacio afín</fr:link> <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex> y los ideales maximales de <fr:tex display="inline"><![CDATA[k[X_1,\dots ,X_N]]]></fr:tex> definida por <fr:tex display="block"><![CDATA[(\alpha _1,\dots ,\alpha _n) \longleftrightarrow  \langle  X_1 - \alpha _1,\dots ,X_n - \alpha _n \rangle .]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>4</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/algebras/AC-002J.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002J/</fr:uri>
+            <fr:display-uri>AC-002J</fr:display-uri>
+            <fr:route>/AC-002J/</fr:route>
+            <fr:title text="Teorema débil de los ceros (Nullstellenstaz)">Teorema débil de los ceros (Nullstellenstaz)</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo y <fr:tex display="inline"><![CDATA[K]]></fr:tex> una <fr:link href="/AC-001V/" title="Álgebras" uri="https://juan-mad.github.io/AC-001V/" display-uri="AC-001V" type="local"><fr:tex display="inline"><![CDATA[k]]></fr:tex>-álgebra</fr:link> tal que <html:ul><html:li><fr:tex display="inline"><![CDATA[K]]></fr:tex> está <fr:link href="/AC-001Y/" title="Álgebras con generación finita" uri="https://juan-mad.github.io/AC-001Y/" display-uri="AC-001Y" type="local">finitamente generada como <fr:tex display="inline"><![CDATA[k]]></fr:tex>-álgebra</fr:link>, y</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[K]]></fr:tex> es un cuerpo.</html:li></html:ul>
+Entonces <fr:tex display="inline"><![CDATA[K]]></fr:tex> es una extensión de cuerpos algebraica y finita sobre <fr:tex display="inline"><![CDATA[k]]></fr:tex>.
+</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>4</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/algebras/AC-002I.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002I/</fr:uri>
+            <fr:display-uri>AC-002I</fr:display-uri>
+            <fr:route>/AC-002I/</fr:route>
+            <fr:title text="Lema de normalización de Noether">Lema de normalización de Noether</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo, <fr:tex display="inline"><![CDATA[A]]></fr:tex> una <fr:link href="/AC-001Y/" title="Álgebras con generación finita" uri="https://juan-mad.github.io/AC-001Y/" display-uri="AC-001Y" type="local"><fr:tex display="inline"><![CDATA[k]]></fr:tex>-álgebra finitamente generada</fr:link>. Entonces existen elementos <fr:tex display="inline"><![CDATA[y_1,\dots ,y_n \in  A]]></fr:tex> tales que <html:ul><html:li><fr:tex display="inline"><![CDATA[y_1,\dots ,y_n]]></fr:tex> son <fr:link href="/AC-002H/" title="Elementos algebraicamente independientes sobre un cuerpo" uri="https://juan-mad.github.io/AC-002H/" display-uri="AC-002H" type="local">algebraicamente independientes sobre <fr:tex display="inline"><![CDATA[k]]></fr:tex></fr:link>, y</html:li>
+<html:li><fr:tex display="inline"><![CDATA[A]]></fr:tex> es <fr:link href="/AC-001X/" title="Álgebras finitas" uri="https://juan-mad.github.io/AC-001X/" display-uri="AC-001X" type="local">finita</fr:link> sobre <fr:tex display="inline"><![CDATA[B=k[y_1,\dots ,y_n]]]></fr:tex>.</html:li></html:ul>
+Es decir, una <fr:link href="/AC-001Y/" title="Álgebras con generación finita" uri="https://juan-mad.github.io/AC-001Y/" display-uri="AC-001Y" type="local">extensión de generación finita</fr:link> <fr:tex display="inline"><![CDATA[k\subset  A]]></fr:tex> puede escribirse como una composición <fr:tex display="block"><![CDATA[k\subset  B = k[y_1,\dots ,y_n]\subset  A,]]></fr:tex> donde <fr:tex display="inline"><![CDATA[k\subset  B]]></fr:tex> es una <fr:link href="/AC-001Y/" title="Álgebras con generación finita" uri="https://juan-mad.github.io/AC-001Y/" display-uri="AC-001Y" type="local">"extensión polinómica"</fr:link> y <fr:tex display="inline"><![CDATA[B\subset  A]]></fr:tex> es una <fr:link href="/AC-001X/" title="Álgebras finitas" uri="https://juan-mad.github.io/AC-001X/" display-uri="AC-001X" type="local">extensión finita</fr:link>.</html:p>
+            <html:p>En particular, si el cuerpo es finito, <fr:tex display="inline"><![CDATA[|k|=\infty ]]></fr:tex> (no importa su característica), entonces pueden elegirse los <fr:tex display="inline"><![CDATA[y_i, i=1,\dots ,n]]></fr:tex> como combinación lineal de los <fr:tex display="inline"><![CDATA[Y_1,\dots , Y_n]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>4</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/algebras/AC-002H.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002H/</fr:uri>
+            <fr:display-uri>AC-002H</fr:display-uri>
+            <fr:route>/AC-002H/</fr:route>
+            <fr:title text="Elementos algebraicamente independientes sobre un cuerpo">Elementos algebraicamente independientes sobre un cuerpo</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo y <fr:tex display="inline"><![CDATA[A]]></fr:tex> una <fr:link href="/AC-001V/" title="Álgebras" uri="https://juan-mad.github.io/AC-001V/" display-uri="AC-001V" type="local"><fr:tex display="inline"><![CDATA[k]]></fr:tex>-álgebra</fr:link>. Se dice que unos elementos <fr:tex display="inline"><![CDATA[y_1,\dots ,y_n]]></fr:tex> son <html:em>algebraicamente independientes sobre <fr:tex display="inline"><![CDATA[k]]></fr:tex></html:em> si no existe ningún polinomio <fr:tex display="inline"><![CDATA[F[Y_1,\dots , Y_n]\in  k[Y_1,\dots ,Y_n]]]></fr:tex> no nulo tal que <fr:tex display="block"><![CDATA[F(y_1,\dots ,y_n) = 0.]]></fr:tex> Equivalentemente, la aplicación sobreyectiva natural <fr:tex display="block"><![CDATA[K[Y_1,\dots ,Y_n]\longrightarrow  k[y_1,\dots ,y_n]]]></fr:tex> es un isomorfismo.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
               <fr:day>2</fr:day>
             </fr:date>
             <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-002G.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-002G/</fr:uri>
             <fr:display-uri>AC-002G</fr:display-uri>
             <fr:route>/AC-002G/</fr:route>
-            <fr:title text="Álgebras finitas sobre un anillo son enteras sobre él">Álgebras finitas sobre un anillo son enteras sobre él</fr:title>
+            <fr:title text="Propiedades de álgebras finitas">Propiedades de álgebras finitas</fr:title>
             <fr:taxon>Proposición</fr:taxon>
             <fr:meta name="sources">
               <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
@@ -114,7 +374,7 @@
             </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Un <html:em>cuerpo de números algebraicos</html:em> o <html:em>cuerpo numérico</html:em> es una extensión de cuerpos <fr:tex display="inline"><![CDATA[K]]></fr:tex> finita de los números racionales <fr:tex display="inline"><![CDATA[\mathbb  Q]]></fr:tex>; es decir, <fr:tex display="inline"><![CDATA[\mathbb  Q\subset  K]]></fr:tex> y <fr:tex display="inline"><![CDATA[[K:\mathbb  Q] = \mathrm {dim}_\mathbb  Q\, K < \infty ]]></fr:tex>. </html:p>
+            <html:p>Un <html:em>cuerpo de números algebraicos</html:em> o <html:em>cuerpo numérico</html:em> es una extensión de cuerpos <fr:tex display="inline"><![CDATA[K]]></fr:tex> finita de los números racionales <fr:tex display="inline"><![CDATA[\mathbb  Q]]></fr:tex>; es decir, <fr:tex display="inline"><![CDATA[\mathbb  Q\subset  K]]></fr:tex> y <fr:tex display="inline"><![CDATA[[K:\mathbb  Q] = \operatorname {dim}_\mathbb  Q\, K < \infty ]]></fr:tex>. </html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -220,9 +480,9 @@
             </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Para un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> y un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[M]]></fr:tex>, introducimos una noción de endomorfismo "multiplicación" <fr:tex display="inline"><![CDATA[\mu \colon  A \rightarrow  \mathrm {End}(M)]]></fr:tex>, de forma que a cada elemento <fr:tex display="inline"><![CDATA[a]]></fr:tex> de <fr:tex display="inline"><![CDATA[A]]></fr:tex> se le asigna la aplicación <fr:tex display="inline"><![CDATA[\mu _a\colon M\rightarrow M]]></fr:tex> que envía <fr:tex display="inline"><![CDATA[m\mapsto  am]]></fr:tex>. Gracias a la conmutatividad de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mu ]]></fr:tex> es un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo de anillos</fr:link>.
+            <html:p>Para un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> y un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[M]]></fr:tex>, introducimos una noción de endomorfismo "multiplicación" <fr:tex display="inline"><![CDATA[\mu \colon  A \rightarrow  \operatorname {End}(M)]]></fr:tex>, de forma que a cada elemento <fr:tex display="inline"><![CDATA[a]]></fr:tex> de <fr:tex display="inline"><![CDATA[A]]></fr:tex> se le asigna la aplicación <fr:tex display="inline"><![CDATA[\mu _a\colon M\rightarrow M]]></fr:tex> que envía <fr:tex display="inline"><![CDATA[m\mapsto  am]]></fr:tex>. Gracias a la conmutatividad de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mu ]]></fr:tex> es un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo de anillos</fr:link>.
 </html:p>
-            <html:p>Si <fr:tex display="inline"><![CDATA[\varphi \in \mathrm {End}(M)]]></fr:tex>, denotaremos <fr:tex display="inline"><![CDATA[\mu (A)[\varphi ]\subset \mathrm {End}(M)]]></fr:tex> al subanillo generado por <fr:tex display="inline"><![CDATA[A]]></fr:tex> y la acción de <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex>, que es conmutativo. Esta construcción formal hace a <fr:tex display="inline"><![CDATA[M]]></fr:tex> un módulo sobre <fr:tex display="inline"><![CDATA[\mu (A)[\varphi ]\subset \mathrm {End}(M)]]></fr:tex>.
+            <html:p>Si <fr:tex display="inline"><![CDATA[\varphi \in \operatorname {End}(M)]]></fr:tex>, denotaremos <fr:tex display="inline"><![CDATA[\mu (A)[\varphi ]\subset \operatorname {End}(M)]]></fr:tex> al subanillo generado por <fr:tex display="inline"><![CDATA[A]]></fr:tex> y la acción de <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex>, que es conmutativo. Esta construcción formal hace a <fr:tex display="inline"><![CDATA[M]]></fr:tex> un módulo sobre <fr:tex display="inline"><![CDATA[\mu (A)[\varphi ]\subset \operatorname {End}(M)]]></fr:tex>.
 </html:p>
           </fr:mainmatter>
         </fr:tree>
@@ -249,7 +509,7 @@
             </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Se denota por <html:em><fr:tex display="inline"><![CDATA[\mathrm {Spec}]]></fr:tex>(A), el espectro de un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link> <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
+            <html:p>Se denota por <html:em><fr:tex display="inline"><![CDATA[\operatorname {Spec}]]></fr:tex>(A), el espectro de un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link> <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>

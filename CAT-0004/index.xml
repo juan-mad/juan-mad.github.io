@@ -12,7 +12,7 @@
       <fr:month>11</fr:month>
       <fr:day>3</fr:day>
     </fr:date>
-    <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-0004.tree</fr:source-path>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-0004.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/CAT-0004/</fr:uri>
     <fr:display-uri>CAT-0004</fr:display-uri>
     <fr:route>/CAT-0004/</fr:route>
@@ -50,7 +50,11 @@ También puede considerarse la categoría <fr:tex display="inline"><![CDATA[\mat
             <fr:title text="Category Theory in Context">Category Theory in Context</fr:title>
             <fr:taxon>Reference</fr:taxon>
           </fr:frontmatter>
-          <fr:mainmatter />
+          <fr:mainmatter>
+            <html:p>
+              <fr:link href="https://emilyriehl.github.io/files/context.pdf" type="external">https://emilyriehl.github.io/files/context.pdf</fr:link>
+            </html:p>
+          </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>
     </fr:tree>
@@ -83,176 +87,61 @@ También puede considerarse la categoría <fr:tex display="inline"><![CDATA[\mat
             </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>A continuación citamos algunos ejemplos de categorías.</html:p>
-            <fr:tree show-metadata="false">
-              <fr:frontmatter>
-                <fr:authors>
-                  <fr:author>
-                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-                  </fr:author>
-                </fr:authors>
-                <fr:date>
-                  <fr:year>2025</fr:year>
-                  <fr:month>11</fr:month>
-                  <fr:day>3</fr:day>
-                </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-0003.tree</fr:source-path>
-                <fr:uri>https://juan-mad.github.io/CAT-0003/</fr:uri>
-                <fr:display-uri>CAT-0003</fr:display-uri>
-                <fr:route>/CAT-0003/</fr:route>
-                <fr:title text="Categoría de conjuntos">Categoría de conjuntos</fr:title>
-                <fr:taxon>Ejemplo</fr:taxon>
-                <fr:meta name="sources">
-                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
-                </fr:meta>
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <html:p>La categoría de los conjuntos, <fr:tex display="inline"><![CDATA[\mathsf {Set}]]></fr:tex>, está formada por: <html:ul><html:li>Los conjuntos como objetos.</html:li>
+            <html:p>A continuación citamos algunos ejemplos de categorías <html:strong>concretas</html:strong>.
+
+<fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-0003.tree</fr:source-path><fr:uri>https://juan-mad.github.io/CAT-0003/</fr:uri><fr:display-uri>CAT-0003</fr:display-uri><fr:route>/CAT-0003/</fr:route><fr:title text="Categoría de conjuntos">Categoría de conjuntos</fr:title><fr:taxon>Ejemplo</fr:taxon><fr:meta name="sources"><fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>La categoría de los conjuntos, <fr:tex display="inline"><![CDATA[\mathsf {Set}]]></fr:tex>, está formada por: <html:ul><html:li>Los conjuntos como objetos.</html:li>
 <html:li>Las funciones como morfismos.</html:li></html:ul>
 También puede considerarse la categoría <fr:tex display="inline"><![CDATA[\mathsf {Set_*}]]></fr:tex> de los conjuntos con un punto base y las funciones entre conjuntos que los preservan.
-</html:p>
-              </fr:mainmatter>
-            </fr:tree>
-            <fr:tree show-metadata="false">
-              <fr:frontmatter>
-                <fr:authors>
-                  <fr:author>
-                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-                  </fr:author>
-                </fr:authors>
-                <fr:date>
-                  <fr:year>2025</fr:year>
-                  <fr:month>11</fr:month>
-                  <fr:day>3</fr:day>
-                </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-0004.tree</fr:source-path>
-                <fr:uri>https://juan-mad.github.io/CAT-0004/</fr:uri>
-                <fr:display-uri>CAT-0004</fr:display-uri>
-                <fr:route>/CAT-0004/</fr:route>
-                <fr:title text="Categoría de espacios topológicos">Categoría de espacios topológicos</fr:title>
-                <fr:taxon>Ejemplo</fr:taxon>
-                <fr:meta name="sources">
-                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
-                </fr:meta>
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <html:p>La categoría de los espacios topológicos, <fr:tex display="inline"><![CDATA[\mathsf {Top}]]></fr:tex>, está formada por: <html:ul><html:li>Los espacios topológicos, es decir, pares <fr:tex display="inline"><![CDATA[(X, \tau )]]></fr:tex> de un conjunto <fr:tex display="inline"><![CDATA[X]]></fr:tex> y una topología <fr:tex display="inline"><![CDATA[\tau ]]></fr:tex>, como objetos.</html:li>
+</html:p></fr:mainmatter></fr:tree>
+<fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-0004.tree</fr:source-path><fr:uri>https://juan-mad.github.io/CAT-0004/</fr:uri><fr:display-uri>CAT-0004</fr:display-uri><fr:route>/CAT-0004/</fr:route><fr:title text="Categoría de espacios topológicos">Categoría de espacios topológicos</fr:title><fr:taxon>Ejemplo</fr:taxon><fr:meta name="sources"><fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>La categoría de los espacios topológicos, <fr:tex display="inline"><![CDATA[\mathsf {Top}]]></fr:tex>, está formada por: <html:ul><html:li>Los espacios topológicos, es decir, pares <fr:tex display="inline"><![CDATA[(X, \tau )]]></fr:tex> de un conjunto <fr:tex display="inline"><![CDATA[X]]></fr:tex> y una topología <fr:tex display="inline"><![CDATA[\tau ]]></fr:tex>, como objetos.</html:li>
 <html:li>Las funciones continuas como morfismos.</html:li></html:ul>
 
 También puede considerarse la categoría <fr:tex display="inline"><![CDATA[\mathsf {Top_*}]]></fr:tex> de los espacios topológicos con un punto base y las funciones continuas entre ellos que los preservan.
-</html:p>
-              </fr:mainmatter>
-            </fr:tree>
-            <fr:tree show-metadata="false">
-              <fr:frontmatter>
-                <fr:authors>
-                  <fr:author>
-                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-                  </fr:author>
-                </fr:authors>
-                <fr:date>
-                  <fr:year>2025</fr:year>
-                  <fr:month>11</fr:month>
-                  <fr:day>3</fr:day>
-                </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-0005.tree</fr:source-path>
-                <fr:uri>https://juan-mad.github.io/CAT-0005/</fr:uri>
-                <fr:display-uri>CAT-0005</fr:display-uri>
-                <fr:route>/CAT-0005/</fr:route>
-                <fr:title text="Categoría de grupos">Categoría de grupos</fr:title>
-                <fr:taxon>Ejemplo</fr:taxon>
-                <fr:meta name="sources">
-                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
-                </fr:meta>
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <html:p>La categoría de los grupos, <fr:tex display="inline"><![CDATA[\mathsf {Group}]]></fr:tex>, está formada por: <html:ul><html:li>Los grupos como objetos.</html:li>
-<html:li>Los homomorfismos de grupos como morfismos.</html:li></html:ul></html:p>
-              </fr:mainmatter>
-            </fr:tree>
-            <fr:tree show-metadata="false">
-              <fr:frontmatter>
-                <fr:authors>
-                  <fr:author>
-                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-                  </fr:author>
-                </fr:authors>
-                <fr:date>
-                  <fr:year>2025</fr:year>
-                  <fr:month>11</fr:month>
-                  <fr:day>3</fr:day>
-                </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-0006.tree</fr:source-path>
-                <fr:uri>https://juan-mad.github.io/CAT-0006/</fr:uri>
-                <fr:display-uri>CAT-0006</fr:display-uri>
-                <fr:route>/CAT-0006/</fr:route>
-                <fr:title text="Categoría de anillos">Categoría de anillos</fr:title>
-                <fr:taxon>Ejemplo</fr:taxon>
-                <fr:meta name="sources">
-                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
-                </fr:meta>
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <html:p>La categoría de los <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillos conmutativos y unitarios</fr:link>, <fr:tex display="inline"><![CDATA[\mathsf {Ring}]]></fr:tex>, está formada por: <html:ul><html:li>Los <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillos conmutativos y unitarios</fr:link> como objetos.</html:li>
+</html:p></fr:mainmatter></fr:tree>
+<fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-0005.tree</fr:source-path><fr:uri>https://juan-mad.github.io/CAT-0005/</fr:uri><fr:display-uri>CAT-0005</fr:display-uri><fr:route>/CAT-0005/</fr:route><fr:title text="Categoría de grupos">Categoría de grupos</fr:title><fr:taxon>Ejemplo</fr:taxon><fr:meta name="sources"><fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>La categoría de los grupos, <fr:tex display="inline"><![CDATA[\mathsf {Group}]]></fr:tex>, está formada por: <html:ul><html:li>Los grupos como objetos.</html:li>
+<html:li>Los homomorfismos de grupos como morfismos.</html:li></html:ul></html:p></fr:mainmatter></fr:tree>
+<fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-0006.tree</fr:source-path><fr:uri>https://juan-mad.github.io/CAT-0006/</fr:uri><fr:display-uri>CAT-0006</fr:display-uri><fr:route>/CAT-0006/</fr:route><fr:title text="Categoría de anillos">Categoría de anillos</fr:title><fr:taxon>Ejemplo</fr:taxon><fr:meta name="sources"><fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>La categoría de los <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillos conmutativos y unitarios</fr:link>, <fr:tex display="inline"><![CDATA[\mathsf {Ring}]]></fr:tex>, está formada por: <html:ul><html:li>Los <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillos conmutativos y unitarios</fr:link> como objetos.</html:li>
 <html:li>Los <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismos de anillos</fr:link> como morfismos.</html:li></html:ul>
 En particular puede considerarse la categoría de anillos que no sean necesariamente conmutativos y/o unitarios y sus respectivos homomorfismos.
-</html:p>
-              </fr:mainmatter>
-            </fr:tree>
-            <fr:tree show-metadata="false">
-              <fr:frontmatter>
-                <fr:authors>
-                  <fr:author>
-                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-                  </fr:author>
-                </fr:authors>
-                <fr:date>
-                  <fr:year>2025</fr:year>
-                  <fr:month>11</fr:month>
-                  <fr:day>3</fr:day>
-                </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-0007.tree</fr:source-path>
-                <fr:uri>https://juan-mad.github.io/CAT-0007/</fr:uri>
-                <fr:display-uri>CAT-0007</fr:display-uri>
-                <fr:route>/CAT-0007/</fr:route>
-                <fr:title text="Categoría de cuerpos">Categoría de cuerpos</fr:title>
-                <fr:taxon>Ejemplo</fr:taxon>
-                <fr:meta name="sources">
-                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
-                </fr:meta>
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <html:p>La categoría de los cuerpos, <fr:tex display="inline"><![CDATA[\mathsf {Field}]]></fr:tex>, está formada por: <html:ul><html:li>Los cuerpos como objetos.</html:li>
-<html:li>Los homomorfismos de cuerpos como morfismos.</html:li></html:ul></html:p>
-              </fr:mainmatter>
-            </fr:tree>
-            <fr:tree show-metadata="false">
-              <fr:frontmatter>
-                <fr:authors>
-                  <fr:author>
-                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-                  </fr:author>
-                </fr:authors>
-                <fr:date>
-                  <fr:year>2025</fr:year>
-                  <fr:month>11</fr:month>
-                  <fr:day>3</fr:day>
-                </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-0008.tree</fr:source-path>
-                <fr:uri>https://juan-mad.github.io/CAT-0008/</fr:uri>
-                <fr:display-uri>CAT-0008</fr:display-uri>
-                <fr:route>/CAT-0008/</fr:route>
-                <fr:title text="Categoría de módulos sobre un anillo">Categoría de módulos sobre un anillo</fr:title>
-                <fr:taxon>Ejemplo</fr:taxon>
-                <fr:meta name="sources">
-                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
-                </fr:meta>
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <html:p>La categoría de los módulos por la izquierda sobre un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link> <fr:tex display="inline"><![CDATA[R]]></fr:tex> unitario pero no necesariamente conmutativo, <fr:tex display="inline"><![CDATA[\mathsf {Mod}_R]]></fr:tex>, está formada por: <html:ul><html:li>Los <fr:tex display="inline"><![CDATA[R]]></fr:tex>-módulos por la izquierda como objetos.</html:li>
+</html:p></fr:mainmatter></fr:tree>
+<fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-0007.tree</fr:source-path><fr:uri>https://juan-mad.github.io/CAT-0007/</fr:uri><fr:display-uri>CAT-0007</fr:display-uri><fr:route>/CAT-0007/</fr:route><fr:title text="Categoría de cuerpos">Categoría de cuerpos</fr:title><fr:taxon>Ejemplo</fr:taxon><fr:meta name="sources"><fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>La categoría de los cuerpos, <fr:tex display="inline"><![CDATA[\mathsf {Field}]]></fr:tex>, está formada por: <html:ul><html:li>Los cuerpos como objetos.</html:li>
+<html:li>Los homomorfismos de cuerpos como morfismos.</html:li></html:ul></html:p></fr:mainmatter></fr:tree>
+<fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-0008.tree</fr:source-path><fr:uri>https://juan-mad.github.io/CAT-0008/</fr:uri><fr:display-uri>CAT-0008</fr:display-uri><fr:route>/CAT-0008/</fr:route><fr:title text="Categoría de módulos sobre un anillo">Categoría de módulos sobre un anillo</fr:title><fr:taxon>Ejemplo</fr:taxon><fr:meta name="sources"><fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>La categoría de los módulos por la izquierda sobre un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link> <fr:tex display="inline"><![CDATA[R]]></fr:tex> unitario pero no necesariamente conmutativo, <fr:tex display="inline"><![CDATA[\mathsf {Mod}_R]]></fr:tex>, está formada por: <html:ul><html:li>Los <fr:tex display="inline"><![CDATA[R]]></fr:tex>-módulos por la izquierda como objetos.</html:li>
 <html:li>Los homomorfismos de módulos como morfismos.</html:li></html:ul>
 De manera similar, puede considerarse la categoría de los <fr:tex display="inline"><![CDATA[R]]></fr:tex>-módulos por la derecha. En el caso de que <fr:tex display="inline"><![CDATA[R]]></fr:tex> sea conmutativo, ambas categorías coinciden.
+</html:p></fr:mainmatter></fr:tree>
+<fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-0009.tree</fr:source-path><fr:uri>https://juan-mad.github.io/CAT-0009/</fr:uri><fr:display-uri>CAT-0009</fr:display-uri><fr:route>/CAT-0009/</fr:route><fr:title text="Categoría de espacios vectoriales sobre un cuerpo">Categoría de espacios vectoriales sobre un cuerpo</fr:title><fr:taxon>Ejemplo</fr:taxon><fr:meta name="sources"><fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>La categoría de los espacios vectoriales sobre un cuerpo <fr:tex display="inline"><![CDATA[k]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathsf {Vect}_k]]></fr:tex>, es precisamente la <fr:link href="/CAT-0008/" title="Categoría de módulos sobre un anillo" uri="https://juan-mad.github.io/CAT-0008/" display-uri="CAT-0008" type="local">categoría de módulos sobre un anillo</fr:link> cuando ese anillo es el cuerpo <fr:tex display="inline"><![CDATA[k]]></fr:tex>.</html:p></fr:mainmatter></fr:tree>
+<fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>11</fr:month><fr:day>3</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-000A.tree</fr:source-path><fr:uri>https://juan-mad.github.io/CAT-000A/</fr:uri><fr:display-uri>CAT-000A</fr:display-uri><fr:route>/CAT-000A/</fr:route><fr:title text="Categoría de grupos abelianos">Categoría de grupos abelianos</fr:title><fr:taxon>Ejemplo</fr:taxon><fr:meta name="sources"><fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>La categoría de los grupos abelianos, <fr:tex display="inline"><![CDATA[\mathsf {Ab}]]></fr:tex>, es precisamente la <fr:link href="/CAT-0008/" title="Categoría de módulos sobre un anillo" uri="https://juan-mad.github.io/CAT-0008/" display-uri="CAT-0008" type="local">categoría de módulos sobre un anillo</fr:link> cuando ese anillo es el anillo de los enteros <fr:tex display="inline"><![CDATA[\mathbb  Z]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathsf {Mod}_\mathbb  Z]]></fr:tex>.</html:p></fr:mainmatter></fr:tree>
+<fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-000B.tree</fr:source-path><fr:uri>https://juan-mad.github.io/CAT-000B/</fr:uri><fr:display-uri>CAT-000B</fr:display-uri><fr:route>/CAT-000B/</fr:route><fr:title text="Categoría opuesta">Categoría opuesta</fr:title><fr:taxon>Ejemplo</fr:taxon><fr:meta name="sources"><fr:link href="/solotar-farinati-anillos-categorias-representaciones/" title="Anillos y sus categorías de representaciones" uri="https://juan-mad.github.io/solotar-farinati-anillos-categorias-representaciones/" display-uri="solotar-farinati-anillos-categorias-representaciones" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>Data una categoría <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, se define la <html:em>categoría opuesta <fr:tex display="inline"><![CDATA[\mathsf {C}^{op}]]></fr:tex></html:em> definiendo:: <html:ul><html:li>Los objetos <fr:tex display="inline"><![CDATA[\mathrm {Obj}(\mathsf {C})]]></fr:tex> de la categoría como objetos.</html:li>
+<html:li>Para cada par de objetos <fr:tex display="inline"><![CDATA[X, Y]]></fr:tex> se define <fr:tex display="inline"><![CDATA[\operatorname {Hom}_{\mathsf {C}^{op}}(X,Y) \colon =\operatorname {Hom}_\mathsf {C}(Y,X)]]></fr:tex> como morfismos. La composición funciona de la forma <fr:tex display="inline"><![CDATA[f\circ _{op} g \colon = g\circ  f]]></fr:tex>.</html:li></html:ul></html:p></fr:mainmatter></fr:tree>
+
+Los anteriores ejemplos son todos <html:em>categorías concretas</html:em>, cuyos objetos tienen ciertos conjuntos subyacentes y sus morfismos son funcinoes que "preservan cierta estructura". También pueden considerarse categorías "abstractas", como por ejemplo:
 </html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-000C.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000C/</fr:uri>
+                <fr:display-uri>CAT-000C</fr:display-uri>
+                <fr:route>/CAT-000C/</fr:route>
+                <fr:title text="Categoría de matrices">Categoría de matrices</fr:title>
+                <fr:taxon>Ejemplo</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Dado un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo unitario</fr:link> <fr:tex display="inline"><![CDATA[R]]></fr:tex>, definimos la categoría de matrices <fr:tex display="inline"><![CDATA[\mathsf {Mat}_R]]></fr:tex> formada por: <html:ul><html:li>Los enteros positivos como objetos.</html:li>
+<html:li>Dados dos objetos <fr:tex display="inline"><![CDATA[n,m\in  \mathbb  Z_{>0}]]></fr:tex> su conjunto de morfismos es el conjunto de matrices <fr:tex display="inline"><![CDATA[m\times  n]]></fr:tex> con valores en <fr:tex display="inline"><![CDATA[R]]></fr:tex>. La composición es simplemente el producto de matrices, con las matrices identidad funcionando como los morfismos identidad.</html:li></html:ul></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -265,46 +154,21 @@ De manera similar, puede considerarse la categoría de los <fr:tex display="inli
                 <fr:date>
                   <fr:year>2025</fr:year>
                   <fr:month>11</fr:month>
-                  <fr:day>3</fr:day>
+                  <fr:day>4</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-0009.tree</fr:source-path>
-                <fr:uri>https://juan-mad.github.io/CAT-0009/</fr:uri>
-                <fr:display-uri>CAT-0009</fr:display-uri>
-                <fr:route>/CAT-0009/</fr:route>
-                <fr:title text="Categoría de espacios vectoriales sobre un cuerpo">Categoría de espacios vectoriales sobre un cuerpo</fr:title>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-000D.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000D/</fr:uri>
+                <fr:display-uri>CAT-000D</fr:display-uri>
+                <fr:route>/CAT-000D/</fr:route>
+                <fr:title text="Categoría de endomorfismos de un grupo">Categoría de endomorfismos de un grupo</fr:title>
                 <fr:taxon>Ejemplo</fr:taxon>
                 <fr:meta name="sources">
                   <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>La categoría de los espacios vectoriales sobre un cuerpo <fr:tex display="inline"><![CDATA[k]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathsf {Vect}_k]]></fr:tex>, es precisamente la <fr:link href="/CAT-0008/" title="Categoría de módulos sobre un anillo" uri="https://juan-mad.github.io/CAT-0008/" display-uri="CAT-0008" type="local">categoría de módulos sobre un anillo</fr:link> cuando ese anillo es el cuerpo <fr:tex display="inline"><![CDATA[k]]></fr:tex>.</html:p>
-              </fr:mainmatter>
-            </fr:tree>
-            <fr:tree show-metadata="false">
-              <fr:frontmatter>
-                <fr:authors>
-                  <fr:author>
-                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-                  </fr:author>
-                </fr:authors>
-                <fr:date>
-                  <fr:year>2025</fr:year>
-                  <fr:month>11</fr:month>
-                  <fr:day>3</fr:day>
-                </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000A.tree</fr:source-path>
-                <fr:uri>https://juan-mad.github.io/CAT-000A/</fr:uri>
-                <fr:display-uri>CAT-000A</fr:display-uri>
-                <fr:route>/CAT-000A/</fr:route>
-                <fr:title text="Categoría de grupos abelianos">Categoría de grupos abelianos</fr:title>
-                <fr:taxon>Ejemplo</fr:taxon>
-                <fr:meta name="sources">
-                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
-                </fr:meta>
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <html:p>La categoría de los grupos abelianos, <fr:tex display="inline"><![CDATA[\mathsf {Ab}]]></fr:tex>, es precisamente la <fr:link href="/CAT-0008/" title="Categoría de módulos sobre un anillo" uri="https://juan-mad.github.io/CAT-0008/" display-uri="CAT-0008" type="local">categoría de módulos sobre un anillo</fr:link> cuando ese anillo es el anillo de los enteros <fr:tex display="inline"><![CDATA[\mathbb  Z]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathsf {Mod}_\mathbb  Z]]></fr:tex>.</html:p>
+                <html:p>Dado un group <fr:tex display="inline"><![CDATA[G]]></fr:tex> (o un monoide), se define una categoria <fr:tex display="inline"><![CDATA[\mathsf {B}G]]></fr:tex> tal que: <html:ul><html:li>Tiene un único objeto.</html:li>
+<html:li>Los elementos del grupo representan los morfismos, cada uno de ellos representando un morfismo y la composición funcionando como la operación en el grupo.  El elemento neutro del grupo actúa como el morfismo identidad del único objeto de la categoría.</html:li></html:ul></html:p>
               </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>

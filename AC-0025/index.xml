@@ -93,7 +93,7 @@ year = {1978},
             <fr:uri>https://juan-mad.github.io/AC-002G/</fr:uri>
             <fr:display-uri>AC-002G</fr:display-uri>
             <fr:route>/AC-002G/</fr:route>
-            <fr:title text="Álgebras finitas sobre un anillo son enteras sobre él">Álgebras finitas sobre un anillo son enteras sobre él</fr:title>
+            <fr:title text="Propiedades de álgebras finitas">Propiedades de álgebras finitas</fr:title>
             <fr:taxon>Proposición</fr:taxon>
             <fr:meta name="sources">
               <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />

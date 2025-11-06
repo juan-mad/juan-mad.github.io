@@ -217,7 +217,7 @@ year = {1978},
 <html:ol><html:li><fr:tex display="inline"><![CDATA[f(x+y) = f(x) = f(y)]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[f(xy) = f(x)f(y)]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[f(1) = 1]]></fr:tex>.</html:li></html:ol>
-El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA[A]]></fr:tex> y <fr:tex display="inline"><![CDATA[B]]></fr:tex> se denota por <fr:tex display="inline"><![CDATA[\mathrm {Hom}(A,B)]]></fr:tex>. En el caso de que <fr:tex display="inline"><![CDATA[A=B]]></fr:tex>, los homomorfismos son endomorfismos, y lo denotamos por <fr:tex display="inline"><![CDATA[\mathrm {End}(A)]]></fr:tex>.
+El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA[A]]></fr:tex> y <fr:tex display="inline"><![CDATA[B]]></fr:tex> se denota por <fr:tex display="inline"><![CDATA[\operatorname {Hom}(A,B)]]></fr:tex>. En el caso de que <fr:tex display="inline"><![CDATA[A=B]]></fr:tex>, los homomorfismos son endomorfismos, y lo denotamos por <fr:tex display="inline"><![CDATA[\operatorname {End}(A)]]></fr:tex>.
 </html:p>
           </fr:mainmatter>
         </fr:tree>

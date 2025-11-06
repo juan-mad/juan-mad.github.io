@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>11</fr:month>
+      <fr:day>4</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/algebras/AC-002J.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/AC-002J/</fr:uri>
+    <fr:display-uri>AC-002J</fr:display-uri>
+    <fr:route>/AC-002J/</fr:route>
+    <fr:title text="Teorema débil de los ceros (Nullstellenstaz)">Teorema débil de los ceros (Nullstellenstaz)</fr:title>
+    <fr:taxon>Teorema</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo y <fr:tex display="inline"><![CDATA[K]]></fr:tex> una <fr:link href="/AC-001V/" title="Álgebras" uri="https://juan-mad.github.io/AC-001V/" display-uri="AC-001V" type="local"><fr:tex display="inline"><![CDATA[k]]></fr:tex>-álgebra</fr:link> tal que <html:ul><html:li><fr:tex display="inline"><![CDATA[K]]></fr:tex> está <fr:link href="/AC-001Y/" title="Álgebras con generación finita" uri="https://juan-mad.github.io/AC-001Y/" display-uri="AC-001Y" type="local">finitamente generada como <fr:tex display="inline"><![CDATA[k]]></fr:tex>-álgebra</fr:link>, y</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[K]]></fr:tex> es un cuerpo.</html:li></html:ul>
+Entonces <fr:tex display="inline"><![CDATA[K]]></fr:tex> es una extensión de cuerpos algebraica y finita sobre <fr:tex display="inline"><![CDATA[k]]></fr:tex>.
+</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/Miles%20Reid/" type="external">Miles Reid</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/reid-undergrad-comm-alg.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/reid-undergrad-comm-alg/</fr:uri>
+            <fr:display-uri>reid-undergrad-comm-alg</fr:display-uri>
+            <fr:route>/reid-undergrad-comm-alg/</fr:route>
+            <fr:title text="Undergraduate Commutative Algebra">Undergraduate Commutative Algebra</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="bibtex"><![CDATA[@book{Reid_1995, place={Cambridge}, series={London Mathematical Society Student Texts}, title={Undergraduate Commutative Algebra}, publisher={Cambridge University Press}, author={Reid, Miles}, year={1995}, collection={London Mathematical Society Student Texts}}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>1</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/algebras/AC-001Y.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-001Y/</fr:uri>
+            <fr:display-uri>AC-001Y</fr:display-uri>
+            <fr:route>/AC-001Y/</fr:route>
+            <fr:title text="Álgebras con generación finita">Álgebras con generación finita</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Se dice que <fr:tex display="inline"><![CDATA[B]]></fr:tex> es una <fr:link href="/AC-001V/" title="Álgebras" uri="https://juan-mad.github.io/AC-001V/" display-uri="AC-001V" type="local"><fr:tex display="inline"><![CDATA[A]]></fr:tex>-álgebra</fr:link> <html:em>de generación finita</html:em> si existe un conjunto finito de elementos <fr:tex display="inline"><![CDATA[x_1,\dots ,x_n]]></fr:tex> en <fr:tex display="inline"><![CDATA[B]]></fr:tex> tal que cada <fr:tex display="inline"><![CDATA[b\in  B]]></fr:tex> puede escribirse como un polinomio en <fr:tex display="inline"><![CDATA[A[x_1,\dots ,x_n]]]></fr:tex>.</html:p>
+            <html:p>Se dice que un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link> es de <html:em>generación finita</html:em> si es de generación finita como <fr:tex display="inline"><![CDATA[\mathbb  Z]]></fr:tex>-álgebra.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>1</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/algebras/AC-001V.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-001V/</fr:uri>
+            <fr:display-uri>AC-001V</fr:display-uri>
+            <fr:route>/AC-001V/</fr:route>
+            <fr:title text="Álgebras">Álgebras</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[f\colon A\rightarrow B]]></fr:tex> un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo de anillos</fr:link>. Si <fr:tex display="inline"><![CDATA[a\in  A, b\in  B]]></fr:tex> se define un producto <fr:tex display="block"><![CDATA[ab = f(a)b.]]></fr:tex>
+El anillo <fr:tex display="inline"><![CDATA[B]]></fr:tex> dotado de esta estructura de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo se denomina una <html:em><fr:tex display="inline"><![CDATA[A]]></fr:tex>-álgebra</html:em>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>11</fr:month>
+      <fr:day>5</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000B.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/AG-000B/</fr:uri>
+    <fr:display-uri>AG-000B</fr:display-uri>
+    <fr:route>/AG-000B/</fr:route>
+    <fr:title text="Conjuntos algebraicos irreducibles e ideales primos">Conjuntos algebraicos irreducibles e ideales primos</fr:title>
+    <fr:taxon>Proposición</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Una <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjunto algebraico</fr:link> <fr:tex display="inline"><![CDATA[X\subset \mathbb  A^n]]></fr:tex> es irreducible si y sólo si <fr:link href="/AG-0009/" title="Ideal de polinomios que se anulan en un subconjunto del espacio afín" uri="https://juan-mad.github.io/AG-0009/" display-uri="AG-0009" type="local">el ideal <fr:tex display="inline"><![CDATA[I(X)\subset  k[x_1,\dots ,x_n]]]></fr:tex></fr:link> es un <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link>.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/Miles%20Reid/" type="external">Miles Reid</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/reid-undergrad-comm-alg.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/reid-undergrad-comm-alg/</fr:uri>
+            <fr:display-uri>reid-undergrad-comm-alg</fr:display-uri>
+            <fr:route>/reid-undergrad-comm-alg/</fr:route>
+            <fr:title text="Undergraduate Commutative Algebra">Undergraduate Commutative Algebra</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="bibtex"><![CDATA[@book{Reid_1995, place={Cambridge}, series={London Mathematical Society Student Texts}, title={Undergraduate Commutative Algebra}, publisher={Cambridge University Press}, author={Reid, Miles}, year={1995}, collection={London Mathematical Society Student Texts}}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0001.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AG-0001/</fr:uri>
+            <fr:display-uri>AG-0001</fr:display-uri>
+            <fr:route>/AG-0001/</fr:route>
+            <fr:title text="Variedades">Variedades</fr:title>
+            <fr:taxon>Tema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0002.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-0002/</fr:uri>
+                <fr:display-uri>AG-0002</fr:display-uri>
+                <fr:route>/AG-0002/</fr:route>
+                <fr:title text="Espacio afín n-dimensional">Espacio afín <fr:tex display="inline"><![CDATA[n]]></fr:tex>-dimensional</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo algebraicamente cerrado. Se define el <html:em>espacio afín <fr:tex display="inline"><![CDATA[n]]></fr:tex>-dimensional sobre <fr:tex display="inline"><![CDATA[k]]></fr:tex></html:em>, <fr:tex display="inline"><![CDATA[\mathbb  A^n_k]]></fr:tex> o <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex>, como el conjunto de las <fr:tex display="inline"><![CDATA[n]]></fr:tex>-uplas de elementos de <fr:tex display="inline"><![CDATA[k]]></fr:tex>. Un elemento <fr:tex display="inline"><![CDATA[P\in  \mathbb  A^n]]></fr:tex> recibe el nombre de <html:em>punto</html:em>, y si <fr:tex display="inline"><![CDATA[P=(a_1,\dots ,a_n), a_i\in  k, i=1,\dots ,n]]></fr:tex>, entonces los <fr:tex display="inline"><![CDATA[a_i]]></fr:tex> reciben el nombre de <html:em>coordenadas</html:em> de <fr:tex display="inline"><![CDATA[P]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Consideramos <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n]]]></fr:tex> el anillo de polinomios en <fr:tex display="inline"><![CDATA[n]]></fr:tex> variables sobre el cuerpo <fr:tex display="inline"><![CDATA[k]]></fr:tex>. Los polinomios de <fr:tex display="inline"><![CDATA[A]]></fr:tex> se interpretan como funciones de <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex> en <fr:tex display="inline"><![CDATA[k]]></fr:tex> mediante la evaluación del polinomio en un punto. En este sentido, tiene sentido hablar de <html:em>conjunto de ceros de un polinomio <fr:tex display="inline"><![CDATA[f\in  A]]></fr:tex></html:em>, <fr:tex display="block"><![CDATA[V(f) := \{ P\in \mathbb  A^n : f(P) = 0 \}]]></fr:tex>. En general, si <fr:tex display="inline"><![CDATA[T\subset  A]]></fr:tex> es un subconjunto hablamos del <html:em>conjunto de ceros de <fr:tex display="inline"><![CDATA[T]]></fr:tex></html:em> como el conjunto de puntos que anulan a todos los elementos de <fr:tex display="inline"><![CDATA[T]]></fr:tex>, <fr:tex display="block"><![CDATA[V(T) := \{ P\in \mathbb  A^n : f(P) = 0, \,\,\forall  f\in  T \}.]]></fr:tex></html:p>
+            <html:p>Si <fr:tex display="inline"><![CDATA[I=\langle  T \rangle ]]></fr:tex> es el <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link> que genera <fr:tex display="inline"><![CDATA[T]]></fr:tex>, entonces claramente <fr:tex display="inline"><![CDATA[V(T) = V(I)]]></fr:tex>. Como <fr:link href="/AC-001U/" title="Teorema de la base de Hilbert" uri="https://juan-mad.github.io/AC-001U/" display-uri="AC-001U" type="local">el anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> es noetheriano</fr:link>, <fr:link href="/AC-001O/" title="Caracterización de anillos noetherianos" uri="https://juan-mad.github.io/AC-001O/" display-uri="AC-001O" type="local">cualquier ideal <fr:tex display="inline"><![CDATA[J\subset  A]]></fr:tex> tiene un conjunto finito de generadores <fr:tex display="inline"><![CDATA[f_1,\dots ,f_r]]></fr:tex></fr:link>. Entonces <fr:tex display="inline"><![CDATA[V(T)]]></fr:tex> puede expresarse como los ceros comunes de un conjunto finito de polinomios <fr:tex display="inline"><![CDATA[\{f_1,\dots ,f_r\}]]></fr:tex>.</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0003.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-0003/</fr:uri>
+                <fr:display-uri>AG-0003</fr:display-uri>
+                <fr:route>/AG-0003/</fr:route>
+                <fr:title text="Conjunto algebraico">Conjunto algebraico</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un subconjunto <fr:tex display="inline"><![CDATA[Y]]></fr:tex> del <fr:link href="/AG-0002/" title="Espacio afín n-dimensional" uri="https://juan-mad.github.io/AG-0002/" display-uri="AG-0002" type="local">espacio afín</fr:link> se dice que es <html:em>algebraico</html:em> si existe un subconjunto <fr:tex display="inline"><![CDATA[T\subset  A=k[x_1,\dots ,x_n]]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[Y = V(T)]]></fr:tex>, el conjunto de ceros de los elementos de <fr:tex display="inline"><![CDATA[T]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0004.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-0004/</fr:uri>
+                <fr:display-uri>AG-0004</fr:display-uri>
+                <fr:route>/AG-0004/</fr:route>
+                <fr:title text="Operaciones de conjuntos entre conjuntos algebraicos">Operaciones de conjuntos entre conjuntos algebraicos</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>
+                  <html:ul><html:li>Si <fr:tex display="inline"><![CDATA[Y_1, Y_2]]></fr:tex> son dos <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjuntos algebraicos</fr:link>, entonces su unión es un conjunto algebraico. De hecho, <fr:tex display="block"><![CDATA[Y_1=V(T_1),\,\,Y_2=V(T_2)\,\,\Longrightarrow \,\, Y_1\cup  Y_2 = V(T_1\cdot  T_2).]]></fr:tex></html:li>
+<html:li>Si <fr:tex display="inline"><![CDATA[\{Y_\alpha  = V(T_\alpha )\}_{\alpha \in  I}]]></fr:tex> es una familia de <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjuntos algebraicos</fr:link>, entonces su intersección es un conjunto algebraico. De hecho, <fr:tex display="block"><![CDATA[\bigcap _{\alpha \in  I} Y_\alpha  = V\left (\bigcup _{\alpha  \in  I}T_\alpha \right )]]></fr:tex></html:li>
+<html:li>El conjunto vació y el <fr:link href="/AG-0002/" title="Espacio afín n-dimensional" uri="https://juan-mad.github.io/AG-0002/" display-uri="AG-0002" type="local">espacio afín</fr:link> son conjuntos algebraicos, correspondientes a <fr:tex display="inline"><![CDATA[V(\{1\})]]></fr:tex> y <fr:tex display="inline"><![CDATA[V(\emptyset )]]></fr:tex>.</html:li></html:ul>
+                </html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Basado en las propiedades de estos conjuntos algebraicos se puede definir una topología especial en <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex>:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0005.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-0005/</fr:uri>
+                <fr:display-uri>AG-0005</fr:display-uri>
+                <fr:route>/AG-0005/</fr:route>
+                <fr:title text="Topología de Zariski">Topología de Zariski</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Se define la <html:em>topología de Zariski</html:em> en <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex> tomando como conjuntos abiertos los complementarios de <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjuntos algebraicos</fr:link>. Estos <fr:link href="/AG-0004/" title="Operaciones de conjuntos entre conjuntos algebraicos" uri="https://juan-mad.github.io/AG-0004/" display-uri="AG-0004" type="local">cumplen las propiedades necesarias</fr:link> de una topología.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Consideremos el ejemplo de <fr:tex display="inline"><![CDATA[n=1]]></fr:tex>. Cada ideal en <fr:tex display="inline"><![CDATA[A=k[x]]]></fr:tex> es principal, por lo que todo <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjunto algebraico</fr:link> es el conjunto de los ceros de un polinomio <fr:tex display="inline"><![CDATA[f]]></fr:tex>. Puesto que <fr:tex display="inline"><![CDATA[k]]></fr:tex> es algebraicamente cerrado, <fr:tex display="inline"><![CDATA[f]]></fr:tex> puede escribirse como <fr:tex display="block"><![CDATA[f(x) = c(x - a_1)\cdots  (x - a_n), \,\,\,c,a_1,\dots ,x_n\in  k,]]></fr:tex> por lo que <fr:tex display="inline"><![CDATA[V(f) = \{a_1,\dots ,a_n\}]]></fr:tex>. Por lo tanto, los conjuntos algebraicos en <fr:tex display="inline"><![CDATA[\mathbb  A^1]]></fr:tex> son los conjuntos finitos, incluyendo el conjunto vació y todo <fr:tex display="inline"><![CDATA[\mathbb  A^1]]></fr:tex> (basta considerar <fr:tex display="inline"><![CDATA[f=0]]></fr:tex>). Entonces los conjuntos abiertos son el conjunto vació y los complementarios de conjuntos finitos. En particular, esta topología no es Hausdorff (recordemos que todo cuerpo <fr:tex display="inline"><![CDATA[k]]></fr:tex> algebraicamente cerrado tiene infinitos elementos).</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0006.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-0006/</fr:uri>
+                <fr:display-uri>AG-0006</fr:display-uri>
+                <fr:route>/AG-0006/</fr:route>
+                <fr:title text="Conjunto irreducible">Conjunto irreducible</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Dado un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex>, se dice que un subconjunto no vació <fr:tex display="inline"><![CDATA[Y\subset  X]]></fr:tex> es <html:em>irreducible</html:em> si no puede expresarse como la unión <fr:tex display="inline"><![CDATA[Y=Y_1\cup  Y_2]]></fr:tex> de dos subconjuntos no vaciós, propios y cerrados en <fr:tex display="inline"><![CDATA[Y]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>En particular, <fr:tex display="inline"><![CDATA[\mathbb  A^1]]></fr:tex> es <fr:link href="/AG-0006/" title="Conjunto irreducible" uri="https://juan-mad.github.io/AG-0006/" display-uri="AG-0006" type="local">irreducible</fr:link> ya que sus únicos subconjuntos cerrados propios son finitos, y él contiene infinitos elementos. Pueden verse <fr:link href="/AG-0007/" title="Propiedades de conjuntos irreducibles" uri="https://juan-mad.github.io/AG-0007/" display-uri="AG-0007" type="local">algunas propiedades de conjuntos irreducibles aquí.</fr:link>.</html:p>
+            <html:p>Nuestro primer objeto de estudio serán las variedades algebraicas afines y cuasi-afines, definidas a continuación:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0008.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-0008/</fr:uri>
+                <fr:display-uri>AG-0008</fr:display-uri>
+                <fr:route>/AG-0008/</fr:route>
+                <fr:title text="Variedades algebraicas afines y cuasi-afines">Variedades algebraicas afines y cuasi-afines</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Una <html:em>variedad (algebraica) afín</html:em> es un subconjunto cerrado e <fr:link href="/AG-0006/" title="Conjunto irreducible" uri="https://juan-mad.github.io/AG-0006/" display-uri="AG-0006" type="local">irreducible</fr:link> del <fr:link href="/AG-0002/" title="Espacio afín n-dimensional" uri="https://juan-mad.github.io/AG-0002/" display-uri="AG-0002" type="local">espacio afín</fr:link> <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex> para la <fr:link href="/AG-0005/" title="Topología de Zariski" uri="https://juan-mad.github.io/AG-0005/" display-uri="AG-0005" type="local">topología de Zariski</fr:link>. Notemos que los conjuntos cerrados para esta topología son precisamente los <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjuntos algebraicos</fr:link>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Sin embargo, antes de continuar, vamos a analizar la relación entre subconjuntos de <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex> y los ideales de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0009.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-0009/</fr:uri>
+                <fr:display-uri>AG-0009</fr:display-uri>
+                <fr:route>/AG-0009/</fr:route>
+                <fr:title text="Ideal de polinomios que se anulan en un subconjunto del espacio afín">Ideal de polinomios que se anulan en un subconjunto del espacio afín</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Dado un subconjunto <fr:tex display="inline"><![CDATA[Y]]></fr:tex> del <fr:link href="/AG-0002/" title="Espacio afín n-dimensional" uri="https://juan-mad.github.io/AG-0002/" display-uri="AG-0002" type="local">espacio afín <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex></fr:link>, definimos el <html:em>ideal de <fr:tex display="inline"><![CDATA[Y]]></fr:tex> en <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n]]]></fr:tex></html:em> como <fr:tex display="block"><![CDATA[I(Y) := \{f \in  A : f(P)=0 \,\,\, \forall  P\in  Y\}.]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Con esta última definición, tenemos una función <fr:tex display="inline"><![CDATA[V]]></fr:tex> que envía subconjuntos de <fr:tex display="inline"><![CDATA[A]]></fr:tex> en <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjuntos algebraicos</fr:link>, y una función <fr:tex display="inline"><![CDATA[I]]></fr:tex> qie envía subconjuntos de <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex> en ideales de <fr:tex display="inline"><![CDATA[A]]></fr:tex>. Veamos algunas propiedades de estas dos funciones:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000A.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000A/</fr:uri>
+                <fr:display-uri>AG-000A</fr:display-uri>
+                <fr:route>/AG-000A/</fr:route>
+                <fr:title text="Propiedades de conjuntos algebraicos e ideales de polinomios">Propiedades de conjuntos algebraicos e ideales de polinomios</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[T_1, T_2\subset  A=k[x_1,\dots ,x_n]]]></fr:tex> y sean <fr:tex display="inline"><![CDATA[Y_1,Y_2\subset  \mathbb  A^n]]></fr:tex>.
+<html:ol><html:li>Si <fr:tex display="inline"><![CDATA[T_1\subset  T_2]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[V(T_1)\supset  V(T_2)]]></fr:tex>.</html:li>
+<html:li>Si <fr:tex display="inline"><![CDATA[Y_1\subset  Y_2]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[I(Y_1)\supset  I(Y_2)]]></fr:tex>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[I(Y_1\cup  Y_2) = I(Y_1) \cap  I(Y_2).]]></fr:tex></html:li>
+<html:li>Para un ideal <fr:tex display="inline"><![CDATA[J\subset  A]]></fr:tex>, <fr:tex display="inline"><![CDATA[I(V(J)) = \sqrt {J}]]></fr:tex>, el <fr:link href="/AC-002L/" title="Radical de un ideal e ideal radical" uri="https://juan-mad.github.io/AC-002L/" display-uri="AC-002L" type="local">ideal radical</fr:link> de <fr:tex display="inline"><![CDATA[J]]></fr:tex>.</html:li>
+<html:li>Para un subconjunto <fr:tex display="inline"><![CDATA[Y\subset  \mathbb  A^n]]></fr:tex>, se tiene que <fr:tex display="inline"><![CDATA[V(I(Y)) = \bar  Y]]></fr:tex>, la adherencia de <fr:tex display="inline"><![CDATA[Y]]></fr:tex> en la <fr:link href="/AG-0005/" title="Topología de Zariski" uri="https://juan-mad.github.io/AG-0005/" display-uri="AG-0005" type="local">topología de Zariski</fr:link>.</html:li></html:ol>
+La contención <fr:tex display="inline"><![CDATA[I(V(J))\subset  \sqrt {J}]]></fr:tex> es consecuencia del <fr:link href="/AC-002N/" title="Teorema de los ceros de Hilbert (Nullstellenstaz)" uri="https://juan-mad.github.io/AC-002N/" display-uri="AC-002N" type="local">Teorema de los ceros de Hilbert</fr:link>.
+</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000B.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000B/</fr:uri>
+                <fr:display-uri>AG-000B</fr:display-uri>
+                <fr:route>/AG-000B/</fr:route>
+                <fr:title text="Conjuntos algebraicos irreducibles e ideales primos">Conjuntos algebraicos irreducibles e ideales primos</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Una <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjunto algebraico</fr:link> <fr:tex display="inline"><![CDATA[X\subset \mathbb  A^n]]></fr:tex> es irreducible si y sólo si <fr:link href="/AG-0009/" title="Ideal de polinomios que se anulan en un subconjunto del espacio afín" uri="https://juan-mad.github.io/AG-0009/" display-uri="AG-0009" type="local">el ideal <fr:tex display="inline"><![CDATA[I(X)\subset  k[x_1,\dots ,x_n]]]></fr:tex></fr:link> es un <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000C.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000C/</fr:uri>
+                <fr:display-uri>AG-000C</fr:display-uri>
+                <fr:route>/AG-000C/</fr:route>
+                <fr:title text="Relación entre ideales y conjuntos algebraicos">Relación entre ideales y conjuntos algebraicos</fr:title>
+                <fr:taxon>Corolario</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+                </fr:meta>
+                <fr:meta name="related">
+                  <fr:link href="/AG-0008/" title="Variedades algebraicas afines y cuasi-afines" uri="https://juan-mad.github.io/AG-0008/" display-uri="AG-0008" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo algebraicamente cerrado. Las funciones <fr:tex display="inline"><![CDATA[V]]></fr:tex> e <fr:tex display="inline"><![CDATA[I]]></fr:tex> inducen correspondencias biyectivas entre <fr:tex display="block"><![CDATA[\left \{ \text {ideales radicales }J \subset  k[X_1,\dots ,X_n] \right \} \longleftrightarrow  \left \{ \begin {align*} \text {conjuntos algebraicos de } \mathbb  A^n \end {align*}\right \} ]]></fr:tex> y en particular <fr:tex display="block"><![CDATA[
+
+\left \{ \text {ideales primos }J \subset  k[X_1,\dots ,X_n] \right \} \longleftrightarrow  \left \{ \begin {align*} \text {variedades afines de } \mathbb  A^n \end {align*}\right \}.
+]]></fr:tex>
+
+Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_n]/J]]></fr:tex> para algún <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link> <fr:tex display="inline"><![CDATA[J\subset  k[X_1,\dots ,X_n]]]></fr:tex> (donde <fr:tex display="inline"><![CDATA[x_i = X_i\mod  J]]></fr:tex>), entonces existe una correspondencia biyectiva <fr:tex display="block"><![CDATA[
+\operatorname {Spec} A \longleftrightarrow  \left \{ \text {variedades afines } Y \subset  V(J)\right \},
+]]></fr:tex> ya que los ideales primos de <fr:tex display="inline"><![CDATA[A]]></fr:tex> son precisamente los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[k[X_1,\dots ,X_n]]]></fr:tex> que contienen a <fr:tex display="inline"><![CDATA[J]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0009.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AG-0009/</fr:uri>
+            <fr:display-uri>AG-0009</fr:display-uri>
+            <fr:route>/AG-0009/</fr:route>
+            <fr:title text="Ideal de polinomios que se anulan en un subconjunto del espacio afín">Ideal de polinomios que se anulan en un subconjunto del espacio afín</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Dado un subconjunto <fr:tex display="inline"><![CDATA[Y]]></fr:tex> del <fr:link href="/AG-0002/" title="Espacio afín n-dimensional" uri="https://juan-mad.github.io/AG-0002/" display-uri="AG-0002" type="local">espacio afín <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex></fr:link>, definimos el <html:em>ideal de <fr:tex display="inline"><![CDATA[Y]]></fr:tex> en <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n]]]></fr:tex></html:em> como <fr:tex display="block"><![CDATA[I(Y) := \{f \in  A : f(P)=0 \,\,\, \forall  P\in  Y\}.]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0003.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AG-0003/</fr:uri>
+            <fr:display-uri>AG-0003</fr:display-uri>
+            <fr:route>/AG-0003/</fr:route>
+            <fr:title text="Conjunto algebraico">Conjunto algebraico</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un subconjunto <fr:tex display="inline"><![CDATA[Y]]></fr:tex> del <fr:link href="/AG-0002/" title="Espacio afín n-dimensional" uri="https://juan-mad.github.io/AG-0002/" display-uri="AG-0002" type="local">espacio afín</fr:link> se dice que es <html:em>algebraico</html:em> si existe un subconjunto <fr:tex display="inline"><![CDATA[T\subset  A=k[x_1,\dots ,x_n]]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[Y = V(T)]]></fr:tex>, el conjunto de ceros de los elementos de <fr:tex display="inline"><![CDATA[T]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>21</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-0006.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-0006/</fr:uri>
+            <fr:display-uri>AC-0006</fr:display-uri>
+            <fr:route>/AC-0006/</fr:route>
+            <fr:title text="Ideales primos">Ideales primos</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link> <fr:tex display="inline"><![CDATA[I]]></fr:tex> en un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link> <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <html:em>primo</html:em> si <fr:tex display="inline"><![CDATA[I \neq  (1)]]></fr:tex> y si <fr:tex display="inline"><![CDATA[xy\in  I]]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[x=0]]></fr:tex> ó <fr:tex display="inline"><![CDATA[y=0]]></fr:tex>.</html:p>
+            <html:p>Un <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link> <fr:tex display="inline"><![CDATA[I]]></fr:tex> es primo si y sólo si es un <fr:tex display="inline"><![CDATA[A/I]]></fr:tex> dominio de integridad.</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>9</fr:month>
+                  <fr:day>23</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-000B.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AC-000B/</fr:uri>
+                <fr:display-uri>AC-000B</fr:display-uri>
+                <fr:route>/AC-000B/</fr:route>
+                <fr:title text="Espectro de un anillo">Espectro de un anillo</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Se denota por <html:em><fr:tex display="inline"><![CDATA[\operatorname {Spec}]]></fr:tex>(A), el espectro de un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link> <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em>, al conjunto de todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

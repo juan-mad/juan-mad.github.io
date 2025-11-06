@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="https://juan-mad.github.io/Andrea%20Solotar/" type="external">Andrea Solotar</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="https://juan-mad.github.io/Marco%20Farinati/" type="external">Marco Farinati</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="https://juan-mad.github.io/Mariano%20Su%C3%A1rez%20%C3%81lvarez/" type="external">Mariano Suárez Álvarez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/solotar-farinati-anillos-categorias-representaciones.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/solotar-farinati-anillos-categorias-representaciones/</fr:uri>
+    <fr:display-uri>solotar-farinati-anillos-categorias-representaciones</fr:display-uri>
+    <fr:route>/solotar-farinati-anillos-categorias-representaciones/</fr:route>
+    <fr:title text="Anillos y sus categorías de representaciones">Anillos y sus categorías de representaciones</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>4</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-000B.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-000B/</fr:uri>
+            <fr:display-uri>CAT-000B</fr:display-uri>
+            <fr:route>/CAT-000B/</fr:route>
+            <fr:title text="Categoría opuesta">Categoría opuesta</fr:title>
+            <fr:taxon>Ejemplo</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/solotar-farinati-anillos-categorias-representaciones/" title="Anillos y sus categorías de representaciones" uri="https://juan-mad.github.io/solotar-farinati-anillos-categorias-representaciones/" display-uri="solotar-farinati-anillos-categorias-representaciones" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Data una categoría <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, se define la <html:em>categoría opuesta <fr:tex display="inline"><![CDATA[\mathsf {C}^{op}]]></fr:tex></html:em> definiendo:: <html:ul><html:li>Los objetos <fr:tex display="inline"><![CDATA[\mathrm {Obj}(\mathsf {C})]]></fr:tex> de la categoría como objetos.</html:li>
+<html:li>Para cada par de objetos <fr:tex display="inline"><![CDATA[X, Y]]></fr:tex> se define <fr:tex display="inline"><![CDATA[\operatorname {Hom}_{\mathsf {C}^{op}}(X,Y) \colon =\operatorname {Hom}_\mathsf {C}(Y,X)]]></fr:tex> como morfismos. La composición funciona de la forma <fr:tex display="inline"><![CDATA[f\circ _{op} g \colon = g\circ  f]]></fr:tex>.</html:li></html:ul></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

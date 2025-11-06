@@ -16,7 +16,7 @@
     <fr:uri>https://juan-mad.github.io/AC-002G/</fr:uri>
     <fr:display-uri>AC-002G</fr:display-uri>
     <fr:route>/AC-002G/</fr:route>
-    <fr:title text="Álgebras finitas sobre un anillo son enteras sobre él">Álgebras finitas sobre un anillo son enteras sobre él</fr:title>
+    <fr:title text="Propiedades de álgebras finitas">Propiedades de álgebras finitas</fr:title>
     <fr:taxon>Proposición</fr:taxon>
     <fr:meta name="sources">
       <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
@@ -179,7 +179,7 @@ El anillo <fr:tex display="inline"><![CDATA[B]]></fr:tex> dotado de esta estruct
 <html:ol><html:li><fr:tex display="inline"><![CDATA[f(x+y) = f(x) = f(y)]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[f(xy) = f(x)f(y)]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[f(1) = 1]]></fr:tex>.</html:li></html:ol>
-El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA[A]]></fr:tex> y <fr:tex display="inline"><![CDATA[B]]></fr:tex> se denota por <fr:tex display="inline"><![CDATA[\mathrm {Hom}(A,B)]]></fr:tex>. En el caso de que <fr:tex display="inline"><![CDATA[A=B]]></fr:tex>, los homomorfismos son endomorfismos, y lo denotamos por <fr:tex display="inline"><![CDATA[\mathrm {End}(A)]]></fr:tex>.
+El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA[A]]></fr:tex> y <fr:tex display="inline"><![CDATA[B]]></fr:tex> se denota por <fr:tex display="inline"><![CDATA[\operatorname {Hom}(A,B)]]></fr:tex>. En el caso de que <fr:tex display="inline"><![CDATA[A=B]]></fr:tex>, los homomorfismos son endomorfismos, y lo denotamos por <fr:tex display="inline"><![CDATA[\operatorname {End}(A)]]></fr:tex>.
 </html:p>
           </fr:mainmatter>
         </fr:tree>

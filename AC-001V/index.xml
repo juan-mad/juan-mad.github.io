@@ -88,13 +88,68 @@ year = {1978},
             <fr:date>
               <fr:year>2025</fr:year>
               <fr:month>11</fr:month>
+              <fr:day>4</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/algebras/AC-002J.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002J/</fr:uri>
+            <fr:display-uri>AC-002J</fr:display-uri>
+            <fr:route>/AC-002J/</fr:route>
+            <fr:title text="Teorema débil de los ceros (Nullstellenstaz)">Teorema débil de los ceros (Nullstellenstaz)</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo y <fr:tex display="inline"><![CDATA[K]]></fr:tex> una <fr:link href="/AC-001V/" title="Álgebras" uri="https://juan-mad.github.io/AC-001V/" display-uri="AC-001V" type="local"><fr:tex display="inline"><![CDATA[k]]></fr:tex>-álgebra</fr:link> tal que <html:ul><html:li><fr:tex display="inline"><![CDATA[K]]></fr:tex> está <fr:link href="/AC-001Y/" title="Álgebras con generación finita" uri="https://juan-mad.github.io/AC-001Y/" display-uri="AC-001Y" type="local">finitamente generada como <fr:tex display="inline"><![CDATA[k]]></fr:tex>-álgebra</fr:link>, y</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[K]]></fr:tex> es un cuerpo.</html:li></html:ul>
+Entonces <fr:tex display="inline"><![CDATA[K]]></fr:tex> es una extensión de cuerpos algebraica y finita sobre <fr:tex display="inline"><![CDATA[k]]></fr:tex>.
+</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>4</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/algebras/AC-002H.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002H/</fr:uri>
+            <fr:display-uri>AC-002H</fr:display-uri>
+            <fr:route>/AC-002H/</fr:route>
+            <fr:title text="Elementos algebraicamente independientes sobre un cuerpo">Elementos algebraicamente independientes sobre un cuerpo</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo y <fr:tex display="inline"><![CDATA[A]]></fr:tex> una <fr:link href="/AC-001V/" title="Álgebras" uri="https://juan-mad.github.io/AC-001V/" display-uri="AC-001V" type="local"><fr:tex display="inline"><![CDATA[k]]></fr:tex>-álgebra</fr:link>. Se dice que unos elementos <fr:tex display="inline"><![CDATA[y_1,\dots ,y_n]]></fr:tex> son <html:em>algebraicamente independientes sobre <fr:tex display="inline"><![CDATA[k]]></fr:tex></html:em> si no existe ningún polinomio <fr:tex display="inline"><![CDATA[F[Y_1,\dots , Y_n]\in  k[Y_1,\dots ,Y_n]]]></fr:tex> no nulo tal que <fr:tex display="block"><![CDATA[F(y_1,\dots ,y_n) = 0.]]></fr:tex> Equivalentemente, la aplicación sobreyectiva natural <fr:tex display="block"><![CDATA[K[Y_1,\dots ,Y_n]\longrightarrow  k[y_1,\dots ,y_n]]]></fr:tex> es un isomorfismo.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
               <fr:day>2</fr:day>
             </fr:date>
             <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-002G.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-002G/</fr:uri>
             <fr:display-uri>AC-002G</fr:display-uri>
             <fr:route>/AC-002G/</fr:route>
-            <fr:title text="Álgebras finitas sobre un anillo son enteras sobre él">Álgebras finitas sobre un anillo son enteras sobre él</fr:title>
+            <fr:title text="Propiedades de álgebras finitas">Propiedades de álgebras finitas</fr:title>
             <fr:taxon>Proposición</fr:taxon>
             <fr:meta name="sources">
               <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
@@ -220,7 +275,7 @@ year = {1978},
 <html:ol><html:li><fr:tex display="inline"><![CDATA[f(x+y) = f(x) = f(y)]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[f(xy) = f(x)f(y)]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[f(1) = 1]]></fr:tex>.</html:li></html:ol>
-El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA[A]]></fr:tex> y <fr:tex display="inline"><![CDATA[B]]></fr:tex> se denota por <fr:tex display="inline"><![CDATA[\mathrm {Hom}(A,B)]]></fr:tex>. En el caso de que <fr:tex display="inline"><![CDATA[A=B]]></fr:tex>, los homomorfismos son endomorfismos, y lo denotamos por <fr:tex display="inline"><![CDATA[\mathrm {End}(A)]]></fr:tex>.
+El conjunto de homomorfismos entre dos anillos <fr:tex display="inline"><![CDATA[A]]></fr:tex> y <fr:tex display="inline"><![CDATA[B]]></fr:tex> se denota por <fr:tex display="inline"><![CDATA[\operatorname {Hom}(A,B)]]></fr:tex>. En el caso de que <fr:tex display="inline"><![CDATA[A=B]]></fr:tex>, los homomorfismos son endomorfismos, y lo denotamos por <fr:tex display="inline"><![CDATA[\operatorname {End}(A)]]></fr:tex>.
 </html:p>
           </fr:mainmatter>
         </fr:tree>

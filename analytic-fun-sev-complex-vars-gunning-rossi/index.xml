@@ -312,7 +312,7 @@
           </fr:frontmatter>
           <fr:mainmatter>
             <html:p>Sea <fr:tex display="inline"><![CDATA[f\in \mathscr  H(U)]]></fr:tex> y <fr:tex display="inline"><![CDATA[z_0\in  U]]></fr:tex>. Como la <fr:link href="/VC-0011/" title="Serie de potencias formal convergente" uri="https://juan-mad.github.io/VC-0011/" display-uri="VC-0011" type="local">expansión en serie de potencias converge absolutamente</fr:link>, pueden reordenarse los términos de la serie en una polinomios homogéneos: <fr:tex display="block"><![CDATA[f(z) = \sum _{k=0}^\infty  \left ( \sum _{|\nu | = k}a_\nu (z_1-z_{01})^{\nu _1}\cdots (z_n-z_{0n})^{\nu _n} \right ) = \sum _{k=0}^\infty  p_k(z).]]></fr:tex></html:p>
-            <html:p>El orden de <fr:tex display="inline"><![CDATA[f]]></fr:tex> en <fr:tex display="inline"><![CDATA[z_0]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathrm {ord}_{z_0}f]]></fr:tex>, como el grado del mínimo polinomio homogéneo no idénticamente cero, <fr:tex display="inline"><![CDATA[\mathrm {ord}_{z_0}f = \min \{k : p_k\not \equiv  0 \}]]></fr:tex>.</html:p>
+            <html:p>El orden de <fr:tex display="inline"><![CDATA[f]]></fr:tex> en <fr:tex display="inline"><![CDATA[z_0]]></fr:tex>, <fr:tex display="inline"><![CDATA[\operatorname {ord}_{z_0}f]]></fr:tex>, como el grado del mínimo polinomio homogéneo no idénticamente cero, <fr:tex display="inline"><![CDATA[\operatorname {ord}_{z_0}f = \min \{k : p_k\not \equiv  0 \}]]></fr:tex>.</html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">

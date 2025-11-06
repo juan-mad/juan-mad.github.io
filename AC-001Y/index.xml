@@ -77,7 +77,93 @@ year = {1978},
         <fr:authors />
         <fr:title text="Backlinks">Backlinks</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/algebras/AC-002M.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002M/</fr:uri>
+            <fr:display-uri>AC-002M</fr:display-uri>
+            <fr:route>/AC-002M/</fr:route>
+            <fr:title text="Ideales maximales de un álgebra finitamente generada">Ideales maximales de un álgebra finitamente generada</fr:title>
+            <fr:taxon>Proposición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo algebraicamente cerrado, y sea un <fr:link href="/AC-001Y/" title="Álgebras con generación finita" uri="https://juan-mad.github.io/AC-001Y/" display-uri="AC-001Y" type="local">álgebra finitamente generada</fr:link> de la forma <fr:tex display="inline"><![CDATA[A=k[x_1,\dots , x_n]=k[X_1,\dots ,X_n]/J]]></fr:tex>, donde <fr:tex display="inline"><![CDATA[J]]></fr:tex> es un <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link> de <fr:tex display="inline"><![CDATA[k[X_1,\dots ,X_n]]]></fr:tex> (notemos que <fr:tex display="inline"><![CDATA[x_i = X_i\mod  J]]></fr:tex>). Entonces todo ideal maximal de <fr:tex display="inline"><![CDATA[A]]></fr:tex> es de la forma <fr:tex display="block"><![CDATA[m = \langle  x_1 - a_1, \dots , x_n - a_n \rangle , \,\,\, (a_1,\dots ,a_n)\in  V(J),]]></fr:tex> donde <fr:tex display="inline"><![CDATA[V(J)]]></fr:tex> es el <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjunto algebraico</fr:link> de <fr:tex display="inline"><![CDATA[J]]></fr:tex>.</html:p>
+            <html:p>Este resultado nos da una correspondencia biyectiva natural entre <fr:tex display="inline"><![CDATA[V(J)]]></fr:tex> y los ideales maximales de <fr:tex display="inline"><![CDATA[A = k[X_1,\dots ,X_N]/J]]></fr:tex> definida por <fr:tex display="block"><![CDATA[(a_1,\dots ,a_n) \longleftrightarrow  \langle  x_1 - a_1,\dots ,x_n - a_n \rangle .]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>4</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/algebras/AC-002J.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002J/</fr:uri>
+            <fr:display-uri>AC-002J</fr:display-uri>
+            <fr:route>/AC-002J/</fr:route>
+            <fr:title text="Teorema débil de los ceros (Nullstellenstaz)">Teorema débil de los ceros (Nullstellenstaz)</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo y <fr:tex display="inline"><![CDATA[K]]></fr:tex> una <fr:link href="/AC-001V/" title="Álgebras" uri="https://juan-mad.github.io/AC-001V/" display-uri="AC-001V" type="local"><fr:tex display="inline"><![CDATA[k]]></fr:tex>-álgebra</fr:link> tal que <html:ul><html:li><fr:tex display="inline"><![CDATA[K]]></fr:tex> está <fr:link href="/AC-001Y/" title="Álgebras con generación finita" uri="https://juan-mad.github.io/AC-001Y/" display-uri="AC-001Y" type="local">finitamente generada como <fr:tex display="inline"><![CDATA[k]]></fr:tex>-álgebra</fr:link>, y</html:li>
+    <html:li><fr:tex display="inline"><![CDATA[K]]></fr:tex> es un cuerpo.</html:li></html:ul>
+Entonces <fr:tex display="inline"><![CDATA[K]]></fr:tex> es una extensión de cuerpos algebraica y finita sobre <fr:tex display="inline"><![CDATA[k]]></fr:tex>.
+</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>4</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/algebras/AC-002I.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002I/</fr:uri>
+            <fr:display-uri>AC-002I</fr:display-uri>
+            <fr:route>/AC-002I/</fr:route>
+            <fr:title text="Lema de normalización de Noether">Lema de normalización de Noether</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo, <fr:tex display="inline"><![CDATA[A]]></fr:tex> una <fr:link href="/AC-001Y/" title="Álgebras con generación finita" uri="https://juan-mad.github.io/AC-001Y/" display-uri="AC-001Y" type="local"><fr:tex display="inline"><![CDATA[k]]></fr:tex>-álgebra finitamente generada</fr:link>. Entonces existen elementos <fr:tex display="inline"><![CDATA[y_1,\dots ,y_n \in  A]]></fr:tex> tales que <html:ul><html:li><fr:tex display="inline"><![CDATA[y_1,\dots ,y_n]]></fr:tex> son <fr:link href="/AC-002H/" title="Elementos algebraicamente independientes sobre un cuerpo" uri="https://juan-mad.github.io/AC-002H/" display-uri="AC-002H" type="local">algebraicamente independientes sobre <fr:tex display="inline"><![CDATA[k]]></fr:tex></fr:link>, y</html:li>
+<html:li><fr:tex display="inline"><![CDATA[A]]></fr:tex> es <fr:link href="/AC-001X/" title="Álgebras finitas" uri="https://juan-mad.github.io/AC-001X/" display-uri="AC-001X" type="local">finita</fr:link> sobre <fr:tex display="inline"><![CDATA[B=k[y_1,\dots ,y_n]]]></fr:tex>.</html:li></html:ul>
+Es decir, una <fr:link href="/AC-001Y/" title="Álgebras con generación finita" uri="https://juan-mad.github.io/AC-001Y/" display-uri="AC-001Y" type="local">extensión de generación finita</fr:link> <fr:tex display="inline"><![CDATA[k\subset  A]]></fr:tex> puede escribirse como una composición <fr:tex display="block"><![CDATA[k\subset  B = k[y_1,\dots ,y_n]\subset  A,]]></fr:tex> donde <fr:tex display="inline"><![CDATA[k\subset  B]]></fr:tex> es una <fr:link href="/AC-001Y/" title="Álgebras con generación finita" uri="https://juan-mad.github.io/AC-001Y/" display-uri="AC-001Y" type="local">"extensión polinómica"</fr:link> y <fr:tex display="inline"><![CDATA[B\subset  A]]></fr:tex> es una <fr:link href="/AC-001X/" title="Álgebras finitas" uri="https://juan-mad.github.io/AC-001X/" display-uri="AC-001X" type="local">extensión finita</fr:link>.</html:p>
+            <html:p>En particular, si el cuerpo es finito, <fr:tex display="inline"><![CDATA[|k|=\infty ]]></fr:tex> (no importa su característica), entonces pueden elegirse los <fr:tex display="inline"><![CDATA[y_i, i=1,\dots ,n]]></fr:tex> como combinación lineal de los <fr:tex display="inline"><![CDATA[Y_1,\dots , Y_n]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

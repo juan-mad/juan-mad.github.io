@@ -23,7 +23,7 @@
     </fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Un <html:em>cuerpo de números algebraicos</html:em> o <html:em>cuerpo numérico</html:em> es una extensión de cuerpos <fr:tex display="inline"><![CDATA[K]]></fr:tex> finita de los números racionales <fr:tex display="inline"><![CDATA[\mathbb  Q]]></fr:tex>; es decir, <fr:tex display="inline"><![CDATA[\mathbb  Q\subset  K]]></fr:tex> y <fr:tex display="inline"><![CDATA[[K:\mathbb  Q] = \mathrm {dim}_\mathbb  Q\, K < \infty ]]></fr:tex>. </html:p>
+    <html:p>Un <html:em>cuerpo de números algebraicos</html:em> o <html:em>cuerpo numérico</html:em> es una extensión de cuerpos <fr:tex display="inline"><![CDATA[K]]></fr:tex> finita de los números racionales <fr:tex display="inline"><![CDATA[\mathbb  Q]]></fr:tex>; es decir, <fr:tex display="inline"><![CDATA[\mathbb  Q\subset  K]]></fr:tex> y <fr:tex display="inline"><![CDATA[[K:\mathbb  Q] = \operatorname {dim}_\mathbb  Q\, K < \infty ]]></fr:tex>. </html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">

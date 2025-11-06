@@ -26,7 +26,9 @@
     <html:li><fr:link href="/VC-0001/" title="https://juan-mad.github.io/VC-0001/" uri="https://juan-mad.github.io/VC-0001/" display-uri="VC-0001" type="local">Variable Compleja</fr:link></html:li>
     <html:li><fr:link href="/TRFU-0001/" title="Transformadas Funcionales" uri="https://juan-mad.github.io/TRFU-0001/" display-uri="TRFU-0001" type="local">Transformadas Funcionales</fr:link></html:li>
     <html:li><fr:link href="/VC-000X/" title="Análisis complejo en varias variables" uri="https://juan-mad.github.io/VC-000X/" display-uri="VC-000X" type="local">Varias variables complejas</fr:link></html:li>
-    <html:li><fr:link href="/HOTO-000F/" title="Homotopía" uri="https://juan-mad.github.io/HOTO-000F/" display-uri="HOTO-000F" type="local">Homotopía</fr:link></html:li></html:ul>
+    <html:li><fr:link href="/HOTO-000F/" title="Homotopía" uri="https://juan-mad.github.io/HOTO-000F/" display-uri="HOTO-000F" type="local">Homotopía</fr:link></html:li>
+    <html:li><fr:link href="/CAT-000H/" title="Teor'ia de categor'ias" uri="https://juan-mad.github.io/CAT-000H/" display-uri="CAT-000H" type="local">Teoría de categorías</fr:link></html:li>
+    <html:li><fr:link href="/AG-0001/" title="Variedades" uri="https://juan-mad.github.io/AG-0001/" display-uri="AG-0001" type="local">Geometría algebraica</fr:link></html:li></html:ul>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -56,6 +58,659 @@
         <fr:title text="Related">Related</fr:title>
       </fr:frontmatter>
       <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0001.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AG-0001/</fr:uri>
+            <fr:display-uri>AG-0001</fr:display-uri>
+            <fr:route>/AG-0001/</fr:route>
+            <fr:title text="Variedades">Variedades</fr:title>
+            <fr:taxon>Tema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0002.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-0002/</fr:uri>
+                <fr:display-uri>AG-0002</fr:display-uri>
+                <fr:route>/AG-0002/</fr:route>
+                <fr:title text="Espacio afín n-dimensional">Espacio afín <fr:tex display="inline"><![CDATA[n]]></fr:tex>-dimensional</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo algebraicamente cerrado. Se define el <html:em>espacio afín <fr:tex display="inline"><![CDATA[n]]></fr:tex>-dimensional sobre <fr:tex display="inline"><![CDATA[k]]></fr:tex></html:em>, <fr:tex display="inline"><![CDATA[\mathbb  A^n_k]]></fr:tex> o <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex>, como el conjunto de las <fr:tex display="inline"><![CDATA[n]]></fr:tex>-uplas de elementos de <fr:tex display="inline"><![CDATA[k]]></fr:tex>. Un elemento <fr:tex display="inline"><![CDATA[P\in  \mathbb  A^n]]></fr:tex> recibe el nombre de <html:em>punto</html:em>, y si <fr:tex display="inline"><![CDATA[P=(a_1,\dots ,a_n), a_i\in  k, i=1,\dots ,n]]></fr:tex>, entonces los <fr:tex display="inline"><![CDATA[a_i]]></fr:tex> reciben el nombre de <html:em>coordenadas</html:em> de <fr:tex display="inline"><![CDATA[P]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Consideramos <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n]]]></fr:tex> el anillo de polinomios en <fr:tex display="inline"><![CDATA[n]]></fr:tex> variables sobre el cuerpo <fr:tex display="inline"><![CDATA[k]]></fr:tex>. Los polinomios de <fr:tex display="inline"><![CDATA[A]]></fr:tex> se interpretan como funciones de <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex> en <fr:tex display="inline"><![CDATA[k]]></fr:tex> mediante la evaluación del polinomio en un punto. En este sentido, tiene sentido hablar de <html:em>conjunto de ceros de un polinomio <fr:tex display="inline"><![CDATA[f\in  A]]></fr:tex></html:em>, <fr:tex display="block"><![CDATA[V(f) := \{ P\in \mathbb  A^n : f(P) = 0 \}]]></fr:tex>. En general, si <fr:tex display="inline"><![CDATA[T\subset  A]]></fr:tex> es un subconjunto hablamos del <html:em>conjunto de ceros de <fr:tex display="inline"><![CDATA[T]]></fr:tex></html:em> como el conjunto de puntos que anulan a todos los elementos de <fr:tex display="inline"><![CDATA[T]]></fr:tex>, <fr:tex display="block"><![CDATA[V(T) := \{ P\in \mathbb  A^n : f(P) = 0, \,\,\forall  f\in  T \}.]]></fr:tex></html:p>
+            <html:p>Si <fr:tex display="inline"><![CDATA[I=\langle  T \rangle ]]></fr:tex> es el <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link> que genera <fr:tex display="inline"><![CDATA[T]]></fr:tex>, entonces claramente <fr:tex display="inline"><![CDATA[V(T) = V(I)]]></fr:tex>. Como <fr:link href="/AC-001U/" title="Teorema de la base de Hilbert" uri="https://juan-mad.github.io/AC-001U/" display-uri="AC-001U" type="local">el anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> es noetheriano</fr:link>, <fr:link href="/AC-001O/" title="Caracterización de anillos noetherianos" uri="https://juan-mad.github.io/AC-001O/" display-uri="AC-001O" type="local">cualquier ideal <fr:tex display="inline"><![CDATA[J\subset  A]]></fr:tex> tiene un conjunto finito de generadores <fr:tex display="inline"><![CDATA[f_1,\dots ,f_r]]></fr:tex></fr:link>. Entonces <fr:tex display="inline"><![CDATA[V(T)]]></fr:tex> puede expresarse como los ceros comunes de un conjunto finito de polinomios <fr:tex display="inline"><![CDATA[\{f_1,\dots ,f_r\}]]></fr:tex>.</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0003.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-0003/</fr:uri>
+                <fr:display-uri>AG-0003</fr:display-uri>
+                <fr:route>/AG-0003/</fr:route>
+                <fr:title text="Conjunto algebraico">Conjunto algebraico</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un subconjunto <fr:tex display="inline"><![CDATA[Y]]></fr:tex> del <fr:link href="/AG-0002/" title="Espacio afín n-dimensional" uri="https://juan-mad.github.io/AG-0002/" display-uri="AG-0002" type="local">espacio afín</fr:link> se dice que es <html:em>algebraico</html:em> si existe un subconjunto <fr:tex display="inline"><![CDATA[T\subset  A=k[x_1,\dots ,x_n]]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[Y = V(T)]]></fr:tex>, el conjunto de ceros de los elementos de <fr:tex display="inline"><![CDATA[T]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0004.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-0004/</fr:uri>
+                <fr:display-uri>AG-0004</fr:display-uri>
+                <fr:route>/AG-0004/</fr:route>
+                <fr:title text="Operaciones de conjuntos entre conjuntos algebraicos">Operaciones de conjuntos entre conjuntos algebraicos</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>
+                  <html:ul><html:li>Si <fr:tex display="inline"><![CDATA[Y_1, Y_2]]></fr:tex> son dos <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjuntos algebraicos</fr:link>, entonces su unión es un conjunto algebraico. De hecho, <fr:tex display="block"><![CDATA[Y_1=V(T_1),\,\,Y_2=V(T_2)\,\,\Longrightarrow \,\, Y_1\cup  Y_2 = V(T_1\cdot  T_2).]]></fr:tex></html:li>
+<html:li>Si <fr:tex display="inline"><![CDATA[\{Y_\alpha  = V(T_\alpha )\}_{\alpha \in  I}]]></fr:tex> es una familia de <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjuntos algebraicos</fr:link>, entonces su intersección es un conjunto algebraico. De hecho, <fr:tex display="block"><![CDATA[\bigcap _{\alpha \in  I} Y_\alpha  = V\left (\bigcup _{\alpha  \in  I}T_\alpha \right )]]></fr:tex></html:li>
+<html:li>El conjunto vació y el <fr:link href="/AG-0002/" title="Espacio afín n-dimensional" uri="https://juan-mad.github.io/AG-0002/" display-uri="AG-0002" type="local">espacio afín</fr:link> son conjuntos algebraicos, correspondientes a <fr:tex display="inline"><![CDATA[V(\{1\})]]></fr:tex> y <fr:tex display="inline"><![CDATA[V(\emptyset )]]></fr:tex>.</html:li></html:ul>
+                </html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Basado en las propiedades de estos conjuntos algebraicos se puede definir una topología especial en <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex>:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0005.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-0005/</fr:uri>
+                <fr:display-uri>AG-0005</fr:display-uri>
+                <fr:route>/AG-0005/</fr:route>
+                <fr:title text="Topología de Zariski">Topología de Zariski</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Se define la <html:em>topología de Zariski</html:em> en <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex> tomando como conjuntos abiertos los complementarios de <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjuntos algebraicos</fr:link>. Estos <fr:link href="/AG-0004/" title="Operaciones de conjuntos entre conjuntos algebraicos" uri="https://juan-mad.github.io/AG-0004/" display-uri="AG-0004" type="local">cumplen las propiedades necesarias</fr:link> de una topología.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Consideremos el ejemplo de <fr:tex display="inline"><![CDATA[n=1]]></fr:tex>. Cada ideal en <fr:tex display="inline"><![CDATA[A=k[x]]]></fr:tex> es principal, por lo que todo <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjunto algebraico</fr:link> es el conjunto de los ceros de un polinomio <fr:tex display="inline"><![CDATA[f]]></fr:tex>. Puesto que <fr:tex display="inline"><![CDATA[k]]></fr:tex> es algebraicamente cerrado, <fr:tex display="inline"><![CDATA[f]]></fr:tex> puede escribirse como <fr:tex display="block"><![CDATA[f(x) = c(x - a_1)\cdots  (x - a_n), \,\,\,c,a_1,\dots ,x_n\in  k,]]></fr:tex> por lo que <fr:tex display="inline"><![CDATA[V(f) = \{a_1,\dots ,a_n\}]]></fr:tex>. Por lo tanto, los conjuntos algebraicos en <fr:tex display="inline"><![CDATA[\mathbb  A^1]]></fr:tex> son los conjuntos finitos, incluyendo el conjunto vació y todo <fr:tex display="inline"><![CDATA[\mathbb  A^1]]></fr:tex> (basta considerar <fr:tex display="inline"><![CDATA[f=0]]></fr:tex>). Entonces los conjuntos abiertos son el conjunto vació y los complementarios de conjuntos finitos. En particular, esta topología no es Hausdorff (recordemos que todo cuerpo <fr:tex display="inline"><![CDATA[k]]></fr:tex> algebraicamente cerrado tiene infinitos elementos).</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0006.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-0006/</fr:uri>
+                <fr:display-uri>AG-0006</fr:display-uri>
+                <fr:route>/AG-0006/</fr:route>
+                <fr:title text="Conjunto irreducible">Conjunto irreducible</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Dado un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex>, se dice que un subconjunto no vació <fr:tex display="inline"><![CDATA[Y\subset  X]]></fr:tex> es <html:em>irreducible</html:em> si no puede expresarse como la unión <fr:tex display="inline"><![CDATA[Y=Y_1\cup  Y_2]]></fr:tex> de dos subconjuntos no vaciós, propios y cerrados en <fr:tex display="inline"><![CDATA[Y]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>En particular, <fr:tex display="inline"><![CDATA[\mathbb  A^1]]></fr:tex> es <fr:link href="/AG-0006/" title="Conjunto irreducible" uri="https://juan-mad.github.io/AG-0006/" display-uri="AG-0006" type="local">irreducible</fr:link> ya que sus únicos subconjuntos cerrados propios son finitos, y él contiene infinitos elementos. Pueden verse <fr:link href="/AG-0007/" title="Propiedades de conjuntos irreducibles" uri="https://juan-mad.github.io/AG-0007/" display-uri="AG-0007" type="local">algunas propiedades de conjuntos irreducibles aquí.</fr:link>.</html:p>
+            <html:p>Nuestro primer objeto de estudio serán las variedades algebraicas afines y cuasi-afines, definidas a continuación:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0008.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-0008/</fr:uri>
+                <fr:display-uri>AG-0008</fr:display-uri>
+                <fr:route>/AG-0008/</fr:route>
+                <fr:title text="Variedades algebraicas afines y cuasi-afines">Variedades algebraicas afines y cuasi-afines</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Una <html:em>variedad (algebraica) afín</html:em> es un subconjunto cerrado e <fr:link href="/AG-0006/" title="Conjunto irreducible" uri="https://juan-mad.github.io/AG-0006/" display-uri="AG-0006" type="local">irreducible</fr:link> del <fr:link href="/AG-0002/" title="Espacio afín n-dimensional" uri="https://juan-mad.github.io/AG-0002/" display-uri="AG-0002" type="local">espacio afín</fr:link> <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex> para la <fr:link href="/AG-0005/" title="Topología de Zariski" uri="https://juan-mad.github.io/AG-0005/" display-uri="AG-0005" type="local">topología de Zariski</fr:link>. Notemos que los conjuntos cerrados para esta topología son precisamente los <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjuntos algebraicos</fr:link>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Sin embargo, antes de continuar, vamos a analizar la relación entre subconjuntos de <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex> y los ideales de <fr:tex display="inline"><![CDATA[A]]></fr:tex>.</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0009.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-0009/</fr:uri>
+                <fr:display-uri>AG-0009</fr:display-uri>
+                <fr:route>/AG-0009/</fr:route>
+                <fr:title text="Ideal de polinomios que se anulan en un subconjunto del espacio afín">Ideal de polinomios que se anulan en un subconjunto del espacio afín</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Dado un subconjunto <fr:tex display="inline"><![CDATA[Y]]></fr:tex> del <fr:link href="/AG-0002/" title="Espacio afín n-dimensional" uri="https://juan-mad.github.io/AG-0002/" display-uri="AG-0002" type="local">espacio afín <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex></fr:link>, definimos el <html:em>ideal de <fr:tex display="inline"><![CDATA[Y]]></fr:tex> en <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n]]]></fr:tex></html:em> como <fr:tex display="block"><![CDATA[I(Y) := \{f \in  A : f(P)=0 \,\,\, \forall  P\in  Y\}.]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Con esta última definición, tenemos una función <fr:tex display="inline"><![CDATA[V]]></fr:tex> que envía subconjuntos de <fr:tex display="inline"><![CDATA[A]]></fr:tex> en <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjuntos algebraicos</fr:link>, y una función <fr:tex display="inline"><![CDATA[I]]></fr:tex> qie envía subconjuntos de <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex> en ideales de <fr:tex display="inline"><![CDATA[A]]></fr:tex>. Veamos algunas propiedades de estas dos funciones:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000A.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000A/</fr:uri>
+                <fr:display-uri>AG-000A</fr:display-uri>
+                <fr:route>/AG-000A/</fr:route>
+                <fr:title text="Propiedades de conjuntos algebraicos e ideales de polinomios">Propiedades de conjuntos algebraicos e ideales de polinomios</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[T_1, T_2\subset  A=k[x_1,\dots ,x_n]]]></fr:tex> y sean <fr:tex display="inline"><![CDATA[Y_1,Y_2\subset  \mathbb  A^n]]></fr:tex>.
+<html:ol><html:li>Si <fr:tex display="inline"><![CDATA[T_1\subset  T_2]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[V(T_1)\supset  V(T_2)]]></fr:tex>.</html:li>
+<html:li>Si <fr:tex display="inline"><![CDATA[Y_1\subset  Y_2]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[I(Y_1)\supset  I(Y_2)]]></fr:tex>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[I(Y_1\cup  Y_2) = I(Y_1) \cap  I(Y_2).]]></fr:tex></html:li>
+<html:li>Para un ideal <fr:tex display="inline"><![CDATA[J\subset  A]]></fr:tex>, <fr:tex display="inline"><![CDATA[I(V(J)) = \sqrt {J}]]></fr:tex>, el <fr:link href="/AC-002L/" title="Radical de un ideal e ideal radical" uri="https://juan-mad.github.io/AC-002L/" display-uri="AC-002L" type="local">ideal radical</fr:link> de <fr:tex display="inline"><![CDATA[J]]></fr:tex>.</html:li>
+<html:li>Para un subconjunto <fr:tex display="inline"><![CDATA[Y\subset  \mathbb  A^n]]></fr:tex>, se tiene que <fr:tex display="inline"><![CDATA[V(I(Y)) = \bar  Y]]></fr:tex>, la adherencia de <fr:tex display="inline"><![CDATA[Y]]></fr:tex> en la <fr:link href="/AG-0005/" title="Topología de Zariski" uri="https://juan-mad.github.io/AG-0005/" display-uri="AG-0005" type="local">topología de Zariski</fr:link>.</html:li></html:ol>
+La contención <fr:tex display="inline"><![CDATA[I(V(J))\subset  \sqrt {J}]]></fr:tex> es consecuencia del <fr:link href="/AC-002N/" title="Teorema de los ceros de Hilbert (Nullstellenstaz)" uri="https://juan-mad.github.io/AC-002N/" display-uri="AC-002N" type="local">Teorema de los ceros de Hilbert</fr:link>.
+</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000B.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000B/</fr:uri>
+                <fr:display-uri>AG-000B</fr:display-uri>
+                <fr:route>/AG-000B/</fr:route>
+                <fr:title text="Conjuntos algebraicos irreducibles e ideales primos">Conjuntos algebraicos irreducibles e ideales primos</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Una <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjunto algebraico</fr:link> <fr:tex display="inline"><![CDATA[X\subset \mathbb  A^n]]></fr:tex> es irreducible si y sólo si <fr:link href="/AG-0009/" title="Ideal de polinomios que se anulan en un subconjunto del espacio afín" uri="https://juan-mad.github.io/AG-0009/" display-uri="AG-0009" type="local">el ideal <fr:tex display="inline"><![CDATA[I(X)\subset  k[x_1,\dots ,x_n]]]></fr:tex></fr:link> es un <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000C.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000C/</fr:uri>
+                <fr:display-uri>AG-000C</fr:display-uri>
+                <fr:route>/AG-000C/</fr:route>
+                <fr:title text="Relación entre ideales y conjuntos algebraicos">Relación entre ideales y conjuntos algebraicos</fr:title>
+                <fr:taxon>Corolario</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+                </fr:meta>
+                <fr:meta name="related">
+                  <fr:link href="/AG-0008/" title="Variedades algebraicas afines y cuasi-afines" uri="https://juan-mad.github.io/AG-0008/" display-uri="AG-0008" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo algebraicamente cerrado. Las funciones <fr:tex display="inline"><![CDATA[V]]></fr:tex> e <fr:tex display="inline"><![CDATA[I]]></fr:tex> inducen correspondencias biyectivas entre <fr:tex display="block"><![CDATA[\left \{ \text {ideales radicales }J \subset  k[X_1,\dots ,X_n] \right \} \longleftrightarrow  \left \{ \begin {align*} \text {conjuntos algebraicos de } \mathbb  A^n \end {align*}\right \} ]]></fr:tex> y en particular <fr:tex display="block"><![CDATA[
+
+\left \{ \text {ideales primos }J \subset  k[X_1,\dots ,X_n] \right \} \longleftrightarrow  \left \{ \begin {align*} \text {variedades afines de } \mathbb  A^n \end {align*}\right \}.
+]]></fr:tex>
+
+Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_n]/J]]></fr:tex> para algún <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link> <fr:tex display="inline"><![CDATA[J\subset  k[X_1,\dots ,X_n]]]></fr:tex> (donde <fr:tex display="inline"><![CDATA[x_i = X_i\mod  J]]></fr:tex>), entonces existe una correspondencia biyectiva <fr:tex display="block"><![CDATA[
+\operatorname {Spec} A \longleftrightarrow  \left \{ \text {variedades afines } Y \subset  V(J)\right \},
+]]></fr:tex> ya que los ideales primos de <fr:tex display="inline"><![CDATA[A]]></fr:tex> son precisamente los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> de <fr:tex display="inline"><![CDATA[k[X_1,\dots ,X_n]]]></fr:tex> que contienen a <fr:tex display="inline"><![CDATA[J]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>4</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000H.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-000H/</fr:uri>
+            <fr:display-uri>CAT-000H</fr:display-uri>
+            <fr:route>/CAT-000H/</fr:route>
+            <fr:title text="Teor'ia de categor'ias">Teor'ia de categor'ias</fr:title>
+            <fr:taxon>Tema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>3</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-0001.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-0001/</fr:uri>
+                <fr:display-uri>CAT-0001</fr:display-uri>
+                <fr:route>/CAT-0001/</fr:route>
+                <fr:title text="Categoría">Categoría</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Una <html:em>categoría</html:em> <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> consiste de <html:ul><html:li>Una colección <fr:tex display="inline"><![CDATA[\mathrm {Obj}(\mathsf {C})]]></fr:tex> de <html:strong>objetos</html:strong> <fr:tex display="inline"><![CDATA[X, Y, Z, \dots ]]></fr:tex></html:li>
+    <html:li>Para cada par de objetos <fr:tex display="inline"><![CDATA[X, Y]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, una colección de <html:strong>morfismos</html:strong> o <html:strong>flechas</html:strong> de <fr:tex display="inline"><![CDATA[X]]></fr:tex> en <fr:tex display="inline"><![CDATA[Y]]></fr:tex>, que suele denotarse por <fr:tex display="inline"><![CDATA[\operatorname {Hom}(X,Y), \mathrm {Mor}(X, Y), \mathsf {C}(X,Y), \dots ]]></fr:tex> (Si <fr:tex display="inline"><![CDATA[f]]></fr:tex> es un morfismo de <fr:tex display="inline"><![CDATA[\operatorname {Hom}(X,Y)]]></fr:tex> escribimos <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y]]></fr:tex> para especificar su dominio, <fr:tex display="inline"><![CDATA[X]]></fr:tex>, y su codominio, <fr:tex display="inline"><![CDATA[Y]]></fr:tex>).</html:li></html:ul>
+que verifican los siguientes axiomas: <html:ol><html:li>Cada morfismo tiene un dominio y codomonio específico. Es decir, si <fr:tex display="inline"><![CDATA[A, A', B, B']]></fr:tex> son objectos de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y o bien <fr:tex display="inline"><![CDATA[A\neq  A']]></fr:tex> o bien <fr:tex display="inline"><![CDATA[B \neq  B']]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[\operatorname {Hom}(A,B)\neq \operatorname {Hom}(A',B')]]></fr:tex>.</html:li>
+    <html:li>Dados tres objetos <fr:tex display="inline"><![CDATA[X, Y, Z]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y dos morfismos <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y, g\colon Y\rightarrow Z]]></fr:tex> existe un morfismo composición <fr:tex display="inline"><![CDATA[g\circ  f = gf\colon  X\rightarrow  Z]]></fr:tex>. Esta composición es asociativa, es decir, si <fr:tex display="inline"><![CDATA[h\colon Z\rightarrow W]]></fr:tex> entonces <fr:tex display="block"><![CDATA[h\circ (g\circ  f) = (h\circ  g)\circ  f\colon  X \longrightarrow  W.]]></fr:tex></html:li>
+    <html:li>Para cada objeto <fr:tex display="inline"><![CDATA[X]]></fr:tex> de <fr:tex display="inline"><![CDATA[C]]></fr:tex> existe un <html:strong>morfismo identidad</html:strong> en <fr:tex display="inline"><![CDATA[\operatorname {Hom}(X,X)]]></fr:tex>, <fr:tex display="inline"><![CDATA[1_X]]></fr:tex>, tal que si <fr:tex display="inline"><![CDATA[g\colon X\rightarrow Y]]></fr:tex> entonces <fr:tex display="block"><![CDATA[1_Yg = g,\,\,\, g1_X = g.]]></fr:tex></html:li></html:ol>
+Puede verificarse que el elemento neutro siempre es único.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p><fr:link href="/CAT-0002/" title="Ejemplos de categorías" uri="https://juan-mad.github.io/CAT-0002/" display-uri="CAT-0002" type="local">Aquí pueden verse algunos ejemplos de categorías</fr:link>.</html:p>
+            <html:p>En general, la colección de objetos o de morfismos de una categoría no tienen por qué ser un conjunto en el sentido de los axiomas de Zermelo-Fraenkel de teoría de conjuntos. Véase, por ejemplo, 1.1.5 en <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local">el libro de Emily Riehl</fr:link> para una breve discusión y otras referencias. Esto nos lleva las dos definiciones siguientes:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000F.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000F/</fr:uri>
+                <fr:display-uri>CAT-000F</fr:display-uri>
+                <fr:route>/CAT-000F/</fr:route>
+                <fr:title text="Categorías pequeñas">Categorías pequeñas</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Decimos que una <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categoría</fr:link> es <html:em>pequeña</html:em> ("small", en inglés) si todos sus morfismos forman un conjunto.</html:p>
+                <html:p>Puesto que para toda categoría existe una correspondencia entre sus objetos <fr:tex display="inline"><![CDATA[X]]></fr:tex> y el morfismo identidad <fr:tex display="inline"><![CDATA[1_X]]></fr:tex> en <fr:tex display="inline"><![CDATA[\operatorname {Hom}(X,X)]]></fr:tex>, una categoría pequeña tendrá también un conjunto de objetos (y no una colección). Si una categoría es pequeña también existen funciones que envían un morfismo en su dominio y en su codominio.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Ninguno de [estos ejemplos de categorías concretas] son categorías pequeñas, pero "localmente" se parecen a categorías pequeñas en el siguiente sentido:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000G.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000G/</fr:uri>
+                <fr:display-uri>CAT-000G</fr:display-uri>
+                <fr:route>/CAT-000G/</fr:route>
+                <fr:title text="Categorías localmente pequeñas">Categorías localmente pequeñas</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Decimos que una <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categoría</fr:link> es <html:em>localmente pequeña</html:em> ("locally small", en inglés) si para todo par de objetos <fr:tex display="inline"><![CDATA[X, Y]]></fr:tex>, los morfismos <fr:tex display="inline"><![CDATA[\operatorname {Hom}(X,Y)]]></fr:tex> forman un conjunto.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Una categoría nos aporta el contexto en el que podemos contestar a la pregunta "¿Cuándo es una cosa lo mismo que otra cosa?" En matemáticas se suelen tratar a dos objetos como "los mismos" cuando hay un isomorfismo entre ellos en el siguiente sentido:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000I.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000I/</fr:uri>
+                <fr:display-uri>CAT-000I</fr:display-uri>
+                <fr:route>/CAT-000I/</fr:route>
+                <fr:title text="Isomorfismo en una categoría">Isomorfismo en una categoría</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un <html:em>isomorfismo</html:em> en una <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categoría</fr:link> es un morfismo <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y]]></fr:tex> para el cual existe un morfismo <fr:tex display="inline"><![CDATA[g\colon Y\rightarrow X]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[gf=1_X]]></fr:tex> y <fr:tex display="inline"><![CDATA[fg=1_Y]]></fr:tex>. Decimos que dos objetos <fr:tex display="inline"><![CDATA[X]]></fr:tex> e <fr:tex display="inline"><![CDATA[Y]]></fr:tex> son <html:em>isomorfos</html:em> cuando existe un isomorfismo entre <fr:tex display="inline"><![CDATA[X]]></fr:tex> e <fr:tex display="inline"><![CDATA[Y]]></fr:tex>; en este caso escribimos <fr:tex display="inline"><![CDATA[X\cong  Y]]></fr:tex>.</html:p>
+                <html:p>En particular, todo isomorfismo es un <fr:link href="/CAT-000K/" title="Monomorfismo" uri="https://juan-mad.github.io/CAT-000K/" display-uri="CAT-000K" type="local">monomorfismo</fr:link> y un <fr:link href="/CAT-000L/" title="Epimorfismo" uri="https://juan-mad.github.io/CAT-000L/" display-uri="CAT-000L" type="local">epimorfismo</fr:link>.</html:p>
+                <html:p>Un endomorfismo, es decir, un morfismo con igual dominio y codominio, que también es isomorfismo recibe el nombre de <html:em>automorfismo</html:em>.</html:p>
+                <html:p>Algunos ejemplos de isomorfismos son: <html:ul><html:li>Los <fr:link href="/CAT-0003/" title="Categoría de conjuntos" uri="https://juan-mad.github.io/CAT-0003/" display-uri="CAT-0003" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Set}]]></fr:tex></fr:link> son las biyecciones.</html:li>
+    <html:li>Los <fr:link href="/CAT-0005/" title="Categoría de grupos" uri="https://juan-mad.github.io/CAT-0005/" display-uri="CAT-0005" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Group}]]></fr:tex></fr:link> son los homomorfismos biyectivos.</html:li>
+    <html:li>Los <fr:link href="/CAT-0006/" title="Categoría de anillos" uri="https://juan-mad.github.io/CAT-0006/" display-uri="CAT-0006" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Ring}]]></fr:tex></fr:link> son los homomorfismos biyectivos.</html:li>
+    <html:li>Los <fr:link href="/CAT-0007/" title="Categoría de cuerpos" uri="https://juan-mad.github.io/CAT-0007/" display-uri="CAT-0007" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Field}]]></fr:tex></fr:link> son los homomorfismos biyectivos.</html:li>
+    <html:li>Los <fr:link href="/CAT-0008/" title="Categoría de módulos sobre un anillo" uri="https://juan-mad.github.io/CAT-0008/" display-uri="CAT-0008" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Mod}_R]]></fr:tex></fr:link> son los homomorfismos biyectivos.</html:li>
+    <html:li>En la <fr:link href="/CAT-000E/" title="Categoría de un conjunto parcialmente ordenado" uri="https://juan-mad.github.io/CAT-000E/" display-uri="CAT-000E" type="local">categoría de un conjunto parcialmente ordenado</fr:link> <fr:tex display="inline"><![CDATA[(\mathsf {P}, \leq )]]></fr:tex>, los únicos isomorfismos son las identidades.</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000J.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000J/</fr:uri>
+                <fr:display-uri>CAT-000J</fr:display-uri>
+                <fr:route>/CAT-000J/</fr:route>
+                <fr:title text="Principio de dualidad">Principio de dualidad</fr:title>
+                <fr:taxon>Principio</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Dada una categoría <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, podemos definir una categoría opuesta:
+<fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-000B.tree</fr:source-path><fr:uri>https://juan-mad.github.io/CAT-000B/</fr:uri><fr:display-uri>CAT-000B</fr:display-uri><fr:route>/CAT-000B/</fr:route><fr:title text="Categoría opuesta">Categoría opuesta</fr:title><fr:taxon>Ejemplo</fr:taxon><fr:meta name="sources"><fr:link href="/solotar-farinati-anillos-categorias-representaciones/" title="Anillos y sus categorías de representaciones" uri="https://juan-mad.github.io/solotar-farinati-anillos-categorias-representaciones/" display-uri="solotar-farinati-anillos-categorias-representaciones" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>Data una categoría <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, se define la <html:em>categoría opuesta <fr:tex display="inline"><![CDATA[\mathsf {C}^{op}]]></fr:tex></html:em> definiendo:: <html:ul><html:li>Los objetos <fr:tex display="inline"><![CDATA[\mathrm {Obj}(\mathsf {C})]]></fr:tex> de la categoría como objetos.</html:li>
+<html:li>Para cada par de objetos <fr:tex display="inline"><![CDATA[X, Y]]></fr:tex> se define <fr:tex display="inline"><![CDATA[\operatorname {Hom}_{\mathsf {C}^{op}}(X,Y) \colon =\operatorname {Hom}_\mathsf {C}(Y,X)]]></fr:tex> como morfismos. La composición funciona de la forma <fr:tex display="inline"><![CDATA[f\circ _{op} g \colon = g\circ  f]]></fr:tex>.</html:li></html:ul></html:p></fr:mainmatter></fr:tree>
+Es decir, <fr:tex display="inline"><![CDATA[\mathsf {C}^{op}]]></fr:tex> tiene los mismos objetos y morfismos que <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, pero con las "flechas apuntando al otro lado" o "intercambiando dominios y codominios". La información contenida en una de ellas está contenida en la otra. Esta dualidad sintáctica tiene una consecuencia muy importante: <html:ul><html:li>Toda proposición que contenga un cuantificador universal de la forma "para todas las categorías <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>" también aplica necesariamente a sus categorías opuestas.</html:li></html:ul> Interpretando el resultado en el contexto dual nos lleva a un <html:strong>teorema dual</html:strong>, que se prueba por el dual de la demostración original, en el cual las direcciones de cada flecha o morfismo que aparecen en el argument se inverten. De esta forma, cualquier demostración en teoría de categorías demuestra simultáneamente dos resultados.
+</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Por ejemplo, las definiciones en categor'ias tambi'en tienen duales, como podemos ver a continuaci'on:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000K.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000K/</fr:uri>
+                <fr:display-uri>CAT-000K</fr:display-uri>
+                <fr:route>/CAT-000K/</fr:route>
+                <fr:title text="Monomorfismo">Monomorfismo</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un morfismo <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y]]></fr:tex> es un <html:em>monomorfismo</html:em> (o "mono") si para cualquier par de morfismos <fr:tex display="block"><![CDATA[h, k\colon  W \rightrightarrows  X]]></fr:tex> se tiene que <fr:tex display="block"><![CDATA[fh = fk \Longrightarrow  h = k.]]></fr:tex></html:p>
+                <html:p>Normalmente, los monomorfismos suelen representarse con el siguiente s'imbolo: <fr:tex display="inline"><![CDATA[X \rightarrowtail  Y]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000L.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000L/</fr:uri>
+                <fr:display-uri>CAT-000L</fr:display-uri>
+                <fr:route>/CAT-000L/</fr:route>
+                <fr:title text="Epimorfismo">Epimorfismo</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un morfismo <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y]]></fr:tex> es un <html:em>epimorfismo</html:em> (o "epi") si para cualquier par de morfismos <fr:tex display="block"><![CDATA[h, k\colon  Y \rightrightarrows  W]]></fr:tex> se tiene que <fr:tex display="block"><![CDATA[hf = hk \Longrightarrow  h = k.]]></fr:tex></html:p>
+                <html:p>Normalmente, los epimorfismos suelen representarse con el siguiente s'imbolo: <fr:tex display="inline"><![CDATA[X \twoheadrightarrow  Y]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Puede verse que los monomorfismos y epimorfismos son el dual del otro; y que un monomorfismo en una categor'ia es un epimorfismo en la categor'ia opuesta, y viceversa.</html:p>
+            <html:p>Puesto que categor'ias tambi'en son objetos matem'aticos, nuestro pr'oximo objetivo ser'a describir los morfismos entre categor'ias.</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000M.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000M/</fr:uri>
+                <fr:display-uri>CAT-000M</fr:display-uri>
+                <fr:route>/CAT-000M/</fr:route>
+                <fr:title text="Funtor">Funtor</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un <html:em>funtor</html:em> (covariante) <fr:tex display="inline"><![CDATA[F\colon \mathsf {C}\rightarrow \mathsf {D}]]></fr:tex> entre categor'ias <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> est'a definido por: <html:ul><html:li>Un objeto <fr:tex display="inline"><![CDATA[Fc]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> para cada objeto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>.</html:li>
+<html:li>Un morfismo <fr:tex display="inline"><![CDATA[Ff\colon Fc\rightarrow Fc']]></fr:tex> entre objetos <fr:tex display="inline"><![CDATA[Fc, Fc']]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex>, para cada morfismo <fr:tex display="inline"><![CDATA[f\colon c\rightarrow c']]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>.</html:li></html:ul>
+Adem'as, un funtor covariante debe verificar los siguientes <html:strong>axiomas de funtorialidad</html:strong>:
+<html:ul><html:li>Para cualquier pareja de morfismos <fr:tex display="inline"><![CDATA[f,g]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> que pueden componerse, <fr:tex display="block"><![CDATA[Fg\circ  Ff = F(g\circ  f).]]></fr:tex></html:li>
+<html:li>Para cada objecto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, <fr:tex display="inline"><![CDATA[F(1_c) = 1_{Fc}]]></fr:tex>.</html:li></html:ul></html:p>
+                <html:p>Un funtor contravariante <fr:tex display="inline"><![CDATA[F]]></fr:tex> entre <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> es un funtor <fr:tex display="inline"><![CDATA[F\colon \mathsf {C}^{op}\rightarrow \mathsf {D}]]></fr:tex>. Expl'icitamente, el funtor est'a definido por: <html:ul><html:li>Un objeto <fr:tex display="inline"><![CDATA[Fc]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> para cada objeto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>.</html:li>
+<html:li>Un morfismo <fr:tex display="inline"><![CDATA[Ff\colon Fc'\rightarrow Fc]]></fr:tex> entre objetos <fr:tex display="inline"><![CDATA[Fc, Fc']]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex>, para cada morfismo <fr:tex display="inline"><![CDATA[f\colon c\rightarrow c']]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>. Notemos como el dominio y codominio de <fr:tex display="inline"><![CDATA[Ff]]></fr:tex> son el resultado de aplicar <fr:tex display="inline"><![CDATA[F]]></fr:tex> al <html:strong>codominio</html:strong> y al <html:strong>dominio</html:strong>, respectivamente (al contrario que para un funtor covariante).</html:li></html:ul>
+
+Adem'as, un funtor contravariante debe verificar los siguientes <html:strong>axiomas de funtorialidad</html:strong>:
+<html:ul><html:li>Para cualquier pareja de morfismos <fr:tex display="inline"><![CDATA[f,g]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> que pueden componerse, <fr:tex display="block"><![CDATA[Ff\circ  Fg = F(g\circ  f).]]></fr:tex></html:li>
+<html:li>Para cada objecto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, <fr:tex display="inline"><![CDATA[F(1_c) = 1_{Fc}]]></fr:tex>.</html:li></html:ul>
+Un morfismo al que se le aplica un funtor contravariante <fr:tex display="inline"><![CDATA[F\colon \mathsf {C}^{op}\rightarrow \mathsf {D}]]></fr:tex> se representar'a siempre como un morfismo <fr:tex display="inline"><![CDATA[f\colon c\rightarrow c']]></fr:tex> entre su dominio y codominio en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, no en <fr:tex display="inline"><![CDATA[\mathsf {C}^{op}]]></fr:tex>. Gr'aficamente: <fr:tex display="block"><![CDATA[f\colon c\rightarrow c', \,\,\, Ff\colon Fc'\rightarrow Fc.]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>El siguiente es uno de los primeros lemas de teor'ia de categor'ias:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000N.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000N/</fr:uri>
+                <fr:display-uri>CAT-000N</fr:display-uri>
+                <fr:route>/CAT-000N/</fr:route>
+                <fr:title text="Funtorialidad respeta isomorfismos">Funtorialidad respeta isomorfismos</fr:title>
+                <fr:taxon>Lema</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Si <fr:tex display="inline"><![CDATA[f\colon x\rightarrow y]]></fr:tex> es un <fr:link href="/CAT-000I/" title="Isomorfismo en una categoría" uri="https://juan-mad.github.io/CAT-000I/" display-uri="CAT-000I" type="local">isomorfismo</fr:link> en una <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categor'ia</fr:link> <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y <fr:tex display="inline"><![CDATA[F\colon \mathsf {C}\rightarrow \mathsf {D}]]></fr:tex> es un <fr:link href="/CAT-000N/" title="Funtorialidad respeta isomorfismos" uri="https://juan-mad.github.io/CAT-000N/" display-uri="CAT-000N" type="local">funtor</fr:link> entre las categor'ias <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex>, entonces el morfismo <fr:tex display="inline"><![CDATA[Ff\colon Fx\rightarrow Fy]]></fr:tex> es un isomorfismo entre objetos de <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000O.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000O/</fr:uri>
+                <fr:display-uri>CAT-000O</fr:display-uri>
+                <fr:route>/CAT-000O/</fr:route>
+                <fr:title text="Funtor representado por un objeto">Funtor representado por un objeto</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter><html:p>Sea <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> una <fr:link href="/CAT-000G/" title="Categorías localmente pequeñas" uri="https://juan-mad.github.io/CAT-000G/" display-uri="CAT-000G" type="local">categor'ia localmente pequeña</fr:link>. Si <fr:tex display="inline"><![CDATA[c]]></fr:tex> es un objeto de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, podemos definir una pareja de <html:em>funtores covariantes y contravariantes representados por <fr:tex display="inline"><![CDATA[c]]></fr:tex></html:em>:</html:p>
+  <html:center><fr:resource hash="4b191822022ec6545ad290fa74794abc"><fr:resource-content><html:img src="/4b191822022ec6545ad290fa74794abc.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[
+\begin {tikzcd}[row sep=tiny]
+	{\mathsf {C}} & {\mathsf {Set}} \\
+	{f\colon  x\rightarrow  y} & {f_*\colon  \mathsf {C}(c,x)\rightarrow  \mathsf {C}(c,y)}
+	\arrow [shorten=5mm, "{\mathsf {C}(c,-)}", from=1-1, to=1-2]
+	\arrow [maps to, from=2-1, to=2-2]
+\end {tikzcd}]]></fr:resource-source></fr:resource></html:center>
+<html:p />
+  <html:center><fr:resource hash="548c9895be4c05a968ea408780808c5d"><fr:resource-content><html:img src="/548c9895be4c05a968ea408780808c5d.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[
+\begin {tikzcd}[row sep=tiny]
+	{\mathsf {C}^{op}} & {\mathsf {Set}} \\
+	{f\colon  x\rightarrow  y} & {f^*\colon  \mathsf {C}(x,c)\rightarrow  \mathsf {C}(y,c)}
+	\arrow [shorten=5mm, "{\mathsf {C}(-,x)}", from=1-1, to=1-2]
+	\arrow [maps to, from=2-2, to=2-1]
+\end {tikzcd}]]></fr:resource-source></fr:resource></html:center>
+<html:p>Como puede verse por la notaci'on, el funtor <fr:tex display="inline"><![CDATA[\mathsf {C}(c,-)]]></fr:tex> lleva <fr:tex display="inline"><![CDATA[x]]></fr:tex> en el conjunto de morfismos <fr:tex display="inline"><![CDATA[\mathsf {C}(c,x)]]></fr:tex> de morfismos entre <fr:tex display="inline"><![CDATA[c]]></fr:tex> y <fr:tex display="inline"><![CDATA[x]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>. De forma dual, el funtor <fr:tex display="inline"><![CDATA[\mathsf {C}(-,c)]]></fr:tex> lleva <fr:tex display="inline"><![CDATA[x]]></fr:tex> en el conjunto de morfismos <fr:tex display="inline"><![CDATA[\mathsf {C}(x,c)]]></fr:tex>.</html:p><html:p>Puede tambi'en observarse que <fr:tex display="inline"><![CDATA[\mathsf {C}(c,-)]]></fr:tex> define una acci'on <html:strong>covariante</html:strong> en el conjunto de morfismos, mientras que <fr:tex display="inline"><![CDATA[\mathsf {C}(x,c)]]></fr:tex> act'ua de forma <html:strong>contravariante</html:strong>.</html:p></fr:mainmatter>
+            </fr:tree>
+            <html:p>La informaci'on contenida en los funtores covariantes y contravariantes de la definici'on anterior se puede definir en un 'unico <html:strong>bifuntor</html:strong>, que es el nombre para un funtor en dos variables. Su dominio est'a dado por una pareja de categor'ias.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
           <fr:frontmatter>
             <fr:authors>
@@ -99,15 +754,15 @@
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sea <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topológico y sean <fr:tex display="inline"><![CDATA[\sigma , \tau \colon  I=[0,1]\rightarrow  X]]></fr:tex> dos caminos con los mismos puntos incial y final, <fr:tex display="inline"><![CDATA[\sigma (0) = \tau (0) = x_0, \sigma (1) = \tau (1) = x_1]]></fr:tex>. Decimos que <fr:tex display="inline"><![CDATA[\sigma ]]></fr:tex>  y <fr:tex display="inline"><![CDATA[\tau ]]></fr:tex>son <html:em>homótopos con extremos fijados</html:em>, denotado por <fr:tex display="inline"><![CDATA[\sigma \simeq \tau  \,\mathrm {rel}\,(0,1)]]></fr:tex> si existe una aplicación continua <fr:tex display="inline"><![CDATA[F\colon I\times  I\rightarrow X]]></fr:tex> tal que <html:ol><html:li><fr:tex display="inline"><![CDATA[F(s,0) = \sigma (s)]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[s\in  I]]></fr:tex>,</html:li>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topológico y sean <fr:tex display="inline"><![CDATA[\sigma , \tau \colon  I=[0,1]\rightarrow  X]]></fr:tex> dos caminos con los mismos puntos incial y final, <fr:tex display="inline"><![CDATA[\sigma (0) = \tau (0) = x_0, \sigma (1) = \tau (1) = x_1]]></fr:tex>. Decimos que <fr:tex display="inline"><![CDATA[\sigma ]]></fr:tex>  y <fr:tex display="inline"><![CDATA[\tau ]]></fr:tex>son <html:em>homótopos con extremos fijados</html:em>, denotado por <fr:tex display="inline"><![CDATA[\sigma \simeq \tau  \operatorname {rel}(0,1)]]></fr:tex> si existe una aplicación continua <fr:tex display="inline"><![CDATA[F\colon I\times  I\rightarrow X]]></fr:tex> tal que <html:ol><html:li><fr:tex display="inline"><![CDATA[F(s,0) = \sigma (s)]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[s\in  I]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[F(s,1) = \tau (s)]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[s\in  I]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[F(0,t) = x_0]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[t\in  I]]></fr:tex>, y</html:li>
     <html:li><fr:tex display="inline"><![CDATA[F(1,t) = x_1]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[t\in  I]]></fr:tex>.</html:li></html:ol>
-<fr:tex display="inline"><![CDATA[F]]></fr:tex> se llama una <html:em>homotopía de <fr:tex display="inline"><![CDATA[\sigma ]]></fr:tex> a <fr:tex display="inline"><![CDATA[\tau ]]></fr:tex>.</html:em>. Para <fr:tex display="inline"><![CDATA[t]]></fr:tex> fijado, la aplicación <fr:tex display="inline"><![CDATA[F_t(s) = F(s,t)]]></fr:tex> es un camino de <fr:tex display="inline"><![CDATA[x_0]]></fr:tex> a <fr:tex display="inline"><![CDATA[x_1]]></fr:tex>, y <fr:tex display="inline"><![CDATA[F_0=\sigma , F_1=\tau ]]></fr:tex>. Escribimos <fr:tex display="inline"><![CDATA[F_t\colon \sigma \simeq \tau \,\mathrm {rel}\,(0,1)]]></fr:tex>.</html:p>
-                <html:p>Pueden probarse las siguientes propiedades: <html:ol><html:li><fr:tex display="inline"><![CDATA[\sigma \simeq \sigma \,\mathrm {rel}\,(0,1)]]></fr:tex></html:li>
-    <html:li><fr:tex display="inline"><![CDATA[\sigma \simeq \tau \,\mathrm {rel}\,(0,1) \implies  \tau \simeq \sigma \,\mathrm {rel}\,(0,1)]]></fr:tex></html:li>
-    <html:li><fr:tex display="inline"><![CDATA[\sigma \simeq \tau \,\mathrm {rel}\,(0,1)]]></fr:tex> y <fr:tex display="inline"><![CDATA[\tau \simeq \rho \,\mathrm {rel}\,(0,1)]]></fr:tex> implica que <fr:tex display="inline"><![CDATA[\sigma \simeq \rho \,\mathrm {rel}\,(0,1)]]></fr:tex></html:li>
-    <html:li><fr:tex display="inline"><![CDATA[\sigma \simeq \sigma '\,\mathrm {rel}\,(0,1)]]></fr:tex> y <fr:tex display="inline"><![CDATA[\tau \simeq \tau '\,\mathrm {rel}\,(0,1)]]></fr:tex> implican que <fr:tex display="inline"><![CDATA[(\tau \circ \sigma )\simeq (\tau '\circ \sigma ')\,\mathrm {rel}\,(0,1)]]></fr:tex>.</html:li></html:ol></html:p>
+<fr:tex display="inline"><![CDATA[F]]></fr:tex> se llama una <html:em>homotopía de <fr:tex display="inline"><![CDATA[\sigma ]]></fr:tex> a <fr:tex display="inline"><![CDATA[\tau ]]></fr:tex>.</html:em>. Para <fr:tex display="inline"><![CDATA[t]]></fr:tex> fijado, la aplicación <fr:tex display="inline"><![CDATA[F_t(s) = F(s,t)]]></fr:tex> es un camino de <fr:tex display="inline"><![CDATA[x_0]]></fr:tex> a <fr:tex display="inline"><![CDATA[x_1]]></fr:tex>, y <fr:tex display="inline"><![CDATA[F_0=\sigma , F_1=\tau ]]></fr:tex>. Escribimos <fr:tex display="inline"><![CDATA[F_t\colon \sigma \simeq \tau \operatorname {rel}(0,1)]]></fr:tex>.</html:p>
+                <html:p>Pueden probarse las siguientes propiedades: <html:ol><html:li><fr:tex display="inline"><![CDATA[\sigma \simeq \sigma \operatorname {rel}(0,1)]]></fr:tex></html:li>
+    <html:li><fr:tex display="inline"><![CDATA[\sigma \simeq \tau \operatorname {rel}(0,1) \implies  \tau \simeq \sigma \operatorname {rel}(0,1)]]></fr:tex></html:li>
+    <html:li><fr:tex display="inline"><![CDATA[\sigma \simeq \tau \operatorname {rel}(0,1)]]></fr:tex> y <fr:tex display="inline"><![CDATA[\tau \simeq \rho \operatorname {rel}(0,1)]]></fr:tex> implica que <fr:tex display="inline"><![CDATA[\sigma \simeq \rho \operatorname {rel}(0,1)]]></fr:tex></html:li>
+    <html:li><fr:tex display="inline"><![CDATA[\sigma \simeq \sigma '\operatorname {rel}(0,1)]]></fr:tex> y <fr:tex display="inline"><![CDATA[\tau \simeq \tau '\operatorname {rel}(0,1)]]></fr:tex> implican que <fr:tex display="inline"><![CDATA[(\tau \circ \sigma )\simeq (\tau '\circ \sigma ')\operatorname {rel}(0,1)]]></fr:tex>.</html:li></html:ol></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -133,7 +788,7 @@
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Si <fr:tex display="inline"><![CDATA[\sigma \colon  I\rightarrow  X]]></fr:tex> es cerrado, es decir, <fr:tex display="inline"><![CDATA[\sigma (0)=\sigma (1)=x_0]]></fr:tex>, y <fr:tex display="inline"><![CDATA[\tau \colon  I\rightarrow  X]]></fr:tex> es el camino constante <fr:tex display="inline"><![CDATA[\tau (s)=x_0, s\in  I]]></fr:tex>, y son <fr:link href="/HOTO-0001/" title="Caminos homótopos con extremos fijos" uri="https://juan-mad.github.io/HOTO-0001/" display-uri="HOTO-0001" type="local">homótopos con extremos fijos</fr:link>, <fr:tex display="inline"><![CDATA[\sigma \simeq \tau \,\mathrm {rel}\,(0,1)]]></fr:tex>, decimos que <fr:tex display="inline"><![CDATA[\sigma ]]></fr:tex> es <html:em>homotópicamente trivial</html:em> o que puede encongerse a un punto.</html:p>
+                <html:p>Si <fr:tex display="inline"><![CDATA[\sigma \colon  I\rightarrow  X]]></fr:tex> es cerrado, es decir, <fr:tex display="inline"><![CDATA[\sigma (0)=\sigma (1)=x_0]]></fr:tex>, y <fr:tex display="inline"><![CDATA[\tau \colon  I\rightarrow  X]]></fr:tex> es el camino constante <fr:tex display="inline"><![CDATA[\tau (s)=x_0, s\in  I]]></fr:tex>, y son <fr:link href="/HOTO-0001/" title="Caminos homótopos con extremos fijos" uri="https://juan-mad.github.io/HOTO-0001/" display-uri="HOTO-0001" type="local">homótopos con extremos fijos</fr:link>, <fr:tex display="inline"><![CDATA[\sigma \simeq \tau \operatorname {rel}(0,1)]]></fr:tex>, decimos que <fr:tex display="inline"><![CDATA[\sigma ]]></fr:tex> es <html:em>homotópicamente trivial</html:em> o que puede encongerse a un punto.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -275,7 +930,7 @@ Por lo tanto podemos hablar del funtor de grupos fundamental de la categoría de
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Dados dos espacios topológicos <fr:tex display="inline"><![CDATA[X,Y]]></fr:tex>, un subespacio <fr:tex display="inline"><![CDATA[A\subset  Y]]></fr:tex> y aplicaciones continuas <fr:tex display="inline"><![CDATA[f,g\colon Y\rightarrow X]]></fr:tex> tales que <fr:tex display="inline"><![CDATA[f\vert _A = g\vert _A]]></fr:tex>, decimos que <html:em><fr:tex display="inline"><![CDATA[f]]></fr:tex> y <fr:tex display="inline"><![CDATA[g]]></fr:tex> son homótopas relativas a <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em>, <fr:tex display="block"><![CDATA[f\simeq  g\,\mathrm {rel}\, A]]></fr:tex> si existe una aplicación continua <fr:tex display="inline"><![CDATA[F\colon Y\times  I\rightarrow X]]></fr:tex> tal que <html:ul><html:li><fr:tex display="inline"><![CDATA[F(y,0) = f(y)]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  Y]]></fr:tex>,</html:li>
+                <html:p>Dados dos espacios topológicos <fr:tex display="inline"><![CDATA[X,Y]]></fr:tex>, un subespacio <fr:tex display="inline"><![CDATA[A\subset  Y]]></fr:tex> y aplicaciones continuas <fr:tex display="inline"><![CDATA[f,g\colon Y\rightarrow X]]></fr:tex> tales que <fr:tex display="inline"><![CDATA[f\vert _A = g\vert _A]]></fr:tex>, decimos que <html:em><fr:tex display="inline"><![CDATA[f]]></fr:tex> y <fr:tex display="inline"><![CDATA[g]]></fr:tex> son homótopas relativas a <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em>, <fr:tex display="block"><![CDATA[f\simeq  g\operatorname {rel} A]]></fr:tex> si existe una aplicación continua <fr:tex display="inline"><![CDATA[F\colon Y\times  I\rightarrow X]]></fr:tex> tal que <html:ul><html:li><fr:tex display="inline"><![CDATA[F(y,0) = f(y)]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  Y]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[F(y,1) = g(y)]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  Y]]></fr:tex>,</html:li>
     <html:li><fr:tex display="inline"><![CDATA[F(y,t) = f(y) = g(y)]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[y\in  A, t\in  I]]></fr:tex>.</html:li></html:ul> Si <fr:tex display="inline"><![CDATA[A=\emptyset ]]></fr:tex>, escribimos <fr:tex display="block"><![CDATA[f\simeq  q.]]></fr:tex>
 
@@ -884,7 +1539,7 @@ En ese caso se determina una función continua <fr:tex display="inline"><![CDATA
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>Sea <fr:tex display="inline"><![CDATA[f\in \mathscr  H(U)]]></fr:tex> y <fr:tex display="inline"><![CDATA[z_0\in  U]]></fr:tex>. Como la <fr:link href="/VC-0011/" title="Serie de potencias formal convergente" uri="https://juan-mad.github.io/VC-0011/" display-uri="VC-0011" type="local">expansión en serie de potencias converge absolutamente</fr:link>, pueden reordenarse los términos de la serie en una polinomios homogéneos: <fr:tex display="block"><![CDATA[f(z) = \sum _{k=0}^\infty  \left ( \sum _{|\nu | = k}a_\nu (z_1-z_{01})^{\nu _1}\cdots (z_n-z_{0n})^{\nu _n} \right ) = \sum _{k=0}^\infty  p_k(z).]]></fr:tex></html:p>
-                <html:p>El orden de <fr:tex display="inline"><![CDATA[f]]></fr:tex> en <fr:tex display="inline"><![CDATA[z_0]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathrm {ord}_{z_0}f]]></fr:tex>, como el grado del mínimo polinomio homogéneo no idénticamente cero, <fr:tex display="inline"><![CDATA[\mathrm {ord}_{z_0}f = \min \{k : p_k\not \equiv  0 \}]]></fr:tex>.</html:p>
+                <html:p>El orden de <fr:tex display="inline"><![CDATA[f]]></fr:tex> en <fr:tex display="inline"><![CDATA[z_0]]></fr:tex>, <fr:tex display="inline"><![CDATA[\operatorname {ord}_{z_0}f]]></fr:tex>, como el grado del mínimo polinomio homogéneo no idénticamente cero, <fr:tex display="inline"><![CDATA[\operatorname {ord}_{z_0}f = \min \{k : p_k\not \equiv  0 \}]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -939,9 +1594,9 @@ En ese caso se determina una función continua <fr:tex display="inline"><![CDATA
                 <fr:taxon>Proposición</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sea <fr:tex display="inline"><![CDATA[f]]></fr:tex> una <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">función holomorfa</fr:link> en un abierto <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex>. <html:ul><html:li><fr:tex display="inline"><![CDATA[f]]></fr:tex> es <fr:link href="/VC-0018/" title="Función holomorfa regular de cierto orden" uri="https://juan-mad.github.io/VC-0018/" display-uri="VC-0018" type="local">regular de orden <fr:tex display="inline"><![CDATA[1]]></fr:tex></fr:link> respecto de alguna variable en <fr:tex display="inline"><![CDATA[z_0]]></fr:tex> si y sólo si <fr:tex display="inline"><![CDATA[\mathrm {ord}_{z_0}f = 1]]></fr:tex>.</html:li>
-    <html:li>Si <fr:tex display="inline"><![CDATA[f]]></fr:tex> es <fr:link href="/VC-0018/" title="Función holomorfa regular de cierto orden" uri="https://juan-mad.github.io/VC-0018/" display-uri="VC-0018" type="local">regular de orden <fr:tex display="inline"><![CDATA[k]]></fr:tex></fr:link> respecto a <fr:tex display="inline"><![CDATA[z_n]]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[\mathrm {ord}_{z_0}f \leq  k]]></fr:tex>.</html:li>
-    <html:li>Si <fr:tex display="inline"><![CDATA[\mathrm {ord}_{z_0}f = k]]></fr:tex> y la componente homogénea de grado <fr:tex display="inline"><![CDATA[k]]></fr:tex>, <fr:tex display="inline"><![CDATA[p_k]]></fr:tex>, verifica <fr:tex display="inline"><![CDATA[p_k(0,\dots ,0,1)\neq  0]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[f]]></fr:tex> es regular de orden <fr:tex display="inline"><![CDATA[k]]></fr:tex> respecto a <fr:tex display="inline"><![CDATA[z_n]]></fr:tex>.</html:li></html:ul></html:p>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[f]]></fr:tex> una <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">función holomorfa</fr:link> en un abierto <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex>. <html:ul><html:li><fr:tex display="inline"><![CDATA[f]]></fr:tex> es <fr:link href="/VC-0018/" title="Función holomorfa regular de cierto orden" uri="https://juan-mad.github.io/VC-0018/" display-uri="VC-0018" type="local">regular de orden <fr:tex display="inline"><![CDATA[1]]></fr:tex></fr:link> respecto de alguna variable en <fr:tex display="inline"><![CDATA[z_0]]></fr:tex> si y sólo si <fr:tex display="inline"><![CDATA[\operatorname {ord}_{z_0}f = 1]]></fr:tex>.</html:li>
+    <html:li>Si <fr:tex display="inline"><![CDATA[f]]></fr:tex> es <fr:link href="/VC-0018/" title="Función holomorfa regular de cierto orden" uri="https://juan-mad.github.io/VC-0018/" display-uri="VC-0018" type="local">regular de orden <fr:tex display="inline"><![CDATA[k]]></fr:tex></fr:link> respecto a <fr:tex display="inline"><![CDATA[z_n]]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[\operatorname {ord}_{z_0}f \leq  k]]></fr:tex>.</html:li>
+    <html:li>Si <fr:tex display="inline"><![CDATA[\operatorname {ord}_{z_0}f = k]]></fr:tex> y la componente homogénea de grado <fr:tex display="inline"><![CDATA[k]]></fr:tex>, <fr:tex display="inline"><![CDATA[p_k]]></fr:tex>, verifica <fr:tex display="inline"><![CDATA[p_k(0,\dots ,0,1)\neq  0]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[f]]></fr:tex> es regular de orden <fr:tex display="inline"><![CDATA[k]]></fr:tex> respecto a <fr:tex display="inline"><![CDATA[z_n]]></fr:tex>.</html:li></html:ul></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -964,7 +1619,7 @@ En ese caso se determina una función continua <fr:tex display="inline"><![CDATA
                 <fr:taxon>Lema</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sea <fr:tex display="inline"><![CDATA[f\in \mathscr  H(U)]]></fr:tex> <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">holomorfa</fr:link> en un abierto <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex>. Sin pérdida de generalidad supongamos que <fr:tex display="inline"><![CDATA[z_0=0\in  U]]></fr:tex> y el <fr:link href="/VC-0017/" title="Orden de una función holomorfa en un punto" uri="https://juan-mad.github.io/VC-0017/" display-uri="VC-0017" type="local">orden de <fr:tex display="inline"><![CDATA[f]]></fr:tex> en <fr:tex display="inline"><![CDATA[0]]></fr:tex></fr:link> es <fr:tex display="inline"><![CDATA[\mathrm {ord}_0f = k]]></fr:tex>. Existe un cambio lineal de coordenadas <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[g=f\circ \varphi \colon \varphi (U)\rightarrow \mathbb  C]]></fr:tex> es <fr:link href="/VC-0018/" title="Función holomorfa regular de cierto orden" uri="https://juan-mad.github.io/VC-0018/" display-uri="VC-0018" type="local">regular de orden <fr:tex display="inline"><![CDATA[k]]></fr:tex></fr:link> respecto a <fr:tex display="inline"><![CDATA[z_n]]></fr:tex>.</html:p>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[f\in \mathscr  H(U)]]></fr:tex> <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">holomorfa</fr:link> en un abierto <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex>. Sin pérdida de generalidad supongamos que <fr:tex display="inline"><![CDATA[z_0=0\in  U]]></fr:tex> y el <fr:link href="/VC-0017/" title="Orden de una función holomorfa en un punto" uri="https://juan-mad.github.io/VC-0017/" display-uri="VC-0017" type="local">orden de <fr:tex display="inline"><![CDATA[f]]></fr:tex> en <fr:tex display="inline"><![CDATA[0]]></fr:tex></fr:link> es <fr:tex display="inline"><![CDATA[\operatorname {ord}_0f = k]]></fr:tex>. Existe un cambio lineal de coordenadas <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[g=f\circ \varphi \colon \varphi (U)\rightarrow \mathbb  C]]></fr:tex> es <fr:link href="/VC-0018/" title="Función holomorfa regular de cierto orden" uri="https://juan-mad.github.io/VC-0018/" display-uri="VC-0018" type="local">regular de orden <fr:tex display="inline"><![CDATA[k]]></fr:tex></fr:link> respecto a <fr:tex display="inline"><![CDATA[z_n]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -1397,8 +2052,8 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C]]></fr:tex> un abierto, <fr:tex display="inline"><![CDATA[S\subset  U]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[S'\cap  U=\empty ]]></fr:tex> (<fr:tex display="inline"><![CDATA[U]]></fr:tex> no tiene puntos de acumulación de <fr:tex display="inline"><![CDATA[S]]></fr:tex>). Dada una función holomorfa <fr:tex display="inline"><![CDATA[f\in \mathscr  H(U\setminus  S)]]></fr:tex>, es decir en todos los puntos de <fr:tex display="inline"><![CDATA[U]]></fr:tex> salvo en un conjunto de puntos aislados; y un <fr:link href="/VC-0003/" title="Camino en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-0003/" display-uri="VC-0003" type="local">camino</fr:link> cerrado <fr:tex display="inline"><![CDATA[\gamma ]]></fr:tex> en <fr:tex display="inline"><![CDATA[U\setminus  S]]></fr:tex> tal que si <fr:tex display="inline"><![CDATA[z\notin  U, n(\gamma , z)=0]]></fr:tex>. Entonces <fr:tex display="block"><![CDATA[\int _\gamma  f = 2\pi  i\sum _{a\in  S}n(\gamma , a)\mathrm {Res}(f, a).]]></fr:tex></html:p>
-                <html:p>Utilizando el <fr:link href="/VC-000C/" title="Expansión de Laurent" uri="https://juan-mad.github.io/VC-000C/" display-uri="VC-000C" type="local">expansión de Laurent</fr:link> se tiene que <fr:tex display="block"><![CDATA[\mathrm {Res}(f,a) = a_{-1}.]]></fr:tex></html:p>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C]]></fr:tex> un abierto, <fr:tex display="inline"><![CDATA[S\subset  U]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[S'\cap  U=\empty ]]></fr:tex> (<fr:tex display="inline"><![CDATA[U]]></fr:tex> no tiene puntos de acumulación de <fr:tex display="inline"><![CDATA[S]]></fr:tex>). Dada una función holomorfa <fr:tex display="inline"><![CDATA[f\in \mathscr  H(U\setminus  S)]]></fr:tex>, es decir en todos los puntos de <fr:tex display="inline"><![CDATA[U]]></fr:tex> salvo en un conjunto de puntos aislados; y un <fr:link href="/VC-0003/" title="Camino en un abierto de \mathbb  C" uri="https://juan-mad.github.io/VC-0003/" display-uri="VC-0003" type="local">camino</fr:link> cerrado <fr:tex display="inline"><![CDATA[\gamma ]]></fr:tex> en <fr:tex display="inline"><![CDATA[U\setminus  S]]></fr:tex> tal que si <fr:tex display="inline"><![CDATA[z\notin  U, n(\gamma , z)=0]]></fr:tex>. Entonces <fr:tex display="block"><![CDATA[\int _\gamma  f = 2\pi  i\sum _{a\in  S}n(\gamma , a)\operatorname {Res}(f, a).]]></fr:tex></html:p>
+                <html:p>Utilizando el <fr:link href="/VC-000C/" title="Expansión de Laurent" uri="https://juan-mad.github.io/VC-000C/" display-uri="VC-000C" type="local">expansión de Laurent</fr:link> se tiene que <fr:tex display="block"><![CDATA[\operatorname {Res}(f,a) = a_{-1}.]]></fr:tex></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -2763,8 +3418,8 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <
                   </fr:frontmatter>
                   <fr:mainmatter>
                     <html:p>Sean <fr:tex display="inline"><![CDATA[M, N]]></fr:tex> dos <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos. Una aplicación <fr:tex display="inline"><![CDATA[f\colon M\rightarrow N]]></fr:tex> es un <html:em>homomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos</html:em> si <fr:tex display="block"><![CDATA[\begin {align*}f(x+y) &= f(x) + f(y) \\ f(ax) & = af(x)\end {align*}]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[a\in  A, x,y\in  M]]></fr:tex>.</html:p>
-                    <html:p>El conjunto de los homomorfismos entre <fr:tex display="inline"><![CDATA[M]]></fr:tex> y <fr:tex display="inline"><![CDATA[N]]></fr:tex>, denotado por <fr:tex display="inline"><![CDATA[\mathrm {Hom}(M,N)]]></fr:tex> es a su vez un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo.</html:p>
-                    <html:p>Para cada módulo <fr:tex display="inline"><![CDATA[M]]></fr:tex> existe un isomorfismo natural <fr:tex display="inline"><![CDATA[\mathrm {Hom}(A, M)\cong  M]]></fr:tex>.</html:p>
+                    <html:p>El conjunto de los homomorfismos entre <fr:tex display="inline"><![CDATA[M]]></fr:tex> y <fr:tex display="inline"><![CDATA[N]]></fr:tex>, denotado por <fr:tex display="inline"><![CDATA[\operatorname {Hom}(M,N)]]></fr:tex> es a su vez un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo.</html:p>
+                    <html:p>Para cada módulo <fr:tex display="inline"><![CDATA[M]]></fr:tex> existe un isomorfismo natural <fr:tex display="inline"><![CDATA[\operatorname {Hom}(A, M)\cong  M]]></fr:tex>.</html:p>
                   </fr:mainmatter>
                 </fr:tree>
                 <fr:tree show-metadata="false">
@@ -2793,10 +3448,10 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <
                     <html:p>Un <html:em>submódulo</html:em> <fr:tex display="inline"><![CDATA[M']]></fr:tex> de <fr:tex display="inline"><![CDATA[M]]></fr:tex> es un subgropo de <fr:tex display="inline"><![CDATA[M]]></fr:tex> que es cerrado a la multiplicación por elementos de <fr:tex display="inline"><![CDATA[A]]></fr:tex>. El grupo abeliano <fr:tex display="inline"><![CDATA[M/M']]></fr:tex> hereda una estructura de de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>, llamado el <html:em>módulo cociente</html:em> de <fr:tex display="inline"><![CDATA[M]]></fr:tex> por <fr:tex display="inline"><![CDATA[M']]></fr:tex>.</html:p>
                     <html:p>Si <fr:tex display="inline"><![CDATA[f\colon M\rightarrow N]]></fr:tex> es un homomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos, se definen:
 
-<html:ul><html:li>El <html:em>núcleo de <fr:tex display="inline"><![CDATA[f]]></fr:tex></html:em> es el conjunto <fr:tex display="inline"><![CDATA[\mathrm {ker} f=\{x\in  M:f(x)=0\}]]></fr:tex>, y es un submódulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>.</html:li>
-    <html:li>Igualmente, la <html:em>imagen</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathrm {Im} f]]></fr:tex>, es un submódulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>.</html:li>
-    <html:li>El <html:em>conúcleo</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex> es <fr:tex display="inline"><![CDATA[\mathrm {coker} f = N/\mathrm {Im} f]]></fr:tex>, qe es un módulo cociente en <fr:tex display="inline"><![CDATA[N]]></fr:tex>.</html:li></html:ul>
-Se induce naturalmente un homomorfismo <fr:tex display="inline"><![CDATA[\bar  f\colon M/M'\rightarrow N]]></fr:tex> para todo submódulo <fr:tex display="inline"><![CDATA[M'\subset  \mathrm {ker} f]]></fr:tex>.
+<html:ul><html:li>El <html:em>núcleo de <fr:tex display="inline"><![CDATA[f]]></fr:tex></html:em> es el conjunto <fr:tex display="inline"><![CDATA[\operatorname {ker} f=\{x\in  M:f(x)=0\}]]></fr:tex>, y es un submódulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>.</html:li>
+    <html:li>Igualmente, la <html:em>imagen</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, <fr:tex display="inline"><![CDATA[\operatorname {Im} f]]></fr:tex>, es un submódulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>.</html:li>
+    <html:li>El <html:em>conúcleo</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex> es <fr:tex display="inline"><![CDATA[\operatorname {coker} f = N/\operatorname {Im} f]]></fr:tex>, qe es un módulo cociente en <fr:tex display="inline"><![CDATA[N]]></fr:tex>.</html:li></html:ul>
+Se induce naturalmente un homomorfismo <fr:tex display="inline"><![CDATA[\bar  f\colon M/M'\rightarrow N]]></fr:tex> para todo submódulo <fr:tex display="inline"><![CDATA[M'\subset  \operatorname {ker} f]]></fr:tex>.
 </html:p>
                     <fr:tree show-metadata="false">
                       <fr:frontmatter>
@@ -2823,11 +3478,11 @@ Se induce naturalmente un homomorfismo <fr:tex display="inline"><![CDATA[\bar  f
                       <fr:mainmatter>
                         <html:p>Sean <fr:tex display="inline"><![CDATA[M]]></fr:tex>, <fr:tex display="inline"><![CDATA[N]]></fr:tex>, <fr:tex display="inline"><![CDATA[L]]></fr:tex> <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos y sea <fr:tex display="inline"><![CDATA[\varphi \colon M\rightarrow N]]></fr:tex> un homomorifsmo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos. Se tienen los clásicos teoremas de isomorfía:
 
-<html:ol><html:li><html:em>Primer teorema de isomorfía</html:em>: <fr:tex display="inline"><![CDATA[M/\mathrm {ker}\varphi \cong \mathrm {Im} f.]]></fr:tex></html:li>
+<html:ol><html:li><html:em>Primer teorema de isomorfía</html:em>: <fr:tex display="inline"><![CDATA[M/\operatorname {ker}\varphi \cong \operatorname {Im} f.]]></fr:tex></html:li>
     <html:li><html:em>Segundo teorema de isomorfía</html:em>: Si <fr:tex display="inline"><![CDATA[L\subset  N\subset  M]]></fr:tex> submódulos, entonces <fr:tex display="block"><![CDATA[N/M\cong  (N/L)/(M/L).]]></fr:tex></html:li>
     <html:li><html:em>Tercer teorema de isomorfía</html:em>: Si <fr:tex display="inline"><![CDATA[N]]></fr:tex>, <fr:tex display="inline"><![CDATA[L]]></fr:tex> son submódulos de <fr:tex display="inline"><![CDATA[M]]></fr:tex>, entonces <fr:tex display="block"><![CDATA[(N+L)/N\cong  N/(N\cap  L).]]></fr:tex></html:li></html:ol>
 
-En particular, tomando <fr:tex display="inline"><![CDATA[M'=\mathrm {ker} f]]></fr:tex>, se tiene un isomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos <fr:tex display="inline"><![CDATA[M/\mathrm {ker} f\cong \mathrm {Im} f]]></fr:tex>.
+En particular, tomando <fr:tex display="inline"><![CDATA[M'=\operatorname {ker} f]]></fr:tex>, se tiene un isomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos <fr:tex display="inline"><![CDATA[M/\operatorname {ker} f\cong \operatorname {Im} f]]></fr:tex>.
 </html:p>
                       </fr:mainmatter>
                     </fr:tree>
@@ -2885,9 +3540,9 @@ En particular, tomando <fr:tex display="inline"><![CDATA[M'=\mathrm {ker} f]]></
                     </fr:meta>
                   </fr:frontmatter>
                   <fr:mainmatter>
-                    <html:p>Para un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> y un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[M]]></fr:tex>, introducimos una noción de endomorfismo "multiplicación" <fr:tex display="inline"><![CDATA[\mu \colon  A \rightarrow  \mathrm {End}(M)]]></fr:tex>, de forma que a cada elemento <fr:tex display="inline"><![CDATA[a]]></fr:tex> de <fr:tex display="inline"><![CDATA[A]]></fr:tex> se le asigna la aplicación <fr:tex display="inline"><![CDATA[\mu _a\colon M\rightarrow M]]></fr:tex> que envía <fr:tex display="inline"><![CDATA[m\mapsto  am]]></fr:tex>. Gracias a la conmutatividad de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mu ]]></fr:tex> es un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo de anillos</fr:link>.
+                    <html:p>Para un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex> y un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo <fr:tex display="inline"><![CDATA[M]]></fr:tex>, introducimos una noción de endomorfismo "multiplicación" <fr:tex display="inline"><![CDATA[\mu \colon  A \rightarrow  \operatorname {End}(M)]]></fr:tex>, de forma que a cada elemento <fr:tex display="inline"><![CDATA[a]]></fr:tex> de <fr:tex display="inline"><![CDATA[A]]></fr:tex> se le asigna la aplicación <fr:tex display="inline"><![CDATA[\mu _a\colon M\rightarrow M]]></fr:tex> que envía <fr:tex display="inline"><![CDATA[m\mapsto  am]]></fr:tex>. Gracias a la conmutatividad de <fr:tex display="inline"><![CDATA[A]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mu ]]></fr:tex> es un <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismo de anillos</fr:link>.
 </html:p>
-                    <html:p>Si <fr:tex display="inline"><![CDATA[\varphi \in \mathrm {End}(M)]]></fr:tex>, denotaremos <fr:tex display="inline"><![CDATA[\mu (A)[\varphi ]\subset \mathrm {End}(M)]]></fr:tex> al subanillo generado por <fr:tex display="inline"><![CDATA[A]]></fr:tex> y la acción de <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex>, que es conmutativo. Esta construcción formal hace a <fr:tex display="inline"><![CDATA[M]]></fr:tex> un módulo sobre <fr:tex display="inline"><![CDATA[\mu (A)[\varphi ]\subset \mathrm {End}(M)]]></fr:tex>.
+                    <html:p>Si <fr:tex display="inline"><![CDATA[\varphi \in \operatorname {End}(M)]]></fr:tex>, denotaremos <fr:tex display="inline"><![CDATA[\mu (A)[\varphi ]\subset \operatorname {End}(M)]]></fr:tex> al subanillo generado por <fr:tex display="inline"><![CDATA[A]]></fr:tex> y la acción de <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex>, que es conmutativo. Esta construcción formal hace a <fr:tex display="inline"><![CDATA[M]]></fr:tex> un módulo sobre <fr:tex display="inline"><![CDATA[\mu (A)[\varphi ]\subset \operatorname {End}(M)]]></fr:tex>.
 </html:p>
                   </fr:mainmatter>
                 </fr:tree>
@@ -3108,7 +3763,7 @@ Entonces, <fr:tex display="inline"><![CDATA[\varphi ]]></fr:tex> es sobreyectivo
                     </fr:meta>
                   </fr:frontmatter>
                   <fr:mainmatter>
-                    <html:p>Sea <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo de <fr:link href="/AC-000Q/" title="Módulos finitamente generados" uri="https://juan-mad.github.io/AC-000Q/" display-uri="AC-000Q" type="local">generación finita</fr:link>, sea <fr:tex display="inline"><![CDATA[I]]></fr:tex> un ideal de <fr:tex display="inline"><![CDATA[A]]></fr:tex> y sea <fr:tex display="inline"><![CDATA[\varphi \in \mathrm {End}(M)]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\varphi (M) \subset  IM]]></fr:tex>. Entonces existen unos <fr:tex display="inline"><![CDATA[a_1,\dots ,a_n]]></fr:tex> con <fr:tex display="inline"><![CDATA[a_i\in  I^i, i=1,\dots ,n]]></fr:tex> tales que <fr:tex display="block"><![CDATA[\varphi ^n + a_1\varphi ^{n-1} + \cdots  + a_{n-1}\varphi  + a_n = 0.]]></fr:tex>
+                    <html:p>Sea <fr:tex display="inline"><![CDATA[M]]></fr:tex> un <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo de <fr:link href="/AC-000Q/" title="Módulos finitamente generados" uri="https://juan-mad.github.io/AC-000Q/" display-uri="AC-000Q" type="local">generación finita</fr:link>, sea <fr:tex display="inline"><![CDATA[I]]></fr:tex> un ideal de <fr:tex display="inline"><![CDATA[A]]></fr:tex> y sea <fr:tex display="inline"><![CDATA[\varphi \in \operatorname {End}(M)]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\varphi (M) \subset  IM]]></fr:tex>. Entonces existen unos <fr:tex display="inline"><![CDATA[a_1,\dots ,a_n]]></fr:tex> con <fr:tex display="inline"><![CDATA[a_i\in  I^i, i=1,\dots ,n]]></fr:tex> tales que <fr:tex display="block"><![CDATA[\varphi ^n + a_1\varphi ^{n-1} + \cdots  + a_{n-1}\varphi  + a_n = 0.]]></fr:tex>
 
 Dado un conjunto de generadores <fr:tex display="inline"><![CDATA[m_1,\dots , m_n]]></fr:tex>, sabemos que <fr:tex display="inline"><![CDATA[\varphi (m_i)=\sum _{j=1}^na_{ij}x_j]]></fr:tex>, que es equivalente a escribir <fr:tex display="block"><![CDATA[\sum _{j=1}^n(\delta _{ij}\varphi  - a_ij)m_j = 0, \, \, j=1,\dots ,n]]></fr:tex> donde <fr:tex display="inline"><![CDATA[\delta _{ij}]]></fr:tex> es la delta de Kronecker. Escribiendo este conjunto de igualdades como una matriz, multiplicando por la izquierda por la matriz adjunta de <fr:tex display="inline"><![CDATA[\delta _{ij}\varphi  - a_{ij}]]></fr:tex> se sigue que <fr:tex display="inline"><![CDATA[\det (\delta _{ij}\varphi  - a_{ij})]]></fr:tex> anula a cada <fr:tex display="inline"><![CDATA[m_i]]></fr:tex>, por lo que es el endomorfismo nulo ede <fr:tex display="inline"><![CDATA[M]]></fr:tex>. Desarrollando el determinante se obtiene una ecuación de la forma de la proposición.
 </html:p>
@@ -3292,7 +3947,7 @@ Dado un conjunto de generadores <fr:tex display="inline"><![CDATA[m_1,\dots , m_
                       <fr:link href="/greenberg-harper-alg-topo/" title="Algebraic Topology" uri="https://juan-mad.github.io/greenberg-harper-alg-topo/" display-uri="greenberg-harper-alg-topo" type="local" />
                     </fr:meta>
                   </fr:frontmatter>
-                  <fr:mainmatter><html:p>Dado un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex>, un <html:em>complejo de cadenas en <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em> es un par <fr:tex display="inline"><![CDATA[(\{M_n\}_{n\in \mathbb  Z}, \{\delta _n\}_{n\in \mathbb  Z})]]></fr:tex>, donde los <fr:tex display="inline"><![CDATA[M_n]]></fr:tex> son <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos y los <fr:tex display="inline"><![CDATA[\delta _n\colon M_n\rightarrow M_{n-1}]]></fr:tex> son homomorfismos de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos tales que <fr:tex display="inline"><![CDATA[\mathrm {Im} \delta _n\subset  \mathrm {ker} \delta _{n-1}]]></fr:tex>, o lo que es lo mismo, <fr:tex display="inline"><![CDATA[\delta _{n-1}\circ \delta _n = 0]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[n\in \mathbb  Z]]></fr:tex>.</html:p>
+                  <fr:mainmatter><html:p>Dado un anillo <fr:tex display="inline"><![CDATA[A]]></fr:tex>, un <html:em>complejo de cadenas en <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em> es un par <fr:tex display="inline"><![CDATA[(\{M_n\}_{n\in \mathbb  Z}, \{\delta _n\}_{n\in \mathbb  Z})]]></fr:tex>, donde los <fr:tex display="inline"><![CDATA[M_n]]></fr:tex> son <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos y los <fr:tex display="inline"><![CDATA[\delta _n\colon M_n\rightarrow M_{n-1}]]></fr:tex> son homomorfismos de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos tales que <fr:tex display="inline"><![CDATA[\operatorname {Im} \delta _n\subset  \operatorname {ker} \delta _{n-1}]]></fr:tex>, o lo que es lo mismo, <fr:tex display="inline"><![CDATA[\delta _{n-1}\circ \delta _n = 0]]></fr:tex> para todo <fr:tex display="inline"><![CDATA[n\in \mathbb  Z]]></fr:tex>.</html:p>
   <html:center><fr:resource hash="d2358a4c0d12cb27531fd32dd29334df"><fr:resource-content><html:img src="/d2358a4c0d12cb27531fd32dd29334df.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[
   \begin {tikzcd}
   \cdots  & C_{q+1} & C_q & C_{q-1} & \cdots 
@@ -3336,9 +3991,9 @@ Dado un conjunto de generadores <fr:tex display="inline"><![CDATA[m_1,\dots , m_
   \arrow [from=1-4, to=1-5]
   \end {tikzcd}
 ]]></fr:resource-source></fr:resource></html:center>
-<html:p>se dice que es <html:em>exacta</html:em> en <fr:tex display="inline"><![CDATA[M_i]]></fr:tex> si <fr:tex display="inline"><![CDATA[\mathrm {Im} f_i=\mathrm {ker} f_{i+1}]]></fr:tex>. La sucesión es <html:em>exacta</html:em> si es exacta en cada <fr:tex display="inline"><![CDATA[M_i]]></fr:tex>. En particular:</html:p><html:ul><html:li><fr:tex display="inline"><![CDATA[0\rightarrow  M' \xrightarrow {f} M]]></fr:tex> es exacta <fr:tex display="inline"><![CDATA[\iff ]]></fr:tex> <fr:tex display="inline"><![CDATA[f]]></fr:tex> es inyectiva;</html:li>
+<html:p>se dice que es <html:em>exacta</html:em> en <fr:tex display="inline"><![CDATA[M_i]]></fr:tex> si <fr:tex display="inline"><![CDATA[\operatorname {Im} f_i=\operatorname {ker} f_{i+1}]]></fr:tex>. La sucesión es <html:em>exacta</html:em> si es exacta en cada <fr:tex display="inline"><![CDATA[M_i]]></fr:tex>. En particular:</html:p><html:ul><html:li><fr:tex display="inline"><![CDATA[0\rightarrow  M' \xrightarrow {f} M]]></fr:tex> es exacta <fr:tex display="inline"><![CDATA[\iff ]]></fr:tex> <fr:tex display="inline"><![CDATA[f]]></fr:tex> es inyectiva;</html:li>
     <html:li><fr:tex display="inline"><![CDATA[M \xrightarrow {g} M'' \rightarrow  0]]></fr:tex> es exacta <fr:tex display="inline"><![CDATA[\iff ]]></fr:tex> <fr:tex display="inline"><![CDATA[g]]></fr:tex> es suprayectiva;</html:li>
-    <html:li><fr:tex display="inline"><![CDATA[0\rightarrow  M' \xrightarrow {f} M \xrightarrow {g} M'']]></fr:tex> es exacta <fr:tex display="inline"><![CDATA[\iff ]]></fr:tex> <fr:tex display="inline"><![CDATA[f]]></fr:tex> es inyectiva, <fr:tex display="inline"><![CDATA[g]]></fr:tex> es suprayectiva y <fr:tex display="inline"><![CDATA[g]]></fr:tex> induce un isomorfismo de <fr:tex display="inline"><![CDATA[\mathrm {coker} f=M/f(M')]]></fr:tex> sobre <fr:tex display="inline"><![CDATA[M'']]></fr:tex>. Esta se denomina <fr:link href="/AC-000Z/" title="Sucesiones exactas cortas" uri="https://juan-mad.github.io/AC-000Z/" display-uri="AC-000Z" type="local">sucesión exacta corta</fr:link>.</html:li>.
+    <html:li><fr:tex display="inline"><![CDATA[0\rightarrow  M' \xrightarrow {f} M \xrightarrow {g} M'']]></fr:tex> es exacta <fr:tex display="inline"><![CDATA[\iff ]]></fr:tex> <fr:tex display="inline"><![CDATA[f]]></fr:tex> es inyectiva, <fr:tex display="inline"><![CDATA[g]]></fr:tex> es suprayectiva y <fr:tex display="inline"><![CDATA[g]]></fr:tex> induce un isomorfismo de <fr:tex display="inline"><![CDATA[\operatorname {coker} f=M/f(M')]]></fr:tex> sobre <fr:tex display="inline"><![CDATA[M'']]></fr:tex>. Esta se denomina <fr:link href="/AC-000Z/" title="Sucesiones exactas cortas" uri="https://juan-mad.github.io/AC-000Z/" display-uri="AC-000Z" type="local">sucesión exacta corta</fr:link>.</html:li>.
 </html:ul><fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/AC-000Z.tree</fr:source-path><fr:uri>https://juan-mad.github.io/AC-000Z/</fr:uri><fr:display-uri>AC-000Z</fr:display-uri><fr:route>/AC-000Z/</fr:route><fr:title text="Sucesiones exactas cortas">Sucesiones exactas cortas</fr:title><fr:taxon>Definición</fr:taxon><fr:meta name="sources"><fr:link href="/atiyah-macdonald-intro-alg-conm/" title="Introducción al álgebra conmutativa" uri="https://juan-mad.github.io/atiyah-macdonald-intro-alg-conm/" display-uri="atiyah-macdonald-intro-alg-conm" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>La <fr:link href="/AC-000Y/" title="Sucesiones exactas de módulos" uri="https://juan-mad.github.io/AC-000Y/" display-uri="AC-000Y" type="local">sucesión exacta</fr:link> <fr:tex display="inline"><![CDATA[0\rightarrow  M' \xrightarrow {f} M \xrightarrow {g} M''\rightarrow  0]]></fr:tex> se denomina una <html:em>sucesión exacta corta</html:em>. Cada sucesión exacta larga</html:p>
   <html:center><fr:resource hash="e75671d33f8cadf97640e069e490da57"><fr:resource-content><html:img src="/e75671d33f8cadf97640e069e490da57.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[
   \begin {tikzcd}
@@ -3349,7 +4004,7 @@ Dado un conjunto de generadores <fr:tex display="inline"><![CDATA[m_1,\dots , m_
   \arrow [from=1-4, to=1-5]
   \end {tikzcd}
 ]]></fr:resource-source></fr:resource></html:center>
-<html:p>puede escindirse en sucesiones exactas cortas: si <fr:tex display="inline"><![CDATA[N=\mathrm {Im}{f_i}=\mathrm {ker} f_{i+1}]]></fr:tex>, se tienen sucesiones exactas cortas <fr:tex display="inline"><![CDATA[0\rightarrow  N_i\rightarrow  M_i\rightarrow  N_{i+1}\rightarrow  0]]></fr:tex> para cada <fr:tex display="inline"><![CDATA[i]]></fr:tex>.</html:p></fr:mainmatter></fr:tree></fr:mainmatter>
+<html:p>puede escindirse en sucesiones exactas cortas: si <fr:tex display="inline"><![CDATA[N=\operatorname {Im}{f_i}=\operatorname {ker} f_{i+1}]]></fr:tex>, se tienen sucesiones exactas cortas <fr:tex display="inline"><![CDATA[0\rightarrow  N_i\rightarrow  M_i\rightarrow  N_{i+1}\rightarrow  0]]></fr:tex> para cada <fr:tex display="inline"><![CDATA[i]]></fr:tex>.</html:p></fr:mainmatter></fr:tree></fr:mainmatter>
                 </fr:tree>
                 <fr:tree show-metadata="false">
                   <fr:frontmatter>
@@ -3374,8 +4029,8 @@ Dado un conjunto de generadores <fr:tex display="inline"><![CDATA[m_1,\dots , m_
                     </fr:meta>
                   </fr:frontmatter>
                   <fr:mainmatter>
-                    <html:ul><html:li>La sucesión <fr:tex display="inline"><![CDATA[0\rightarrow  L\xrightarrow {\alpha } M\xrightarrow {\beta } N]]></fr:tex> es exacta <fr:tex display="inline"><![CDATA[\iff  L\cong \mathrm {ker}\beta ]]></fr:tex>.</html:li>
-    <html:li>La sucesión <fr:tex display="inline"><![CDATA[L\xrightarrow {\alpha } M\xrightarrow {\beta } N\rightarrow  0]]></fr:tex> es exacta <fr:tex display="inline"><![CDATA[\iff  N\cong \mathrm {coker}{\alpha }]]></fr:tex>.</html:li></html:ul>
+                    <html:ul><html:li>La sucesión <fr:tex display="inline"><![CDATA[0\rightarrow  L\xrightarrow {\alpha } M\xrightarrow {\beta } N]]></fr:tex> es exacta <fr:tex display="inline"><![CDATA[\iff  L\cong \operatorname {ker}\beta ]]></fr:tex>.</html:li>
+    <html:li>La sucesión <fr:tex display="inline"><![CDATA[L\xrightarrow {\alpha } M\xrightarrow {\beta } N\rightarrow  0]]></fr:tex> es exacta <fr:tex display="inline"><![CDATA[\iff  N\cong \operatorname {coker}{\alpha }]]></fr:tex>.</html:li></html:ul>
                   </fr:mainmatter>
                 </fr:tree>
                 <fr:tree show-metadata="false">

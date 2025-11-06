@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>11</fr:month>
+      <fr:day>4</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/algebras/AC-002K.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/AC-002K/</fr:uri>
+    <fr:display-uri>AC-002K</fr:display-uri>
+    <fr:route>/AC-002K/</fr:route>
+    <fr:title text="Ideales maximales de un álgebra de los polinomios sobre cuerpo algebraicamente cerrado">Ideales maximales de un álgebra de los polinomios sobre cuerpo algebraicamente cerrado</fr:title>
+    <fr:taxon>Proposición</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/reid-undergrad-comm-alg/" title="Undergraduate Commutative Algebra" uri="https://juan-mad.github.io/reid-undergrad-comm-alg/" display-uri="reid-undergrad-comm-alg" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo algebraicamente cerrado, y sea <fr:tex display="inline"><![CDATA[A=k[X_1,\dots , X_n]]]></fr:tex>. Entonces todo ideal maximal de <fr:tex display="inline"><![CDATA[A]]></fr:tex> es de la forma <fr:tex display="block"><![CDATA[m = \langle  X_1 - \alpha _1, \dots , X_n - \alpha _n \rangle , \,\,\, \alpha _i \in  k, i=1,\dots ,n.]]></fr:tex> El paso al cociente <fr:tex display="inline"><![CDATA[K[X_1,\dots ,X_n]\rightarrow  k[X_1,\dots ,X_n]/m = k]]></fr:tex> es la aplicación natural de evaluación <fr:tex display="inline"><![CDATA[f(X_1,\dots ,X_n)\mapsto  f(\alpha _1,\dots ,\alpha _n)]]></fr:tex>.</html:p>
+    <html:p>Este resultado nos da una correspondencia biyectiva natural entre <fr:tex display="inline"><![CDATA[k^n]]></fr:tex> o el <fr:link href="/AG-0002/" title="Espacio afín n-dimensional" uri="https://juan-mad.github.io/AG-0002/" display-uri="AG-0002" type="local">espacio afín</fr:link> <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex> y los ideales maximales de <fr:tex display="inline"><![CDATA[k[X_1,\dots ,X_N]]]></fr:tex> definida por <fr:tex display="block"><![CDATA[(\alpha _1,\dots ,\alpha _n) \longleftrightarrow  \langle  X_1 - \alpha _1,\dots ,X_n - \alpha _n \rangle .]]></fr:tex></html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/Miles%20Reid/" type="external">Miles Reid</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/reid-undergrad-comm-alg.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/reid-undergrad-comm-alg/</fr:uri>
+            <fr:display-uri>reid-undergrad-comm-alg</fr:display-uri>
+            <fr:route>/reid-undergrad-comm-alg/</fr:route>
+            <fr:title text="Undergraduate Commutative Algebra">Undergraduate Commutative Algebra</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="bibtex"><![CDATA[@book{Reid_1995, place={Cambridge}, series={London Mathematical Society Student Texts}, title={Undergraduate Commutative Algebra}, publisher={Cambridge University Press}, author={Reid, Miles}, year={1995}, collection={London Mathematical Society Student Texts}}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0002.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AG-0002/</fr:uri>
+            <fr:display-uri>AG-0002</fr:display-uri>
+            <fr:route>/AG-0002/</fr:route>
+            <fr:title text="Espacio afín n-dimensional">Espacio afín <fr:tex display="inline"><![CDATA[n]]></fr:tex>-dimensional</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo algebraicamente cerrado. Se define el <html:em>espacio afín <fr:tex display="inline"><![CDATA[n]]></fr:tex>-dimensional sobre <fr:tex display="inline"><![CDATA[k]]></fr:tex></html:em>, <fr:tex display="inline"><![CDATA[\mathbb  A^n_k]]></fr:tex> o <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex>, como el conjunto de las <fr:tex display="inline"><![CDATA[n]]></fr:tex>-uplas de elementos de <fr:tex display="inline"><![CDATA[k]]></fr:tex>. Un elemento <fr:tex display="inline"><![CDATA[P\in  \mathbb  A^n]]></fr:tex> recibe el nombre de <html:em>punto</html:em>, y si <fr:tex display="inline"><![CDATA[P=(a_1,\dots ,a_n), a_i\in  k, i=1,\dots ,n]]></fr:tex>, entonces los <fr:tex display="inline"><![CDATA[a_i]]></fr:tex> reciben el nombre de <html:em>coordenadas</html:em> de <fr:tex display="inline"><![CDATA[P]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>11</fr:month>
+      <fr:day>4</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000I.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/CAT-000I/</fr:uri>
+    <fr:display-uri>CAT-000I</fr:display-uri>
+    <fr:route>/CAT-000I/</fr:route>
+    <fr:title text="Isomorfismo en una categoría">Isomorfismo en una categoría</fr:title>
+    <fr:taxon>Definición</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Un <html:em>isomorfismo</html:em> en una <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categoría</fr:link> es un morfismo <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y]]></fr:tex> para el cual existe un morfismo <fr:tex display="inline"><![CDATA[g\colon Y\rightarrow X]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[gf=1_X]]></fr:tex> y <fr:tex display="inline"><![CDATA[fg=1_Y]]></fr:tex>. Decimos que dos objetos <fr:tex display="inline"><![CDATA[X]]></fr:tex> e <fr:tex display="inline"><![CDATA[Y]]></fr:tex> son <html:em>isomorfos</html:em> cuando existe un isomorfismo entre <fr:tex display="inline"><![CDATA[X]]></fr:tex> e <fr:tex display="inline"><![CDATA[Y]]></fr:tex>; en este caso escribimos <fr:tex display="inline"><![CDATA[X\cong  Y]]></fr:tex>.</html:p>
+    <html:p>En particular, todo isomorfismo es un <fr:link href="/CAT-000K/" title="Monomorfismo" uri="https://juan-mad.github.io/CAT-000K/" display-uri="CAT-000K" type="local">monomorfismo</fr:link> y un <fr:link href="/CAT-000L/" title="Epimorfismo" uri="https://juan-mad.github.io/CAT-000L/" display-uri="CAT-000L" type="local">epimorfismo</fr:link>.</html:p>
+    <html:p>Un endomorfismo, es decir, un morfismo con igual dominio y codominio, que también es isomorfismo recibe el nombre de <html:em>automorfismo</html:em>.</html:p>
+    <html:p>Algunos ejemplos de isomorfismos son: <html:ul><html:li>Los <fr:link href="/CAT-0003/" title="Categoría de conjuntos" uri="https://juan-mad.github.io/CAT-0003/" display-uri="CAT-0003" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Set}]]></fr:tex></fr:link> son las biyecciones.</html:li>
+    <html:li>Los <fr:link href="/CAT-0005/" title="Categoría de grupos" uri="https://juan-mad.github.io/CAT-0005/" display-uri="CAT-0005" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Group}]]></fr:tex></fr:link> son los homomorfismos biyectivos.</html:li>
+    <html:li>Los <fr:link href="/CAT-0006/" title="Categoría de anillos" uri="https://juan-mad.github.io/CAT-0006/" display-uri="CAT-0006" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Ring}]]></fr:tex></fr:link> son los homomorfismos biyectivos.</html:li>
+    <html:li>Los <fr:link href="/CAT-0007/" title="Categoría de cuerpos" uri="https://juan-mad.github.io/CAT-0007/" display-uri="CAT-0007" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Field}]]></fr:tex></fr:link> son los homomorfismos biyectivos.</html:li>
+    <html:li>Los <fr:link href="/CAT-0008/" title="Categoría de módulos sobre un anillo" uri="https://juan-mad.github.io/CAT-0008/" display-uri="CAT-0008" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Mod}_R]]></fr:tex></fr:link> son los homomorfismos biyectivos.</html:li>
+    <html:li>En la <fr:link href="/CAT-000E/" title="Categoría de un conjunto parcialmente ordenado" uri="https://juan-mad.github.io/CAT-000E/" display-uri="CAT-000E" type="local">categoría de un conjunto parcialmente ordenado</fr:link> <fr:tex display="inline"><![CDATA[(\mathsf {P}, \leq )]]></fr:tex>, los únicos isomorfismos son las identidades.</html:li></html:ul></html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/Emily%20Riehl/" type="external">Emily Riehl</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/category-theory-context-riehl.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/category-theory-context-riehl/</fr:uri>
+            <fr:display-uri>category-theory-context-riehl</fr:display-uri>
+            <fr:route>/category-theory-context-riehl/</fr:route>
+            <fr:title text="Category Theory in Context">Category Theory in Context</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>
+              <fr:link href="https://emilyriehl.github.io/files/context.pdf" type="external">https://emilyriehl.github.io/files/context.pdf</fr:link>
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>4</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000H.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-000H/</fr:uri>
+            <fr:display-uri>CAT-000H</fr:display-uri>
+            <fr:route>/CAT-000H/</fr:route>
+            <fr:title text="Teor'ia de categor'ias">Teor'ia de categor'ias</fr:title>
+            <fr:taxon>Tema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>3</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-0001.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-0001/</fr:uri>
+                <fr:display-uri>CAT-0001</fr:display-uri>
+                <fr:route>/CAT-0001/</fr:route>
+                <fr:title text="Categoría">Categoría</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Una <html:em>categoría</html:em> <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> consiste de <html:ul><html:li>Una colección <fr:tex display="inline"><![CDATA[\mathrm {Obj}(\mathsf {C})]]></fr:tex> de <html:strong>objetos</html:strong> <fr:tex display="inline"><![CDATA[X, Y, Z, \dots ]]></fr:tex></html:li>
+    <html:li>Para cada par de objetos <fr:tex display="inline"><![CDATA[X, Y]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, una colección de <html:strong>morfismos</html:strong> o <html:strong>flechas</html:strong> de <fr:tex display="inline"><![CDATA[X]]></fr:tex> en <fr:tex display="inline"><![CDATA[Y]]></fr:tex>, que suele denotarse por <fr:tex display="inline"><![CDATA[\operatorname {Hom}(X,Y), \mathrm {Mor}(X, Y), \mathsf {C}(X,Y), \dots ]]></fr:tex> (Si <fr:tex display="inline"><![CDATA[f]]></fr:tex> es un morfismo de <fr:tex display="inline"><![CDATA[\operatorname {Hom}(X,Y)]]></fr:tex> escribimos <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y]]></fr:tex> para especificar su dominio, <fr:tex display="inline"><![CDATA[X]]></fr:tex>, y su codominio, <fr:tex display="inline"><![CDATA[Y]]></fr:tex>).</html:li></html:ul>
+que verifican los siguientes axiomas: <html:ol><html:li>Cada morfismo tiene un dominio y codomonio específico. Es decir, si <fr:tex display="inline"><![CDATA[A, A', B, B']]></fr:tex> son objectos de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y o bien <fr:tex display="inline"><![CDATA[A\neq  A']]></fr:tex> o bien <fr:tex display="inline"><![CDATA[B \neq  B']]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[\operatorname {Hom}(A,B)\neq \operatorname {Hom}(A',B')]]></fr:tex>.</html:li>
+    <html:li>Dados tres objetos <fr:tex display="inline"><![CDATA[X, Y, Z]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y dos morfismos <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y, g\colon Y\rightarrow Z]]></fr:tex> existe un morfismo composición <fr:tex display="inline"><![CDATA[g\circ  f = gf\colon  X\rightarrow  Z]]></fr:tex>. Esta composición es asociativa, es decir, si <fr:tex display="inline"><![CDATA[h\colon Z\rightarrow W]]></fr:tex> entonces <fr:tex display="block"><![CDATA[h\circ (g\circ  f) = (h\circ  g)\circ  f\colon  X \longrightarrow  W.]]></fr:tex></html:li>
+    <html:li>Para cada objeto <fr:tex display="inline"><![CDATA[X]]></fr:tex> de <fr:tex display="inline"><![CDATA[C]]></fr:tex> existe un <html:strong>morfismo identidad</html:strong> en <fr:tex display="inline"><![CDATA[\operatorname {Hom}(X,X)]]></fr:tex>, <fr:tex display="inline"><![CDATA[1_X]]></fr:tex>, tal que si <fr:tex display="inline"><![CDATA[g\colon X\rightarrow Y]]></fr:tex> entonces <fr:tex display="block"><![CDATA[1_Yg = g,\,\,\, g1_X = g.]]></fr:tex></html:li></html:ol>
+Puede verificarse que el elemento neutro siempre es único.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p><fr:link href="/CAT-0002/" title="Ejemplos de categorías" uri="https://juan-mad.github.io/CAT-0002/" display-uri="CAT-0002" type="local">Aquí pueden verse algunos ejemplos de categorías</fr:link>.</html:p>
+            <html:p>En general, la colección de objetos o de morfismos de una categoría no tienen por qué ser un conjunto en el sentido de los axiomas de Zermelo-Fraenkel de teoría de conjuntos. Véase, por ejemplo, 1.1.5 en <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local">el libro de Emily Riehl</fr:link> para una breve discusión y otras referencias. Esto nos lleva las dos definiciones siguientes:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000F.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000F/</fr:uri>
+                <fr:display-uri>CAT-000F</fr:display-uri>
+                <fr:route>/CAT-000F/</fr:route>
+                <fr:title text="Categorías pequeñas">Categorías pequeñas</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Decimos que una <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categoría</fr:link> es <html:em>pequeña</html:em> ("small", en inglés) si todos sus morfismos forman un conjunto.</html:p>
+                <html:p>Puesto que para toda categoría existe una correspondencia entre sus objetos <fr:tex display="inline"><![CDATA[X]]></fr:tex> y el morfismo identidad <fr:tex display="inline"><![CDATA[1_X]]></fr:tex> en <fr:tex display="inline"><![CDATA[\operatorname {Hom}(X,X)]]></fr:tex>, una categoría pequeña tendrá también un conjunto de objetos (y no una colección). Si una categoría es pequeña también existen funciones que envían un morfismo en su dominio y en su codominio.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Ninguno de [estos ejemplos de categorías concretas] son categorías pequeñas, pero "localmente" se parecen a categorías pequeñas en el siguiente sentido:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000G.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000G/</fr:uri>
+                <fr:display-uri>CAT-000G</fr:display-uri>
+                <fr:route>/CAT-000G/</fr:route>
+                <fr:title text="Categorías localmente pequeñas">Categorías localmente pequeñas</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Decimos que una <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categoría</fr:link> es <html:em>localmente pequeña</html:em> ("locally small", en inglés) si para todo par de objetos <fr:tex display="inline"><![CDATA[X, Y]]></fr:tex>, los morfismos <fr:tex display="inline"><![CDATA[\operatorname {Hom}(X,Y)]]></fr:tex> forman un conjunto.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Una categoría nos aporta el contexto en el que podemos contestar a la pregunta "¿Cuándo es una cosa lo mismo que otra cosa?" En matemáticas se suelen tratar a dos objetos como "los mismos" cuando hay un isomorfismo entre ellos en el siguiente sentido:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000I.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000I/</fr:uri>
+                <fr:display-uri>CAT-000I</fr:display-uri>
+                <fr:route>/CAT-000I/</fr:route>
+                <fr:title text="Isomorfismo en una categoría">Isomorfismo en una categoría</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un <html:em>isomorfismo</html:em> en una <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categoría</fr:link> es un morfismo <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y]]></fr:tex> para el cual existe un morfismo <fr:tex display="inline"><![CDATA[g\colon Y\rightarrow X]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[gf=1_X]]></fr:tex> y <fr:tex display="inline"><![CDATA[fg=1_Y]]></fr:tex>. Decimos que dos objetos <fr:tex display="inline"><![CDATA[X]]></fr:tex> e <fr:tex display="inline"><![CDATA[Y]]></fr:tex> son <html:em>isomorfos</html:em> cuando existe un isomorfismo entre <fr:tex display="inline"><![CDATA[X]]></fr:tex> e <fr:tex display="inline"><![CDATA[Y]]></fr:tex>; en este caso escribimos <fr:tex display="inline"><![CDATA[X\cong  Y]]></fr:tex>.</html:p>
+                <html:p>En particular, todo isomorfismo es un <fr:link href="/CAT-000K/" title="Monomorfismo" uri="https://juan-mad.github.io/CAT-000K/" display-uri="CAT-000K" type="local">monomorfismo</fr:link> y un <fr:link href="/CAT-000L/" title="Epimorfismo" uri="https://juan-mad.github.io/CAT-000L/" display-uri="CAT-000L" type="local">epimorfismo</fr:link>.</html:p>
+                <html:p>Un endomorfismo, es decir, un morfismo con igual dominio y codominio, que también es isomorfismo recibe el nombre de <html:em>automorfismo</html:em>.</html:p>
+                <html:p>Algunos ejemplos de isomorfismos son: <html:ul><html:li>Los <fr:link href="/CAT-0003/" title="Categoría de conjuntos" uri="https://juan-mad.github.io/CAT-0003/" display-uri="CAT-0003" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Set}]]></fr:tex></fr:link> son las biyecciones.</html:li>
+    <html:li>Los <fr:link href="/CAT-0005/" title="Categoría de grupos" uri="https://juan-mad.github.io/CAT-0005/" display-uri="CAT-0005" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Group}]]></fr:tex></fr:link> son los homomorfismos biyectivos.</html:li>
+    <html:li>Los <fr:link href="/CAT-0006/" title="Categoría de anillos" uri="https://juan-mad.github.io/CAT-0006/" display-uri="CAT-0006" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Ring}]]></fr:tex></fr:link> son los homomorfismos biyectivos.</html:li>
+    <html:li>Los <fr:link href="/CAT-0007/" title="Categoría de cuerpos" uri="https://juan-mad.github.io/CAT-0007/" display-uri="CAT-0007" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Field}]]></fr:tex></fr:link> son los homomorfismos biyectivos.</html:li>
+    <html:li>Los <fr:link href="/CAT-0008/" title="Categoría de módulos sobre un anillo" uri="https://juan-mad.github.io/CAT-0008/" display-uri="CAT-0008" type="local">isomorfismos en <fr:tex display="inline"><![CDATA[\mathsf {Mod}_R]]></fr:tex></fr:link> son los homomorfismos biyectivos.</html:li>
+    <html:li>En la <fr:link href="/CAT-000E/" title="Categoría de un conjunto parcialmente ordenado" uri="https://juan-mad.github.io/CAT-000E/" display-uri="CAT-000E" type="local">categoría de un conjunto parcialmente ordenado</fr:link> <fr:tex display="inline"><![CDATA[(\mathsf {P}, \leq )]]></fr:tex>, los únicos isomorfismos son las identidades.</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000J.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000J/</fr:uri>
+                <fr:display-uri>CAT-000J</fr:display-uri>
+                <fr:route>/CAT-000J/</fr:route>
+                <fr:title text="Principio de dualidad">Principio de dualidad</fr:title>
+                <fr:taxon>Principio</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Dada una categoría <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, podemos definir una categoría opuesta:
+<fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-000B.tree</fr:source-path><fr:uri>https://juan-mad.github.io/CAT-000B/</fr:uri><fr:display-uri>CAT-000B</fr:display-uri><fr:route>/CAT-000B/</fr:route><fr:title text="Categoría opuesta">Categoría opuesta</fr:title><fr:taxon>Ejemplo</fr:taxon><fr:meta name="sources"><fr:link href="/solotar-farinati-anillos-categorias-representaciones/" title="Anillos y sus categorías de representaciones" uri="https://juan-mad.github.io/solotar-farinati-anillos-categorias-representaciones/" display-uri="solotar-farinati-anillos-categorias-representaciones" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>Data una categoría <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, se define la <html:em>categoría opuesta <fr:tex display="inline"><![CDATA[\mathsf {C}^{op}]]></fr:tex></html:em> definiendo:: <html:ul><html:li>Los objetos <fr:tex display="inline"><![CDATA[\mathrm {Obj}(\mathsf {C})]]></fr:tex> de la categoría como objetos.</html:li>
+<html:li>Para cada par de objetos <fr:tex display="inline"><![CDATA[X, Y]]></fr:tex> se define <fr:tex display="inline"><![CDATA[\operatorname {Hom}_{\mathsf {C}^{op}}(X,Y) \colon =\operatorname {Hom}_\mathsf {C}(Y,X)]]></fr:tex> como morfismos. La composición funciona de la forma <fr:tex display="inline"><![CDATA[f\circ _{op} g \colon = g\circ  f]]></fr:tex>.</html:li></html:ul></html:p></fr:mainmatter></fr:tree>
+Es decir, <fr:tex display="inline"><![CDATA[\mathsf {C}^{op}]]></fr:tex> tiene los mismos objetos y morfismos que <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, pero con las "flechas apuntando al otro lado" o "intercambiando dominios y codominios". La información contenida en una de ellas está contenida en la otra. Esta dualidad sintáctica tiene una consecuencia muy importante: <html:ul><html:li>Toda proposición que contenga un cuantificador universal de la forma "para todas las categorías <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>" también aplica necesariamente a sus categorías opuestas.</html:li></html:ul> Interpretando el resultado en el contexto dual nos lleva a un <html:strong>teorema dual</html:strong>, que se prueba por el dual de la demostración original, en el cual las direcciones de cada flecha o morfismo que aparecen en el argument se inverten. De esta forma, cualquier demostración en teoría de categorías demuestra simultáneamente dos resultados.
+</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Por ejemplo, las definiciones en categor'ias tambi'en tienen duales, como podemos ver a continuaci'on:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000K.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000K/</fr:uri>
+                <fr:display-uri>CAT-000K</fr:display-uri>
+                <fr:route>/CAT-000K/</fr:route>
+                <fr:title text="Monomorfismo">Monomorfismo</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un morfismo <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y]]></fr:tex> es un <html:em>monomorfismo</html:em> (o "mono") si para cualquier par de morfismos <fr:tex display="block"><![CDATA[h, k\colon  W \rightrightarrows  X]]></fr:tex> se tiene que <fr:tex display="block"><![CDATA[fh = fk \Longrightarrow  h = k.]]></fr:tex></html:p>
+                <html:p>Normalmente, los monomorfismos suelen representarse con el siguiente s'imbolo: <fr:tex display="inline"><![CDATA[X \rightarrowtail  Y]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000L.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000L/</fr:uri>
+                <fr:display-uri>CAT-000L</fr:display-uri>
+                <fr:route>/CAT-000L/</fr:route>
+                <fr:title text="Epimorfismo">Epimorfismo</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un morfismo <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y]]></fr:tex> es un <html:em>epimorfismo</html:em> (o "epi") si para cualquier par de morfismos <fr:tex display="block"><![CDATA[h, k\colon  Y \rightrightarrows  W]]></fr:tex> se tiene que <fr:tex display="block"><![CDATA[hf = hk \Longrightarrow  h = k.]]></fr:tex></html:p>
+                <html:p>Normalmente, los epimorfismos suelen representarse con el siguiente s'imbolo: <fr:tex display="inline"><![CDATA[X \twoheadrightarrow  Y]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Puede verse que los monomorfismos y epimorfismos son el dual del otro; y que un monomorfismo en una categor'ia es un epimorfismo en la categor'ia opuesta, y viceversa.</html:p>
+            <html:p>Puesto que categor'ias tambi'en son objetos matem'aticos, nuestro pr'oximo objetivo ser'a describir los morfismos entre categor'ias.</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000M.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000M/</fr:uri>
+                <fr:display-uri>CAT-000M</fr:display-uri>
+                <fr:route>/CAT-000M/</fr:route>
+                <fr:title text="Funtor">Funtor</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un <html:em>funtor</html:em> (covariante) <fr:tex display="inline"><![CDATA[F\colon \mathsf {C}\rightarrow \mathsf {D}]]></fr:tex> entre categor'ias <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> est'a definido por: <html:ul><html:li>Un objeto <fr:tex display="inline"><![CDATA[Fc]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> para cada objeto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>.</html:li>
+<html:li>Un morfismo <fr:tex display="inline"><![CDATA[Ff\colon Fc\rightarrow Fc']]></fr:tex> entre objetos <fr:tex display="inline"><![CDATA[Fc, Fc']]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex>, para cada morfismo <fr:tex display="inline"><![CDATA[f\colon c\rightarrow c']]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>.</html:li></html:ul>
+Adem'as, un funtor covariante debe verificar los siguientes <html:strong>axiomas de funtorialidad</html:strong>:
+<html:ul><html:li>Para cualquier pareja de morfismos <fr:tex display="inline"><![CDATA[f,g]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> que pueden componerse, <fr:tex display="block"><![CDATA[Fg\circ  Ff = F(g\circ  f).]]></fr:tex></html:li>
+<html:li>Para cada objecto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, <fr:tex display="inline"><![CDATA[F(1_c) = 1_{Fc}]]></fr:tex>.</html:li></html:ul></html:p>
+                <html:p>Un funtor contravariante <fr:tex display="inline"><![CDATA[F]]></fr:tex> entre <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> es un funtor <fr:tex display="inline"><![CDATA[F\colon \mathsf {C}^{op}\rightarrow \mathsf {D}]]></fr:tex>. Expl'icitamente, el funtor est'a definido por: <html:ul><html:li>Un objeto <fr:tex display="inline"><![CDATA[Fc]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> para cada objeto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>.</html:li>
+<html:li>Un morfismo <fr:tex display="inline"><![CDATA[Ff\colon Fc'\rightarrow Fc]]></fr:tex> entre objetos <fr:tex display="inline"><![CDATA[Fc, Fc']]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex>, para cada morfismo <fr:tex display="inline"><![CDATA[f\colon c\rightarrow c']]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>. Notemos como el dominio y codominio de <fr:tex display="inline"><![CDATA[Ff]]></fr:tex> son el resultado de aplicar <fr:tex display="inline"><![CDATA[F]]></fr:tex> al <html:strong>codominio</html:strong> y al <html:strong>dominio</html:strong>, respectivamente (al contrario que para un funtor covariante).</html:li></html:ul>
+
+Adem'as, un funtor contravariante debe verificar los siguientes <html:strong>axiomas de funtorialidad</html:strong>:
+<html:ul><html:li>Para cualquier pareja de morfismos <fr:tex display="inline"><![CDATA[f,g]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> que pueden componerse, <fr:tex display="block"><![CDATA[Ff\circ  Fg = F(g\circ  f).]]></fr:tex></html:li>
+<html:li>Para cada objecto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, <fr:tex display="inline"><![CDATA[F(1_c) = 1_{Fc}]]></fr:tex>.</html:li></html:ul>
+Un morfismo al que se le aplica un funtor contravariante <fr:tex display="inline"><![CDATA[F\colon \mathsf {C}^{op}\rightarrow \mathsf {D}]]></fr:tex> se representar'a siempre como un morfismo <fr:tex display="inline"><![CDATA[f\colon c\rightarrow c']]></fr:tex> entre su dominio y codominio en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, no en <fr:tex display="inline"><![CDATA[\mathsf {C}^{op}]]></fr:tex>. Gr'aficamente: <fr:tex display="block"><![CDATA[f\colon c\rightarrow c', \,\,\, Ff\colon Fc'\rightarrow Fc.]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>El siguiente es uno de los primeros lemas de teor'ia de categor'ias:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000N.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000N/</fr:uri>
+                <fr:display-uri>CAT-000N</fr:display-uri>
+                <fr:route>/CAT-000N/</fr:route>
+                <fr:title text="Funtorialidad respeta isomorfismos">Funtorialidad respeta isomorfismos</fr:title>
+                <fr:taxon>Lema</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Si <fr:tex display="inline"><![CDATA[f\colon x\rightarrow y]]></fr:tex> es un <fr:link href="/CAT-000I/" title="Isomorfismo en una categoría" uri="https://juan-mad.github.io/CAT-000I/" display-uri="CAT-000I" type="local">isomorfismo</fr:link> en una <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categor'ia</fr:link> <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y <fr:tex display="inline"><![CDATA[F\colon \mathsf {C}\rightarrow \mathsf {D}]]></fr:tex> es un <fr:link href="/CAT-000N/" title="Funtorialidad respeta isomorfismos" uri="https://juan-mad.github.io/CAT-000N/" display-uri="CAT-000N" type="local">funtor</fr:link> entre las categor'ias <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex>, entonces el morfismo <fr:tex display="inline"><![CDATA[Ff\colon Fx\rightarrow Fy]]></fr:tex> es un isomorfismo entre objetos de <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>11</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000O.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/CAT-000O/</fr:uri>
+                <fr:display-uri>CAT-000O</fr:display-uri>
+                <fr:route>/CAT-000O/</fr:route>
+                <fr:title text="Funtor representado por un objeto">Funtor representado por un objeto</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter><html:p>Sea <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> una <fr:link href="/CAT-000G/" title="Categorías localmente pequeñas" uri="https://juan-mad.github.io/CAT-000G/" display-uri="CAT-000G" type="local">categor'ia localmente pequeña</fr:link>. Si <fr:tex display="inline"><![CDATA[c]]></fr:tex> es un objeto de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, podemos definir una pareja de <html:em>funtores covariantes y contravariantes representados por <fr:tex display="inline"><![CDATA[c]]></fr:tex></html:em>:</html:p>
+  <html:center><fr:resource hash="4b191822022ec6545ad290fa74794abc"><fr:resource-content><html:img src="/4b191822022ec6545ad290fa74794abc.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[
+\begin {tikzcd}[row sep=tiny]
+	{\mathsf {C}} & {\mathsf {Set}} \\
+	{f\colon  x\rightarrow  y} & {f_*\colon  \mathsf {C}(c,x)\rightarrow  \mathsf {C}(c,y)}
+	\arrow [shorten=5mm, "{\mathsf {C}(c,-)}", from=1-1, to=1-2]
+	\arrow [maps to, from=2-1, to=2-2]
+\end {tikzcd}]]></fr:resource-source></fr:resource></html:center>
+<html:p />
+  <html:center><fr:resource hash="548c9895be4c05a968ea408780808c5d"><fr:resource-content><html:img src="/548c9895be4c05a968ea408780808c5d.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[
+\begin {tikzcd}[row sep=tiny]
+	{\mathsf {C}^{op}} & {\mathsf {Set}} \\
+	{f\colon  x\rightarrow  y} & {f^*\colon  \mathsf {C}(x,c)\rightarrow  \mathsf {C}(y,c)}
+	\arrow [shorten=5mm, "{\mathsf {C}(-,x)}", from=1-1, to=1-2]
+	\arrow [maps to, from=2-2, to=2-1]
+\end {tikzcd}]]></fr:resource-source></fr:resource></html:center>
+<html:p>Como puede verse por la notaci'on, el funtor <fr:tex display="inline"><![CDATA[\mathsf {C}(c,-)]]></fr:tex> lleva <fr:tex display="inline"><![CDATA[x]]></fr:tex> en el conjunto de morfismos <fr:tex display="inline"><![CDATA[\mathsf {C}(c,x)]]></fr:tex> de morfismos entre <fr:tex display="inline"><![CDATA[c]]></fr:tex> y <fr:tex display="inline"><![CDATA[x]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>. De forma dual, el funtor <fr:tex display="inline"><![CDATA[\mathsf {C}(-,c)]]></fr:tex> lleva <fr:tex display="inline"><![CDATA[x]]></fr:tex> en el conjunto de morfismos <fr:tex display="inline"><![CDATA[\mathsf {C}(x,c)]]></fr:tex>.</html:p><html:p>Puede tambi'en observarse que <fr:tex display="inline"><![CDATA[\mathsf {C}(c,-)]]></fr:tex> define una acci'on <html:strong>covariante</html:strong> en el conjunto de morfismos, mientras que <fr:tex display="inline"><![CDATA[\mathsf {C}(x,c)]]></fr:tex> act'ua de forma <html:strong>contravariante</html:strong>.</html:p></fr:mainmatter>
+            </fr:tree>
+            <html:p>La informaci'on contenida en los funtores covariantes y contravariantes de la definici'on anterior se puede definir en un 'unico <html:strong>bifuntor</html:strong>, que es el nombre para un funtor en dos variables. Su dominio est'a dado por una pareja de categor'ias.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000N.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-000N/</fr:uri>
+            <fr:display-uri>CAT-000N</fr:display-uri>
+            <fr:route>/CAT-000N/</fr:route>
+            <fr:title text="Funtorialidad respeta isomorfismos">Funtorialidad respeta isomorfismos</fr:title>
+            <fr:taxon>Lema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Si <fr:tex display="inline"><![CDATA[f\colon x\rightarrow y]]></fr:tex> es un <fr:link href="/CAT-000I/" title="Isomorfismo en una categoría" uri="https://juan-mad.github.io/CAT-000I/" display-uri="CAT-000I" type="local">isomorfismo</fr:link> en una <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categor'ia</fr:link> <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y <fr:tex display="inline"><![CDATA[F\colon \mathsf {C}\rightarrow \mathsf {D}]]></fr:tex> es un <fr:link href="/CAT-000N/" title="Funtorialidad respeta isomorfismos" uri="https://juan-mad.github.io/CAT-000N/" display-uri="CAT-000N" type="local">funtor</fr:link> entre las categor'ias <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex>, entonces el morfismo <fr:tex display="inline"><![CDATA[Ff\colon Fx\rightarrow Fy]]></fr:tex> es un isomorfismo entre objetos de <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000L.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-000L/</fr:uri>
+            <fr:display-uri>CAT-000L</fr:display-uri>
+            <fr:route>/CAT-000L/</fr:route>
+            <fr:title text="Epimorfismo">Epimorfismo</fr:title>
+            <fr:taxon>Definici'on</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un morfismo <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y]]></fr:tex> es un <html:em>epimorfismo</html:em> (o "epi") si para cualquier par de morfismos <fr:tex display="block"><![CDATA[h, k\colon  Y \rightrightarrows  W]]></fr:tex> se tiene que <fr:tex display="block"><![CDATA[hf = hk \Longrightarrow  h = k.]]></fr:tex></html:p>
+            <html:p>Normalmente, los epimorfismos suelen representarse con el siguiente s'imbolo: <fr:tex display="inline"><![CDATA[X \twoheadrightarrow  Y]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000K.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-000K/</fr:uri>
+            <fr:display-uri>CAT-000K</fr:display-uri>
+            <fr:route>/CAT-000K/</fr:route>
+            <fr:title text="Monomorfismo">Monomorfismo</fr:title>
+            <fr:taxon>Definici'on</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un morfismo <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y]]></fr:tex> es un <html:em>monomorfismo</html:em> (o "mono") si para cualquier par de morfismos <fr:tex display="block"><![CDATA[h, k\colon  W \rightrightarrows  X]]></fr:tex> se tiene que <fr:tex display="block"><![CDATA[fh = fk \Longrightarrow  h = k.]]></fr:tex></html:p>
+            <html:p>Normalmente, los monomorfismos suelen representarse con el siguiente s'imbolo: <fr:tex display="inline"><![CDATA[X \rightarrowtail  Y]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>4</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-000E.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-000E/</fr:uri>
+            <fr:display-uri>CAT-000E</fr:display-uri>
+            <fr:route>/CAT-000E/</fr:route>
+            <fr:title text="Categoría de un conjunto parcialmente ordenado">Categoría de un conjunto parcialmente ordenado</fr:title>
+            <fr:taxon>Ejemplo</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Dado un conjunto parcialmente ordenado <fr:tex display="inline"><![CDATA[(X,\leq )]]></fr:tex>, es decir, un conjunto <fr:tex display="inline"><![CDATA[X]]></fr:tex> y un orden parcial <fr:tex display="inline"><![CDATA[\leq ]]></fr:tex> (es decir, reflexivo, transitivo y antisimétrico), se define una categoría <fr:tex display="inline"><![CDATA[\mathsf {X}]]></fr:tex> tal que: <html:ul><html:li>Los elementos de <fr:tex display="inline"><![CDATA[X]]></fr:tex> son los objetos.</html:li>
+<html:li>Dados dos elementos <fr:tex display="inline"><![CDATA[x,y\in  X]]></fr:tex>, el conjunto de morfismos es <fr:tex display="block"><![CDATA[\operatorname {Hom}(x,y) = \begin {cases}\{*\} & \text { si } x\leq  y \\ \emptyset  & \text { si no.} \end {cases}]]></fr:tex> donde <fr:tex display="inline"><![CDATA[\{*\}]]></fr:tex> es un conjunto con un elemento.</html:li></html:ul></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>3</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-0008.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-0008/</fr:uri>
+            <fr:display-uri>CAT-0008</fr:display-uri>
+            <fr:route>/CAT-0008/</fr:route>
+            <fr:title text="Categoría de módulos sobre un anillo">Categoría de módulos sobre un anillo</fr:title>
+            <fr:taxon>Ejemplo</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>La categoría de los módulos por la izquierda sobre un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link> <fr:tex display="inline"><![CDATA[R]]></fr:tex> unitario pero no necesariamente conmutativo, <fr:tex display="inline"><![CDATA[\mathsf {Mod}_R]]></fr:tex>, está formada por: <html:ul><html:li>Los <fr:tex display="inline"><![CDATA[R]]></fr:tex>-módulos por la izquierda como objetos.</html:li>
+<html:li>Los homomorfismos de módulos como morfismos.</html:li></html:ul>
+De manera similar, puede considerarse la categoría de los <fr:tex display="inline"><![CDATA[R]]></fr:tex>-módulos por la derecha. En el caso de que <fr:tex display="inline"><![CDATA[R]]></fr:tex> sea conmutativo, ambas categorías coinciden.
+</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>3</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-0007.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-0007/</fr:uri>
+            <fr:display-uri>CAT-0007</fr:display-uri>
+            <fr:route>/CAT-0007/</fr:route>
+            <fr:title text="Categoría de cuerpos">Categoría de cuerpos</fr:title>
+            <fr:taxon>Ejemplo</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>La categoría de los cuerpos, <fr:tex display="inline"><![CDATA[\mathsf {Field}]]></fr:tex>, está formada por: <html:ul><html:li>Los cuerpos como objetos.</html:li>
+<html:li>Los homomorfismos de cuerpos como morfismos.</html:li></html:ul></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>3</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-0006.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-0006/</fr:uri>
+            <fr:display-uri>CAT-0006</fr:display-uri>
+            <fr:route>/CAT-0006/</fr:route>
+            <fr:title text="Categoría de anillos">Categoría de anillos</fr:title>
+            <fr:taxon>Ejemplo</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>La categoría de los <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillos conmutativos y unitarios</fr:link>, <fr:tex display="inline"><![CDATA[\mathsf {Ring}]]></fr:tex>, está formada por: <html:ul><html:li>Los <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillos conmutativos y unitarios</fr:link> como objetos.</html:li>
+<html:li>Los <fr:link href="/AC-0003/" title="Homomorfismo de anillos" uri="https://juan-mad.github.io/AC-0003/" display-uri="AC-0003" type="local">homomorfismos de anillos</fr:link> como morfismos.</html:li></html:ul>
+En particular puede considerarse la categoría de anillos que no sean necesariamente conmutativos y/o unitarios y sus respectivos homomorfismos.
+</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>3</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-0005.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-0005/</fr:uri>
+            <fr:display-uri>CAT-0005</fr:display-uri>
+            <fr:route>/CAT-0005/</fr:route>
+            <fr:title text="Categoría de grupos">Categoría de grupos</fr:title>
+            <fr:taxon>Ejemplo</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>La categoría de los grupos, <fr:tex display="inline"><![CDATA[\mathsf {Group}]]></fr:tex>, está formada por: <html:ul><html:li>Los grupos como objetos.</html:li>
+<html:li>Los homomorfismos de grupos como morfismos.</html:li></html:ul></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>3</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/examples/CAT-0003.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-0003/</fr:uri>
+            <fr:display-uri>CAT-0003</fr:display-uri>
+            <fr:route>/CAT-0003/</fr:route>
+            <fr:title text="Categoría de conjuntos">Categoría de conjuntos</fr:title>
+            <fr:taxon>Ejemplo</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>La categoría de los conjuntos, <fr:tex display="inline"><![CDATA[\mathsf {Set}]]></fr:tex>, está formada por: <html:ul><html:li>Los conjuntos como objetos.</html:li>
+<html:li>Las funciones como morfismos.</html:li></html:ul>
+También puede considerarse la categoría <fr:tex display="inline"><![CDATA[\mathsf {Set_*}]]></fr:tex> de los conjuntos con un punto base y las funciones entre conjuntos que los preservan.
+</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>3</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-0001.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-0001/</fr:uri>
+            <fr:display-uri>CAT-0001</fr:display-uri>
+            <fr:route>/CAT-0001/</fr:route>
+            <fr:title text="Categoría">Categoría</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Una <html:em>categoría</html:em> <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> consiste de <html:ul><html:li>Una colección <fr:tex display="inline"><![CDATA[\mathrm {Obj}(\mathsf {C})]]></fr:tex> de <html:strong>objetos</html:strong> <fr:tex display="inline"><![CDATA[X, Y, Z, \dots ]]></fr:tex></html:li>
+    <html:li>Para cada par de objetos <fr:tex display="inline"><![CDATA[X, Y]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, una colección de <html:strong>morfismos</html:strong> o <html:strong>flechas</html:strong> de <fr:tex display="inline"><![CDATA[X]]></fr:tex> en <fr:tex display="inline"><![CDATA[Y]]></fr:tex>, que suele denotarse por <fr:tex display="inline"><![CDATA[\operatorname {Hom}(X,Y), \mathrm {Mor}(X, Y), \mathsf {C}(X,Y), \dots ]]></fr:tex> (Si <fr:tex display="inline"><![CDATA[f]]></fr:tex> es un morfismo de <fr:tex display="inline"><![CDATA[\operatorname {Hom}(X,Y)]]></fr:tex> escribimos <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y]]></fr:tex> para especificar su dominio, <fr:tex display="inline"><![CDATA[X]]></fr:tex>, y su codominio, <fr:tex display="inline"><![CDATA[Y]]></fr:tex>).</html:li></html:ul>
+que verifican los siguientes axiomas: <html:ol><html:li>Cada morfismo tiene un dominio y codomonio específico. Es decir, si <fr:tex display="inline"><![CDATA[A, A', B, B']]></fr:tex> son objectos de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y o bien <fr:tex display="inline"><![CDATA[A\neq  A']]></fr:tex> o bien <fr:tex display="inline"><![CDATA[B \neq  B']]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[\operatorname {Hom}(A,B)\neq \operatorname {Hom}(A',B')]]></fr:tex>.</html:li>
+    <html:li>Dados tres objetos <fr:tex display="inline"><![CDATA[X, Y, Z]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y dos morfismos <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y, g\colon Y\rightarrow Z]]></fr:tex> existe un morfismo composición <fr:tex display="inline"><![CDATA[g\circ  f = gf\colon  X\rightarrow  Z]]></fr:tex>. Esta composición es asociativa, es decir, si <fr:tex display="inline"><![CDATA[h\colon Z\rightarrow W]]></fr:tex> entonces <fr:tex display="block"><![CDATA[h\circ (g\circ  f) = (h\circ  g)\circ  f\colon  X \longrightarrow  W.]]></fr:tex></html:li>
+    <html:li>Para cada objeto <fr:tex display="inline"><![CDATA[X]]></fr:tex> de <fr:tex display="inline"><![CDATA[C]]></fr:tex> existe un <html:strong>morfismo identidad</html:strong> en <fr:tex display="inline"><![CDATA[\operatorname {Hom}(X,X)]]></fr:tex>, <fr:tex display="inline"><![CDATA[1_X]]></fr:tex>, tal que si <fr:tex display="inline"><![CDATA[g\colon X\rightarrow Y]]></fr:tex> entonces <fr:tex display="block"><![CDATA[1_Yg = g,\,\,\, g1_X = g.]]></fr:tex></html:li></html:ol>
+Puede verificarse que el elemento neutro siempre es único.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

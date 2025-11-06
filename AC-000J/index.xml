@@ -25,11 +25,11 @@
   <fr:mainmatter>
     <html:p>Sean <fr:tex display="inline"><![CDATA[M]]></fr:tex>, <fr:tex display="inline"><![CDATA[N]]></fr:tex>, <fr:tex display="inline"><![CDATA[L]]></fr:tex> <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos y sea <fr:tex display="inline"><![CDATA[\varphi \colon M\rightarrow N]]></fr:tex> un homomorifsmo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos. Se tienen los clásicos teoremas de isomorfía:
 
-<html:ol><html:li><html:em>Primer teorema de isomorfía</html:em>: <fr:tex display="inline"><![CDATA[M/\mathrm {ker}\varphi \cong \mathrm {Im} f.]]></fr:tex></html:li>
+<html:ol><html:li><html:em>Primer teorema de isomorfía</html:em>: <fr:tex display="inline"><![CDATA[M/\operatorname {ker}\varphi \cong \operatorname {Im} f.]]></fr:tex></html:li>
     <html:li><html:em>Segundo teorema de isomorfía</html:em>: Si <fr:tex display="inline"><![CDATA[L\subset  N\subset  M]]></fr:tex> submódulos, entonces <fr:tex display="block"><![CDATA[N/M\cong  (N/L)/(M/L).]]></fr:tex></html:li>
     <html:li><html:em>Tercer teorema de isomorfía</html:em>: Si <fr:tex display="inline"><![CDATA[N]]></fr:tex>, <fr:tex display="inline"><![CDATA[L]]></fr:tex> son submódulos de <fr:tex display="inline"><![CDATA[M]]></fr:tex>, entonces <fr:tex display="block"><![CDATA[(N+L)/N\cong  N/(N\cap  L).]]></fr:tex></html:li></html:ol>
 
-En particular, tomando <fr:tex display="inline"><![CDATA[M'=\mathrm {ker} f]]></fr:tex>, se tiene un isomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos <fr:tex display="inline"><![CDATA[M/\mathrm {ker} f\cong \mathrm {Im} f]]></fr:tex>.
+En particular, tomando <fr:tex display="inline"><![CDATA[M'=\operatorname {ker} f]]></fr:tex>, se tiene un isomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos <fr:tex display="inline"><![CDATA[M/\operatorname {ker} f\cong \operatorname {Im} f]]></fr:tex>.
 </html:p>
   </fr:mainmatter>
   <fr:backmatter>
@@ -103,10 +103,10 @@ year = {1978},
             <html:p>Un <html:em>submódulo</html:em> <fr:tex display="inline"><![CDATA[M']]></fr:tex> de <fr:tex display="inline"><![CDATA[M]]></fr:tex> es un subgropo de <fr:tex display="inline"><![CDATA[M]]></fr:tex> que es cerrado a la multiplicación por elementos de <fr:tex display="inline"><![CDATA[A]]></fr:tex>. El grupo abeliano <fr:tex display="inline"><![CDATA[M/M']]></fr:tex> hereda una estructura de de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>, llamado el <html:em>módulo cociente</html:em> de <fr:tex display="inline"><![CDATA[M]]></fr:tex> por <fr:tex display="inline"><![CDATA[M']]></fr:tex>.</html:p>
             <html:p>Si <fr:tex display="inline"><![CDATA[f\colon M\rightarrow N]]></fr:tex> es un homomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos, se definen:
 
-<html:ul><html:li>El <html:em>núcleo de <fr:tex display="inline"><![CDATA[f]]></fr:tex></html:em> es el conjunto <fr:tex display="inline"><![CDATA[\mathrm {ker} f=\{x\in  M:f(x)=0\}]]></fr:tex>, y es un submódulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>.</html:li>
-    <html:li>Igualmente, la <html:em>imagen</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathrm {Im} f]]></fr:tex>, es un submódulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>.</html:li>
-    <html:li>El <html:em>conúcleo</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex> es <fr:tex display="inline"><![CDATA[\mathrm {coker} f = N/\mathrm {Im} f]]></fr:tex>, qe es un módulo cociente en <fr:tex display="inline"><![CDATA[N]]></fr:tex>.</html:li></html:ul>
-Se induce naturalmente un homomorfismo <fr:tex display="inline"><![CDATA[\bar  f\colon M/M'\rightarrow N]]></fr:tex> para todo submódulo <fr:tex display="inline"><![CDATA[M'\subset  \mathrm {ker} f]]></fr:tex>.
+<html:ul><html:li>El <html:em>núcleo de <fr:tex display="inline"><![CDATA[f]]></fr:tex></html:em> es el conjunto <fr:tex display="inline"><![CDATA[\operatorname {ker} f=\{x\in  M:f(x)=0\}]]></fr:tex>, y es un submódulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>.</html:li>
+    <html:li>Igualmente, la <html:em>imagen</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex>, <fr:tex display="inline"><![CDATA[\operatorname {Im} f]]></fr:tex>, es un submódulo de <fr:tex display="inline"><![CDATA[M]]></fr:tex>.</html:li>
+    <html:li>El <html:em>conúcleo</html:em> de <fr:tex display="inline"><![CDATA[f]]></fr:tex> es <fr:tex display="inline"><![CDATA[\operatorname {coker} f = N/\operatorname {Im} f]]></fr:tex>, qe es un módulo cociente en <fr:tex display="inline"><![CDATA[N]]></fr:tex>.</html:li></html:ul>
+Se induce naturalmente un homomorfismo <fr:tex display="inline"><![CDATA[\bar  f\colon M/M'\rightarrow N]]></fr:tex> para todo submódulo <fr:tex display="inline"><![CDATA[M'\subset  \operatorname {ker} f]]></fr:tex>.
 </html:p>
             <fr:tree show-metadata="false">
               <fr:frontmatter>
@@ -133,11 +133,11 @@ Se induce naturalmente un homomorfismo <fr:tex display="inline"><![CDATA[\bar  f
               <fr:mainmatter>
                 <html:p>Sean <fr:tex display="inline"><![CDATA[M]]></fr:tex>, <fr:tex display="inline"><![CDATA[N]]></fr:tex>, <fr:tex display="inline"><![CDATA[L]]></fr:tex> <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos y sea <fr:tex display="inline"><![CDATA[\varphi \colon M\rightarrow N]]></fr:tex> un homomorifsmo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos. Se tienen los clásicos teoremas de isomorfía:
 
-<html:ol><html:li><html:em>Primer teorema de isomorfía</html:em>: <fr:tex display="inline"><![CDATA[M/\mathrm {ker}\varphi \cong \mathrm {Im} f.]]></fr:tex></html:li>
+<html:ol><html:li><html:em>Primer teorema de isomorfía</html:em>: <fr:tex display="inline"><![CDATA[M/\operatorname {ker}\varphi \cong \operatorname {Im} f.]]></fr:tex></html:li>
     <html:li><html:em>Segundo teorema de isomorfía</html:em>: Si <fr:tex display="inline"><![CDATA[L\subset  N\subset  M]]></fr:tex> submódulos, entonces <fr:tex display="block"><![CDATA[N/M\cong  (N/L)/(M/L).]]></fr:tex></html:li>
     <html:li><html:em>Tercer teorema de isomorfía</html:em>: Si <fr:tex display="inline"><![CDATA[N]]></fr:tex>, <fr:tex display="inline"><![CDATA[L]]></fr:tex> son submódulos de <fr:tex display="inline"><![CDATA[M]]></fr:tex>, entonces <fr:tex display="block"><![CDATA[(N+L)/N\cong  N/(N\cap  L).]]></fr:tex></html:li></html:ol>
 
-En particular, tomando <fr:tex display="inline"><![CDATA[M'=\mathrm {ker} f]]></fr:tex>, se tiene un isomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos <fr:tex display="inline"><![CDATA[M/\mathrm {ker} f\cong \mathrm {Im} f]]></fr:tex>.
+En particular, tomando <fr:tex display="inline"><![CDATA[M'=\operatorname {ker} f]]></fr:tex>, se tiene un isomorfismo de <fr:tex display="inline"><![CDATA[A]]></fr:tex>-módulos <fr:tex display="inline"><![CDATA[M/\operatorname {ker} f\cong \operatorname {Im} f]]></fr:tex>.
 </html:p>
               </fr:mainmatter>
             </fr:tree>
