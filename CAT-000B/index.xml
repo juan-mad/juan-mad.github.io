@@ -75,7 +75,7 @@
               <fr:month>11</fr:month>
               <fr:day>4</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-000J.tree</fr:source-path>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/catfunnattrans/CAT-000J.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/CAT-000J/</fr:uri>
             <fr:display-uri>CAT-000J</fr:display-uri>
             <fr:route>/CAT-000J/</fr:route>
@@ -105,7 +105,7 @@ Es decir, <fr:tex display="inline"><![CDATA[\mathsf {C}^{op}]]></fr:tex> tiene l
               <fr:month>11</fr:month>
               <fr:day>3</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/CAT-0002.tree</fr:source-path>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/catfunnattrans/CAT-0002.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/CAT-0002/</fr:uri>
             <fr:display-uri>CAT-0002</fr:display-uri>
             <fr:route>/CAT-0002/</fr:route>

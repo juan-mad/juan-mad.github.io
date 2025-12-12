@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>11</fr:month>
+      <fr:day>7</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/universalrepryoneda/CAT-0010.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/CAT-0010/</fr:uri>
+    <fr:display-uri>CAT-0010</fr:display-uri>
+    <fr:route>/CAT-0010/</fr:route>
+    <fr:title text="Lema de Yoneda">Lema de Yoneda</fr:title>
+    <fr:taxon>Teorema</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Para cualquier <fr:link href="/CAT-000M/" title="Funtor" uri="https://juan-mad.github.io/CAT-000M/" display-uri="CAT-000M" type="local">funtor</fr:link> <fr:tex display="inline"><![CDATA[F\colon \mathsf {C}\rightarrow \mathsf {Set}]]></fr:tex> cuyo dominio <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> es <fr:link href="/CAT-000O/" title="Funtor representado por un objeto" uri="https://juan-mad.github.io/CAT-000O/" display-uri="CAT-000O" type="local">localmente pequeño</fr:link> y para cualquier objeto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, existe una biyecci'on <fr:tex display="block"><![CDATA[\operatorname {Hom}(\mathsf {C}(c,-), F) \cong  Fc]]></fr:tex> que asocia una <fr:link href="/CAT-000Q/" title="Transformación natural" uri="https://juan-mad.github.io/CAT-000Q/" display-uri="CAT-000Q" type="local">transformaci'on natural</fr:link> <fr:tex display="inline"><![CDATA[\alpha \colon \mathsf {C}(c,-)\Rightarrow  F]]></fr:tex> al elemento <fr:tex display="inline"><![CDATA[\alpha _c(1_c)]]></fr:tex> de <fr:tex display="inline"><![CDATA[Fc]]></fr:tex>. Adem'as, esta correspondencia es natural tanto en <fr:tex display="inline"><![CDATA[c]]></fr:tex> como en <fr:tex display="inline"><![CDATA[F]]></fr:tex>.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/Emily%20Riehl/" type="external">Emily Riehl</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/category-theory-context-riehl.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/category-theory-context-riehl/</fr:uri>
+            <fr:display-uri>category-theory-context-riehl</fr:display-uri>
+            <fr:route>/category-theory-context-riehl/</fr:route>
+            <fr:title text="Category Theory in Context">Category Theory in Context</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>
+              <fr:link href="https://emilyriehl.github.io/files/context.pdf" type="external">https://emilyriehl.github.io/files/context.pdf</fr:link>
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>6</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/catfunnattrans/CAT-000Q.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-000Q/</fr:uri>
+            <fr:display-uri>CAT-000Q</fr:display-uri>
+            <fr:route>/CAT-000Q/</fr:route>
+            <fr:title text="Transformación natural">Transformación natural</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter><html:p>Dadas dos <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categorías</fr:link> <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> y dos funtores <fr:tex display="inline"><![CDATA[F,G\colon \mathsf {C}\rightrightarrows  \mathsf {D}]]></fr:tex>, una <html:em>transformación natural</html:em> <fr:tex display="inline"><![CDATA[\alpha \colon  F\Rightarrow  G]]></fr:tex> consiste en: <html:ul><html:li>Para cada objeto <fr:tex display="inline"><![CDATA[c]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, un morfismo <fr:tex display="inline"><![CDATA[\alpha _c\colon  Fc\rightarrow  Gc]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex>; la colección de estos morfismos define los <html:em>componentes de la transformación natural,</html:em></html:li></html:ul>
+tal que para cualquier morfismo <fr:tex display="inline"><![CDATA[f\colon c\rightarrow c']]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, el siguiente diagrama de morfismos en <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> conmuta:
+</html:p>
+  <html:center><fr:resource hash="f78cd00d17d797b4d83481d8a122316e"><fr:resource-content><html:img src="/f78cd00d17d797b4d83481d8a122316e.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[
+\begin {tikzcd}
+	Fc && Gc \\
+	\\
+	{Fc'} && {Gc'}
+	\arrow ["{\alpha _c}", from=1-1, to=1-3]
+	\arrow ["Ff"', from=1-1, to=3-1]
+	\arrow ["Gf", from=1-3, to=3-3]
+	\arrow ["{\alpha _{c'}}"', from=3-1, to=3-3]
+\end {tikzcd}
+]]></fr:resource-source></fr:resource></html:center>
+<html:p>Un <html:em>isomorfismo natural</html:em> es una transformación natural <fr:tex display="inline"><![CDATA[\alpha \colon  F\Rightarrow  G]]></fr:tex> para la que todas las componentes <fr:tex display="inline"><![CDATA[\alpha _c]]></fr:tex> son isomorfismos. En este caso se suele escribir <fr:tex display="inline"><![CDATA[\alpha \colon  F\cong  G]]></fr:tex>.</html:p></fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/catfunnattrans/CAT-000O.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-000O/</fr:uri>
+            <fr:display-uri>CAT-000O</fr:display-uri>
+            <fr:route>/CAT-000O/</fr:route>
+            <fr:title text="Funtor representado por un objeto">Funtor representado por un objeto</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter><html:p>Sea <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> una <fr:link href="/CAT-000G/" title="Categorías localmente pequeñas" uri="https://juan-mad.github.io/CAT-000G/" display-uri="CAT-000G" type="local">categoría localmente pequeña</fr:link>. Si <fr:tex display="inline"><![CDATA[c]]></fr:tex> es un objeto de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, podemos definir una pareja de <html:em>funtores covariantes y contravariantes representados por <fr:tex display="inline"><![CDATA[c]]></fr:tex></html:em>:</html:p>
+  <html:center><fr:resource hash="4b191822022ec6545ad290fa74794abc"><fr:resource-content><html:img src="/4b191822022ec6545ad290fa74794abc.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[
+\begin {tikzcd}[row sep=tiny]
+	{\mathsf {C}} & {\mathsf {Set}} \\
+	{f\colon  x\rightarrow  y} & {f_*\colon  \mathsf {C}(c,x)\rightarrow  \mathsf {C}(c,y)}
+	\arrow [shorten=5mm, "{\mathsf {C}(c,-)}", from=1-1, to=1-2]
+	\arrow [maps to, from=2-1, to=2-2]
+\end {tikzcd}]]></fr:resource-source></fr:resource></html:center>
+<html:p />
+  <html:center><fr:resource hash="548c9895be4c05a968ea408780808c5d"><fr:resource-content><html:img src="/548c9895be4c05a968ea408780808c5d.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[
+\begin {tikzcd}[row sep=tiny]
+	{\mathsf {C}^{op}} & {\mathsf {Set}} \\
+	{f\colon  x\rightarrow  y} & {f^*\colon  \mathsf {C}(x,c)\rightarrow  \mathsf {C}(y,c)}
+	\arrow [shorten=5mm, "{\mathsf {C}(-,x)}", from=1-1, to=1-2]
+	\arrow [maps to, from=2-2, to=2-1]
+\end {tikzcd}]]></fr:resource-source></fr:resource></html:center>
+<html:p>Como puede verse por la notación, el funtor <fr:tex display="inline"><![CDATA[\mathsf {C}(c,-)]]></fr:tex> lleva <fr:tex display="inline"><![CDATA[x]]></fr:tex> en el conjunto de morfismos <fr:tex display="inline"><![CDATA[\mathsf {C}(c,x)]]></fr:tex> de morfismos entre <fr:tex display="inline"><![CDATA[c]]></fr:tex> y <fr:tex display="inline"><![CDATA[x]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>. De forma dual, el funtor <fr:tex display="inline"><![CDATA[\mathsf {C}(-,c)]]></fr:tex> lleva <fr:tex display="inline"><![CDATA[x]]></fr:tex> en el conjunto de morfismos <fr:tex display="inline"><![CDATA[\mathsf {C}(x,c)]]></fr:tex>.</html:p><html:p>Puede también observarse que <fr:tex display="inline"><![CDATA[\mathsf {C}(c,-)]]></fr:tex> define una acción <html:strong>covariante</html:strong> en el conjunto de morfismos, mientras que <fr:tex display="inline"><![CDATA[\mathsf {C}(x,c)]]></fr:tex> actúa de forma <html:strong>contravariante</html:strong>.</html:p></fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/catfunnattrans/CAT-000M.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-000M/</fr:uri>
+            <fr:display-uri>CAT-000M</fr:display-uri>
+            <fr:route>/CAT-000M/</fr:route>
+            <fr:title text="Funtor">Funtor</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un <html:em>funtor</html:em> (covariante) <fr:tex display="inline"><![CDATA[F\colon \mathsf {C}\rightarrow \mathsf {D}]]></fr:tex> entre categorías <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> está definido por: <html:ul><html:li>Un objeto <fr:tex display="inline"><![CDATA[Fc]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> para cada objeto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>.</html:li>
+<html:li>Un morfismo <fr:tex display="inline"><![CDATA[Ff\colon Fc\rightarrow Fc']]></fr:tex> entre objetos <fr:tex display="inline"><![CDATA[Fc, Fc']]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex>, para cada morfismo <fr:tex display="inline"><![CDATA[f\colon c\rightarrow c']]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>.</html:li></html:ul>
+Además, un funtor covariante debe verificar los siguientes <html:strong>axiomas de funtorialidad</html:strong>:
+<html:ul><html:li>Para cualquier pareja de morfismos <fr:tex display="inline"><![CDATA[f,g]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> que pueden componerse, <fr:tex display="block"><![CDATA[Fg\circ  Ff = F(g\circ  f).]]></fr:tex></html:li>
+<html:li>Para cada objecto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, <fr:tex display="inline"><![CDATA[F(1_c) = 1_{Fc}]]></fr:tex>.</html:li></html:ul></html:p>
+            <html:p>Un funtor contravariante <fr:tex display="inline"><![CDATA[F]]></fr:tex> entre <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> es un funtor <fr:tex display="inline"><![CDATA[F\colon \mathsf {C}^{op}\rightarrow \mathsf {D}]]></fr:tex>. Explícitamente, el funtor está definido por: <html:ul><html:li>Un objeto <fr:tex display="inline"><![CDATA[Fc]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> para cada objeto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>.</html:li>
+<html:li>Un morfismo <fr:tex display="inline"><![CDATA[Ff\colon Fc'\rightarrow Fc]]></fr:tex> entre objetos <fr:tex display="inline"><![CDATA[Fc, Fc']]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex>, para cada morfismo <fr:tex display="inline"><![CDATA[f\colon c\rightarrow c']]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>. Notemos como el dominio y codominio de <fr:tex display="inline"><![CDATA[Ff]]></fr:tex> son el resultado de aplicar <fr:tex display="inline"><![CDATA[F]]></fr:tex> al <html:strong>codominio</html:strong> y al <html:strong>dominio</html:strong>, respectivamente (al contrario que para un funtor covariante).</html:li></html:ul>
+
+Además, un funtor contravariante debe verificar los siguientes <html:strong>axiomas de funtorialidad</html:strong>:
+<html:ul><html:li>Para cualquier pareja de morfismos <fr:tex display="inline"><![CDATA[f,g]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> que pueden componerse, <fr:tex display="block"><![CDATA[Ff\circ  Fg = F(g\circ  f).]]></fr:tex></html:li>
+<html:li>Para cada objecto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, <fr:tex display="inline"><![CDATA[F(1_c) = 1_{Fc}]]></fr:tex>.</html:li></html:ul>
+Un morfismo al que se le aplica un funtor contravariante <fr:tex display="inline"><![CDATA[F\colon \mathsf {C}^{op}\rightarrow \mathsf {D}]]></fr:tex> se representará siempre como un morfismo <fr:tex display="inline"><![CDATA[f\colon c\rightarrow c']]></fr:tex> entre su dominio y codominio en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, no en <fr:tex display="inline"><![CDATA[\mathsf {C}^{op}]]></fr:tex>. Gráficamente: <fr:tex display="block"><![CDATA[f\colon c\rightarrow c', \,\,\, Ff\colon Fc'\rightarrow Fc.]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

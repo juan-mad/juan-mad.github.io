@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>11</fr:month>
+      <fr:day>6</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/catfunnattrans/CAT-000T.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/CAT-000T/</fr:uri>
+    <fr:display-uri>CAT-000T</fr:display-uri>
+    <fr:route>/CAT-000T/</fr:route>
+    <fr:title text="" />
+    <fr:taxon>Lema</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Sea <fr:tex display="inline"><![CDATA[f_1,\dots ,f_n]]></fr:tex> una sucesión de morfismos que puede componerse (un "camino") de morfismos en una <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categoría</fr:link>. Si la composición <fr:tex display="inline"><![CDATA[f_kf_{k-1}\dots  f_{i+1 f_i}]]></fr:tex> es igual a <fr:tex display="inline"><![CDATA[g_m\dots  g_1]]></fr:tex> para otra sucesión de morfismos que puede componerse <fr:tex display="inline"><![CDATA[g_1,\dots ,g_m]]></fr:tex>, entonces <fr:tex display="block"><![CDATA[f_n\circ \cdots \circ  f_1 = f_n\circ \cdots \circ  f_{k+1}\circ  g_m\circ \cdots \circ  g_1.]]></fr:tex></html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/Emily%20Riehl/" type="external">Emily Riehl</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/category-theory-context-riehl.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/category-theory-context-riehl/</fr:uri>
+            <fr:display-uri>category-theory-context-riehl</fr:display-uri>
+            <fr:route>/category-theory-context-riehl/</fr:route>
+            <fr:title text="Category Theory in Context">Category Theory in Context</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>
+              <fr:link href="https://emilyriehl.github.io/files/context.pdf" type="external">https://emilyriehl.github.io/files/context.pdf</fr:link>
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>6</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/catfunnattrans/CAT-000R.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-000R/</fr:uri>
+            <fr:display-uri>CAT-000R</fr:display-uri>
+            <fr:route>/CAT-000R/</fr:route>
+            <fr:title text="Diagrama en una categoría">Diagrama en una categoría</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter><html:p>Un <html:em>diagrama</html:em> en una <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categoría</fr:link> <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> es un <fr:link href="/CAT-000M/" title="Funtor" uri="https://juan-mad.github.io/CAT-000M/" display-uri="CAT-000M" type="local">funtor</fr:link> <fr:tex display="inline"><![CDATA[F\colon \mathsf {J}\rightarrow \mathsf {C}]]></fr:tex> a cuyo dominio se le suele denominar la <html:em>categoría de indexación</html:em> del diagrama.</html:p><html:p>Formalmente un diagrama es simplemente un funtor, pero en la práctica se suele llamar diagramas a los funtores cuando su categoría de indexación es "más pequeña" que la categoría de llegada.</html:p><html:p>Un diagrama suele representarse dibujando los objetos y los morfismos de su imagen, dejando implícita la cattegoría de su dominio (la de indexación), especialmente cuando esta se trata de la categoría asociada a un preorden (conjunto con relación binaria transitiva y reflexiva). La funtorialidad implica que toda relación de composiciones que ocurren en <fr:tex display="inline"><![CDATA[\mathsf {J}]]></fr:tex> deben ocurrir en la imagen, que es precisamente lo que significa decir que el grafo dirigido definido por la iamgen del diagrama en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> es <html:strong>conmutativo</html:strong>. Consecuencia de esta definicón de diagrama conmutativo es el siguiente resultado:</html:p><fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/category/catfunnattrans/CAT-000S.tree</fr:source-path><fr:uri>https://juan-mad.github.io/CAT-000S/</fr:uri><fr:display-uri>CAT-000S</fr:display-uri><fr:route>/CAT-000S/</fr:route><fr:title text="Funtores y conmutatividad">Funtores y conmutatividad</fr:title><fr:taxon>Lema</fr:taxon><fr:meta name="sources"><fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>Los funtores preservan los diagramas conmutativos.</html:p></fr:mainmatter></fr:tree><html:p>Por ejemplo, consideremos la categoría <fr:tex display="inline"><![CDATA[\mathbb  2 \times  \mathbb  2]]></fr:tex>, la categoría con cuatro objetos y los siguientes morfismos distintos de la identidad:</html:p>
+  <html:center><fr:resource hash="ffd6fc47025d7d694e019b886d9988f9"><fr:resource-content><html:img src="/ffd6fc47025d7d694e019b886d9988f9.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[
+\begin {tikzcd}
+	\bullet  && \bullet  \\
+	\\
+	\bullet  && \bullet 
+	\arrow [from=1-1, to=1-3]
+	\arrow [from=1-1, to=3-1]
+	\arrow [from=1-1, to=3-3]
+	\arrow [from=1-3, to=3-3]
+	\arrow [from=3-1, to=3-3]
+\end {tikzcd}
+]]></fr:resource-source></fr:resource></html:center>
+<html:p>En esta categoría, el morfismo diagonal es la composición de tanto los morfismos superior y derecha, como de los morfismos izquierda e inferior; estas composiciones son iguales.</html:p><html:p>En la práctica, uno piensa en la categoría de indexación como un grafo dirigido que define la <html:strong>forma</html:strong> del diagrama junto con las relaciones de conmutatividad especificadas. Por ejemplo, para definir un funtor con dominio <fr:tex display="inline"><![CDATA[\mathbb  2 \times  \mathbb  2]]></fr:tex>, basta con especificar las imágenes de sus <fr:tex display="inline"><![CDATA[4]]></fr:tex> objetos junto con cuatro isomorfismos:</html:p>
+  <html:center><fr:resource hash="016eb7ffff06e1acefba92c8a8ed2eb4"><fr:resource-content><html:img src="/016eb7ffff06e1acefba92c8a8ed2eb4.svg" /></fr:resource-content><fr:resource-source type="latex" part="preamble"><![CDATA[\usepackage {quiver, amsopn, amssymb, mathrsfs}]]></fr:resource-source><fr:resource-source type="latex" part="body"><![CDATA[
+\begin {tikzcd}
+	a && b \\
+	\\
+	c && d
+	\arrow ["f", from=1-1, to=1-3]
+	\arrow ["g", from=1-1, to=3-1]
+	\arrow ["h", from=1-3, to=3-3]
+	\arrow ["k", from=3-1, to=3-3]
+\end {tikzcd}
+]]></fr:resource-source></fr:resource></html:center>
+<html:p>sujetos a la relación <fr:tex display="inline"><![CDATA[hf = hg]]></fr:tex>.</html:p><fr:tree show-metadata="false"><fr:frontmatter><fr:authors><fr:author><fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link></fr:author></fr:authors><fr:date><fr:year>2025</fr:year><fr:month>11</fr:month><fr:day>6</fr:day></fr:date><fr:source-path>/hdd1/Projects/Forester/forest/trees/category/catfunnattrans/CAT-000T.tree</fr:source-path><fr:uri>https://juan-mad.github.io/CAT-000T/</fr:uri><fr:display-uri>CAT-000T</fr:display-uri><fr:route>/CAT-000T/</fr:route><fr:title text="" /><fr:taxon>Lema</fr:taxon><fr:meta name="sources"><fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" /></fr:meta></fr:frontmatter><fr:mainmatter><html:p>Sea <fr:tex display="inline"><![CDATA[f_1,\dots ,f_n]]></fr:tex> una sucesión de morfismos que puede componerse (un "camino") de morfismos en una <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categoría</fr:link>. Si la composición <fr:tex display="inline"><![CDATA[f_kf_{k-1}\dots  f_{i+1 f_i}]]></fr:tex> es igual a <fr:tex display="inline"><![CDATA[g_m\dots  g_1]]></fr:tex> para otra sucesión de morfismos que puede componerse <fr:tex display="inline"><![CDATA[g_1,\dots ,g_m]]></fr:tex>, entonces <fr:tex display="block"><![CDATA[f_n\circ \cdots \circ  f_1 = f_n\circ \cdots \circ  f_{k+1}\circ  g_m\circ \cdots \circ  g_1.]]></fr:tex></html:p></fr:mainmatter></fr:tree></fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>3</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/catfunnattrans/CAT-0001.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-0001/</fr:uri>
+            <fr:display-uri>CAT-0001</fr:display-uri>
+            <fr:route>/CAT-0001/</fr:route>
+            <fr:title text="Categoría">Categoría</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Una <html:em>categoría</html:em> <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> consiste de <html:ul><html:li>Una colección <fr:tex display="inline"><![CDATA[\mathrm {Obj}(\mathsf {C})]]></fr:tex> de <html:strong>objetos</html:strong> <fr:tex display="inline"><![CDATA[X, Y, Z, \dots ]]></fr:tex></html:li>
+    <html:li>Para cada par de objetos <fr:tex display="inline"><![CDATA[X, Y]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, una colección de <html:strong>morfismos</html:strong> o <html:strong>flechas</html:strong> de <fr:tex display="inline"><![CDATA[X]]></fr:tex> en <fr:tex display="inline"><![CDATA[Y]]></fr:tex>, que suele denotarse por <fr:tex display="inline"><![CDATA[\operatorname {Hom}(X,Y), \mathrm {Mor}(X, Y), \mathsf {C}(X,Y), \dots ]]></fr:tex> (Si <fr:tex display="inline"><![CDATA[f]]></fr:tex> es un morfismo de <fr:tex display="inline"><![CDATA[\operatorname {Hom}(X,Y)]]></fr:tex> escribimos <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y]]></fr:tex> para especificar su dominio, <fr:tex display="inline"><![CDATA[X]]></fr:tex>, y su codominio, <fr:tex display="inline"><![CDATA[Y]]></fr:tex>).</html:li></html:ul>
+que verifican los siguientes axiomas: <html:ol><html:li>Cada morfismo tiene un dominio y codomonio específico. Es decir, si <fr:tex display="inline"><![CDATA[A, A', B, B']]></fr:tex> son objectos de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y o bien <fr:tex display="inline"><![CDATA[A\neq  A']]></fr:tex> o bien <fr:tex display="inline"><![CDATA[B \neq  B']]></fr:tex>, entonces <fr:tex display="inline"><![CDATA[\operatorname {Hom}(A,B)\neq \operatorname {Hom}(A',B')]]></fr:tex>.</html:li>
+    <html:li>Dados tres objetos <fr:tex display="inline"><![CDATA[X, Y, Z]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y dos morfismos <fr:tex display="inline"><![CDATA[f\colon X\rightarrow Y, g\colon Y\rightarrow Z]]></fr:tex> existe un morfismo composición <fr:tex display="inline"><![CDATA[g\circ  f = gf\colon  X\rightarrow  Z]]></fr:tex>. Esta composición es asociativa, es decir, si <fr:tex display="inline"><![CDATA[h\colon Z\rightarrow W]]></fr:tex> entonces <fr:tex display="block"><![CDATA[h\circ (g\circ  f) = (h\circ  g)\circ  f\colon  X \longrightarrow  W.]]></fr:tex></html:li>
+    <html:li>Para cada objeto <fr:tex display="inline"><![CDATA[X]]></fr:tex> de <fr:tex display="inline"><![CDATA[C]]></fr:tex> existe un <html:strong>morfismo identidad</html:strong> en <fr:tex display="inline"><![CDATA[\operatorname {Hom}(X,X)]]></fr:tex>, <fr:tex display="inline"><![CDATA[1_X]]></fr:tex>, tal que si <fr:tex display="inline"><![CDATA[g\colon X\rightarrow Y]]></fr:tex> entonces <fr:tex display="block"><![CDATA[1_Yg = g,\,\,\, g1_X = g.]]></fr:tex></html:li></html:ol>
+Puede verificarse que el elemento neutro siempre es único.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

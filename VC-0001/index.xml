@@ -524,7 +524,7 @@ El valor <fr:tex display="inline"><![CDATA[\lambda ]]></fr:tex> es único, por l
     <html:li><fr:link href="/TRFU-0001/" title="Transformadas Funcionales" uri="https://juan-mad.github.io/TRFU-0001/" display-uri="TRFU-0001" type="local">Transformadas Funcionales</fr:link></html:li>
     <html:li><fr:link href="/VC-000X/" title="Análisis complejo en varias variables" uri="https://juan-mad.github.io/VC-000X/" display-uri="VC-000X" type="local">Varias variables complejas</fr:link></html:li>
     <html:li><fr:link href="/HOTO-000F/" title="Homotopía" uri="https://juan-mad.github.io/HOTO-000F/" display-uri="HOTO-000F" type="local">Homotopía</fr:link></html:li>
-    <html:li><fr:link href="/CAT-000H/" title="Teor'ia de categor'ias" uri="https://juan-mad.github.io/CAT-000H/" display-uri="CAT-000H" type="local">Teoría de categorías</fr:link></html:li>
+    <html:li><fr:link href="/CAT-000H/" title="Teoría de categorías" uri="https://juan-mad.github.io/CAT-000H/" display-uri="CAT-000H" type="local">Teoría de categorías</fr:link></html:li>
     <html:li><fr:link href="/AG-0001/" title="Variedades" uri="https://juan-mad.github.io/AG-0001/" display-uri="AG-0001" type="local">Geometría algebraica</fr:link></html:li></html:ul>
           </fr:mainmatter>
         </fr:tree>

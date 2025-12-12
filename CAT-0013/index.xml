@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>11</fr:month>
+      <fr:day>7</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/catfunnattrans/CAT-0013.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/CAT-0013/</fr:uri>
+    <fr:display-uri>CAT-0013</fr:display-uri>
+    <fr:route>/CAT-0013/</fr:route>
+    <fr:title text="Funtores plenos, fieles y esencialmente sobreyectivos sobre objetos">Funtores plenos, fieles y esencialmente sobreyectivos sobre objetos</fr:title>
+    <fr:taxon>Definici'on</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Se dice que un <fr:link href="/CAT-000M/" title="Funtor" uri="https://juan-mad.github.io/CAT-000M/" display-uri="CAT-000M" type="local">funtor</fr:link> <fr:tex display="inline"><![CDATA[F\colon \mathsf {C}\rightarrow \mathsf {D}]]></fr:tex> es:<html:ul><html:li><html:em>pleno</html:em> si para cada par de objetos <fr:tex display="inline"><![CDATA[x,y]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> la aplicaci'on <fr:tex display="inline"><![CDATA[\mathsf {C}(x,y)\rightarrow  \mathsf {D}(Fx,Fy)]]></fr:tex> es sobreyectiva.</html:li>
+<html:li><html:em>Fiel</html:em> si para cada par de objetos <fr:tex display="inline"><![CDATA[x,y]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> la aplicaci'on <fr:tex display="inline"><![CDATA[\mathsf {C}(x,y)\rightarrow  \mathsf {D}(Fx,Fy)]]></fr:tex> es inyectiva.</html:li>
+<html:li><html:em>Esencialmente sobreyectivos sobre objetos</html:em> si para cada objeto <fr:tex display="inline"><![CDATA[d]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> existe un objeto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[d]]></fr:tex> es isomorfo a <fr:tex display="inline"><![CDATA[Fc]]></fr:tex>.</html:li></html:ul></html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/Emily%20Riehl/" type="external">Emily Riehl</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/category-theory-context-riehl.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/category-theory-context-riehl/</fr:uri>
+            <fr:display-uri>category-theory-context-riehl</fr:display-uri>
+            <fr:route>/category-theory-context-riehl/</fr:route>
+            <fr:title text="Category Theory in Context">Category Theory in Context</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>
+              <fr:link href="https://emilyriehl.github.io/files/context.pdf" type="external">https://emilyriehl.github.io/files/context.pdf</fr:link>
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>11</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/category/catfunnattrans/CAT-000M.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/CAT-000M/</fr:uri>
+            <fr:display-uri>CAT-000M</fr:display-uri>
+            <fr:route>/CAT-000M/</fr:route>
+            <fr:title text="Funtor">Funtor</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un <html:em>funtor</html:em> (covariante) <fr:tex display="inline"><![CDATA[F\colon \mathsf {C}\rightarrow \mathsf {D}]]></fr:tex> entre categorías <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> está definido por: <html:ul><html:li>Un objeto <fr:tex display="inline"><![CDATA[Fc]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> para cada objeto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>.</html:li>
+<html:li>Un morfismo <fr:tex display="inline"><![CDATA[Ff\colon Fc\rightarrow Fc']]></fr:tex> entre objetos <fr:tex display="inline"><![CDATA[Fc, Fc']]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex>, para cada morfismo <fr:tex display="inline"><![CDATA[f\colon c\rightarrow c']]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>.</html:li></html:ul>
+Además, un funtor covariante debe verificar los siguientes <html:strong>axiomas de funtorialidad</html:strong>:
+<html:ul><html:li>Para cualquier pareja de morfismos <fr:tex display="inline"><![CDATA[f,g]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> que pueden componerse, <fr:tex display="block"><![CDATA[Fg\circ  Ff = F(g\circ  f).]]></fr:tex></html:li>
+<html:li>Para cada objecto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, <fr:tex display="inline"><![CDATA[F(1_c) = 1_{Fc}]]></fr:tex>.</html:li></html:ul></html:p>
+            <html:p>Un funtor contravariante <fr:tex display="inline"><![CDATA[F]]></fr:tex> entre <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> y <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> es un funtor <fr:tex display="inline"><![CDATA[F\colon \mathsf {C}^{op}\rightarrow \mathsf {D}]]></fr:tex>. Explícitamente, el funtor está definido por: <html:ul><html:li>Un objeto <fr:tex display="inline"><![CDATA[Fc]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> para cada objeto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>.</html:li>
+<html:li>Un morfismo <fr:tex display="inline"><![CDATA[Ff\colon Fc'\rightarrow Fc]]></fr:tex> entre objetos <fr:tex display="inline"><![CDATA[Fc, Fc']]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex>, para cada morfismo <fr:tex display="inline"><![CDATA[f\colon c\rightarrow c']]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>. Notemos como el dominio y codominio de <fr:tex display="inline"><![CDATA[Ff]]></fr:tex> son el resultado de aplicar <fr:tex display="inline"><![CDATA[F]]></fr:tex> al <html:strong>codominio</html:strong> y al <html:strong>dominio</html:strong>, respectivamente (al contrario que para un funtor covariante).</html:li></html:ul>
+
+Además, un funtor contravariante debe verificar los siguientes <html:strong>axiomas de funtorialidad</html:strong>:
+<html:ul><html:li>Para cualquier pareja de morfismos <fr:tex display="inline"><![CDATA[f,g]]></fr:tex> de <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> que pueden componerse, <fr:tex display="block"><![CDATA[Ff\circ  Fg = F(g\circ  f).]]></fr:tex></html:li>
+<html:li>Para cada objecto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, <fr:tex display="inline"><![CDATA[F(1_c) = 1_{Fc}]]></fr:tex>.</html:li></html:ul>
+Un morfismo al que se le aplica un funtor contravariante <fr:tex display="inline"><![CDATA[F\colon \mathsf {C}^{op}\rightarrow \mathsf {D}]]></fr:tex> se representará siempre como un morfismo <fr:tex display="inline"><![CDATA[f\colon c\rightarrow c']]></fr:tex> entre su dominio y codominio en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, no en <fr:tex display="inline"><![CDATA[\mathsf {C}^{op}]]></fr:tex>. Gráficamente: <fr:tex display="block"><![CDATA[f\colon c\rightarrow c', \,\,\, Ff\colon Fc'\rightarrow Fc.]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
