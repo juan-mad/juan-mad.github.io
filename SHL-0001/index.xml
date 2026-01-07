@@ -528,7 +528,8 @@ Para <fr:tex display="inline"><![CDATA[q=0]]></fr:tex> lo definimos como el homo
     <html:li><fr:link href="/VC-000X/" title="Análisis complejo en varias variables" uri="https://juan-mad.github.io/VC-000X/" display-uri="VC-000X" type="local">Varias variables complejas</fr:link></html:li>
     <html:li><fr:link href="/HOTO-000F/" title="Homotopía" uri="https://juan-mad.github.io/HOTO-000F/" display-uri="HOTO-000F" type="local">Homotopía</fr:link></html:li>
     <html:li><fr:link href="/CAT-000H/" title="Teoría de categorías" uri="https://juan-mad.github.io/CAT-000H/" display-uri="CAT-000H" type="local">Teoría de categorías</fr:link></html:li>
-    <html:li><fr:link href="/AG-0001/" title="Variedades" uri="https://juan-mad.github.io/AG-0001/" display-uri="AG-0001" type="local">Geometría algebraica</fr:link></html:li></html:ul>
+    <html:li><fr:link href="/AG-0001/" title="Variedades" uri="https://juan-mad.github.io/AG-0001/" display-uri="AG-0001" type="local">Geometría algebraica</fr:link></html:li>
+    <html:li><fr:link href="/ANGEOM-0001/" title="Geometría analítica compleja" uri="https://juan-mad.github.io/ANGEOM-0001/" display-uri="ANGEOM-0001" type="local">Geometría analítica</fr:link></html:li></html:ul>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>

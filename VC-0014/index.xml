@@ -393,7 +393,7 @@ En ese caso se determina una función continua <fr:tex display="inline"><![CDATA
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sea <fr:tex display="inline"><![CDATA[f\in \mathscr  H(U)]]></fr:tex> y <fr:tex display="inline"><![CDATA[z_0\in  U]]></fr:tex>. Decimos que <fr:tex display="inline"><![CDATA[f]]></fr:tex> es <html:em>regular de orden <fr:tex display="inline"><![CDATA[k]]></fr:tex></html:em> respecto a la última variable (<fr:tex display="inline"><![CDATA[z_n]]></fr:tex>) en <fr:tex display="inline"><![CDATA[z_0\in  U]]></fr:tex> si <fr:tex display="block"><![CDATA[f(z_0)=\frac {\partial  f}{\partial  z_n}(z_0) = \dots  = \frac {\partial ^{k-1}f}{\partial  z_n^{k-1}}(z_0) = 0, \text { y }\frac {\partial ^kf}{\partial  z_n^k}(z_0)\neq  0.]]></fr:tex> Equivalentemente, <fr:tex display="block"><![CDATA[a_{(0,\dots ,0)} = a_{(0,\dots ,1)} = \cdots  = a_{(0,\dots ,k-1)} = 0, \text { y } a_{(0,\dots ,k)}\neq  0.]]></fr:tex></html:p>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[f\in \mathscr  H(U)]]></fr:tex> y <fr:tex display="inline"><![CDATA[z_0\in  U]]></fr:tex>. Decimos que <fr:tex display="inline"><![CDATA[f]]></fr:tex> es <html:em>regular de orden <fr:tex display="inline"><![CDATA[k]]></fr:tex></html:em> respecto a la última variable, <fr:tex display="inline"><![CDATA[z_n]]></fr:tex>, en <fr:tex display="inline"><![CDATA[z_0\in  U]]></fr:tex> si <fr:tex display="block"><![CDATA[f(z_0)=\frac {\partial  f}{\partial  z_n}(z_0) = \dots  = \frac {\partial ^{k-1}f}{\partial  z_n^{k-1}}(z_0) = 0, \text { y }\frac {\partial ^kf}{\partial  z_n^k}(z_0)\neq  0.]]></fr:tex> Equivalentemente, <fr:tex display="block"><![CDATA[a_{(0,\dots ,0)} = a_{(0,\dots ,1)} = \cdots  = a_{(0,\dots ,k-1)} = 0, \text { y } a_{(0,\dots ,k)}\neq  0.]]></fr:tex></html:p>
                 <html:p>Existen funciones que no son regulares respecto a ninguna variable, como <fr:tex display="inline"><![CDATA[f(z_1,z_2) = z_1z_2]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
@@ -413,7 +413,7 @@ En ese caso se determina una función continua <fr:tex display="inline"><![CDATA
                 <fr:uri>https://juan-mad.github.io/VC-0019/</fr:uri>
                 <fr:display-uri>VC-0019</fr:display-uri>
                 <fr:route>/VC-0019/</fr:route>
-                <fr:title text="Relación entre orden de de un punto y regularidad de cierto orden">Relación entre orden de de un punto y regularidad de cierto orden</fr:title>
+                <fr:title text="Relación entre orden de un punto y regularidad de cierto orden">Relación entre orden de un punto y regularidad de cierto orden</fr:title>
                 <fr:taxon>Proposición</fr:taxon>
               </fr:frontmatter>
               <fr:mainmatter>
@@ -494,7 +494,7 @@ En ese caso se determina una función continua <fr:tex display="inline"><![CDATA
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex> un abierto conexo y sea <fr:tex display="inline"><![CDATA[X\subset  U]]></fr:tex>. Se dice que <fr:tex display="inline"><![CDATA[X]]></fr:tex> es <html:em>delgado</html:em> (o "thin", en inglés) si para todo <fr:tex display="inline"><![CDATA[w\in  U]]></fr:tex> existe un polidisco <fr:tex display="inline"><![CDATA[\Delta (w,r)]]></fr:tex> y <fr:tex display="inline"><![CDATA[g_w\in \mathscr  H(\Delta (w,r)), g_w\not \equiv  0]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[X\cap \Delta (w,r)\subset  Z(g)]]></fr:tex>. Es decir, para todo punto <fr:tex display="inline"><![CDATA[w]]></fr:tex> de <fr:tex display="inline"><![CDATA[U]]></fr:tex> existe un polidisco en <fr:tex display="inline"><![CDATA[U]]></fr:tex> y una función no idénticamente nula que sen anula en <fr:tex display="inline"><![CDATA[X\cap \Delta (w,r)]]></fr:tex>.</html:p>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex> un abierto conexo y sea <fr:tex display="inline"><![CDATA[X\subset  U]]></fr:tex>. Se dice que <fr:tex display="inline"><![CDATA[X]]></fr:tex> es <html:em>delgado</html:em> (o "thin", en inglés) si para todo <fr:tex display="inline"><![CDATA[w\in  U]]></fr:tex> existe un polidisco <fr:tex display="inline"><![CDATA[\Delta (w,r)]]></fr:tex> y <fr:tex display="inline"><![CDATA[g_w\in \mathscr  H(\Delta (w,r)), g_w\not \equiv  0]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[X\cap \Delta (w,r)\subset  Z(g)]]></fr:tex>. Es decir, para todo punto <fr:tex display="inline"><![CDATA[w]]></fr:tex> de <fr:tex display="inline"><![CDATA[U]]></fr:tex> existe un polidisco en <fr:tex display="inline"><![CDATA[U]]></fr:tex> y una función no idénticamente nula que se anula en <fr:tex display="inline"><![CDATA[X\cap \Delta (w,r)]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">

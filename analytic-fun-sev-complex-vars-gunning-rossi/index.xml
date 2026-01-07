@@ -48,6 +48,174 @@
             </fr:authors>
             <fr:date>
               <fr:year>2025</fr:year>
+              <fr:month>12</fr:month>
+              <fr:day>27</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-0007.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-0007/</fr:uri>
+            <fr:display-uri>ANGEOM-0007</fr:display-uri>
+            <fr:route>/ANGEOM-0007/</fr:route>
+            <fr:title text="Teorema de División de Weierstrass">Teorema de División de Weierstrass</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[\mathbf {h}\in {}_{n-1}\mathcal  O[z_n]]]></fr:tex> un <fr:link href="/ANGEOM-0005/" title="Polinomio de Weierstrass" uri="https://juan-mad.github.io/ANGEOM-0005/" display-uri="ANGEOM-0005" type="local">polinomio de Weierstrass</fr:link> en <fr:tex display="inline"><![CDATA[z_n]]></fr:tex> de grado <fr:tex display="inline"><![CDATA[k]]></fr:tex>. Entonces cualquier <fr:tex display="inline"><![CDATA[\mathbf {f}\in {}_{n}\mathcal  O]]></fr:tex> puede escribirse de forma única de la forma <fr:tex display="block"><![CDATA[\mathbf {f} = \mathbf {g}\cdot \mathbf {h} + \mathbf {r}]]></fr:tex> donde <fr:tex display="inline"><![CDATA[\mathbf {g}\in {}_{n}\mathcal  O]]></fr:tex> y <fr:tex display="inline"><![CDATA[\mathbf {r}\in {}_{n-1}\mathcal  O[z_n]]]></fr:tex> es un polinomio de grado <fr:tex display="inline"><![CDATA[<k]]></fr:tex>. Además, si <fr:tex display="inline"><![CDATA[\mathbf {f}\in {}_{n-1}\mathcal  O[z_n]]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[\mathbf {g}\in {}_{n-1}\mathcal  O[z_n]]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>12</fr:month>
+              <fr:day>27</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-0006.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-0006/</fr:uri>
+            <fr:display-uri>ANGEOM-0006</fr:display-uri>
+            <fr:route>/ANGEOM-0006/</fr:route>
+            <fr:title text="Teorema de Preparación de Weierstrass">Teorema de Preparación de Weierstrass</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+            <fr:meta name="related">
+              <fr:link href="/ANGEOM-0003/" title="Anillo de gérmenes de función holomorfa" uri="https://juan-mad.github.io/ANGEOM-0003/" display-uri="ANGEOM-0003" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Si <fr:tex display="inline"><![CDATA[\mathbf {f}\in {}_{n}\mathcal  O]]></fr:tex> es <fr:link href="/VC-0018/" title="Función holomorfa regular de cierto orden" uri="https://juan-mad.github.io/VC-0018/" display-uri="VC-0018" type="local">regular de orden <fr:tex display="inline"><![CDATA[k]]></fr:tex> en <fr:tex display="inline"><![CDATA[z_n]]></fr:tex></fr:link>, entonces existe un único <fr:link href="/ANGEOM-0005/" title="Polinomio de Weierstrass" uri="https://juan-mad.github.io/ANGEOM-0005/" display-uri="ANGEOM-0005" type="local">polinomio de Weierstrass</fr:link> <fr:tex display="inline"><![CDATA[\mathbf {h}\in {}_{n-1}\mathcal  O[z_n]]]></fr:tex> de grado <fr:tex display="inline"><![CDATA[k]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[\mathbf {f} = \mathbf {uh}]]></fr:tex> para alguna unidad <fr:tex display="inline"><![CDATA[\mathbf {u}\in {}_{n}\mathcal  O]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>12</fr:month>
+              <fr:day>27</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-0005.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-0005/</fr:uri>
+            <fr:display-uri>ANGEOM-0005</fr:display-uri>
+            <fr:route>/ANGEOM-0005/</fr:route>
+            <fr:title text="Polinomio de Weierstrass">Polinomio de Weierstrass</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+            <fr:meta name="related">
+              <fr:link href="/ANGEOM-0003/" title="Anillo de gérmenes de función holomorfa" uri="https://juan-mad.github.io/ANGEOM-0003/" display-uri="ANGEOM-0003" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un <html:em>polinomio de Weierstrass</html:em> de grado <fr:tex display="inline"><![CDATA[k>0]]></fr:tex> en la última variable <fr:tex display="inline"><![CDATA[z_n]]></fr:tex> es un elemento <fr:tex display="inline"><![CDATA[\mathbf {h}\in {}_{n-1}\mathcal  O[z_n]]]></fr:tex> de la forma <fr:tex display="block"><![CDATA[\mathbf {h} = z_n^k + \mathbf {a}_1z_n^{k-1} + \cdots  + \mathbf {a}_{k-1}z_n + \mathbf {a}_k,]]></fr:tex> donde los coeficientes <fr:tex display="inline"><![CDATA[\mathbf {a}_j\in {}_{n-1}\mathcal  O]]></fr:tex> son no unidades, <fr:tex display="inline"><![CDATA[j=1,\dots ,n]]></fr:tex>.</html:p>
+            <html:p>Tomando representantes, tenemos que <fr:tex display="inline"><![CDATA[h(0,\dots ,0,z_n)=z_n^k]]></fr:tex> y <fr:tex display="inline"><![CDATA[h]]></fr:tex> es regular en <fr:tex display="inline"><![CDATA[z_n]]></fr:tex> de orden <fr:tex display="inline"><![CDATA[k]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>12</fr:month>
+              <fr:day>27</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-0004.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-0004/</fr:uri>
+            <fr:display-uri>ANGEOM-0004</fr:display-uri>
+            <fr:route>/ANGEOM-0004/</fr:route>
+            <fr:title text="Isomorfía entre anillo de gérmenes de función holomorfa y de series convergentes">Isomorfía entre anillo de gérmenes de función holomorfa y de series convergentes</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>El <fr:link href="/ANGEOM-0003/" title="Anillo de gérmenes de función holomorfa" uri="https://juan-mad.github.io/ANGEOM-0003/" display-uri="ANGEOM-0003" type="local">anillo <fr:tex display="inline"><![CDATA[{}_n\mathcal  O_w]]></fr:tex> de gérmenes de función holomorfa</fr:link> en el punto <fr:tex display="inline"><![CDATA[w\in \mathbb  C^n]]></fr:tex> es isomorfa al anillo de series de potencias convergentes centradas en <fr:tex display="inline"><![CDATA[w]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>12</fr:month>
+              <fr:day>27</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-0003.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-0003/</fr:uri>
+            <fr:display-uri>ANGEOM-0003</fr:display-uri>
+            <fr:route>/ANGEOM-0003/</fr:route>
+            <fr:title text="Anillo de gérmenes de función holomorfa">Anillo de gérmenes de función holomorfa</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Denotamos por <fr:tex display="inline"><![CDATA[\mathcal  O = {}_n\mathcal  O = {}_n\mathcal  O_0=\mathcal  O_0]]></fr:tex> el anillo de gérmenes de función holomorfa en <fr:tex display="inline"><![CDATA[0=(0,\dots ,0)\in \mathbb  C^n]]></fr:tex>. Cuando sea evidente, se puede suprimir la referencia al punto base o a la dimensión <fr:tex display="inline"><![CDATA[n]]></fr:tex>.</html:p>
+            <html:p>Algunas propiedades de este anillo <fr:tex display="inline"><![CDATA[{}_n\mathcal  O]]></fr:tex> son: <html:ul><html:li>Es un dominio de integridad.</html:li>
+<html:li>Las unidades de <fr:tex display="inline"><![CDATA[{}_n\mathcal  O]]></fr:tex> son precisamente los gérmenes de función que no se anulan en <fr:tex display="inline"><![CDATA[0]]></fr:tex>.</html:li>
+<html:li>Es un anillo local, y el único ideal maximal está formado por todas las unidades.</html:li>
+<html:li>Es un dominio de factorización única.</html:li>
+<html:li>Es un anillo noetheriano.</html:li></html:ul></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>12</fr:month>
+              <fr:day>27</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-0002.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-0002/</fr:uri>
+            <fr:display-uri>ANGEOM-0002</fr:display-uri>
+            <fr:route>/ANGEOM-0002/</fr:route>
+            <fr:title text="Germen de función">Germen de función</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[w\in \mathbb  C^n]]></fr:tex>. Si <fr:tex display="inline"><![CDATA[U,V\subset \mathbb  C^n]]></fr:tex> son dos entornos de <fr:tex display="inline"><![CDATA[w]]></fr:tex>, decimos que <fr:tex display="inline"><![CDATA[f\colon U\rightarrow \mathbb  C]]></fr:tex> y <fr:tex display="inline"><![CDATA[g\colon V\rightarrow \mathbb  C]]></fr:tex> son <html:em>equivalentes en el punto <fr:tex display="inline"><![CDATA[w]]></fr:tex></html:em> si existe un entorno <fr:tex display="inline"><![CDATA[W\ni  w]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[W\subset  U\cap  V]]></fr:tex> y <fr:tex display="inline"><![CDATA[f\vert _W = g\vert _W]]></fr:tex>. Esta relación es de equivalencia, y una clase de equivalencia recibe el nombre de <html:em>germen de función en <fr:tex display="inline"><![CDATA[w]]></fr:tex></html:em>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
               <fr:month>10</fr:month>
               <fr:day>4</fr:day>
             </fr:date>
@@ -227,7 +395,7 @@
             </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex> un abierto conexo y sea <fr:tex display="inline"><![CDATA[X\subset  U]]></fr:tex>. Se dice que <fr:tex display="inline"><![CDATA[X]]></fr:tex> es <html:em>delgado</html:em> (o "thin", en inglés) si para todo <fr:tex display="inline"><![CDATA[w\in  U]]></fr:tex> existe un polidisco <fr:tex display="inline"><![CDATA[\Delta (w,r)]]></fr:tex> y <fr:tex display="inline"><![CDATA[g_w\in \mathscr  H(\Delta (w,r)), g_w\not \equiv  0]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[X\cap \Delta (w,r)\subset  Z(g)]]></fr:tex>. Es decir, para todo punto <fr:tex display="inline"><![CDATA[w]]></fr:tex> de <fr:tex display="inline"><![CDATA[U]]></fr:tex> existe un polidisco en <fr:tex display="inline"><![CDATA[U]]></fr:tex> y una función no idénticamente nula que sen anula en <fr:tex display="inline"><![CDATA[X\cap \Delta (w,r)]]></fr:tex>.</html:p>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex> un abierto conexo y sea <fr:tex display="inline"><![CDATA[X\subset  U]]></fr:tex>. Se dice que <fr:tex display="inline"><![CDATA[X]]></fr:tex> es <html:em>delgado</html:em> (o "thin", en inglés) si para todo <fr:tex display="inline"><![CDATA[w\in  U]]></fr:tex> existe un polidisco <fr:tex display="inline"><![CDATA[\Delta (w,r)]]></fr:tex> y <fr:tex display="inline"><![CDATA[g_w\in \mathscr  H(\Delta (w,r)), g_w\not \equiv  0]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[X\cap \Delta (w,r)\subset  Z(g)]]></fr:tex>. Es decir, para todo punto <fr:tex display="inline"><![CDATA[w]]></fr:tex> de <fr:tex display="inline"><![CDATA[U]]></fr:tex> existe un polidisco en <fr:tex display="inline"><![CDATA[U]]></fr:tex> y una función no idénticamente nula que se anula en <fr:tex display="inline"><![CDATA[X\cap \Delta (w,r)]]></fr:tex>.</html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -284,7 +452,7 @@
             </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Sea <fr:tex display="inline"><![CDATA[f\in \mathscr  H(U)]]></fr:tex> y <fr:tex display="inline"><![CDATA[z_0\in  U]]></fr:tex>. Decimos que <fr:tex display="inline"><![CDATA[f]]></fr:tex> es <html:em>regular de orden <fr:tex display="inline"><![CDATA[k]]></fr:tex></html:em> respecto a la última variable (<fr:tex display="inline"><![CDATA[z_n]]></fr:tex>) en <fr:tex display="inline"><![CDATA[z_0\in  U]]></fr:tex> si <fr:tex display="block"><![CDATA[f(z_0)=\frac {\partial  f}{\partial  z_n}(z_0) = \dots  = \frac {\partial ^{k-1}f}{\partial  z_n^{k-1}}(z_0) = 0, \text { y }\frac {\partial ^kf}{\partial  z_n^k}(z_0)\neq  0.]]></fr:tex> Equivalentemente, <fr:tex display="block"><![CDATA[a_{(0,\dots ,0)} = a_{(0,\dots ,1)} = \cdots  = a_{(0,\dots ,k-1)} = 0, \text { y } a_{(0,\dots ,k)}\neq  0.]]></fr:tex></html:p>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[f\in \mathscr  H(U)]]></fr:tex> y <fr:tex display="inline"><![CDATA[z_0\in  U]]></fr:tex>. Decimos que <fr:tex display="inline"><![CDATA[f]]></fr:tex> es <html:em>regular de orden <fr:tex display="inline"><![CDATA[k]]></fr:tex></html:em> respecto a la última variable, <fr:tex display="inline"><![CDATA[z_n]]></fr:tex>, en <fr:tex display="inline"><![CDATA[z_0\in  U]]></fr:tex> si <fr:tex display="block"><![CDATA[f(z_0)=\frac {\partial  f}{\partial  z_n}(z_0) = \dots  = \frac {\partial ^{k-1}f}{\partial  z_n^{k-1}}(z_0) = 0, \text { y }\frac {\partial ^kf}{\partial  z_n^k}(z_0)\neq  0.]]></fr:tex> Equivalentemente, <fr:tex display="block"><![CDATA[a_{(0,\dots ,0)} = a_{(0,\dots ,1)} = \cdots  = a_{(0,\dots ,k-1)} = 0, \text { y } a_{(0,\dots ,k)}\neq  0.]]></fr:tex></html:p>
             <html:p>Existen funciones que no son regulares respecto a ninguna variable, como <fr:tex display="inline"><![CDATA[f(z_1,z_2) = z_1z_2]]></fr:tex>.</html:p>
           </fr:mainmatter>
         </fr:tree>

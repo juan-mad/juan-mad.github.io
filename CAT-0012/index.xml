@@ -16,15 +16,15 @@
     <fr:uri>https://juan-mad.github.io/CAT-0012/</fr:uri>
     <fr:display-uri>CAT-0012</fr:display-uri>
     <fr:route>/CAT-0012/</fr:route>
-    <fr:title text="Equivalencia de categor'ias">Equivalencia de categor'ias</fr:title>
-    <fr:taxon>Definici'on</fr:taxon>
+    <fr:title text="Equivalencia de categorías">Equivalencia de categorías</fr:title>
+    <fr:taxon>Definición</fr:taxon>
     <fr:meta name="sources">
       <fr:link href="/category-theory-context-riehl/" title="Category Theory in Context" uri="https://juan-mad.github.io/category-theory-context-riehl/" display-uri="category-theory-context-riehl" type="local" />
     </fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Una <html:em>equivalencia de <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categor'ias</fr:link></html:em> est'a formada por <fr:link href="/CAT-000M/" title="Funtor" uri="https://juan-mad.github.io/CAT-000M/" display-uri="CAT-000M" type="local">funtores</fr:link> <fr:tex display="inline"><![CDATA[F : \mathsf {C} \leftrightarrows  D : G]]></fr:tex> junto con <fr:link href="/CAT-000Q/" title="Transformación natural" uri="https://juan-mad.github.io/CAT-000Q/" display-uri="CAT-000Q" type="local">isomorfismos naturales</fr:link> <fr:tex display="inline"><![CDATA[\eta \colon  1_{\mathsf {C}}\cong  GF, \epsilon \colon  FG\cong  1_{\mathsf {D}}]]></fr:tex>. Las categor'ias <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> son <html:em>equivalentes</html:em>, <fr:tex display="inline"><![CDATA[\mathsf {C}\simeq \mathsf {D}]]></fr:tex>, si existe una equivalencia entre ellas.</html:p>
-    <html:p>Esta es una relaci'on de equivalencia.</html:p>
+    <html:p>Una <html:em>equivalencia de <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categorías</fr:link></html:em> está formada por <fr:link href="/CAT-000M/" title="Funtor" uri="https://juan-mad.github.io/CAT-000M/" display-uri="CAT-000M" type="local">funtores</fr:link> <fr:tex display="inline"><![CDATA[F : \mathsf {C} \leftrightarrows  D : G]]></fr:tex> junto con <fr:link href="/CAT-000Q/" title="Transformación natural" uri="https://juan-mad.github.io/CAT-000Q/" display-uri="CAT-000Q" type="local">isomorfismos naturales</fr:link> <fr:tex display="inline"><![CDATA[\eta \colon  1_{\mathsf {C}}\cong  GF, \epsilon \colon  FG\cong  1_{\mathsf {D}}]]></fr:tex>. Las categorías <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathsf {D}]]></fr:tex> son <html:em>equivalentes</html:em>, <fr:tex display="inline"><![CDATA[\mathsf {C}\simeq \mathsf {D}]]></fr:tex>, si existe una equivalencia entre ellas.</html:p>
+    <html:p>Esta es una relación de equivalencia.</html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
