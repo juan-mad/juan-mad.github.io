@@ -78,6 +78,38 @@ Como consecuencia de este teorema, se tiene que si <fr:tex display="inline"><![C
               </fr:author>
             </fr:authors>
             <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>9</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000M.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-000M/</fr:uri>
+            <fr:display-uri>ANGEOM-000M</fr:display-uri>
+            <fr:route>/ANGEOM-000M/</fr:route>
+            <fr:title text="Propiedades del ideal de un germen de conjunto analítico y del lugar de ceros de una familia de gérmenes de función">Propiedades del ideal de un germen de conjunto analítico y del lugar de ceros de una familia de gérmenes de función</fr:title>
+            <fr:taxon>Proposición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sean <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathbf {Y}]]></fr:tex> dos <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">gérmenes de conjunto analítico</fr:link>, y sean <fr:tex display="inline"><![CDATA[J_1,J_2\subset {}_{n}\mathcal  O]]></fr:tex> dos ideales de <fr:link href="/ANGEOM-0003/" title="Anillo de gérmenes de función holomorfa" uri="https://juan-mad.github.io/ANGEOM-0003/" display-uri="ANGEOM-0003" type="local">gérmenes de función holomorfa</fr:link>. Se tienen las siguientes relaciones: <html:ol><html:li><fr:tex display="inline"><![CDATA[\mathbf {X}\supset  \mathbf {Y}]]></fr:tex> implica que <fr:tex display="inline"><![CDATA[I(\mathbf {X})\subset  I(\mathbf {Y})]]></fr:tex>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[\mathbf {X} \neq  \mathbf {Y}]]></fr:tex> implica que <fr:tex display="inline"><![CDATA[I(\mathbf {X}) \neq  I(\mathbf {Y}).]]></fr:tex></html:li>
+<html:li><fr:tex display="inline"><![CDATA[I(\mathbf {X}) = \operatorname {rad} I(\mathbf {X})]]></fr:tex>, es decir, <fr:tex display="inline"><![CDATA[I(\mathbf {X})]]></fr:tex> es un <fr:link href="/AC-002L/" title="Radical de un ideal e ideal radical" uri="https://juan-mad.github.io/AC-002L/" display-uri="AC-002L" type="local">ideal radical</fr:link>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[J_1\supset  J_2]]></fr:tex> implica <fr:tex display="inline"><![CDATA[V(J_1)\subset  V(J_2)]]></fr:tex>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[V(I(\mathbf {X})) = \mathbf {X}]]></fr:tex>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[V(J_1) = V(\operatorname {rad} J_1)]]></fr:tex>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[I(V(J_1)) = \operatorname {rad} J_1]]></fr:tex> (versión del <fr:link href="/AC-002N/" title="Teorema de los ceros de Hilbert (Nullstellenstaz)" uri="https://juan-mad.github.io/AC-002N/" display-uri="AC-002N" type="local">teorema de los ceros, nullstellensatz</fr:link>).</html:li></html:ol></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
               <fr:year>2025</fr:year>
               <fr:month>11</fr:month>
               <fr:day>5</fr:day>

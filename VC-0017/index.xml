@@ -345,7 +345,7 @@
                 <fr:uri>https://juan-mad.github.io/VC-001D/</fr:uri>
                 <fr:display-uri>VC-001D</fr:display-uri>
                 <fr:route>/VC-001D/</fr:route>
-                <fr:title text="Conjuntos analíticos">Conjuntos analíticos</fr:title>
+                <fr:title text="Conjunto analítico">Conjunto analítico</fr:title>
                 <fr:taxon>Definición</fr:taxon>
                 <fr:meta name="sources">
                   <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
@@ -406,7 +406,7 @@
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Denotamos por <fr:tex display="inline"><![CDATA[\mathcal  O = {}_n\mathcal  O = {}_n\mathcal  O_0=\mathcal  O_0]]></fr:tex> el anillo de gérmenes de función holomorfa en <fr:tex display="inline"><![CDATA[0=(0,\dots ,0)\in \mathbb  C^n]]></fr:tex>. Cuando sea evidente, se puede suprimir la referencia al punto base o a la dimensión <fr:tex display="inline"><![CDATA[n]]></fr:tex>.</html:p>
+                <html:p>Denotamos por <fr:tex display="inline"><![CDATA[\mathcal  O = {}_n\mathcal  O = {}_n\mathcal  O_0=\mathcal  O_0]]></fr:tex> el anillo de <fr:link href="/ANGEOM-0002/" title="Germen de función" uri="https://juan-mad.github.io/ANGEOM-0002/" display-uri="ANGEOM-0002" type="local">gérmenes de función</fr:link> <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">holomorfa</fr:link> en <fr:tex display="inline"><![CDATA[0=(0,\dots ,0)\in \mathbb  C^n]]></fr:tex>. Cuando sea evidente, se puede suprimir la referencia al punto base o a la dimensión <fr:tex display="inline"><![CDATA[n]]></fr:tex>.</html:p>
                 <html:p>Algunas propiedades de este anillo <fr:tex display="inline"><![CDATA[{}_n\mathcal  O]]></fr:tex> son: <html:ul><html:li>Es un dominio de integridad.</html:li>
 <html:li>Las unidades de <fr:tex display="inline"><![CDATA[{}_n\mathcal  O]]></fr:tex> son precisamente los gérmenes de función que no se anulan en <fr:tex display="inline"><![CDATA[0]]></fr:tex>.</html:li>
 <html:li>Es un anillo local, y el único ideal maximal está formado por todas las unidades.</html:li>
@@ -1073,7 +1073,7 @@ En ese caso se determina una función continua <fr:tex display="inline"><![CDATA
                 <fr:uri>https://juan-mad.github.io/VC-001D/</fr:uri>
                 <fr:display-uri>VC-001D</fr:display-uri>
                 <fr:route>/VC-001D/</fr:route>
-                <fr:title text="Conjuntos analíticos">Conjuntos analíticos</fr:title>
+                <fr:title text="Conjunto analítico">Conjunto analítico</fr:title>
                 <fr:taxon>Definición</fr:taxon>
                 <fr:meta name="sources">
                   <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />

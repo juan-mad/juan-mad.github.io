@@ -508,7 +508,7 @@ En ese caso se determina una función continua <fr:tex display="inline"><![CDATA
                 <fr:uri>https://juan-mad.github.io/VC-001D/</fr:uri>
                 <fr:display-uri>VC-001D</fr:display-uri>
                 <fr:route>/VC-001D/</fr:route>
-                <fr:title text="Conjuntos analíticos">Conjuntos analíticos</fr:title>
+                <fr:title text="Conjunto analítico">Conjunto analítico</fr:title>
                 <fr:taxon>Definición</fr:taxon>
                 <fr:meta name="sources">
                   <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />

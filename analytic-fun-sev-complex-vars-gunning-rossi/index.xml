@@ -49,6 +49,711 @@
             <fr:date>
               <fr:year>2026</fr:year>
               <fr:month>1</fr:month>
+              <fr:day>9</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000P.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-000P/</fr:uri>
+            <fr:display-uri>ANGEOM-000P</fr:display-uri>
+            <fr:route>/ANGEOM-000P/</fr:route>
+            <fr:title text="Descomposici'on de un germen de conjunto anal'itico en irreducibles">Descomposici'on de un germen de conjunto anal'itico en irreducibles</fr:title>
+            <fr:taxon>Proposici'on</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto anal'itico</fr:link>. Entonces existe un n'umero finito de  <fr:link href="/ANGEOM-000N/" title="Germen de conjunto anal'itico irreducible" uri="https://juan-mad.github.io/ANGEOM-000N/" display-uri="ANGEOM-000N" type="local">g'ermenes de conjunto anal'itico irreducibles</fr:link> <fr:tex display="inline"><![CDATA[\mathbf {X_1},\dots ,\mathbf {X_s}]]></fr:tex>, determinados de forma 'unica por <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex>, tal que <fr:tex display="block"><![CDATA[\mathbf {X} = \mathbf {X_1}\cup \cdots \cup \mathbf {X_s},]]></fr:tex> y que verifican <fr:tex display="inline"><![CDATA[\mathbf {X_i}\nsubseteq \mathbf {X_j}]]></fr:tex> para <fr:tex display="inline"><![CDATA[i\neq  j]]></fr:tex>. En particular, para todo <fr:tex display="inline"><![CDATA[i=1,\dots ,s]]></fr:tex>, se tiene que <fr:tex display="inline"><![CDATA[\mathbf {X_i}\nsubseteq  \bigcup _{j\neq  i} \mathbf {X_j}]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>9</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000O.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-000O/</fr:uri>
+            <fr:display-uri>ANGEOM-000O</fr:display-uri>
+            <fr:route>/ANGEOM-000O/</fr:route>
+            <fr:title text="Germen de conjunto anal'itico irreducible e ideal primo">Germen de conjunto anal'itico irreducible e ideal primo</fr:title>
+            <fr:taxon>Proposici'on</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto anal'itico</fr:link> <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> es <fr:link href="/ANGEOM-000N/" title="Germen de conjunto anal'itico irreducible" uri="https://juan-mad.github.io/ANGEOM-000N/" display-uri="ANGEOM-000N" type="local">irreducible</fr:link> si y s'olo si su <fr:link href="/ANGEOM-000K/" title="Ideal de un germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000K/" display-uri="ANGEOM-000K" type="local">ideal</fr:link> <fr:tex display="inline"><![CDATA[I(\mathbf {X})]]></fr:tex> es un <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>9</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000N.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-000N/</fr:uri>
+            <fr:display-uri>ANGEOM-000N</fr:display-uri>
+            <fr:route>/ANGEOM-000N/</fr:route>
+            <fr:title text="Germen de conjunto anal'itico irreducible">Germen de conjunto anal'itico irreducible</fr:title>
+            <fr:taxon>Definici'on</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto anal'itico</fr:link>. Se dice que <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> es <html:em>irreducible</html:em> si cada vez que escribamos <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_1}\cup \mathbf {X_2}]]></fr:tex>, con <fr:tex display="inline"><![CDATA[\mathbf {X_1}, \mathbf {X_2}]]></fr:tex> g'ermenes de conjunto anal'itico, entonces o bien <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_1}]]></fr:tex> o <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_2}]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>9</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000M.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-000M/</fr:uri>
+            <fr:display-uri>ANGEOM-000M</fr:display-uri>
+            <fr:route>/ANGEOM-000M/</fr:route>
+            <fr:title text="Propiedades del ideal de un germen de conjunto analítico y del lugar de ceros de una familia de gérmenes de función">Propiedades del ideal de un germen de conjunto analítico y del lugar de ceros de una familia de gérmenes de función</fr:title>
+            <fr:taxon>Proposición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sean <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathbf {Y}]]></fr:tex> dos <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">gérmenes de conjunto analítico</fr:link>, y sean <fr:tex display="inline"><![CDATA[J_1,J_2\subset {}_{n}\mathcal  O]]></fr:tex> dos ideales de <fr:link href="/ANGEOM-0003/" title="Anillo de gérmenes de función holomorfa" uri="https://juan-mad.github.io/ANGEOM-0003/" display-uri="ANGEOM-0003" type="local">gérmenes de función holomorfa</fr:link>. Se tienen las siguientes relaciones: <html:ol><html:li><fr:tex display="inline"><![CDATA[\mathbf {X}\supset  \mathbf {Y}]]></fr:tex> implica que <fr:tex display="inline"><![CDATA[I(\mathbf {X})\subset  I(\mathbf {Y})]]></fr:tex>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[\mathbf {X} \neq  \mathbf {Y}]]></fr:tex> implica que <fr:tex display="inline"><![CDATA[I(\mathbf {X}) \neq  I(\mathbf {Y}).]]></fr:tex></html:li>
+<html:li><fr:tex display="inline"><![CDATA[I(\mathbf {X}) = \operatorname {rad} I(\mathbf {X})]]></fr:tex>, es decir, <fr:tex display="inline"><![CDATA[I(\mathbf {X})]]></fr:tex> es un <fr:link href="/AC-002L/" title="Radical de un ideal e ideal radical" uri="https://juan-mad.github.io/AC-002L/" display-uri="AC-002L" type="local">ideal radical</fr:link>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[J_1\supset  J_2]]></fr:tex> implica <fr:tex display="inline"><![CDATA[V(J_1)\subset  V(J_2)]]></fr:tex>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[V(I(\mathbf {X})) = \mathbf {X}]]></fr:tex>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[V(J_1) = V(\operatorname {rad} J_1)]]></fr:tex>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[I(V(J_1)) = \operatorname {rad} J_1]]></fr:tex> (versión del <fr:link href="/AC-002N/" title="Teorema de los ceros de Hilbert (Nullstellenstaz)" uri="https://juan-mad.github.io/AC-002N/" display-uri="AC-002N" type="local">teorema de los ceros, nullstellensatz</fr:link>).</html:li></html:ol></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>9</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000L.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-000L/</fr:uri>
+            <fr:display-uri>ANGEOM-000L</fr:display-uri>
+            <fr:route>/ANGEOM-000L/</fr:route>
+            <fr:title text="Locus o lugar de ceros de una familia de gérmenes">Locus o lugar de ceros de una familia de gérmenes</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+            <fr:meta name="related">
+              <fr:link href="/ANGEOM-000H/" title="Germen de función que se anula en un germen de conjunto" uri="https://juan-mad.github.io/ANGEOM-000H/" display-uri="ANGEOM-000H" type="local" />
+            </fr:meta>
+            <fr:meta name="related">
+              <fr:link href="/ANGEOM-0003/" title="Anillo de gérmenes de función holomorfa" uri="https://juan-mad.github.io/ANGEOM-0003/" display-uri="ANGEOM-0003" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[A\subset {}_{n}\mathcal  O]]></fr:tex> un subconjunto de <fr:link href="/ANGEOM-0003/" title="Anillo de gérmenes de función holomorfa" uri="https://juan-mad.github.io/ANGEOM-0003/" display-uri="ANGEOM-0003" type="local">gérmenes de función holomorfa</fr:link>. Se define el <html:em>locus o lugar de ceros de <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em> como <fr:tex display="block"><![CDATA[V(A) = \bigcap _{\mathbf {f}\in  A}\mathbf {V(f)}.]]></fr:tex> Este conjunto es de hecho un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto analítico</fr:link>, gracias al hecho de que <fr:tex display="inline"><![CDATA[{}_{n}\mathcal  O]]></fr:tex> es un <fr:link href="/ANGEOM-0003/" title="Anillo de gérmenes de función holomorfa" uri="https://juan-mad.github.io/ANGEOM-0003/" display-uri="ANGEOM-0003" type="local">anillo noetheriano</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>9</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000K.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-000K/</fr:uri>
+            <fr:display-uri>ANGEOM-000K</fr:display-uri>
+            <fr:route>/ANGEOM-000K/</fr:route>
+            <fr:title text="Ideal de un germen de conjunto analítico">Ideal de un germen de conjunto analítico</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+            <fr:meta name="related">
+              <fr:link href="/ANGEOM-000H/" title="Germen de función que se anula en un germen de conjunto" uri="https://juan-mad.github.io/ANGEOM-000H/" display-uri="ANGEOM-000H" type="local" />
+            </fr:meta>
+            <fr:meta name="related">
+              <fr:link href="/ANGEOM-0003/" title="Anillo de gérmenes de función holomorfa" uri="https://juan-mad.github.io/ANGEOM-0003/" display-uri="ANGEOM-0003" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[\mathbf {V}]]></fr:tex> un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto analítico</fr:link>. Se define el <html:em>ideal de <fr:tex display="inline"><![CDATA[\mathbf {V}]]></fr:tex></html:em> como el conjunto <fr:tex display="block"><![CDATA[I(\mathbf {V}) = \{ \mathbf {f}\in {}_{n}\mathcal  O : \mathbf {f}\text { se anula en }\mathbf {V} \}.]]></fr:tex> Este conjunto es de hecho un ideal de <fr:tex display="inline"><![CDATA[{}_{n}\mathcal  O]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>9</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000J.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-000J/</fr:uri>
+            <fr:display-uri>ANGEOM-000J</fr:display-uri>
+            <fr:route>/ANGEOM-000J/</fr:route>
+            <fr:title text="Unión e intersección de gérmenes de conjunto analítico">Unión e intersección de gérmenes de conjunto analítico</fr:title>
+            <fr:taxon>Proposición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sean <fr:tex display="inline"><![CDATA[\mathbf {V}]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathbf {W}]]></fr:tex> <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">gérmenes de conjunto analítico</fr:link>. Entonces <fr:tex display="inline"><![CDATA[\mathbf {V}\cap \mathbf {W}]]></fr:tex> y <fr:tex display="inline"><![CDATA[\mathbf {V}\cup \mathbf {W}]]></fr:tex> también son gérmenes de conjunto analítico.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>9</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000I.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-000I/</fr:uri>
+            <fr:display-uri>ANGEOM-000I</fr:display-uri>
+            <fr:route>/ANGEOM-000I/</fr:route>
+            <fr:title text="Germen de conjunto analítico">Germen de conjunto analítico</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+            <fr:meta name="related">
+              <fr:link href="/ANGEOM-0003/" title="Anillo de gérmenes de función holomorfa" uri="https://juan-mad.github.io/ANGEOM-0003/" display-uri="ANGEOM-0003" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un <fr:link href="/ANGEOM-000G/" title="Germen de conjunto" uri="https://juan-mad.github.io/ANGEOM-000G/" display-uri="ANGEOM-000G" type="local">germen</fr:link> <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> se dice que es el <html:em>germen de un <fr:link href="/VC-001D/" title="Conjunto analítico" uri="https://juan-mad.github.io/VC-001D/" display-uri="VC-001D" type="local">conjunto analítico</fr:link></html:em> si existen <fr:tex display="inline"><![CDATA[\mathbf {f_1},\dots ,\mathbf {f_t}\subset {}_{n}\mathcal  O]]></fr:tex> tal que <fr:tex display="block"><![CDATA[\mathbf {X} = \mathbf {V(f_1)}\cap \cdots \cap \mathbf {V(f_t)}.]]></fr:tex></html:p>
+            <html:p>Denotaremos <fr:tex display="block"><![CDATA[\mathbf {V(f_1)}\cap \cdots \cap \mathbf {V(f_t)} = \mathbf {V(f_1,\dots ,f_t)} = \{ \mathbf {f_1}=0,\dots ,\mathbf {f_t}=0 \}.]]></fr:tex></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>9</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000H.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-000H/</fr:uri>
+            <fr:display-uri>ANGEOM-000H</fr:display-uri>
+            <fr:route>/ANGEOM-000H/</fr:route>
+            <fr:title text="Germen de función que se anula en un germen de conjunto">Germen de función que se anula en un germen de conjunto</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[\mathbf  f\in {}_{n}\mathcal  O]]></fr:tex> un <fr:link href="/ANGEOM-000H/" title="Germen de función que se anula en un germen de conjunto" uri="https://juan-mad.github.io/ANGEOM-000H/" display-uri="ANGEOM-000H" type="local">germen de función holomorfa</fr:link> y sea <fr:tex display="inline"><![CDATA[\mathbf  X]]></fr:tex> un <fr:link href="/ANGEOM-000G/" title="Germen de conjunto" uri="https://juan-mad.github.io/ANGEOM-000G/" display-uri="ANGEOM-000G" type="local">germen de conjunto</fr:link>. Decimos que <html:em><fr:tex display="inline"><![CDATA[\mathbf  f]]></fr:tex> se anula en <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex></html:em> si <fr:tex display="inline"><![CDATA[\mathbf  X\subset \mathbf {V(f)}]]></fr:tex>. Por <fr:tex display="inline"><![CDATA[\mathbf {V(f)}]]></fr:tex> entendemos el germen del conjunto (la clase de equivalencia de) <fr:tex display="inline"><![CDATA[\{x\in  U : f(x) = 0\}]]></fr:tex> para un dominio  <fr:tex display="inline"><![CDATA[U]]></fr:tex>. Esto se traduce en lo siguiente: <html:ul><html:li>Existe un entorno <fr:tex display="inline"><![CDATA[U\ni  0]]></fr:tex>,</html:li>
+<html:li>Existe un conjunto <fr:tex display="inline"><![CDATA[X\subset  U]]></fr:tex> representante de <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex>,</html:li>
+<html:li>Existe una función <fr:tex display="inline"><![CDATA[f\colon U\rightarrow \mathbb  C]]></fr:tex> representante de <fr:tex display="inline"><![CDATA[\mathbf  f]]></fr:tex>,</html:li>
+<html:li><fr:tex display="inline"><![CDATA[X\subset  V(f)=Z(f)=\{x\in  U : f(x) = 0\}]]></fr:tex>.</html:li></html:ul></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>9</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000G.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-000G/</fr:uri>
+            <fr:display-uri>ANGEOM-000G</fr:display-uri>
+            <fr:route>/ANGEOM-000G/</fr:route>
+            <fr:title text="Germen de conjunto">Germen de conjunto</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sean <fr:tex display="inline"><![CDATA[X, Y\subset \mathbb  C^n]]></fr:tex> subconjuntos. Se dice que <html:em><fr:tex display="inline"><![CDATA[X]]></fr:tex> e <fr:tex display="inline"><![CDATA[Y]]></fr:tex> son equivalentes en <fr:tex display="inline"><![CDATA[0]]></fr:tex></html:em> si existe un entorno <fr:tex display="inline"><![CDATA[U\ni  0]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[X\cap  U = Y\cap  U]]></fr:tex>. Una clase de equivalencia de conjuntos recibe el nombre de <html:em>germen de conjunto</html:em>. La clase del conjunto <fr:tex display="inline"><![CDATA[X]]></fr:tex> suele denotarse como <fr:tex display="inline"><![CDATA[\mathbf  X]]></fr:tex>.</html:p>
+            <html:p>Si <fr:tex display="inline"><![CDATA[\mathbf {X_1}, \mathbf {X_2}]]></fr:tex> son dos gérmenes de conjunto, los gérmenes <fr:tex display="inline"><![CDATA[\mathbf {X_1}\cup \mathbf {X_2}, \mathbf {X_1}\cap \mathbf {X_2}, \mathbf {X_1}\setminus \mathbf {X_2}]]></fr:tex> están bien definidos, así como la relación <fr:tex display="inline"><![CDATA[\mathbf {X_1}\subset \mathbf {X_2}]]></fr:tex>. Por ejemplo, <fr:tex display="inline"><![CDATA[\mathbf {X_1}\cup \mathbf {X_2}]]></fr:tex> es la clase de equivalencia de los conjuntos <fr:tex display="inline"><![CDATA[X_1\cup  X_2]]></fr:tex> cuando <fr:tex display="inline"><![CDATA[X_1]]></fr:tex> y <fr:tex display="inline"><![CDATA[X_2]]></fr:tex> recorren las clases de equivalencia <fr:tex display="inline"><![CDATA[\mathbf {X_1}]]></fr:tex> y <fr:tex display="inline"><![CDATA[\mathbf {X_2}]]></fr:tex>, respectivamente.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>9</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000F.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-000F/</fr:uri>
+            <fr:display-uri>ANGEOM-000F</fr:display-uri>
+            <fr:route>/ANGEOM-000F/</fr:route>
+            <fr:title text="Lugar de ceros de una familia de funciones holomorfas es un conjunto analítico">Lugar de ceros de una familia de funciones holomorfas es un conjunto analítico</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[F\subset ]]></fr:tex> una familia de <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">funciones holomorfas</fr:link> en un abierto <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex>. Entonces <fr:tex display="block"><![CDATA[V(F) = \{ x\in  U : f(x) = 0 \,\,\forall  f\in  F\}]]></fr:tex> es un <fr:link href="/VC-001D/" title="Conjunto analítico" uri="https://juan-mad.github.io/VC-001D/" display-uri="VC-001D" type="local">conjunto analítico</fr:link> de <fr:tex display="inline"><![CDATA[U]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>9</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000E.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-000E/</fr:uri>
+            <fr:display-uri>ANGEOM-000E</fr:display-uri>
+            <fr:route>/ANGEOM-000E/</fr:route>
+            <fr:title text="Gérmenes de variedades">Gérmenes de variedades</fr:title>
+            <fr:taxon>Tema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Recordemos algunas definiciones:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>7</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000D.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/ANGEOM-000D/</fr:uri>
+                <fr:display-uri>ANGEOM-000D</fr:display-uri>
+                <fr:route>/ANGEOM-000D/</fr:route>
+                <fr:title text="Complex manifold de \mathbb  C^n"><html:em>Complex manifold</html:em> de <fr:tex display="inline"><![CDATA[\mathbb  C^n]]></fr:tex></fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un conjunto <fr:tex display="inline"><![CDATA[M\subset \mathbb  C^n]]></fr:tex> es una <html:em>complex (sub)manifold</html:em> de <fr:tex display="inline"><![CDATA[\mathbb  C^n]]></fr:tex> de dimensión <fr:tex display="inline"><![CDATA[m]]></fr:tex> si para todo <fr:tex display="inline"><![CDATA[a\in  M]]></fr:tex> existen <fr:link href="/ANGEOM-000C/" title="Coordenadas analíticas" uri="https://juan-mad.github.io/ANGEOM-000C/" display-uri="ANGEOM-000C" type="local">coordenadas analíticas</fr:link> <fr:tex display="inline"><![CDATA[u=(u_1,\dots ,u_n)]]></fr:tex> en <fr:tex display="inline"><![CDATA[a]]></fr:tex>, definidas en un entorno <fr:tex display="inline"><![CDATA[U_1]]></fr:tex> de <fr:tex display="inline"><![CDATA[a]]></fr:tex> (donde son coordenadas), de forma que <fr:tex display="block"><![CDATA[M\cap  U_1 = \{ p\in  U_1 : u_{m+1}(p) = \cdots  = u_n(p) = 0 \}.]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>10</fr:month>
+                  <fr:day>4</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/compleja/severalvars/VC-001D.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/VC-001D/</fr:uri>
+                <fr:display-uri>VC-001D</fr:display-uri>
+                <fr:route>/VC-001D/</fr:route>
+                <fr:title text="Conjunto analítico">Conjunto analítico</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[U\subset  \mathbb  C^n]]></fr:tex> un abierto. Decimos que un conjunto <fr:tex display="inline"><![CDATA[X\subset  U]]></fr:tex> es un <html:em>conjunto analítico</html:em> si para todo <fr:tex display="inline"><![CDATA[w\in  U]]></fr:tex> existe un entorno <fr:tex display="inline"><![CDATA[\Delta (w,r)\subset  U]]></fr:tex> y un número finito de funciones holomorfas <fr:tex display="inline"><![CDATA[g_1,
+\dots ,g_k\in \mathscr  H(\Delta (w,r))]]></fr:tex> tal que <fr:tex display="block"><![CDATA[X\cap \Delta (w,r) = Z(g_1,\dots ,g_k).]]></fr:tex> En particular, los conjuntos analíticos son <fr:link href="/VC-001C/" title="Conjunto delgado o &quot;thin&quot;" uri="https://juan-mad.github.io/VC-001C/" display-uri="VC-001C" type="local">conjuntos delgados</fr:link>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Fijémonos en la diferencia entre ellas, que es principalmente que en el caso de la <fr:link href="/ANGEOM-000D/" title="Complex manifold de \mathbb  C^n" uri="https://juan-mad.github.io/ANGEOM-000D/" display-uri="ANGEOM-000D" type="local"><html:em>complex manifold</html:em></fr:link> pedimos que las funciones que la definen localmente deben ser <fr:link href="/ANGEOM-000C/" title="Coordenadas analíticas" uri="https://juan-mad.github.io/ANGEOM-000C/" display-uri="ANGEOM-000C" type="local">coordenadas analíticas</fr:link>, pero en general este no tiene por qué ser el caso para los <fr:link href="/VC-001D/" title="Conjunto analítico" uri="https://juan-mad.github.io/VC-001D/" display-uri="VC-001D" type="local">conjuntos (o variedades) analíticos</fr:link>. Es decir, un <html:em>complex manifold</html:em> es un caso particular de conjunto analítico, que a su vez es un <fr:link href="/VC-001C/" title="Conjunto delgado o &quot;thin&quot;" uri="https://juan-mad.github.io/VC-001C/" display-uri="VC-001C" type="local">conjunto delgado</fr:link>.</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>9</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000F.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/ANGEOM-000F/</fr:uri>
+                <fr:display-uri>ANGEOM-000F</fr:display-uri>
+                <fr:route>/ANGEOM-000F/</fr:route>
+                <fr:title text="Lugar de ceros de una familia de funciones holomorfas es un conjunto analítico">Lugar de ceros de una familia de funciones holomorfas es un conjunto analítico</fr:title>
+                <fr:taxon>Teorema</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[F\subset ]]></fr:tex> una familia de <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">funciones holomorfas</fr:link> en un abierto <fr:tex display="inline"><![CDATA[U\subset \mathbb  C^n]]></fr:tex>. Entonces <fr:tex display="block"><![CDATA[V(F) = \{ x\in  U : f(x) = 0 \,\,\forall  f\in  F\}]]></fr:tex> es un <fr:link href="/VC-001D/" title="Conjunto analítico" uri="https://juan-mad.github.io/VC-001D/" display-uri="VC-001D" type="local">conjunto analítico</fr:link> de <fr:tex display="inline"><![CDATA[U]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>La noción de conjunto analítico tiene una versión local, definida de la siguiente forma:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>9</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000G.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/ANGEOM-000G/</fr:uri>
+                <fr:display-uri>ANGEOM-000G</fr:display-uri>
+                <fr:route>/ANGEOM-000G/</fr:route>
+                <fr:title text="Germen de conjunto">Germen de conjunto</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[X, Y\subset \mathbb  C^n]]></fr:tex> subconjuntos. Se dice que <html:em><fr:tex display="inline"><![CDATA[X]]></fr:tex> e <fr:tex display="inline"><![CDATA[Y]]></fr:tex> son equivalentes en <fr:tex display="inline"><![CDATA[0]]></fr:tex></html:em> si existe un entorno <fr:tex display="inline"><![CDATA[U\ni  0]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[X\cap  U = Y\cap  U]]></fr:tex>. Una clase de equivalencia de conjuntos recibe el nombre de <html:em>germen de conjunto</html:em>. La clase del conjunto <fr:tex display="inline"><![CDATA[X]]></fr:tex> suele denotarse como <fr:tex display="inline"><![CDATA[\mathbf  X]]></fr:tex>.</html:p>
+                <html:p>Si <fr:tex display="inline"><![CDATA[\mathbf {X_1}, \mathbf {X_2}]]></fr:tex> son dos gérmenes de conjunto, los gérmenes <fr:tex display="inline"><![CDATA[\mathbf {X_1}\cup \mathbf {X_2}, \mathbf {X_1}\cap \mathbf {X_2}, \mathbf {X_1}\setminus \mathbf {X_2}]]></fr:tex> están bien definidos, así como la relación <fr:tex display="inline"><![CDATA[\mathbf {X_1}\subset \mathbf {X_2}]]></fr:tex>. Por ejemplo, <fr:tex display="inline"><![CDATA[\mathbf {X_1}\cup \mathbf {X_2}]]></fr:tex> es la clase de equivalencia de los conjuntos <fr:tex display="inline"><![CDATA[X_1\cup  X_2]]></fr:tex> cuando <fr:tex display="inline"><![CDATA[X_1]]></fr:tex> y <fr:tex display="inline"><![CDATA[X_2]]></fr:tex> recorren las clases de equivalencia <fr:tex display="inline"><![CDATA[\mathbf {X_1}]]></fr:tex> y <fr:tex display="inline"><![CDATA[\mathbf {X_2}]]></fr:tex>, respectivamente.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>9</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000H.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/ANGEOM-000H/</fr:uri>
+                <fr:display-uri>ANGEOM-000H</fr:display-uri>
+                <fr:route>/ANGEOM-000H/</fr:route>
+                <fr:title text="Germen de función que se anula en un germen de conjunto">Germen de función que se anula en un germen de conjunto</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[\mathbf  f\in {}_{n}\mathcal  O]]></fr:tex> un <fr:link href="/ANGEOM-000H/" title="Germen de función que se anula en un germen de conjunto" uri="https://juan-mad.github.io/ANGEOM-000H/" display-uri="ANGEOM-000H" type="local">germen de función holomorfa</fr:link> y sea <fr:tex display="inline"><![CDATA[\mathbf  X]]></fr:tex> un <fr:link href="/ANGEOM-000G/" title="Germen de conjunto" uri="https://juan-mad.github.io/ANGEOM-000G/" display-uri="ANGEOM-000G" type="local">germen de conjunto</fr:link>. Decimos que <html:em><fr:tex display="inline"><![CDATA[\mathbf  f]]></fr:tex> se anula en <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex></html:em> si <fr:tex display="inline"><![CDATA[\mathbf  X\subset \mathbf {V(f)}]]></fr:tex>. Por <fr:tex display="inline"><![CDATA[\mathbf {V(f)}]]></fr:tex> entendemos el germen del conjunto (la clase de equivalencia de) <fr:tex display="inline"><![CDATA[\{x\in  U : f(x) = 0\}]]></fr:tex> para un dominio  <fr:tex display="inline"><![CDATA[U]]></fr:tex>. Esto se traduce en lo siguiente: <html:ul><html:li>Existe un entorno <fr:tex display="inline"><![CDATA[U\ni  0]]></fr:tex>,</html:li>
+<html:li>Existe un conjunto <fr:tex display="inline"><![CDATA[X\subset  U]]></fr:tex> representante de <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex>,</html:li>
+<html:li>Existe una función <fr:tex display="inline"><![CDATA[f\colon U\rightarrow \mathbb  C]]></fr:tex> representante de <fr:tex display="inline"><![CDATA[\mathbf  f]]></fr:tex>,</html:li>
+<html:li><fr:tex display="inline"><![CDATA[X\subset  V(f)=Z(f)=\{x\in  U : f(x) = 0\}]]></fr:tex>.</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>9</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000I.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/ANGEOM-000I/</fr:uri>
+                <fr:display-uri>ANGEOM-000I</fr:display-uri>
+                <fr:route>/ANGEOM-000I/</fr:route>
+                <fr:title text="Germen de conjunto analítico">Germen de conjunto analítico</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+                <fr:meta name="related">
+                  <fr:link href="/ANGEOM-0003/" title="Anillo de gérmenes de función holomorfa" uri="https://juan-mad.github.io/ANGEOM-0003/" display-uri="ANGEOM-0003" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un <fr:link href="/ANGEOM-000G/" title="Germen de conjunto" uri="https://juan-mad.github.io/ANGEOM-000G/" display-uri="ANGEOM-000G" type="local">germen</fr:link> <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> se dice que es el <html:em>germen de un <fr:link href="/VC-001D/" title="Conjunto analítico" uri="https://juan-mad.github.io/VC-001D/" display-uri="VC-001D" type="local">conjunto analítico</fr:link></html:em> si existen <fr:tex display="inline"><![CDATA[\mathbf {f_1},\dots ,\mathbf {f_t}\subset {}_{n}\mathcal  O]]></fr:tex> tal que <fr:tex display="block"><![CDATA[\mathbf {X} = \mathbf {V(f_1)}\cap \cdots \cap \mathbf {V(f_t)}.]]></fr:tex></html:p>
+                <html:p>Denotaremos <fr:tex display="block"><![CDATA[\mathbf {V(f_1)}\cap \cdots \cap \mathbf {V(f_t)} = \mathbf {V(f_1,\dots ,f_t)} = \{ \mathbf {f_1}=0,\dots ,\mathbf {f_t}=0 \}.]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>9</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000J.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/ANGEOM-000J/</fr:uri>
+                <fr:display-uri>ANGEOM-000J</fr:display-uri>
+                <fr:route>/ANGEOM-000J/</fr:route>
+                <fr:title text="Unión e intersección de gérmenes de conjunto analítico">Unión e intersección de gérmenes de conjunto analítico</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[\mathbf {V}]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathbf {W}]]></fr:tex> <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">gérmenes de conjunto analítico</fr:link>. Entonces <fr:tex display="inline"><![CDATA[\mathbf {V}\cap \mathbf {W}]]></fr:tex> y <fr:tex display="inline"><![CDATA[\mathbf {V}\cup \mathbf {W}]]></fr:tex> también son gérmenes de conjunto analítico.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>9</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000K.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/ANGEOM-000K/</fr:uri>
+                <fr:display-uri>ANGEOM-000K</fr:display-uri>
+                <fr:route>/ANGEOM-000K/</fr:route>
+                <fr:title text="Ideal de un germen de conjunto analítico">Ideal de un germen de conjunto analítico</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+                <fr:meta name="related">
+                  <fr:link href="/ANGEOM-000H/" title="Germen de función que se anula en un germen de conjunto" uri="https://juan-mad.github.io/ANGEOM-000H/" display-uri="ANGEOM-000H" type="local" />
+                </fr:meta>
+                <fr:meta name="related">
+                  <fr:link href="/ANGEOM-0003/" title="Anillo de gérmenes de función holomorfa" uri="https://juan-mad.github.io/ANGEOM-0003/" display-uri="ANGEOM-0003" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[\mathbf {V}]]></fr:tex> un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto analítico</fr:link>. Se define el <html:em>ideal de <fr:tex display="inline"><![CDATA[\mathbf {V}]]></fr:tex></html:em> como el conjunto <fr:tex display="block"><![CDATA[I(\mathbf {V}) = \{ \mathbf {f}\in {}_{n}\mathcal  O : \mathbf {f}\text { se anula en }\mathbf {V} \}.]]></fr:tex> Este conjunto es de hecho un ideal de <fr:tex display="inline"><![CDATA[{}_{n}\mathcal  O]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>9</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000L.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/ANGEOM-000L/</fr:uri>
+                <fr:display-uri>ANGEOM-000L</fr:display-uri>
+                <fr:route>/ANGEOM-000L/</fr:route>
+                <fr:title text="Locus o lugar de ceros de una familia de gérmenes">Locus o lugar de ceros de una familia de gérmenes</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+                <fr:meta name="related">
+                  <fr:link href="/ANGEOM-000H/" title="Germen de función que se anula en un germen de conjunto" uri="https://juan-mad.github.io/ANGEOM-000H/" display-uri="ANGEOM-000H" type="local" />
+                </fr:meta>
+                <fr:meta name="related">
+                  <fr:link href="/ANGEOM-0003/" title="Anillo de gérmenes de función holomorfa" uri="https://juan-mad.github.io/ANGEOM-0003/" display-uri="ANGEOM-0003" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[A\subset {}_{n}\mathcal  O]]></fr:tex> un subconjunto de <fr:link href="/ANGEOM-0003/" title="Anillo de gérmenes de función holomorfa" uri="https://juan-mad.github.io/ANGEOM-0003/" display-uri="ANGEOM-0003" type="local">gérmenes de función holomorfa</fr:link>. Se define el <html:em>locus o lugar de ceros de <fr:tex display="inline"><![CDATA[A]]></fr:tex></html:em> como <fr:tex display="block"><![CDATA[V(A) = \bigcap _{\mathbf {f}\in  A}\mathbf {V(f)}.]]></fr:tex> Este conjunto es de hecho un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto analítico</fr:link>, gracias al hecho de que <fr:tex display="inline"><![CDATA[{}_{n}\mathcal  O]]></fr:tex> es un <fr:link href="/ANGEOM-0003/" title="Anillo de gérmenes de función holomorfa" uri="https://juan-mad.github.io/ANGEOM-0003/" display-uri="ANGEOM-0003" type="local">anillo noetheriano</fr:link>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>9</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000M.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/ANGEOM-000M/</fr:uri>
+                <fr:display-uri>ANGEOM-000M</fr:display-uri>
+                <fr:route>/ANGEOM-000M/</fr:route>
+                <fr:title text="Propiedades del ideal de un germen de conjunto analítico y del lugar de ceros de una familia de gérmenes de función">Propiedades del ideal de un germen de conjunto analítico y del lugar de ceros de una familia de gérmenes de función</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sean <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex>, <fr:tex display="inline"><![CDATA[\mathbf {Y}]]></fr:tex> dos <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">gérmenes de conjunto analítico</fr:link>, y sean <fr:tex display="inline"><![CDATA[J_1,J_2\subset {}_{n}\mathcal  O]]></fr:tex> dos ideales de <fr:link href="/ANGEOM-0003/" title="Anillo de gérmenes de función holomorfa" uri="https://juan-mad.github.io/ANGEOM-0003/" display-uri="ANGEOM-0003" type="local">gérmenes de función holomorfa</fr:link>. Se tienen las siguientes relaciones: <html:ol><html:li><fr:tex display="inline"><![CDATA[\mathbf {X}\supset  \mathbf {Y}]]></fr:tex> implica que <fr:tex display="inline"><![CDATA[I(\mathbf {X})\subset  I(\mathbf {Y})]]></fr:tex>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[\mathbf {X} \neq  \mathbf {Y}]]></fr:tex> implica que <fr:tex display="inline"><![CDATA[I(\mathbf {X}) \neq  I(\mathbf {Y}).]]></fr:tex></html:li>
+<html:li><fr:tex display="inline"><![CDATA[I(\mathbf {X}) = \operatorname {rad} I(\mathbf {X})]]></fr:tex>, es decir, <fr:tex display="inline"><![CDATA[I(\mathbf {X})]]></fr:tex> es un <fr:link href="/AC-002L/" title="Radical de un ideal e ideal radical" uri="https://juan-mad.github.io/AC-002L/" display-uri="AC-002L" type="local">ideal radical</fr:link>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[J_1\supset  J_2]]></fr:tex> implica <fr:tex display="inline"><![CDATA[V(J_1)\subset  V(J_2)]]></fr:tex>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[V(I(\mathbf {X})) = \mathbf {X}]]></fr:tex>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[V(J_1) = V(\operatorname {rad} J_1)]]></fr:tex>.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[I(V(J_1)) = \operatorname {rad} J_1]]></fr:tex> (versión del <fr:link href="/AC-002N/" title="Teorema de los ceros de Hilbert (Nullstellenstaz)" uri="https://juan-mad.github.io/AC-002N/" display-uri="AC-002N" type="local">teorema de los ceros, nullstellensatz</fr:link>).</html:li></html:ol></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>9</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000N.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/ANGEOM-000N/</fr:uri>
+                <fr:display-uri>ANGEOM-000N</fr:display-uri>
+                <fr:route>/ANGEOM-000N/</fr:route>
+                <fr:title text="Germen de conjunto anal'itico irreducible">Germen de conjunto anal'itico irreducible</fr:title>
+                <fr:taxon>Definici'on</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto anal'itico</fr:link>. Se dice que <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> es <html:em>irreducible</html:em> si cada vez que escribamos <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_1}\cup \mathbf {X_2}]]></fr:tex>, con <fr:tex display="inline"><![CDATA[\mathbf {X_1}, \mathbf {X_2}]]></fr:tex> g'ermenes de conjunto anal'itico, entonces o bien <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_1}]]></fr:tex> o <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_2}]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>9</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000O.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/ANGEOM-000O/</fr:uri>
+                <fr:display-uri>ANGEOM-000O</fr:display-uri>
+                <fr:route>/ANGEOM-000O/</fr:route>
+                <fr:title text="Germen de conjunto anal'itico irreducible e ideal primo">Germen de conjunto anal'itico irreducible e ideal primo</fr:title>
+                <fr:taxon>Proposici'on</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto anal'itico</fr:link> <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> es <fr:link href="/ANGEOM-000N/" title="Germen de conjunto anal'itico irreducible" uri="https://juan-mad.github.io/ANGEOM-000N/" display-uri="ANGEOM-000N" type="local">irreducible</fr:link> si y s'olo si su <fr:link href="/ANGEOM-000K/" title="Ideal de un germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000K/" display-uri="ANGEOM-000K" type="local">ideal</fr:link> <fr:tex display="inline"><![CDATA[I(\mathbf {X})]]></fr:tex> es un <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>9</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000P.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/ANGEOM-000P/</fr:uri>
+                <fr:display-uri>ANGEOM-000P</fr:display-uri>
+                <fr:route>/ANGEOM-000P/</fr:route>
+                <fr:title text="Descomposici'on de un germen de conjunto anal'itico en irreducibles">Descomposici'on de un germen de conjunto anal'itico en irreducibles</fr:title>
+                <fr:taxon>Proposici'on</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto anal'itico</fr:link>. Entonces existe un n'umero finito de  <fr:link href="/ANGEOM-000N/" title="Germen de conjunto anal'itico irreducible" uri="https://juan-mad.github.io/ANGEOM-000N/" display-uri="ANGEOM-000N" type="local">g'ermenes de conjunto anal'itico irreducibles</fr:link> <fr:tex display="inline"><![CDATA[\mathbf {X_1},\dots ,\mathbf {X_s}]]></fr:tex>, determinados de forma 'unica por <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex>, tal que <fr:tex display="block"><![CDATA[\mathbf {X} = \mathbf {X_1}\cup \cdots \cup \mathbf {X_s},]]></fr:tex> y que verifican <fr:tex display="inline"><![CDATA[\mathbf {X_i}\nsubseteq \mathbf {X_j}]]></fr:tex> para <fr:tex display="inline"><![CDATA[i\neq  j]]></fr:tex>. En particular, para todo <fr:tex display="inline"><![CDATA[i=1,\dots ,s]]></fr:tex>, se tiene que <fr:tex display="inline"><![CDATA[\mathbf {X_i}\nsubseteq  \bigcup _{j\neq  i} \mathbf {X_j}]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
               <fr:day>7</fr:day>
             </fr:date>
             <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000D.tree</fr:source-path>
@@ -56,13 +761,13 @@
             <fr:display-uri>ANGEOM-000D</fr:display-uri>
             <fr:route>/ANGEOM-000D/</fr:route>
             <fr:title text="Complex manifold de \mathbb  C^n"><html:em>Complex manifold</html:em> de <fr:tex display="inline"><![CDATA[\mathbb  C^n]]></fr:tex></fr:title>
-            <fr:taxon>Definici'on</fr:taxon>
+            <fr:taxon>Definición</fr:taxon>
             <fr:meta name="sources">
               <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
             </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Un conjunto <fr:tex display="inline"><![CDATA[M\subset \mathbb  C^n]]></fr:tex> es una <html:em>complex (sub)manifold</html:em> de <fr:tex display="inline"><![CDATA[\mathbb  C^n]]></fr:tex> de dimensi'on <fr:tex display="inline"><![CDATA[m]]></fr:tex> si para todo <fr:tex display="inline"><![CDATA[a\in  M]]></fr:tex> existen <fr:link href="/ANGEOM-000C/" title="Coordenadas anal'iticas" uri="https://juan-mad.github.io/ANGEOM-000C/" display-uri="ANGEOM-000C" type="local">coordenadas anal'iticas</fr:link> <fr:tex display="inline"><![CDATA[u=(u_1,\dots ,u_n)]]></fr:tex> en <fr:tex display="inline"><![CDATA[a]]></fr:tex>, definidas en un entorno <fr:tex display="inline"><![CDATA[U_1]]></fr:tex> de <fr:tex display="inline"><![CDATA[a]]></fr:tex> (donde son coordenadas), de forma que <fr:tex display="block"><![CDATA[M\cap  U_1 = \{ p\in  U_1 : u_{m+1}(p) = \cdots  = u_n(p) = 0 \}.]]></fr:tex></html:p>
+            <html:p>Un conjunto <fr:tex display="inline"><![CDATA[M\subset \mathbb  C^n]]></fr:tex> es una <html:em>complex (sub)manifold</html:em> de <fr:tex display="inline"><![CDATA[\mathbb  C^n]]></fr:tex> de dimensión <fr:tex display="inline"><![CDATA[m]]></fr:tex> si para todo <fr:tex display="inline"><![CDATA[a\in  M]]></fr:tex> existen <fr:link href="/ANGEOM-000C/" title="Coordenadas analíticas" uri="https://juan-mad.github.io/ANGEOM-000C/" display-uri="ANGEOM-000C" type="local">coordenadas analíticas</fr:link> <fr:tex display="inline"><![CDATA[u=(u_1,\dots ,u_n)]]></fr:tex> en <fr:tex display="inline"><![CDATA[a]]></fr:tex>, definidas en un entorno <fr:tex display="inline"><![CDATA[U_1]]></fr:tex> de <fr:tex display="inline"><![CDATA[a]]></fr:tex> (donde son coordenadas), de forma que <fr:tex display="block"><![CDATA[M\cap  U_1 = \{ p\in  U_1 : u_{m+1}(p) = \cdots  = u_n(p) = 0 \}.]]></fr:tex></html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -81,14 +786,14 @@
             <fr:uri>https://juan-mad.github.io/ANGEOM-000C/</fr:uri>
             <fr:display-uri>ANGEOM-000C</fr:display-uri>
             <fr:route>/ANGEOM-000C/</fr:route>
-            <fr:title text="Coordenadas anal'iticas">Coordenadas anal'iticas</fr:title>
-            <fr:taxon>Definici'on</fr:taxon>
+            <fr:title text="Coordenadas analíticas">Coordenadas analíticas</fr:title>
+            <fr:taxon>Definición</fr:taxon>
             <fr:meta name="sources">
               <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
             </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Si <fr:tex display="inline"><![CDATA[u=(u_1,\dots ,u_n)\colon  U\rightarrow  \mathbb  C^n]]></fr:tex> <fr:link href="/ANGEOM-000A/" title="Funciones holomorfas entre abiertos de \mathbb  C^n" uri="https://juan-mad.github.io/ANGEOM-000A/" display-uri="ANGEOM-000A" type="local">holomorfa</fr:link> y <fr:tex display="inline"><![CDATA[Du(a)]]></fr:tex> invertible, decimos que <fr:tex display="inline"><![CDATA[(u_1,\dots ,u_n)]]></fr:tex> son <html:em>coordenadas anal'iticas en <fr:tex display="inline"><![CDATA[U]]></fr:tex></html:em>.</html:p>
+            <html:p>Si <fr:tex display="inline"><![CDATA[u=(u_1,\dots ,u_n)\colon  U\rightarrow  \mathbb  C^n]]></fr:tex> <fr:link href="/ANGEOM-000A/" title="Funciones holomorfas entre abiertos de \mathbb  C^n" uri="https://juan-mad.github.io/ANGEOM-000A/" display-uri="ANGEOM-000A" type="local">holomorfa</fr:link> y <fr:tex display="inline"><![CDATA[Du(a)]]></fr:tex> invertible, decimos que <fr:tex display="inline"><![CDATA[(u_1,\dots ,u_n)]]></fr:tex> son <html:em>coordenadas analíticas en <fr:tex display="inline"><![CDATA[U]]></fr:tex></html:em>.</html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -225,7 +930,7 @@
             </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Denotamos por <fr:tex display="inline"><![CDATA[\mathcal  O = {}_n\mathcal  O = {}_n\mathcal  O_0=\mathcal  O_0]]></fr:tex> el anillo de gérmenes de función holomorfa en <fr:tex display="inline"><![CDATA[0=(0,\dots ,0)\in \mathbb  C^n]]></fr:tex>. Cuando sea evidente, se puede suprimir la referencia al punto base o a la dimensión <fr:tex display="inline"><![CDATA[n]]></fr:tex>.</html:p>
+            <html:p>Denotamos por <fr:tex display="inline"><![CDATA[\mathcal  O = {}_n\mathcal  O = {}_n\mathcal  O_0=\mathcal  O_0]]></fr:tex> el anillo de <fr:link href="/ANGEOM-0002/" title="Germen de función" uri="https://juan-mad.github.io/ANGEOM-0002/" display-uri="ANGEOM-0002" type="local">gérmenes de función</fr:link> <fr:link href="/VC-000Y/" title="Función holomorfa en varias variables" uri="https://juan-mad.github.io/VC-000Y/" display-uri="VC-000Y" type="local">holomorfa</fr:link> en <fr:tex display="inline"><![CDATA[0=(0,\dots ,0)\in \mathbb  C^n]]></fr:tex>. Cuando sea evidente, se puede suprimir la referencia al punto base o a la dimensión <fr:tex display="inline"><![CDATA[n]]></fr:tex>.</html:p>
             <html:p>Algunas propiedades de este anillo <fr:tex display="inline"><![CDATA[{}_n\mathcal  O]]></fr:tex> son: <html:ul><html:li>Es un dominio de integridad.</html:li>
 <html:li>Las unidades de <fr:tex display="inline"><![CDATA[{}_n\mathcal  O]]></fr:tex> son precisamente los gérmenes de función que no se anulan en <fr:tex display="inline"><![CDATA[0]]></fr:tex>.</html:li>
 <html:li>Es un anillo local, y el único ideal maximal está formado por todas las unidades.</html:li>
@@ -413,7 +1118,7 @@
             <fr:uri>https://juan-mad.github.io/VC-001D/</fr:uri>
             <fr:display-uri>VC-001D</fr:display-uri>
             <fr:route>/VC-001D/</fr:route>
-            <fr:title text="Conjuntos analíticos">Conjuntos analíticos</fr:title>
+            <fr:title text="Conjunto analítico">Conjunto analítico</fr:title>
             <fr:taxon>Definición</fr:taxon>
             <fr:meta name="sources">
               <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />

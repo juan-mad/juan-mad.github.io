@@ -482,6 +482,32 @@ year = {1978},
               </fr:author>
             </fr:authors>
             <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>9</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000O.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-000O/</fr:uri>
+            <fr:display-uri>ANGEOM-000O</fr:display-uri>
+            <fr:route>/ANGEOM-000O/</fr:route>
+            <fr:title text="Germen de conjunto anal'itico irreducible e ideal primo">Germen de conjunto anal'itico irreducible e ideal primo</fr:title>
+            <fr:taxon>Proposici'on</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto anal'itico</fr:link> <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> es <fr:link href="/ANGEOM-000N/" title="Germen de conjunto anal'itico irreducible" uri="https://juan-mad.github.io/ANGEOM-000N/" display-uri="ANGEOM-000N" type="local">irreducible</fr:link> si y s'olo si su <fr:link href="/ANGEOM-000K/" title="Ideal de un germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000K/" display-uri="ANGEOM-000K" type="local">ideal</fr:link> <fr:tex display="inline"><![CDATA[I(\mathbf {X})]]></fr:tex> es un <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
               <fr:year>2025</fr:year>
               <fr:month>11</fr:month>
               <fr:day>5</fr:day>
