@@ -622,6 +622,32 @@
               <fr:month>1</fr:month>
               <fr:day>7</fr:day>
             </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000C.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/ANGEOM-000C/</fr:uri>
+            <fr:display-uri>ANGEOM-000C</fr:display-uri>
+            <fr:route>/ANGEOM-000C/</fr:route>
+            <fr:title text="Coordenadas anal'iticas">Coordenadas anal'iticas</fr:title>
+            <fr:taxon>Definici'on</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Si <fr:tex display="inline"><![CDATA[u=(u_1,\dots ,u_n)\colon  U\rightarrow  \mathbb  C^n]]></fr:tex> <fr:link href="/ANGEOM-000A/" title="Funciones holomorfas entre abiertos de \mathbb  C^n" uri="https://juan-mad.github.io/ANGEOM-000A/" display-uri="ANGEOM-000A" type="local">holomorfa</fr:link> y <fr:tex display="inline"><![CDATA[Du(a)]]></fr:tex> invertible, decimos que <fr:tex display="inline"><![CDATA[(u_1,\dots ,u_n)]]></fr:tex> son <html:em>coordenadas anal'iticas en <fr:tex display="inline"><![CDATA[U]]></fr:tex></html:em>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>7</fr:day>
+            </fr:date>
             <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000B.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/ANGEOM-000B/</fr:uri>
             <fr:display-uri>ANGEOM-000B</fr:display-uri>
