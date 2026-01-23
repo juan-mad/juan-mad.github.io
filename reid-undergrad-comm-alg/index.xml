@@ -65,7 +65,7 @@
           <fr:mainmatter>
             <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo algebraicamente cerrado. Las funciones <fr:tex display="inline"><![CDATA[V]]></fr:tex> e <fr:tex display="inline"><![CDATA[I]]></fr:tex> inducen correspondencias biyectivas entre <fr:tex display="block"><![CDATA[\left \{ \text {ideales radicales }J \subset  k[X_1,\dots ,X_n] \right \} \longleftrightarrow  \left \{ \begin {align*} \text {conjuntos algebraicos de } \mathbb  A^n \end {align*}\right \} ]]></fr:tex> y en particular <fr:tex display="block"><![CDATA[
 
-\left \{ \text {ideales primos }J \subset  k[X_1,\dots ,X_n] \right \} \longleftrightarrow  \left \{ \begin {align*} \text {variedades afines de } \mathbb  A^n \end {align*}\right \}.
+\left \{ \text {ideales primos }J \subset  k[X_1,\dots ,X_n] \right \} \longleftrightarrow  \left \{ \begin {align*} \text {variedades afines (conjuntos algebraicos irreducibles) de } \mathbb  A^n \end {align*}\right \}.
 ]]></fr:tex>
 
 Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_n]/J]]></fr:tex> para algún <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link> <fr:tex display="inline"><![CDATA[J\subset  k[X_1,\dots ,X_n]]]></fr:tex> (donde <fr:tex display="inline"><![CDATA[x_i = X_i\mod  J]]></fr:tex>), entonces existe una correspondencia biyectiva <fr:tex display="block"><![CDATA[

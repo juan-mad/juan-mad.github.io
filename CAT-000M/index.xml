@@ -549,7 +549,7 @@ tal que para cualquier morfismo <fr:tex display="inline"><![CDATA[f\colon c\righ
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>Un objeto <fr:tex display="inline"><![CDATA[i]]></fr:tex> de una <fr:link href="/CAT-0001/" title="Categoría" uri="https://juan-mad.github.io/CAT-0001/" display-uri="CAT-0001" type="local">categoría</fr:link> es <html:em>inicial</html:em> si para cada objeto <fr:tex display="inline"><![CDATA[c]]></fr:tex> en <fr:tex display="inline"><![CDATA[\mathsf {C}]]></fr:tex> existe un único morfismo <fr:tex display="inline"><![CDATA[i\rightarrow  c]]></fr:tex>.</html:p>
-                <html:p>Algunos ejemplos son: <html:ul><html:li>El conjunto vació es un objeto inicial en la categoría de conjuntos <fr:tex display="inline"><![CDATA[\mathsf {Set}]]></fr:tex>.</html:li>
+                <html:p>Algunos ejemplos son: <html:ul><html:li>El conjunto vacío es un objeto inicial en la categoría de conjuntos <fr:tex display="inline"><![CDATA[\mathsf {Set}]]></fr:tex>.</html:li>
     <html:li>En <fr:tex display="inline"><![CDATA[\mathsf {Top}]]></fr:tex>, el conjunto vacío es un objeto inicial.</html:li>
     <html:li>En <fr:tex display="inline"><![CDATA[\mathsf {Set}_*]]></fr:tex>, cualquier conjunto con un elemento es inicial.</html:li>
     <html:li>El módulo cero en <fr:tex display="inline"><![CDATA[\mathsf {Mod}_R]]></fr:tex> es final.</html:li></html:ul></html:p>

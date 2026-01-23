@@ -16,14 +16,14 @@
     <fr:uri>https://juan-mad.github.io/ANGEOM-000O/</fr:uri>
     <fr:display-uri>ANGEOM-000O</fr:display-uri>
     <fr:route>/ANGEOM-000O/</fr:route>
-    <fr:title text="Germen de conjunto anal'itico irreducible e ideal primo">Germen de conjunto anal'itico irreducible e ideal primo</fr:title>
-    <fr:taxon>Proposici'on</fr:taxon>
+    <fr:title text="Germen de conjunto analítico irreducible e ideal primo">Germen de conjunto analítico irreducible e ideal primo</fr:title>
+    <fr:taxon>Proposición</fr:taxon>
     <fr:meta name="sources">
       <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
     </fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto anal'itico</fr:link> <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> es <fr:link href="/ANGEOM-000N/" title="Germen de conjunto anal'itico irreducible" uri="https://juan-mad.github.io/ANGEOM-000N/" display-uri="ANGEOM-000N" type="local">irreducible</fr:link> si y s'olo si su <fr:link href="/ANGEOM-000K/" title="Ideal de un germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000K/" display-uri="ANGEOM-000K" type="local">ideal</fr:link> <fr:tex display="inline"><![CDATA[I(\mathbf {X})]]></fr:tex> es un <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link>.</html:p>
+    <html:p>Un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto analítico</fr:link> <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> es <fr:link href="/ANGEOM-000N/" title="Germen de conjunto analítico irreducible" uri="https://juan-mad.github.io/ANGEOM-000N/" display-uri="ANGEOM-000N" type="local">irreducible</fr:link> si y sólo si su <fr:link href="/ANGEOM-000K/" title="Ideal de un germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000K/" display-uri="ANGEOM-000K" type="local">ideal</fr:link> <fr:tex display="inline"><![CDATA[I(\mathbf {X})]]></fr:tex> es un <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link>.</html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -388,14 +388,14 @@
                 <fr:uri>https://juan-mad.github.io/ANGEOM-000N/</fr:uri>
                 <fr:display-uri>ANGEOM-000N</fr:display-uri>
                 <fr:route>/ANGEOM-000N/</fr:route>
-                <fr:title text="Germen de conjunto anal'itico irreducible">Germen de conjunto anal'itico irreducible</fr:title>
-                <fr:taxon>Definici'on</fr:taxon>
+                <fr:title text="Germen de conjunto analítico irreducible">Germen de conjunto analítico irreducible</fr:title>
+                <fr:taxon>Definición</fr:taxon>
                 <fr:meta name="sources">
                   <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sea <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto anal'itico</fr:link>. Se dice que <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> es <html:em>irreducible</html:em> si cada vez que escribamos <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_1}\cup \mathbf {X_2}]]></fr:tex>, con <fr:tex display="inline"><![CDATA[\mathbf {X_1}, \mathbf {X_2}]]></fr:tex> g'ermenes de conjunto anal'itico, entonces o bien <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_1}]]></fr:tex> o <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_2}]]></fr:tex>.</html:p>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto analítico</fr:link>. Se dice que <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> es <html:em>irreducible</html:em> si cada vez que escribamos <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_1}\cup \mathbf {X_2}]]></fr:tex>, con <fr:tex display="inline"><![CDATA[\mathbf {X_1}, \mathbf {X_2}]]></fr:tex> gérmenes de conjunto analítico, entonces o bien <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_1}]]></fr:tex> o <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_2}]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -414,14 +414,14 @@
                 <fr:uri>https://juan-mad.github.io/ANGEOM-000O/</fr:uri>
                 <fr:display-uri>ANGEOM-000O</fr:display-uri>
                 <fr:route>/ANGEOM-000O/</fr:route>
-                <fr:title text="Germen de conjunto anal'itico irreducible e ideal primo">Germen de conjunto anal'itico irreducible e ideal primo</fr:title>
-                <fr:taxon>Proposici'on</fr:taxon>
+                <fr:title text="Germen de conjunto analítico irreducible e ideal primo">Germen de conjunto analítico irreducible e ideal primo</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
                 <fr:meta name="sources">
                   <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto anal'itico</fr:link> <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> es <fr:link href="/ANGEOM-000N/" title="Germen de conjunto anal'itico irreducible" uri="https://juan-mad.github.io/ANGEOM-000N/" display-uri="ANGEOM-000N" type="local">irreducible</fr:link> si y s'olo si su <fr:link href="/ANGEOM-000K/" title="Ideal de un germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000K/" display-uri="ANGEOM-000K" type="local">ideal</fr:link> <fr:tex display="inline"><![CDATA[I(\mathbf {X})]]></fr:tex> es un <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link>.</html:p>
+                <html:p>Un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto analítico</fr:link> <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> es <fr:link href="/ANGEOM-000N/" title="Germen de conjunto analítico irreducible" uri="https://juan-mad.github.io/ANGEOM-000N/" display-uri="ANGEOM-000N" type="local">irreducible</fr:link> si y sólo si su <fr:link href="/ANGEOM-000K/" title="Ideal de un germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000K/" display-uri="ANGEOM-000K" type="local">ideal</fr:link> <fr:tex display="inline"><![CDATA[I(\mathbf {X})]]></fr:tex> es un <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -440,14 +440,14 @@
                 <fr:uri>https://juan-mad.github.io/ANGEOM-000P/</fr:uri>
                 <fr:display-uri>ANGEOM-000P</fr:display-uri>
                 <fr:route>/ANGEOM-000P/</fr:route>
-                <fr:title text="Descomposici'on de un germen de conjunto anal'itico en irreducibles">Descomposici'on de un germen de conjunto anal'itico en irreducibles</fr:title>
-                <fr:taxon>Proposici'on</fr:taxon>
+                <fr:title text="Descomposición de un germen de conjunto analítico en irreducibles">Descomposición de un germen de conjunto analítico en irreducibles</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
                 <fr:meta name="sources">
                   <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Sea <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto anal'itico</fr:link>. Entonces existe un n'umero finito de  <fr:link href="/ANGEOM-000N/" title="Germen de conjunto anal'itico irreducible" uri="https://juan-mad.github.io/ANGEOM-000N/" display-uri="ANGEOM-000N" type="local">g'ermenes de conjunto anal'itico irreducibles</fr:link> <fr:tex display="inline"><![CDATA[\mathbf {X_1},\dots ,\mathbf {X_s}]]></fr:tex>, determinados de forma 'unica por <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex>, tal que <fr:tex display="block"><![CDATA[\mathbf {X} = \mathbf {X_1}\cup \cdots \cup \mathbf {X_s},]]></fr:tex> y que verifican <fr:tex display="inline"><![CDATA[\mathbf {X_i}\nsubseteq \mathbf {X_j}]]></fr:tex> para <fr:tex display="inline"><![CDATA[i\neq  j]]></fr:tex>. En particular, para todo <fr:tex display="inline"><![CDATA[i=1,\dots ,s]]></fr:tex>, se tiene que <fr:tex display="inline"><![CDATA[\mathbf {X_i}\nsubseteq  \bigcup _{j\neq  i} \mathbf {X_j}]]></fr:tex>.</html:p>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto analítico</fr:link>. Entonces existe un número finito de  <fr:link href="/ANGEOM-000N/" title="Germen de conjunto analítico irreducible" uri="https://juan-mad.github.io/ANGEOM-000N/" display-uri="ANGEOM-000N" type="local">gérmenes de conjunto analítico irreducibles</fr:link> <fr:tex display="inline"><![CDATA[\mathbf {X_1},\dots ,\mathbf {X_s}]]></fr:tex>, determinados de forma única por <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex>, tal que <fr:tex display="block"><![CDATA[\mathbf {X} = \mathbf {X_1}\cup \cdots \cup \mathbf {X_s},]]></fr:tex> y que verifican <fr:tex display="inline"><![CDATA[\mathbf {X_i}\nsubseteq \mathbf {X_j}]]></fr:tex> para <fr:tex display="inline"><![CDATA[i\neq  j]]></fr:tex>. En particular, para todo <fr:tex display="inline"><![CDATA[i=1,\dots ,s]]></fr:tex>, se tiene que <fr:tex display="inline"><![CDATA[\mathbf {X_i}\nsubseteq  \bigcup _{j\neq  i} \mathbf {X_j}]]></fr:tex>.</html:p>
               </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>
@@ -483,14 +483,14 @@
             <fr:uri>https://juan-mad.github.io/ANGEOM-000N/</fr:uri>
             <fr:display-uri>ANGEOM-000N</fr:display-uri>
             <fr:route>/ANGEOM-000N/</fr:route>
-            <fr:title text="Germen de conjunto anal'itico irreducible">Germen de conjunto anal'itico irreducible</fr:title>
-            <fr:taxon>Definici'on</fr:taxon>
+            <fr:title text="Germen de conjunto analítico irreducible">Germen de conjunto analítico irreducible</fr:title>
+            <fr:taxon>Definición</fr:taxon>
             <fr:meta name="sources">
               <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
             </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Sea <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto anal'itico</fr:link>. Se dice que <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> es <html:em>irreducible</html:em> si cada vez que escribamos <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_1}\cup \mathbf {X_2}]]></fr:tex>, con <fr:tex display="inline"><![CDATA[\mathbf {X_1}, \mathbf {X_2}]]></fr:tex> g'ermenes de conjunto anal'itico, entonces o bien <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_1}]]></fr:tex> o <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_2}]]></fr:tex>.</html:p>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto analítico</fr:link>. Se dice que <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> es <html:em>irreducible</html:em> si cada vez que escribamos <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_1}\cup \mathbf {X_2}]]></fr:tex>, con <fr:tex display="inline"><![CDATA[\mathbf {X_1}, \mathbf {X_2}]]></fr:tex> gérmenes de conjunto analítico, entonces o bien <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_1}]]></fr:tex> o <fr:tex display="inline"><![CDATA[\mathbf {X} = \mathbf {X_2}]]></fr:tex>.</html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">

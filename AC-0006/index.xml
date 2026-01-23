@@ -484,20 +484,98 @@ year = {1978},
             <fr:date>
               <fr:year>2026</fr:year>
               <fr:month>1</fr:month>
+              <fr:day>22</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-002R.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002R/</fr:uri>
+            <fr:display-uri>AC-002R</fr:display-uri>
+            <fr:route>/AC-002R/</fr:route>
+            <fr:title text="Proposición">Proposición</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link>, dominio de integridad y <fr:link href="/AC-001L/" title="Anillo noetheriano" uri="https://juan-mad.github.io/AC-001L/" display-uri="AC-001L" type="local">noetheriano</fr:link>. Entonces <fr:tex display="inline"><![CDATA[A]]></fr:tex> es un dominio de factorización única (DFU) si y sólo si todo <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link> de <fr:link href="/AC-002O/" title="Dimensión de Krull" uri="https://juan-mad.github.io/AC-002O/" display-uri="AC-002O" type="local">altura 1</fr:link> es un ideal principal.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>22</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-002Q.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002Q/</fr:uri>
+            <fr:display-uri>AC-002Q</fr:display-uri>
+            <fr:route>/AC-002Q/</fr:route>
+            <fr:title text="Krull's Hauptidealsatz">Krull's Hauptidealsatz</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un <fr:link href="/AC-001L/" title="Anillo noetheriano" uri="https://juan-mad.github.io/AC-001L/" display-uri="AC-001L" type="local">anillo noetheriano</fr:link>, y sea <fr:tex display="inline"><![CDATA[f\in  A]]></fr:tex> un elemento que no es ni una unidad ni un divisor de cero. Entonces todo <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link> minimal que contenga a <fr:tex display="inline"><![CDATA[f]]></fr:tex> tiene <fr:link href="/AC-002O/" title="Dimensión de Krull" uri="https://juan-mad.github.io/AC-002O/" display-uri="AC-002O" type="local">altura <fr:tex display="inline"><![CDATA[1]]></fr:tex></fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>22</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-002O.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002O/</fr:uri>
+            <fr:display-uri>AC-002O</fr:display-uri>
+            <fr:route>/AC-002O/</fr:route>
+            <fr:title text="Dimensión de Krull">Dimensión de Krull</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link>. Se define la <html:em>altura</html:em> de un <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link> <fr:tex display="inline"><![CDATA[I\subset  A]]></fr:tex> como el supremo de todos los enteros <fr:tex display="inline"><![CDATA[n]]></fr:tex> tal que existe una cadena <fr:tex display="block"><![CDATA[p_0\subsetneq  p_1\subsetneq  \cdots  \subsetneq  p_n = I]]></fr:tex> de <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> distintos. Se define así la <html:em>dimensión (de Krull)</html:em> de <fr:tex display="inline"><![CDATA[A]]></fr:tex> como el supremo de las alturas entre todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
               <fr:day>9</fr:day>
             </fr:date>
             <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000O.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/ANGEOM-000O/</fr:uri>
             <fr:display-uri>ANGEOM-000O</fr:display-uri>
             <fr:route>/ANGEOM-000O/</fr:route>
-            <fr:title text="Germen de conjunto anal'itico irreducible e ideal primo">Germen de conjunto anal'itico irreducible e ideal primo</fr:title>
-            <fr:taxon>Proposici'on</fr:taxon>
+            <fr:title text="Germen de conjunto analítico irreducible e ideal primo">Germen de conjunto analítico irreducible e ideal primo</fr:title>
+            <fr:taxon>Proposición</fr:taxon>
             <fr:meta name="sources">
               <fr:link href="/analytic-fun-sev-complex-vars-gunning-rossi/" title="Analytic functions of several complex variables" uri="https://juan-mad.github.io/analytic-fun-sev-complex-vars-gunning-rossi/" display-uri="analytic-fun-sev-complex-vars-gunning-rossi" type="local" />
             </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto anal'itico</fr:link> <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> es <fr:link href="/ANGEOM-000N/" title="Germen de conjunto anal'itico irreducible" uri="https://juan-mad.github.io/ANGEOM-000N/" display-uri="ANGEOM-000N" type="local">irreducible</fr:link> si y s'olo si su <fr:link href="/ANGEOM-000K/" title="Ideal de un germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000K/" display-uri="ANGEOM-000K" type="local">ideal</fr:link> <fr:tex display="inline"><![CDATA[I(\mathbf {X})]]></fr:tex> es un <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link>.</html:p>
+            <html:p>Un <fr:link href="/ANGEOM-000I/" title="Germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000I/" display-uri="ANGEOM-000I" type="local">germen de conjunto analítico</fr:link> <fr:tex display="inline"><![CDATA[\mathbf {X}]]></fr:tex> es <fr:link href="/ANGEOM-000N/" title="Germen de conjunto analítico irreducible" uri="https://juan-mad.github.io/ANGEOM-000N/" display-uri="ANGEOM-000N" type="local">irreducible</fr:link> si y sólo si su <fr:link href="/ANGEOM-000K/" title="Ideal de un germen de conjunto analítico" uri="https://juan-mad.github.io/ANGEOM-000K/" display-uri="ANGEOM-000K" type="local">ideal</fr:link> <fr:tex display="inline"><![CDATA[I(\mathbf {X})]]></fr:tex> es un <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link>.</html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -528,7 +606,7 @@ year = {1978},
           <fr:mainmatter>
             <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo algebraicamente cerrado. Las funciones <fr:tex display="inline"><![CDATA[V]]></fr:tex> e <fr:tex display="inline"><![CDATA[I]]></fr:tex> inducen correspondencias biyectivas entre <fr:tex display="block"><![CDATA[\left \{ \text {ideales radicales }J \subset  k[X_1,\dots ,X_n] \right \} \longleftrightarrow  \left \{ \begin {align*} \text {conjuntos algebraicos de } \mathbb  A^n \end {align*}\right \} ]]></fr:tex> y en particular <fr:tex display="block"><![CDATA[
 
-\left \{ \text {ideales primos }J \subset  k[X_1,\dots ,X_n] \right \} \longleftrightarrow  \left \{ \begin {align*} \text {variedades afines de } \mathbb  A^n \end {align*}\right \}.
+\left \{ \text {ideales primos }J \subset  k[X_1,\dots ,X_n] \right \} \longleftrightarrow  \left \{ \begin {align*} \text {variedades afines (conjuntos algebraicos irreducibles) de } \mathbb  A^n \end {align*}\right \}.
 ]]></fr:tex>
 
 Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_n]/J]]></fr:tex> para algún <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link> <fr:tex display="inline"><![CDATA[J\subset  k[X_1,\dots ,X_n]]]></fr:tex> (donde <fr:tex display="inline"><![CDATA[x_i = X_i\mod  J]]></fr:tex>), entonces existe una correspondencia biyectiva <fr:tex display="block"><![CDATA[

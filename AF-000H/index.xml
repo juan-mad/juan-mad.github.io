@@ -599,7 +599,7 @@ entonces <fr:tex display="inline"><![CDATA[\mathcal  A]]></fr:tex> es densa en <
             <fr:taxon>Definición</fr:taxon>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Se dice que un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex> es un <html:em>espacio de Baire</html:em> si cada abierto no vació de <fr:tex display="inline"><![CDATA[X]]></fr:tex> es de <fr:link href="/TOPO-8TGH/" title="Conjuntos de primera y segunda categoría" uri="https://juan-mad.github.io/TOPO-8TGH/" display-uri="TOPO-8TGH" type="local">segunda categoría</fr:link> en <fr:tex display="inline"><![CDATA[X]]></fr:tex>.</html:p>
+            <html:p>Se dice que un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex> es un <html:em>espacio de Baire</html:em> si cada abierto no vacío de <fr:tex display="inline"><![CDATA[X]]></fr:tex> es de <fr:link href="/TOPO-8TGH/" title="Conjuntos de primera y segunda categoría" uri="https://juan-mad.github.io/TOPO-8TGH/" display-uri="TOPO-8TGH" type="local">segunda categoría</fr:link> en <fr:tex display="inline"><![CDATA[X]]></fr:tex>.</html:p>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>

@@ -1142,6 +1142,58 @@ Con estas operaciones <fr:tex display="inline"><![CDATA[S^{-1}A]]></fr:tex> es u
               </fr:author>
             </fr:authors>
             <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>22</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-002R.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002R/</fr:uri>
+            <fr:display-uri>AC-002R</fr:display-uri>
+            <fr:route>/AC-002R/</fr:route>
+            <fr:title text="Proposición">Proposición</fr:title>
+            <fr:taxon>Teorema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link>, dominio de integridad y <fr:link href="/AC-001L/" title="Anillo noetheriano" uri="https://juan-mad.github.io/AC-001L/" display-uri="AC-001L" type="local">noetheriano</fr:link>. Entonces <fr:tex display="inline"><![CDATA[A]]></fr:tex> es un dominio de factorización única (DFU) si y sólo si todo <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link> de <fr:link href="/AC-002O/" title="Dimensión de Krull" uri="https://juan-mad.github.io/AC-002O/" display-uri="AC-002O" type="local">altura 1</fr:link> es un ideal principal.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>22</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-002O.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002O/</fr:uri>
+            <fr:display-uri>AC-002O</fr:display-uri>
+            <fr:route>/AC-002O/</fr:route>
+            <fr:title text="Dimensión de Krull">Dimensión de Krull</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[A]]></fr:tex> un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link>. Se define la <html:em>altura</html:em> de un <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideal primo</fr:link> <fr:tex display="inline"><![CDATA[I\subset  A]]></fr:tex> como el supremo de todos los enteros <fr:tex display="inline"><![CDATA[n]]></fr:tex> tal que existe una cadena <fr:tex display="block"><![CDATA[p_0\subsetneq  p_1\subsetneq  \cdots  \subsetneq  p_n = I]]></fr:tex> de <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link> distintos. Se define así la <html:em>dimensión (de Krull)</html:em> de <fr:tex display="inline"><![CDATA[A]]></fr:tex> como el supremo de las alturas entre todos los <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">ideales primos</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
               <fr:year>2025</fr:year>
               <fr:month>11</fr:month>
               <fr:day>5</fr:day>
