@@ -12,7 +12,7 @@
       <fr:month>11</fr:month>
       <fr:day>5</fr:day>
     </fr:date>
-    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0002.tree</fr:source-path>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-0002.tree</fr:source-path>
     <fr:uri>https://juan-mad.github.io/AG-0002/</fr:uri>
     <fr:display-uri>AG-0002</fr:display-uri>
     <fr:route>/AG-0002/</fr:route>
@@ -72,7 +72,7 @@
             <fr:uri>https://juan-mad.github.io/AG-0001/</fr:uri>
             <fr:display-uri>AG-0001</fr:display-uri>
             <fr:route>/AG-0001/</fr:route>
-            <fr:title text="Variedades">Variedades</fr:title>
+            <fr:title text="Variedades afines">Variedades afines</fr:title>
             <fr:taxon>Tema</fr:taxon>
             <fr:meta name="sources">
               <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
@@ -91,7 +91,7 @@
                   <fr:month>11</fr:month>
                   <fr:day>5</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0002.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-0002.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-0002/</fr:uri>
                 <fr:display-uri>AG-0002</fr:display-uri>
                 <fr:route>/AG-0002/</fr:route>
@@ -119,7 +119,7 @@
                   <fr:month>11</fr:month>
                   <fr:day>5</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0003.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-0003.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-0003/</fr:uri>
                 <fr:display-uri>AG-0003</fr:display-uri>
                 <fr:route>/AG-0003/</fr:route>
@@ -145,7 +145,7 @@
                   <fr:month>11</fr:month>
                   <fr:day>5</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0004.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-0004.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-0004/</fr:uri>
                 <fr:display-uri>AG-0004</fr:display-uri>
                 <fr:route>/AG-0004/</fr:route>
@@ -176,7 +176,7 @@
                   <fr:month>11</fr:month>
                   <fr:day>5</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0005.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-0005.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-0005/</fr:uri>
                 <fr:display-uri>AG-0005</fr:display-uri>
                 <fr:route>/AG-0005/</fr:route>
@@ -203,7 +203,7 @@
                   <fr:month>11</fr:month>
                   <fr:day>5</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0006.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-0006.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-0006/</fr:uri>
                 <fr:display-uri>AG-0006</fr:display-uri>
                 <fr:route>/AG-0006/</fr:route>
@@ -230,7 +230,7 @@
                   <fr:month>11</fr:month>
                   <fr:day>5</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0007.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-0007.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-0007/</fr:uri>
                 <fr:display-uri>AG-0007</fr:display-uri>
                 <fr:route>/AG-0007/</fr:route>
@@ -242,8 +242,10 @@
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>
-                  <html:ul><html:li>Todo conjunto abierto no vacío de un <fr:link href="/AG-0006/" title="Conjunto irreducible" uri="https://juan-mad.github.io/AG-0006/" display-uri="AG-0006" type="local">conjunto irreducible</fr:link> es irreducible y denso.</html:li>
-<html:li>Si <fr:tex display="inline"><![CDATA[X]]></fr:tex> es un espacio topológico e <fr:tex display="inline"><![CDATA[Y\subset  X]]></fr:tex> es un <fr:link href="/AG-0006/" title="Conjunto irreducible" uri="https://juan-mad.github.io/AG-0006/" display-uri="AG-0006" type="local">conjunto irreducible</fr:link>, entonces su adherencia <fr:tex display="inline"><![CDATA[\bar  Y]]></fr:tex> en <fr:tex display="inline"><![CDATA[X]]></fr:tex> también es irreducible.</html:li></html:ul>
+                  <html:ul><html:li>Todo conjunto abierto no vacío de un <fr:link href="/AG-0006/" title="Conjunto irreducible" uri="https://juan-mad.github.io/AG-0006/" display-uri="AG-0006" type="local">conjunto irreducible</fr:link> es <fr:link href="/AG-0006/" title="Conjunto irreducible" uri="https://juan-mad.github.io/AG-0006/" display-uri="AG-0006" type="local">irreducible</fr:link> y denso.</html:li>
+<html:li>Si <fr:tex display="inline"><![CDATA[X]]></fr:tex> es un espacio topológico e <fr:tex display="inline"><![CDATA[Y\subset  X]]></fr:tex> es un <fr:link href="/AG-0006/" title="Conjunto irreducible" uri="https://juan-mad.github.io/AG-0006/" display-uri="AG-0006" type="local">conjunto irreducible</fr:link>, entonces su adherencia <fr:tex display="inline"><![CDATA[\bar  Y]]></fr:tex> en <fr:tex display="inline"><![CDATA[X]]></fr:tex> también es <fr:link href="/AG-0006/" title="Conjunto irreducible" uri="https://juan-mad.github.io/AG-0006/" display-uri="AG-0006" type="local">irreducible</fr:link>.</html:li>
+<html:li>Todo subconjunto abierto de un espacio topológico <fr:link href="/AG-0006/" title="Conjunto irreducible" uri="https://juan-mad.github.io/AG-0006/" display-uri="AG-0006" type="local">irreducible</fr:link> es denso e <fr:link href="/AG-0006/" title="Conjunto irreducible" uri="https://juan-mad.github.io/AG-0006/" display-uri="AG-0006" type="local">irreducible</fr:link>.</html:li>
+<html:li>Si <fr:tex display="inline"><![CDATA[Y\subset  X]]></fr:tex> es un subconjunto de un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex>, e <fr:tex display="inline"><![CDATA[Y]]></fr:tex> es <fr:link href="/AG-0006/" title="Conjunto irreducible" uri="https://juan-mad.github.io/AG-0006/" display-uri="AG-0006" type="local">irreducible</fr:link> con la topología inducida, entonces su adherencia <fr:tex display="inline"><![CDATA[\overline {Y}]]></fr:tex> también es <fr:link href="/AG-0006/" title="Conjunto irreducible" uri="https://juan-mad.github.io/AG-0006/" display-uri="AG-0006" type="local">irreducible</fr:link>.</html:li></html:ul>
                 </html:p>
               </fr:mainmatter>
             </fr:tree>
@@ -260,7 +262,7 @@
                   <fr:month>11</fr:month>
                   <fr:day>5</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0008.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-0008.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-0008/</fr:uri>
                 <fr:display-uri>AG-0008</fr:display-uri>
                 <fr:route>/AG-0008/</fr:route>
@@ -287,7 +289,7 @@
                   <fr:month>11</fr:month>
                   <fr:day>5</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0009.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-0009.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-0009/</fr:uri>
                 <fr:display-uri>AG-0009</fr:display-uri>
                 <fr:route>/AG-0009/</fr:route>
@@ -314,7 +316,7 @@
                   <fr:month>11</fr:month>
                   <fr:day>5</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000A.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000A.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-000A/</fr:uri>
                 <fr:display-uri>AG-000A</fr:display-uri>
                 <fr:route>/AG-000A/</fr:route>
@@ -347,7 +349,7 @@ La contención <fr:tex display="inline"><![CDATA[I(V(J))\subset  \sqrt {J}]]></f
                   <fr:month>11</fr:month>
                   <fr:day>5</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000B.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000B.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-000B/</fr:uri>
                 <fr:display-uri>AG-000B</fr:display-uri>
                 <fr:route>/AG-000B/</fr:route>
@@ -373,7 +375,7 @@ La contención <fr:tex display="inline"><![CDATA[I(V(J))\subset  \sqrt {J}]]></f
                   <fr:month>11</fr:month>
                   <fr:day>5</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000C.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000C.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-000C/</fr:uri>
                 <fr:display-uri>AG-000C</fr:display-uri>
                 <fr:route>/AG-000C/</fr:route>
@@ -410,7 +412,7 @@ Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_
                   <fr:month>1</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000D.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000D.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-000D/</fr:uri>
                 <fr:display-uri>AG-000D</fr:display-uri>
                 <fr:route>/AG-000D/</fr:route>
@@ -439,7 +441,7 @@ Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_
                   <fr:month>1</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000E.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000E.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-000E/</fr:uri>
                 <fr:display-uri>AG-000E</fr:display-uri>
                 <fr:route>/AG-000E/</fr:route>
@@ -451,6 +453,64 @@ Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>Se dice que un espacio topológico <fr:tex display="inline"><![CDATA[X]]></fr:tex> es <html:em>noetheriano</html:em> si satisface la <html:strong>condición de cadena descendente</html:strong> para subconjuntos cerrados: para cualquier sucesión <fr:tex display="block"><![CDATA[Y_1\supset  Y_2\supset  \dots ]]></fr:tex> de subespacios cerrados, esta estabiliza, es decir, existe <fr:tex display="inline"><![CDATA[r\in \mathbb  N]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[Y_s=Y_r, \forall  s\geq  r]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>25</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000N.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000N/</fr:uri>
+                <fr:display-uri>AG-000N</fr:display-uri>
+                <fr:route>/AG-000N/</fr:route>
+                <fr:title text="Caracterización de un espacio topológico noetheriano">Caracterización de un espacio topológico noetheriano</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topológico. Son equivalentes:
+<html:ul><html:li><fr:tex display="inline"><![CDATA[X]]></fr:tex> es <fr:link href="/AG-000E/" title="Espacio topológico noetheriano" uri="https://juan-mad.github.io/AG-000E/" display-uri="AG-000E" type="local">noetheriano</fr:link>.</html:li>
+<html:li>Toda familia no vacía de conjuntos cerrados de <fr:tex display="inline"><![CDATA[X]]></fr:tex> tiene un elemeno minimal.</html:li>
+<html:li><fr:tex display="inline"><![CDATA[X]]></fr:tex> satisface la condición de cadena ascendente para subconjuntos abiertos.</html:li>
+<html:li>Toda familia no vacía de conjuntos abiertos de <fr:tex display="inline"><![CDATA[X]]></fr:tex> tiene un elemento maximal.</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>25</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000O.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000O/</fr:uri>
+                <fr:display-uri>AG-000O</fr:display-uri>
+                <fr:route>/AG-000O/</fr:route>
+                <fr:title text="Propiedades de un espacio topológico noetheriano">Propiedades de un espacio topológico noetheriano</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topológico <fr:link href="/AG-000E/" title="Espacio topológico noetheriano" uri="https://juan-mad.github.io/AG-000E/" display-uri="AG-000E" type="local">noetheriano</fr:link>. <html:ul><html:li><fr:tex display="inline"><![CDATA[X]]></fr:tex> es un <fr:link href="/TOPO-7KZ0/" title="Espacio topológico cuasi-compacto" uri="https://juan-mad.github.io/TOPO-7KZ0/" display-uri="TOPO-7KZ0" type="local">cuasi-compacto</fr:link>.</html:li>
+    <html:li>Todo subconjunto de <fr:tex display="inline"><![CDATA[X]]></fr:tex> es también <fr:link href="/AG-000E/" title="Espacio topológico noetheriano" uri="https://juan-mad.github.io/AG-000E/" display-uri="AG-000E" type="local">noetheriano</fr:link> con la topología inducida.</html:li>
+    <html:li>Si <fr:tex display="inline"><![CDATA[X]]></fr:tex> es de Hausdorff, entonces <fr:tex display="inline"><![CDATA[X]]></fr:tex> debe ser un conjunto finito y su topología es la discreta.</html:li></html:ul></html:p>
               </fr:mainmatter>
             </fr:tree>
             <html:p>Por ejemplo, <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex> es un espacio topológico <fr:link href="/AG-000E/" title="Espacio topológico noetheriano" uri="https://juan-mad.github.io/AG-000E/" display-uri="AG-000E" type="local">noetheriano</fr:link>. Esto se debe a que para cualquier cadena descendiente de cerrados <fr:tex display="inline"><![CDATA[Y_1\supset  Y_2\supset \dots ]]></fr:tex>, tomamos la cadena de ideales <fr:tex display="inline"><![CDATA[I(Y_1)\subset  I(Y_2)\subset \dots ]]></fr:tex>, que es ascendente en <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n]]]></fr:tex>. Como <fr:tex display="inline"><![CDATA[A]]></fr:tex> es un <fr:link href="/AC-001L/" title="Anillo noetheriano" uri="https://juan-mad.github.io/AC-001L/" display-uri="AC-001L" type="local">anillo noetheriano</fr:link>, esta cadena estabiliza. Pero como <fr:tex display="inline"><![CDATA[Y_i = V(I(Y_i))]]></fr:tex>, entonces la cadena de los <fr:tex display="inline"><![CDATA[Y_i]]></fr:tex> también es estacionaria.</html:p>
@@ -466,7 +526,7 @@ Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_
                   <fr:month>1</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000F.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000F.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-000F/</fr:uri>
                 <fr:display-uri>AG-000F</fr:display-uri>
                 <fr:route>/AG-000F/</fr:route>
@@ -492,7 +552,7 @@ Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_
                   <fr:month>1</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000G.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000G.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-000G/</fr:uri>
                 <fr:display-uri>AG-000G</fr:display-uri>
                 <fr:route>/AG-000G/</fr:route>
@@ -521,7 +581,7 @@ Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_
                   <fr:month>1</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000H.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000H.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-000H/</fr:uri>
                 <fr:display-uri>AG-000H</fr:display-uri>
                 <fr:route>/AG-000H/</fr:route>
@@ -547,7 +607,7 @@ Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_
                   <fr:month>1</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000I.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000I.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-000I/</fr:uri>
                 <fr:display-uri>AG-000I</fr:display-uri>
                 <fr:route>/AG-000I/</fr:route>
@@ -574,7 +634,7 @@ Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_
                   <fr:month>1</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000J.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000J.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-000J/</fr:uri>
                 <fr:display-uri>AG-000J</fr:display-uri>
                 <fr:route>/AG-000J/</fr:route>
@@ -628,7 +688,7 @@ Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_
                   <fr:month>1</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000K.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000K.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-000K/</fr:uri>
                 <fr:display-uri>AG-000K</fr:display-uri>
                 <fr:route>/AG-000K/</fr:route>
@@ -654,7 +714,7 @@ Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_
                   <fr:month>1</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000L.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000L.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-000L/</fr:uri>
                 <fr:display-uri>AG-000L</fr:display-uri>
                 <fr:route>/AG-000L/</fr:route>
@@ -680,18 +740,98 @@ Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_
                   <fr:month>1</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000M.tree</fr:source-path>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000M.tree</fr:source-path>
                 <fr:uri>https://juan-mad.github.io/AG-000M/</fr:uri>
                 <fr:display-uri>AG-000M</fr:display-uri>
                 <fr:route>/AG-000M/</fr:route>
-                <fr:title text="Caracterización de variedades afines de dimensión n-1">Caracterización de variedades afines de dimensión <fr:tex display="inline"><![CDATA[n-1]]></fr:tex></fr:title>
+                <fr:title text="Hipersuperficies o variedades afines de dimensión n-1">Hipersuperficies o variedades afines de dimensión <fr:tex display="inline"><![CDATA[n-1]]></fr:tex></fr:title>
+                <fr:taxon>Definició</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Decimos que Una <fr:link href="/AG-0008/" title="Variedades algebraicas afines y cuasi-afines" uri="https://juan-mad.github.io/AG-0008/" display-uri="AG-0008" type="local">variedad afín</fr:link> <fr:tex display="inline"><![CDATA[Y\subset \mathbb  A^n]]></fr:tex> es una <html:em>hipersuperficie</html:em> si tiene <fr:link href="/AG-000I/" title="Dimensión de una variedad afín o cuasi-afín" uri="https://juan-mad.github.io/AG-000I/" display-uri="AG-000I" type="local">dimensión</fr:link> <fr:tex display="inline"><![CDATA[n-1]]></fr:tex>. Esto ocurre si y sólo si es el conjunto <fr:tex display="inline"><![CDATA[V(f)]]></fr:tex> de un único polinomio irreducible no constante <fr:tex display="inline"><![CDATA[f\in  A=k[x_1,\dots ,x_n]]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>25</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000O.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000O/</fr:uri>
+                <fr:display-uri>AG-000O</fr:display-uri>
+                <fr:route>/AG-000O/</fr:route>
+                <fr:title text="Propiedades de un espacio topológico noetheriano">Propiedades de un espacio topológico noetheriano</fr:title>
                 <fr:taxon>Proposición</fr:taxon>
                 <fr:meta name="sources">
                   <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
                 </fr:meta>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Una <fr:link href="/AG-0008/" title="Variedades algebraicas afines y cuasi-afines" uri="https://juan-mad.github.io/AG-0008/" display-uri="AG-0008" type="local">variedad afín</fr:link> <fr:tex display="inline"><![CDATA[Y\subset \mathbb  A^n]]></fr:tex> tiene <fr:link href="/AG-000I/" title="Dimensión de una variedad afín o cuasi-afín" uri="https://juan-mad.github.io/AG-000I/" display-uri="AG-000I" type="local">dimensión</fr:link> <fr:tex display="inline"><![CDATA[n-1]]></fr:tex> si y sólo si es el conjunto <fr:tex display="inline"><![CDATA[V(f)]]></fr:tex> de un único polinomio irreducible no constante <fr:tex display="inline"><![CDATA[f\in  A=k[x_1,\dots ,x_n]]]></fr:tex>.</html:p>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[X]]></fr:tex> un espacio topológico <fr:link href="/AG-000E/" title="Espacio topológico noetheriano" uri="https://juan-mad.github.io/AG-000E/" display-uri="AG-000E" type="local">noetheriano</fr:link>. <html:ul><html:li><fr:tex display="inline"><![CDATA[X]]></fr:tex> es un <fr:link href="/TOPO-7KZ0/" title="Espacio topológico cuasi-compacto" uri="https://juan-mad.github.io/TOPO-7KZ0/" display-uri="TOPO-7KZ0" type="local">cuasi-compacto</fr:link>.</html:li>
+    <html:li>Todo subconjunto de <fr:tex display="inline"><![CDATA[X]]></fr:tex> es también <fr:link href="/AG-000E/" title="Espacio topológico noetheriano" uri="https://juan-mad.github.io/AG-000E/" display-uri="AG-000E" type="local">noetheriano</fr:link> con la topología inducida.</html:li>
+    <html:li>Si <fr:tex display="inline"><![CDATA[X]]></fr:tex> es de Hausdorff, entonces <fr:tex display="inline"><![CDATA[X]]></fr:tex> debe ser un conjunto finito y su topología es la discreta.</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>25</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000P.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000P/</fr:uri>
+                <fr:display-uri>AG-000P</fr:display-uri>
+                <fr:route>/AG-000P/</fr:route>
+                <fr:title text="Dimensión de la intersección de una variedad afín con una hipersuperficie">Dimensión de la intersección de una variedad afín con una hipersuperficie</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[Y\subset \mathbb  A^N]]></fr:tex> una <fr:link href="/AG-0006/" title="Conjunto irreducible" uri="https://juan-mad.github.io/AG-0006/" display-uri="AG-0006" type="local">variedad afín</fr:link> de <fr:link href="/AG-000I/" title="Dimensión de una variedad afín o cuasi-afín" uri="https://juan-mad.github.io/AG-000I/" display-uri="AG-000I" type="local">dimensión</fr:link> <fr:tex display="inline"><![CDATA[\operatorname {dim} r]]></fr:tex>. Sea <fr:tex display="inline"><![CDATA[H\subset \mathbb  A^n]]></fr:tex> una hipersuperficie de <fr:tex display="inline"><![CDATA[\mathbb  A^n]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[Y\not \subset  H]]></fr:tex>. Entonces toda componente irreducible de <fr:tex display="inline"><![CDATA[Y\cap  H]]></fr:tex> tiene dimensión <fr:tex display="inline"><![CDATA[r-1]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>25</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000Q.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000Q/</fr:uri>
+                <fr:display-uri>AG-000Q</fr:display-uri>
+                <fr:route>/AG-000Q/</fr:route>
+                <fr:title text="Variedades proyectivas">Variedades proyectivas</fr:title>
+                <fr:taxon>Tema</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>La definición de variedades proyectivas se realiza de forma análoga a la de <fr:link href="/AG-0001/" title="Variedades afines" uri="https://juan-mad.github.io/AG-0001/" display-uri="AG-0001" type="local">variedades afines</fr:link>.</html:p>
               </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>
@@ -716,7 +856,7 @@ Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_
               <fr:month>11</fr:month>
               <fr:day>5</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0009.tree</fr:source-path>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-0009.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AG-0009/</fr:uri>
             <fr:display-uri>AG-0009</fr:display-uri>
             <fr:route>/AG-0009/</fr:route>
@@ -742,7 +882,7 @@ Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_
               <fr:month>11</fr:month>
               <fr:day>5</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0008.tree</fr:source-path>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-0008.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AG-0008/</fr:uri>
             <fr:display-uri>AG-0008</fr:display-uri>
             <fr:route>/AG-0008/</fr:route>
@@ -768,7 +908,7 @@ Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_
               <fr:month>11</fr:month>
               <fr:day>5</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0004.tree</fr:source-path>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-0004.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AG-0004/</fr:uri>
             <fr:display-uri>AG-0004</fr:display-uri>
             <fr:route>/AG-0004/</fr:route>
@@ -798,7 +938,7 @@ Si ahora <fr:tex display="inline"><![CDATA[A=k[x_1,\dots ,x_n] = k[X_1,\dots ,X_
               <fr:month>11</fr:month>
               <fr:day>5</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0003.tree</fr:source-path>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-0003.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AG-0003/</fr:uri>
             <fr:display-uri>AG-0003</fr:display-uri>
             <fr:route>/AG-0003/</fr:route>

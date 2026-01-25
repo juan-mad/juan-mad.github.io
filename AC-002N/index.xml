@@ -114,7 +114,7 @@ Como consecuencia de este teorema, se tiene que si <fr:tex display="inline"><![C
               <fr:month>11</fr:month>
               <fr:day>5</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000A.tree</fr:source-path>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000A.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AG-000A/</fr:uri>
             <fr:display-uri>AG-000A</fr:display-uri>
             <fr:route>/AG-000A/</fr:route>
@@ -183,7 +183,7 @@ La contención <fr:tex display="inline"><![CDATA[I(V(J))\subset  \sqrt {J}]]></f
               <fr:month>11</fr:month>
               <fr:day>5</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0009.tree</fr:source-path>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-0009.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AG-0009/</fr:uri>
             <fr:display-uri>AG-0009</fr:display-uri>
             <fr:route>/AG-0009/</fr:route>
@@ -209,7 +209,7 @@ La contención <fr:tex display="inline"><![CDATA[I(V(J))\subset  \sqrt {J}]]></f
               <fr:month>11</fr:month>
               <fr:day>5</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-0003.tree</fr:source-path>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-0003.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AG-0003/</fr:uri>
             <fr:display-uri>AG-0003</fr:display-uri>
             <fr:route>/AG-0003/</fr:route>

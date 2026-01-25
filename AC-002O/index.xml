@@ -154,7 +154,7 @@
               <fr:month>1</fr:month>
               <fr:day>22</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000J.tree</fr:source-path>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000J.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AG-000J/</fr:uri>
             <fr:display-uri>AG-000J</fr:display-uri>
             <fr:route>/AG-000J/</fr:route>
