@@ -76,6 +76,34 @@
             <fr:date>
               <fr:year>2026</fr:year>
               <fr:month>1</fr:month>
+              <fr:day>25</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-002T.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AC-002T/</fr:uri>
+            <fr:display-uri>AC-002T</fr:display-uri>
+            <fr:route>/AC-002T/</fr:route>
+            <fr:title text="Ideal homogéneo">Ideal homogéneo</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/lang-algebra/" title="Algebra" uri="https://juan-mad.github.io/lang-algebra/" display-uri="lang-algebra" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un ideal <fr:tex display="inline"><![CDATA[I\subset  A]]></fr:tex> de un <fr:link href="/AC-002S/" title="Anillo graduado" uri="https://juan-mad.github.io/AC-002S/" display-uri="AC-002S" type="local">anillo graduado</fr:link> <fr:tex display="inline"><![CDATA[A=\bigoplus _nA_n]]></fr:tex> se dice que es un <html:em>ideal homogéneo</html:em> si <fr:tex display="block"><![CDATA[I = \bigoplus _{n=}^\infty  (I\cap  A_n).]]></fr:tex></html:p>
+            <html:p>La suma, producto, intersección y el <fr:link href="/AC-002L/" title="Radical de un ideal e ideal radical" uri="https://juan-mad.github.io/AC-002L/" display-uri="AC-002L" type="local">radical</fr:link> de un ideal homogéneo es de nuevo un ideal homogéneo.</html:p>
+            <html:p>Para comprobar que un ideal homogéneo es <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">primo</fr:link>, basta con comprobar que dos elementos <fr:tex display="inline"><![CDATA[f,g \in  A]]></fr:tex> homogéneos cualesquiera, entonces <fr:tex display="inline"><![CDATA[fg\in  I]]></fr:tex> implica que o bien <fr:tex display="inline"><![CDATA[f\in  I]]></fr:tex> o bien <fr:tex display="inline"><![CDATA[g\in  I]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
               <fr:day>9</fr:day>
             </fr:date>
             <fr:source-path>/hdd1/Projects/Forester/forest/trees/angeom/ANGEOM-000M.tree</fr:source-path>
@@ -124,7 +152,7 @@
             </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo algebraicamente cerrado. <html:ol><html:li>Si <fr:tex display="inline"><![CDATA[J\subsetneq  k[X_1,\dots ,X_n]]]></fr:tex> es un <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link> propio, entonces el <fr:link href="/AG-0003/" title="Conjunto algebraico" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjunto algebraico</fr:link> <fr:tex display="inline"><![CDATA[V(J)\neq  \emptyset ]]></fr:tex>.</html:li>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo algebraicamente cerrado. <html:ol><html:li>Si <fr:tex display="inline"><![CDATA[J\subsetneq  k[X_1,\dots ,X_n]]]></fr:tex> es un <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideal</fr:link> propio, entonces el <fr:link href="/AG-0003/" title="Conjunto algebraico afín" uri="https://juan-mad.github.io/AG-0003/" display-uri="AG-0003" type="local">conjunto algebraico</fr:link> <fr:tex display="inline"><![CDATA[V(J)\neq  \emptyset ]]></fr:tex>.</html:li>
 <html:li><fr:tex display="inline"><![CDATA[I(V(J)) = \sqrt {J}]]></fr:tex>, donde <fr:tex display="inline"><![CDATA[I(V(J))]]></fr:tex> es el <fr:link href="/AG-0009/" title="Ideal de polinomios que se anulan en un subconjunto del espacio afín" uri="https://juan-mad.github.io/AG-0009/" display-uri="AG-0009" type="local">ideal de los polinomios que se anulan en <fr:tex display="inline"><![CDATA[V(J)]]></fr:tex></fr:link>.</html:li></html:ol>
 
 Como consecuencia de este teorema, se tiene que si <fr:tex display="inline"><![CDATA[J_1,J_2\subset  A=k[X_1,\dots ,X_n]]]></fr:tex> son dos <fr:link href="/AC-0004/" title="Ideales de un anillo" uri="https://juan-mad.github.io/AC-0004/" display-uri="AC-0004" type="local">ideales</fr:link>, entonces <fr:tex display="block"><![CDATA[V(J_1) = V(J_2) \,\,\,\Longrightarrow  \,\,\,\sqrt {J_1} = \sqrt {J_2}.]]></fr:tex></html:p>
@@ -158,7 +186,7 @@ Como consecuencia de este teorema, se tiene que si <fr:tex display="inline"><![C
 <html:li>Si <fr:tex display="inline"><![CDATA[Y_1\subset  Y_2]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[I(Y_1)\supset  I(Y_2)]]></fr:tex>.</html:li>
 <html:li><fr:tex display="inline"><![CDATA[I(Y_1\cup  Y_2) = I(Y_1) \cap  I(Y_2).]]></fr:tex></html:li>
 <html:li>Para un ideal <fr:tex display="inline"><![CDATA[J\subset  A]]></fr:tex>, <fr:tex display="inline"><![CDATA[I(V(J)) = \sqrt {J}]]></fr:tex>, el <fr:link href="/AC-002L/" title="Radical de un ideal e ideal radical" uri="https://juan-mad.github.io/AC-002L/" display-uri="AC-002L" type="local">ideal radical</fr:link> de <fr:tex display="inline"><![CDATA[J]]></fr:tex>.</html:li>
-<html:li>Para un subconjunto <fr:tex display="inline"><![CDATA[Y\subset  \mathbb  A^n]]></fr:tex>, se tiene que <fr:tex display="inline"><![CDATA[V(I(Y)) = \bar  Y]]></fr:tex>, la adherencia de <fr:tex display="inline"><![CDATA[Y]]></fr:tex> en la <fr:link href="/AG-0005/" title="Topología de Zariski" uri="https://juan-mad.github.io/AG-0005/" display-uri="AG-0005" type="local">topología de Zariski</fr:link>.</html:li></html:ol>
+<html:li>Para un subconjunto <fr:tex display="inline"><![CDATA[Y\subset  \mathbb  A^n]]></fr:tex>, se tiene que <fr:tex display="inline"><![CDATA[V(I(Y)) = \bar  Y]]></fr:tex>, la adherencia de <fr:tex display="inline"><![CDATA[Y]]></fr:tex> en la <fr:link href="/AG-0005/" title="Topología de Zariski en el espacio afín" uri="https://juan-mad.github.io/AG-0005/" display-uri="AG-0005" type="local">topología de Zariski</fr:link>.</html:li></html:ol>
 La contención <fr:tex display="inline"><![CDATA[I(V(J))\subset  \sqrt {J}]]></fr:tex> es consecuencia del <fr:link href="/AC-002N/" title="Teorema de los ceros de Hilbert (Nullstellenstaz)" uri="https://juan-mad.github.io/AC-002N/" display-uri="AC-002N" type="local">Teorema de los ceros de Hilbert</fr:link>.
 </html:p>
           </fr:mainmatter>

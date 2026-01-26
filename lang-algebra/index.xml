@@ -48,30 +48,6 @@
               <fr:month>1</fr:month>
               <fr:day>25</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-002U.tree</fr:source-path>
-            <fr:uri>https://juan-mad.github.io/AC-002U/</fr:uri>
-            <fr:display-uri>AC-002U</fr:display-uri>
-            <fr:route>/AC-002U/</fr:route>
-            <fr:title text="Ideal homogéneo">Ideal homogéneo</fr:title>
-            <fr:taxon>Definición</fr:taxon>
-            <fr:meta name="sources">
-              <fr:link href="/lang-algebra/" title="Algebra" uri="https://juan-mad.github.io/lang-algebra/" display-uri="lang-algebra" type="local" />
-            </fr:meta>
-          </fr:frontmatter>
-          <fr:mainmatter />
-        </fr:tree>
-        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-          <fr:frontmatter>
-            <fr:authors>
-              <fr:author>
-                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
-              </fr:author>
-            </fr:authors>
-            <fr:date>
-              <fr:year>2026</fr:year>
-              <fr:month>1</fr:month>
-              <fr:day>25</fr:day>
-            </fr:date>
             <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-002T.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AC-002T/</fr:uri>
             <fr:display-uri>AC-002T</fr:display-uri>
@@ -83,7 +59,9 @@
             </fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>Un ideal <fr:tex display="inline"><![CDATA[I\subset  A]]></fr:tex> de un <fr:link href="https://juan-mad.github.io/AC-0002S/" type="external">anillo graduado</fr:link> <fr:tex display="inline"><![CDATA[A=\bigoplus _nA_n]]></fr:tex> se dice que es un <html:em>ideal homogéneo</html:em> si <fr:tex display="block"><![CDATA[I = \bigoplus _{n=}^\infty  (I\cap  A_n).]]></fr:tex></html:p>
+            <html:p>Un ideal <fr:tex display="inline"><![CDATA[I\subset  A]]></fr:tex> de un <fr:link href="/AC-002S/" title="Anillo graduado" uri="https://juan-mad.github.io/AC-002S/" display-uri="AC-002S" type="local">anillo graduado</fr:link> <fr:tex display="inline"><![CDATA[A=\bigoplus _nA_n]]></fr:tex> se dice que es un <html:em>ideal homogéneo</html:em> si <fr:tex display="block"><![CDATA[I = \bigoplus _{n=}^\infty  (I\cap  A_n).]]></fr:tex></html:p>
+            <html:p>La suma, producto, intersección y el <fr:link href="/AC-002L/" title="Radical de un ideal e ideal radical" uri="https://juan-mad.github.io/AC-002L/" display-uri="AC-002L" type="local">radical</fr:link> de un ideal homogéneo es de nuevo un ideal homogéneo.</html:p>
+            <html:p>Para comprobar que un ideal homogéneo es <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">primo</fr:link>, basta con comprobar que dos elementos <fr:tex display="inline"><![CDATA[f,g \in  A]]></fr:tex> homogéneos cualesquiera, entonces <fr:tex display="inline"><![CDATA[fg\in  I]]></fr:tex> implica que o bien <fr:tex display="inline"><![CDATA[f\in  I]]></fr:tex> o bien <fr:tex display="inline"><![CDATA[g\in  I]]></fr:tex>.</html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">

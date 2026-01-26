@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2026</fr:year>
+      <fr:month>1</fr:month>
+      <fr:day>25</fr:day>
+    </fr:date>
+    <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/projective-varieties/AG-000T.tree</fr:source-path>
+    <fr:uri>https://juan-mad.github.io/AG-000T/</fr:uri>
+    <fr:display-uri>AG-000T</fr:display-uri>
+    <fr:route>/AG-000T/</fr:route>
+    <fr:title text="Operaciones de conjuntos entre conjuntos algebraicos proyectivos">Operaciones de conjuntos entre conjuntos algebraicos proyectivos</fr:title>
+    <fr:taxon>Proposición</fr:taxon>
+    <fr:meta name="sources">
+      <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>
+      <html:ul><html:li>Si <fr:tex display="inline"><![CDATA[Y_1, Y_2]]></fr:tex> son dos <fr:link href="/AG-000S/" title="Conjunto algebraico proyectivo" uri="https://juan-mad.github.io/AG-000S/" display-uri="AG-000S" type="local">conjuntos algebraicos</fr:link>, entonces su unión es un conjunto algebraico. De hecho, <fr:tex display="block"><![CDATA[Y_1=V(T_1),\,\,Y_2=V(T_2)\,\,\Longrightarrow \,\, Y_1\cup  Y_2 = V(T_1\cdot  T_2).]]></fr:tex></html:li>
+<html:li>Si <fr:tex display="inline"><![CDATA[\{Y_\alpha  = V(T_\alpha )\}_{\alpha \in  I}]]></fr:tex> es una familia de <fr:link href="/AG-000S/" title="Conjunto algebraico proyectivo" uri="https://juan-mad.github.io/AG-000S/" display-uri="AG-000S" type="local">conjuntos algebraicos</fr:link>, entonces su intersección es un conjunto algebraico. De hecho, <fr:tex display="block"><![CDATA[\bigcap _{\alpha \in  I} Y_\alpha  = V\left (\bigcup _{\alpha  \in  I}T_\alpha \right )]]></fr:tex></html:li>
+<html:li>El conjunto vacío y el <fr:link href="/AG-000R/" title="Espacio proyectivo n-dimensional" uri="https://juan-mad.github.io/AG-000R/" display-uri="AG-000R" type="local">espacio afín</fr:link> son conjuntos algebraicos, correspondientes a <fr:tex display="inline"><![CDATA[V(\{1\})]]></fr:tex> y <fr:tex display="inline"><![CDATA[V(\emptyset )]]></fr:tex>.</html:li></html:ul>
+    </html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="https://juan-mad.github.io/Robin%20Hartshorne/" type="external">Robin Hartshorne</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/refs/algebraic-geometry-hartshorne.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/algebraic-geometry-hartshorne/</fr:uri>
+            <fr:display-uri>algebraic-geometry-hartshorne</fr:display-uri>
+            <fr:route>/algebraic-geometry-hartshorne/</fr:route>
+            <fr:title text="Algebraic Geometry">Algebraic Geometry</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>25</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/AG-000Q.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AG-000Q/</fr:uri>
+            <fr:display-uri>AG-000Q</fr:display-uri>
+            <fr:route>/AG-000Q/</fr:route>
+            <fr:title text="Variedades proyectivas">Variedades proyectivas</fr:title>
+            <fr:taxon>Tema</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>La definición de variedades proyectivas se realiza de forma análoga a la de <fr:link href="/AG-0001/" title="Variedades afines" uri="https://juan-mad.github.io/AG-0001/" display-uri="AG-0001" type="local">variedades afines</fr:link>.</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>25</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/projective-varieties/AG-000R.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000R/</fr:uri>
+                <fr:display-uri>AG-000R</fr:display-uri>
+                <fr:route>/AG-000R/</fr:route>
+                <fr:title text="Espacio proyectivo n-dimensional">Espacio proyectivo <fr:tex display="inline"><![CDATA[n]]></fr:tex>-dimensional</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo algebraicamente cerrado. Se define el <html:em>espacio proyectivo <fr:tex display="inline"><![CDATA[n]]></fr:tex>-dimensional sobre <fr:tex display="inline"><![CDATA[k]]></fr:tex></html:em>, denotado por <fr:tex display="inline"><![CDATA[\mathbb  P^n_k]]></fr:tex> ó <fr:tex display="inline"><![CDATA[\mathbb  P^n]]></fr:tex>, como el conjunto de las clases de equivalencia de <fr:tex display="inline"><![CDATA[(n+1)]]></fr:tex>-tuplas <fr:tex display="inline"><![CDATA[(a_0,\dots ,a_n)]]></fr:tex> de elementos de <fr:tex display="inline"><![CDATA[k]]></fr:tex>, no todos cero, bajo la relación de equivalencia <fr:tex display="block"><![CDATA[(a_0,\dots ,a_n)\sim  (\lambda  a_0,\dots , \lambda  a_n) \,\,\, \forall  \lambda \in  k\setminus \{0\}.]]></fr:tex> Dicho de otro modo, es el conjunto dado por el cociente de <fr:tex display="block"><![CDATA[\mathbb  A^{n+1}\setminus \{0\}]]></fr:tex> bajo la relación de equivalencia que identifica puntos que pertenecen a una misma recta que pasa por el origen.</html:p>
+                <html:p>Un elemento <fr:tex display="inline"><![CDATA[P\in \mathbb  P^n]]></fr:tex> es un <html:em>punto</html:em>, y cualquier <fr:tex display="inline"><![CDATA[(n+1)]]></fr:tex>-tupla <fr:tex display="inline"><![CDATA[(a_0,\dots ,a_n)]]></fr:tex> en la clase de equivalencia <fr:tex display="inline"><![CDATA[P]]></fr:tex> es un <html:em>conjunto de coordenadas homogéneas de <fr:tex display="inline"><![CDATA[P]]></fr:tex></html:em>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>Recordamos también los anillos graduados e ideales homogéneos.</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>25</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-002S.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AC-002S/</fr:uri>
+                <fr:display-uri>AC-002S</fr:display-uri>
+                <fr:route>/AC-002S/</fr:route>
+                <fr:title text="Anillo graduado">Anillo graduado</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/lang-algebra/" title="Algebra" uri="https://juan-mad.github.io/lang-algebra/" display-uri="lang-algebra" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Se dice que un <fr:link href="/AC-0002/" title="Anillos" uri="https://juan-mad.github.io/AC-0002/" display-uri="AC-0002" type="local">anillo</fr:link> <fr:tex display="inline"><![CDATA[A]]></fr:tex> es <html:em>graduado</html:em> (por <fr:tex display="inline"><![CDATA[\{0,1,2\dots \}]]></fr:tex>) si puede escribirse como una suma directa <fr:tex display="block"><![CDATA[A = \bigoplus _{n=0}^\infty  A_n,]]></fr:tex> donde cada <fr:tex display="inline"><![CDATA[A_n]]></fr:tex> es un grupo abeliano tal que si <fr:tex display="inline"><![CDATA[n,m\geq  0]]></fr:tex> entonces <fr:tex display="inline"><![CDATA[A_n\cdot  A_m\subset  A_{n+m}]]></fr:tex>. Un elemento de <fr:tex display="inline"><![CDATA[A_n]]></fr:tex> es un <html:em>elemento homogéneo de grado <fr:tex display="inline"><![CDATA[n]]></fr:tex></html:em>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>25</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algebra/anillos/AC-002T.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AC-002T/</fr:uri>
+                <fr:display-uri>AC-002T</fr:display-uri>
+                <fr:route>/AC-002T/</fr:route>
+                <fr:title text="Ideal homogéneo">Ideal homogéneo</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/lang-algebra/" title="Algebra" uri="https://juan-mad.github.io/lang-algebra/" display-uri="lang-algebra" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un ideal <fr:tex display="inline"><![CDATA[I\subset  A]]></fr:tex> de un <fr:link href="/AC-002S/" title="Anillo graduado" uri="https://juan-mad.github.io/AC-002S/" display-uri="AC-002S" type="local">anillo graduado</fr:link> <fr:tex display="inline"><![CDATA[A=\bigoplus _nA_n]]></fr:tex> se dice que es un <html:em>ideal homogéneo</html:em> si <fr:tex display="block"><![CDATA[I = \bigoplus _{n=}^\infty  (I\cap  A_n).]]></fr:tex></html:p>
+                <html:p>La suma, producto, intersección y el <fr:link href="/AC-002L/" title="Radical de un ideal e ideal radical" uri="https://juan-mad.github.io/AC-002L/" display-uri="AC-002L" type="local">radical</fr:link> de un ideal homogéneo es de nuevo un ideal homogéneo.</html:p>
+                <html:p>Para comprobar que un ideal homogéneo es <fr:link href="/AC-0006/" title="Ideales primos" uri="https://juan-mad.github.io/AC-0006/" display-uri="AC-0006" type="local">primo</fr:link>, basta con comprobar que dos elementos <fr:tex display="inline"><![CDATA[f,g \in  A]]></fr:tex> homogéneos cualesquiera, entonces <fr:tex display="inline"><![CDATA[fg\in  I]]></fr:tex> implica que o bien <fr:tex display="inline"><![CDATA[f\in  I]]></fr:tex> o bien <fr:tex display="inline"><![CDATA[g\in  I]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>El anillo de polinomios <fr:tex display="inline"><![CDATA[S=k[x_1,\dots ,x_n]]]></fr:tex> es un anillo graduado tomando como <fr:tex display="inline"><![CDATA[S_d]]></fr:tex> el conjunto generado por las combinaciones lineales de monomios <fr:tex display="inline"><![CDATA[x_0^{s_0}\cdots  x_n^{s_n}]]></fr:tex> con <fr:tex display="inline"><![CDATA[s_0+\cdots  + s_n = d]]></fr:tex>.</html:p>
+            <html:p>Un polinomio general <fr:tex display="inline"><![CDATA[f\in  S]]></fr:tex> puede no definir una función en <fr:tex display="inline"><![CDATA[\mathbb  P^n]]></fr:tex>, pues las coordeanadas homogéneas no son únicas. Sin embargo, si <fr:tex display="inline"><![CDATA[f]]></fr:tex> es un polinomio homogéneo de grado <fr:tex display="inline"><![CDATA[d]]></fr:tex>, es decir, <fr:tex display="inline"><![CDATA[f\in  S_d]]></fr:tex>, entonces <fr:tex display="block"><![CDATA[f(\lambda  a_0,\dots , \lambda  a_n) = \lambda ^d f(a_0,\dots ,a_n),]]></fr:tex> luego el hecho de tomar el valor <fr:tex display="inline"><![CDATA[0]]></fr:tex> o no depende solamente de la clase de equivalencia de <fr:tex display="inline"><![CDATA[(a_0,\dots ,a_n)]]></fr:tex>. Entonces <fr:tex display="inline"><![CDATA[f]]></fr:tex> define una función <fr:tex display="inline"><![CDATA[\mathbb  P^n
+\rightarrow \{0,1\}]]></fr:tex> por <fr:tex display="block"><![CDATA[\begin {cases} f(P) = 0 & \text { si } f(a_0,\dots ,a_n) =0 \\ f(P) = 1 & \text  { si } f(a_0,\dots ,a_n)\neq  0. \end {cases}]]></fr:tex>
+De esta forma podemos hablar de los <html:em>ceros</html:em> de un polinomio homogéneo <fr:tex display="inline"><![CDATA[f]]></fr:tex>, es decir, <fr:tex display="block"><![CDATA[Z(f) = \{P\in \mathbb  P^n : f(P) = 0\}]]></fr:tex>. En general, si <fr:tex display="inline"><![CDATA[T\subset  S]]></fr:tex> es un conjunto de polinomios homogéneos, definimos el <html:em>conjunto de ceros de <fr:tex display="inline"><![CDATA[T]]></fr:tex></html:em> como <fr:tex display="block"><![CDATA[V(T) = \{ P\in \mathbb  P^n : f(P) = 0, \,\forall  f\in  T \}]]></fr:tex> Si <fr:tex display="inline"><![CDATA[I\subset  S]]></fr:tex> es un <fr:link href="/AC-002T/" title="Ideal homogéneo" uri="https://juan-mad.github.io/AC-002T/" display-uri="AC-002T" type="local">dideal homogéneo</fr:link> de <fr:tex display="inline"><![CDATA[S]]></fr:tex>, definimos <fr:tex display="inline"><![CDATA[V(I) = V(T)]]></fr:tex>, donde <fr:tex display="inline"><![CDATA[T]]></fr:tex> es el conjunto de todos los elementos homogéneos de <fr:tex display="inline"><![CDATA[I]]></fr:tex>. Puesto que <fr:tex display="inline"><![CDATA[S]]></fr:tex> es un <fr:link href="/AC-001L/" title="Anillo noetheriano" uri="https://juan-mad.github.io/AC-001L/" display-uri="AC-001L" type="local">anillo noetheriano</fr:link>, entonces cualquier subconjunto de elementos homogéneos <fr:tex display="inline"><![CDATA[T]]></fr:tex> tiene un subconjunto finito <fr:tex display="inline"><![CDATA[f_1,\dots , f_r]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[Z(T) = Z(f_1,\dots ,f_r)]]></fr:tex>.
+</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>25</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/projective-varieties/AG-000S.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000S/</fr:uri>
+                <fr:display-uri>AG-000S</fr:display-uri>
+                <fr:route>/AG-000S/</fr:route>
+                <fr:title text="Conjunto algebraico proyectivo">Conjunto algebraico proyectivo</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Un subconjunto <fr:tex display="inline"><![CDATA[Y\subset  \mathbb  P^n]]></fr:tex> del <fr:link href="/AG-000R/" title="Espacio proyectivo n-dimensional" uri="https://juan-mad.github.io/AG-000R/" display-uri="AG-000R" type="local">espacio proyectivo</fr:link> es un <html:em>conjunto algebraico</html:em> si existe un conjunto <fr:tex display="inline"><![CDATA[T]]></fr:tex> de elementos homogéneos de <fr:tex display="inline"><![CDATA[S]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[Y=V(T)]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>25</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/projective-varieties/AG-000T.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000T/</fr:uri>
+                <fr:display-uri>AG-000T</fr:display-uri>
+                <fr:route>/AG-000T/</fr:route>
+                <fr:title text="Operaciones de conjuntos entre conjuntos algebraicos proyectivos">Operaciones de conjuntos entre conjuntos algebraicos proyectivos</fr:title>
+                <fr:taxon>Proposición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>
+                  <html:ul><html:li>Si <fr:tex display="inline"><![CDATA[Y_1, Y_2]]></fr:tex> son dos <fr:link href="/AG-000S/" title="Conjunto algebraico proyectivo" uri="https://juan-mad.github.io/AG-000S/" display-uri="AG-000S" type="local">conjuntos algebraicos</fr:link>, entonces su unión es un conjunto algebraico. De hecho, <fr:tex display="block"><![CDATA[Y_1=V(T_1),\,\,Y_2=V(T_2)\,\,\Longrightarrow \,\, Y_1\cup  Y_2 = V(T_1\cdot  T_2).]]></fr:tex></html:li>
+<html:li>Si <fr:tex display="inline"><![CDATA[\{Y_\alpha  = V(T_\alpha )\}_{\alpha \in  I}]]></fr:tex> es una familia de <fr:link href="/AG-000S/" title="Conjunto algebraico proyectivo" uri="https://juan-mad.github.io/AG-000S/" display-uri="AG-000S" type="local">conjuntos algebraicos</fr:link>, entonces su intersección es un conjunto algebraico. De hecho, <fr:tex display="block"><![CDATA[\bigcap _{\alpha \in  I} Y_\alpha  = V\left (\bigcup _{\alpha  \in  I}T_\alpha \right )]]></fr:tex></html:li>
+<html:li>El conjunto vacío y el <fr:link href="/AG-000R/" title="Espacio proyectivo n-dimensional" uri="https://juan-mad.github.io/AG-000R/" display-uri="AG-000R" type="local">espacio afín</fr:link> son conjuntos algebraicos, correspondientes a <fr:tex display="inline"><![CDATA[V(\{1\})]]></fr:tex> y <fr:tex display="inline"><![CDATA[V(\emptyset )]]></fr:tex>.</html:li></html:ul>
+                </html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>25</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/projective-varieties/AG-000U.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000U/</fr:uri>
+                <fr:display-uri>AG-000U</fr:display-uri>
+                <fr:route>/AG-000U/</fr:route>
+                <fr:title text="Topología de Zariski en el espacio proyectivo">Topología de Zariski en el espacio proyectivo</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Se define la <html:em>topología de Zariski</html:em> en <fr:tex display="inline"><![CDATA[\mathbb  P^n]]></fr:tex> tomando como conjuntos abiertos los complementarios de <fr:link href="/AG-000S/" title="Conjunto algebraico proyectivo" uri="https://juan-mad.github.io/AG-000S/" display-uri="AG-000S" type="local">conjuntos algebraicos</fr:link>. Estos <fr:link href="/AG-000T/" title="Operaciones de conjuntos entre conjuntos algebraicos proyectivos" uri="https://juan-mad.github.io/AG-000T/" display-uri="AG-000T" type="local">cumplen las propiedades necesarias</fr:link> de una topología.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <html:p>De nuevo, análogamente a las variedades afines, definimos las variedades proyectivas y su dimensión:</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>26</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/projective-varieties/AG-000W.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000W/</fr:uri>
+                <fr:display-uri>AG-000W</fr:display-uri>
+                <fr:route>/AG-000W/</fr:route>
+                <fr:title text="Variedades algebraicas proyectivas y cuasi-proyectivas">Variedades algebraicas proyectivas y cuasi-proyectivas</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Una <html:em>variedad (algebraica) proyectiva</html:em> es un <fr:link href="/AG-000S/" title="Conjunto algebraico proyectivo" uri="https://juan-mad.github.io/AG-000S/" display-uri="AG-000S" type="local">conjunto algebraico</fr:link> <fr:link href="/AG-0006/" title="Conjunto irreducible" uri="https://juan-mad.github.io/AG-0006/" display-uri="AG-0006" type="local">irreducible</fr:link> de <fr:tex display="inline"><![CDATA[\mathbb  P^n]]></fr:tex> con la <fr:link href="/AG-000U/" title="Topología de Zariski en el espacio proyectivo" uri="https://juan-mad.github.io/AG-000U/" display-uri="AG-000U" type="local">topología inducida</fr:link>.</html:p>
+                <html:p>Una <html:em>variedad cuasi-proyectiva</html:em> es un subconjunto abierto de una variedad proyectiva.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>26</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/projective-varieties/AG-000X.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000X/</fr:uri>
+                <fr:display-uri>AG-000X</fr:display-uri>
+                <fr:route>/AG-000X/</fr:route>
+                <fr:title text="Dimensión de una variedad proyectiva o cuasi-proyectiva">Dimensión de una variedad proyectiva o cuasi-proyectiva</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Se define la <html:em>dimensión</html:em> de una <fr:link href="/AG-000W/" title="Variedades algebraicas proyectivas y cuasi-proyectivas" uri="https://juan-mad.github.io/AG-000W/" display-uri="AG-000W" type="local">variedad proyectiva o cuasi-proyectiva</fr:link> como su <fr:link href="/AG-000H/" title="Dimensión de un espacio topológico basada en conjuntos irreducibles" uri="https://juan-mad.github.io/AG-000H/" display-uri="AG-000H" type="local">dimensión como espacio topológico</fr:link>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>26</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/projective-varieties/AG-000Y.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000Y/</fr:uri>
+                <fr:display-uri>AG-000Y</fr:display-uri>
+                <fr:route>/AG-000Y/</fr:route>
+                <fr:title text="Ideal homogéneo que se anula en un subconjunto del espacio proyectivo">Ideal homogéneo que se anula en un subconjunto del espacio proyectivo</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Dado un subconjunto <fr:tex display="inline"><![CDATA[Y]]></fr:tex> del <fr:link href="/AG-000R/" title="Espacio proyectivo n-dimensional" uri="https://juan-mad.github.io/AG-000R/" display-uri="AG-000R" type="local">espacio proyectivo</fr:link>, definimos el <html:em>ideal homogéneo de <fr:tex display="inline"><![CDATA[Y]]></fr:tex></html:em> en <fr:tex display="inline"><![CDATA[S=k[x_0,\dots ,x_n]]]></fr:tex>, denotado <fr:tex display="inline"><![CDATA[I(Y)]]></fr:tex>, como el ideal genrado por <fr:tex display="block"><![CDATA[ \{ f\in  S : f \text { es homogéneo y } f(P) = 0 \text { para todo } P\in  Y \}. ]]></fr:tex></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>26</fr:day>
+                </fr:date>
+                <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/projective-varieties/AG-000Z.tree</fr:source-path>
+                <fr:uri>https://juan-mad.github.io/AG-000Z/</fr:uri>
+                <fr:display-uri>AG-000Z</fr:display-uri>
+                <fr:route>/AG-000Z/</fr:route>
+                <fr:title text="Anillo coordenado homogéneo">Anillo coordenado homogéneo</fr:title>
+                <fr:taxon>Definición</fr:taxon>
+                <fr:meta name="sources">
+                  <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+                </fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Dado un <fr:link href="/AG-000S/" title="Conjunto algebraico proyectivo" uri="https://juan-mad.github.io/AG-000S/" display-uri="AG-000S" type="local">conjunto algebraico proyectivo</fr:link> <fr:tex display="inline"><![CDATA[Y\subset \mathbb  P^n]]></fr:tex>, se define el <html:em>anillo coordenado homogéneo</html:em> de <fr:tex display="inline"><![CDATA[Y]]></fr:tex> como el cociente <fr:tex display="inline"><![CDATA[S(Y) = S/I(Y)]]></fr:tex>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>25</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/projective-varieties/AG-000U.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AG-000U/</fr:uri>
+            <fr:display-uri>AG-000U</fr:display-uri>
+            <fr:route>/AG-000U/</fr:route>
+            <fr:title text="Topología de Zariski en el espacio proyectivo">Topología de Zariski en el espacio proyectivo</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Se define la <html:em>topología de Zariski</html:em> en <fr:tex display="inline"><![CDATA[\mathbb  P^n]]></fr:tex> tomando como conjuntos abiertos los complementarios de <fr:link href="/AG-000S/" title="Conjunto algebraico proyectivo" uri="https://juan-mad.github.io/AG-000S/" display-uri="AG-000S" type="local">conjuntos algebraicos</fr:link>. Estos <fr:link href="/AG-000T/" title="Operaciones de conjuntos entre conjuntos algebraicos proyectivos" uri="https://juan-mad.github.io/AG-000T/" display-uri="AG-000T" type="local">cumplen las propiedades necesarias</fr:link> de una topología.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>25</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/projective-varieties/AG-000S.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AG-000S/</fr:uri>
+            <fr:display-uri>AG-000S</fr:display-uri>
+            <fr:route>/AG-000S/</fr:route>
+            <fr:title text="Conjunto algebraico proyectivo">Conjunto algebraico proyectivo</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Un subconjunto <fr:tex display="inline"><![CDATA[Y\subset  \mathbb  P^n]]></fr:tex> del <fr:link href="/AG-000R/" title="Espacio proyectivo n-dimensional" uri="https://juan-mad.github.io/AG-000R/" display-uri="AG-000R" type="local">espacio proyectivo</fr:link> es un <html:em>conjunto algebraico</html:em> si existe un conjunto <fr:tex display="inline"><![CDATA[T]]></fr:tex> de elementos homogéneos de <fr:tex display="inline"><![CDATA[S]]></fr:tex> tal que <fr:tex display="inline"><![CDATA[Y=V(T)]]></fr:tex>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/juanmad/" title="Juan Marcos Arranz Díez" uri="https://juan-mad.github.io/juanmad/" display-uri="juanmad" type="local">Juan Marcos Arranz Díez</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2026</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>25</fr:day>
+            </fr:date>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/projective-varieties/AG-000R.tree</fr:source-path>
+            <fr:uri>https://juan-mad.github.io/AG-000R/</fr:uri>
+            <fr:display-uri>AG-000R</fr:display-uri>
+            <fr:route>/AG-000R/</fr:route>
+            <fr:title text="Espacio proyectivo n-dimensional">Espacio proyectivo <fr:tex display="inline"><![CDATA[n]]></fr:tex>-dimensional</fr:title>
+            <fr:taxon>Definición</fr:taxon>
+            <fr:meta name="sources">
+              <fr:link href="/algebraic-geometry-hartshorne/" title="Algebraic Geometry" uri="https://juan-mad.github.io/algebraic-geometry-hartshorne/" display-uri="algebraic-geometry-hartshorne" type="local" />
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Sea <fr:tex display="inline"><![CDATA[k]]></fr:tex> un cuerpo algebraicamente cerrado. Se define el <html:em>espacio proyectivo <fr:tex display="inline"><![CDATA[n]]></fr:tex>-dimensional sobre <fr:tex display="inline"><![CDATA[k]]></fr:tex></html:em>, denotado por <fr:tex display="inline"><![CDATA[\mathbb  P^n_k]]></fr:tex> ó <fr:tex display="inline"><![CDATA[\mathbb  P^n]]></fr:tex>, como el conjunto de las clases de equivalencia de <fr:tex display="inline"><![CDATA[(n+1)]]></fr:tex>-tuplas <fr:tex display="inline"><![CDATA[(a_0,\dots ,a_n)]]></fr:tex> de elementos de <fr:tex display="inline"><![CDATA[k]]></fr:tex>, no todos cero, bajo la relación de equivalencia <fr:tex display="block"><![CDATA[(a_0,\dots ,a_n)\sim  (\lambda  a_0,\dots , \lambda  a_n) \,\,\, \forall  \lambda \in  k\setminus \{0\}.]]></fr:tex> Dicho de otro modo, es el conjunto dado por el cociente de <fr:tex display="block"><![CDATA[\mathbb  A^{n+1}\setminus \{0\}]]></fr:tex> bajo la relación de equivalencia que identifica puntos que pertenecen a una misma recta que pasa por el origen.</html:p>
+            <html:p>Un elemento <fr:tex display="inline"><![CDATA[P\in \mathbb  P^n]]></fr:tex> es un <html:em>punto</html:em>, y cualquier <fr:tex display="inline"><![CDATA[(n+1)]]></fr:tex>-tupla <fr:tex display="inline"><![CDATA[(a_0,\dots ,a_n)]]></fr:tex> en la clase de equivalencia <fr:tex display="inline"><![CDATA[P]]></fr:tex> es un <html:em>conjunto de coordenadas homogéneas de <fr:tex display="inline"><![CDATA[P]]></fr:tex></html:em>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
