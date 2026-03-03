@@ -75,7 +75,7 @@
               <fr:month>1</fr:month>
               <fr:day>25</fr:day>
             </fr:date>
-            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/affine-varieties/AG-000O.tree</fr:source-path>
+            <fr:source-path>/hdd1/Projects/Forester/forest/trees/algeom/varieties/01-affine-varieties/AG-000O.tree</fr:source-path>
             <fr:uri>https://juan-mad.github.io/AG-000O/</fr:uri>
             <fr:display-uri>AG-000O</fr:display-uri>
             <fr:route>/AG-000O/</fr:route>
