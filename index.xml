@@ -6,6 +6,22 @@
     <description>Recent content on zazenson</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Tue, 06 Oct 2026 18:16:35 +0200</lastBuildDate>
     <atom:link href="https://www.zazenson.es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://www.zazenson.es/about-me/</link>
+      <pubDate>Tue, 06 Oct 2026 18:16:35 +0200</pubDate>
+      <guid>https://www.zazenson.es/about-me/</guid>
+      <description>&lt;p&gt;Hello! My name is Juan. I enjoy the abstraction of mathematics, the algorithmic thinking and problem-solving mindset that one
+has to apply when writing code, and delving deep into the hidden patterns that lie within different kinds of data.&lt;/p&gt;
+&lt;p&gt;All of these have guided what I have done with my life so far. For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I have worked as a &lt;strong&gt;Data Scientist&lt;/strong&gt; at &lt;a href=&#34;https://www.nommon.es/&#34;&gt;Nommon&lt;/a&gt;, programming in Python and PySpark and developing
+data science solutions related with mobility and transportation.&lt;/li&gt;
+&lt;li&gt;I hold two master&amp;rsquo;s degrees: one in &lt;strong&gt;Big Data Analytics&lt;/strong&gt;, and one in &lt;strong&gt;Mathematics&lt;/strong&gt; (which I obtained while working as a part-time professor).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Some of the things I am currently interested in or working on are:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

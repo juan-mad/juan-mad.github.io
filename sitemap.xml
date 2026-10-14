@@ -3,10 +3,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.zazenson.es/about-me/</loc>
+    <lastmod>2026-10-06T18:16:35+02:00</lastmod>
+  </url><url>
+    <loc>https://www.zazenson.es/</loc>
+    <lastmod>2026-10-06T18:16:35+02:00</lastmod>
+  </url><url>
     <loc>https://www.zazenson.es/categories/</loc>
   </url><url>
     <loc>https://www.zazenson.es/tags/</loc>
-  </url><url>
-    <loc>https://www.zazenson.es/</loc>
   </url>
 </urlset>
