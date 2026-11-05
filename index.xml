@@ -2,24 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>zazenson</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.zazenson.es/</link>
     <description>Recent content on zazenson</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 18:17:44 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Tue, 06 Oct 2026 18:17:44 +0200</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;p&gt;List of projects&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Tue, 06 Oct 2026 18:16:35 +0200</lastBuildDate>
+    <atom:link href="https://www.zazenson.es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about-me/</link>
+      <link>https://www.zazenson.es/about-me/</link>
       <pubDate>Tue, 06 Oct 2026 18:16:35 +0200</pubDate>
-      <guid>http://localhost:1313/about-me/</guid>
+      <guid>https://www.zazenson.es/about-me/</guid>
       <description>&lt;p&gt;Hello! My name is Juan. I enjoy the abstraction of mathematics, the algorithmic thinking and problem-solving mindset that one
 has to apply when writing code, and delving deep into the hidden patterns that lie within different kinds of data.&lt;/p&gt;
 &lt;p&gt;All of these have guided what I have done with my life so far. For example:&lt;/p&gt;
